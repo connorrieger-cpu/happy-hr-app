@@ -1,0 +1,461 @@
+{
+  "types": [
+    {
+      "id": "pizza",
+      "label": "Pizza",
+      "emoji": "🍕",
+      "words": [
+        "pizza",
+        "pizzetta"
+      ]
+    },
+    {
+      "id": "pasta",
+      "label": "Pasta & Italian",
+      "emoji": "🍝",
+      "words": [
+        "pasta",
+        "italian",
+        "rigatoni",
+        "spaghetti"
+      ]
+    },
+    {
+      "id": "tacos",
+      "label": "Tacos & Mexican",
+      "emoji": "🌮",
+      "words": [
+        "taco",
+        "mexican",
+        "nachos",
+        "burrito"
+      ]
+    },
+    {
+      "id": "burgers",
+      "label": "Burgers",
+      "emoji": "🍔",
+      "words": [
+        "burger",
+        "sliders"
+      ]
+    },
+    {
+      "id": "wings",
+      "label": "Wings",
+      "emoji": "🍗",
+      "words": [
+        "wings"
+      ]
+    },
+    {
+      "id": "oysters",
+      "label": "Oysters & seafood",
+      "emoji": "🦪",
+      "words": [
+        "oyster",
+        "seafood",
+        "fish",
+        "crudo",
+        "caviar"
+      ]
+    },
+    {
+      "id": "sushi",
+      "label": "Sushi & Japanese",
+      "emoji": "🍣",
+      "words": [
+        "sushi",
+        "japanese",
+        "izakaya",
+        "maki",
+        "nigiri",
+        "sashimi"
+      ]
+    },
+    {
+      "id": "korean",
+      "label": "Korean",
+      "emoji": "🍲",
+      "words": [
+        "korean"
+      ]
+    },
+    {
+      "id": "vietnamese",
+      "label": "Vietnamese",
+      "emoji": "🍜",
+      "words": [
+        "vietnamese",
+        "pho",
+        "banh mi"
+      ]
+    },
+    {
+      "id": "thai",
+      "label": "Thai",
+      "emoji": "🌶️",
+      "words": [
+        "thai"
+      ]
+    },
+    {
+      "id": "asian",
+      "label": "Asian fusion",
+      "emoji": "🥢",
+      "words": [
+        "asian",
+        "malaysian"
+      ]
+    },
+    {
+      "id": "middle-eastern",
+      "label": "Mediterranean",
+      "emoji": "🧆",
+      "words": [
+        "middle eastern",
+        "mediterranean",
+        "israeli",
+        "falafel",
+        "hummus"
+      ]
+    },
+    {
+      "id": "greek",
+      "label": "Greek",
+      "emoji": "🫒",
+      "words": [
+        "greek"
+      ]
+    },
+    {
+      "id": "french",
+      "label": "French",
+      "emoji": "🥖",
+      "words": [
+        "french",
+        "bistro"
+      ]
+    },
+    {
+      "id": "spanish",
+      "label": "Tapas & Portuguese",
+      "emoji": "🥘",
+      "words": [
+        "tapas",
+        "portuguese",
+        "spanish"
+      ]
+    },
+    {
+      "id": "steak",
+      "label": "Steak",
+      "emoji": "🥩",
+      "words": [
+        "steak",
+        "prime rib"
+      ]
+    },
+    {
+      "id": "pub",
+      "label": "Pub food",
+      "emoji": "🥧",
+      "words": [
+        "pub",
+        "fish & chips",
+        "pie"
+      ]
+    },
+    {
+      "id": "vegan",
+      "label": "Vegan",
+      "emoji": "🌱",
+      "words": [
+        "vegan",
+        "plant-based",
+        "veggie"
+      ]
+    },
+    {
+      "id": "diner",
+      "label": "Diner",
+      "emoji": "🍳",
+      "words": [
+        "diner",
+        "brunch"
+      ]
+    },
+    {
+      "id": "snacks",
+      "label": "Bar snacks",
+      "emoji": "🥨",
+      "words": [
+        "snack",
+        "bites",
+        "fries",
+        "nachos"
+      ]
+    }
+  ],
+  "serves": {
+    "central": [
+      "tacos",
+      "burgers",
+      "wings",
+      "sushi",
+      "snacks"
+    ],
+    "azhar": [
+      "oysters",
+      "middle-eastern",
+      "snacks"
+    ],
+    "manita": [
+      "burgers",
+      "oysters",
+      "vegan",
+      "snacks"
+    ],
+    "bar-libretto": [
+      "pizza",
+      "snacks"
+    ],
+    "haifa-room": [
+      "middle-eastern"
+    ],
+    "rhapsody": [
+      "snacks"
+    ],
+    "la-chingada": [
+      "tacos"
+    ],
+    "gloria": [
+      "french"
+    ],
+    "poetry-jazz-cafe": [
+      "snacks"
+    ],
+    "bar-piquette": [
+      "french",
+      "snacks"
+    ],
+    "aleria": [
+      "middle-eastern",
+      "pub",
+      "snacks"
+    ],
+    "roxton-public-house": [
+      "burgers",
+      "wings",
+      "oysters",
+      "pub"
+    ],
+    "dont-tell": [
+      "oysters",
+      "asian",
+      "snacks"
+    ],
+    "linnys": [
+      "steak"
+    ],
+    "painted-lady": [
+      "tacos",
+      "snacks"
+    ],
+    "sweaty-bettys": [],
+    "bar-koukla": [
+      "greek"
+    ],
+    "fallen-feather": [
+      "oysters",
+      "sushi",
+      "steak"
+    ],
+    "bar-roma": [
+      "pasta",
+      "snacks"
+    ],
+    "bar-poet": [
+      "pizza"
+    ],
+    "grape-witches": [
+      "snacks"
+    ],
+    "wasted-youth": [],
+    "hanmoto": [
+      "sushi"
+    ],
+    "casablanca-lounge": [
+      "snacks"
+    ],
+    "mild-afro-lounge": [],
+    "the-lakeview-diner": [
+      "burgers",
+      "diner"
+    ],
+    "nazare-snack-bar": [
+      "spanish"
+    ],
+    "taberna-lx": [
+      "spanish",
+      "steak"
+    ],
+    "kensei-bar": [
+      "snacks"
+    ],
+    "gracies-pizza": [
+      "pizza"
+    ],
+    "get-well": [
+      "pizza",
+      "snacks"
+    ],
+    "vie-strada": [
+      "pasta"
+    ],
+    "the-garrison": [],
+    "the-jean-darlene": [],
+    "the-gemini": [
+      "oysters"
+    ],
+    "churchill": [],
+    "gia-restaurant": [
+      "pasta",
+      "vegan"
+    ],
+    "the-fountain": [],
+    "stefanos-diner": [
+      "burgers",
+      "vegan",
+      "diner"
+    ],
+    "bambis": [],
+    "downtown-winery": [
+      "spanish",
+      "snacks"
+    ],
+    "pho-tien-thanh": [
+      "vietnamese"
+    ],
+    "nabe-hana": [
+      "korean"
+    ],
+    "union": [
+      "french"
+    ],
+    "no-vacancy": [
+      "pasta",
+      "korean"
+    ],
+    "mamakas-taverna": [
+      "greek"
+    ],
+    "gift-shop": [],
+    "oddseoul": [
+      "korean"
+    ],
+    "the-lunch-lady": [
+      "vietnamese"
+    ],
+    "fat-choi": [
+      "asian",
+      "vegan"
+    ],
+    "soos": [
+      "asian"
+    ],
+    "neon-tiger": [
+      "asian"
+    ],
+    "small-talk": [
+      "snacks"
+    ],
+    "papi-chulos": [
+      "tacos"
+    ],
+    "bellwoods-brewery": [
+      "pub",
+      "snacks"
+    ],
+    "golden-turtle": [
+      "vietnamese"
+    ],
+    "co-te-de-boeuf": [
+      "oysters",
+      "french",
+      "steak"
+    ],
+    "reposado": [
+      "tacos"
+    ],
+    "favorites-thai": [
+      "thai"
+    ],
+    "club-paris": [
+      "snacks"
+    ],
+    "paris-paris": [
+      "french",
+      "snacks"
+    ],
+    "i-deal-coffee-and-wine": [
+      "snacks"
+    ],
+    "bar-shozan": [
+      "sushi"
+    ],
+    "idk-social": [
+      "snacks"
+    ],
+    "bar-bowie": [],
+    "season-six": [],
+    "badlands": [],
+    "papi-and-rosita": [
+      "tacos"
+    ],
+    "man-of-kent": [
+      "burgers",
+      "pub"
+    ],
+    "pies-by-squires": [
+      "pub"
+    ],
+    "foxley": [
+      "asian",
+      "spanish"
+    ],
+    "222-bar": [],
+    "salt-wine-bar": [
+      "spanish"
+    ],
+    "la-banane": [
+      "oysters",
+      "french"
+    ],
+    "bar-banane": [
+      "french",
+      "snacks"
+    ],
+    "clandestina": [
+      "tacos"
+    ],
+    "ceniza": [
+      "tacos"
+    ],
+    "prime-seafood-palace": [
+      "oysters",
+      "steak"
+    ],
+    "frankies-diner": [
+      "burgers",
+      "diner"
+    ],
+    "apt-200": [],
+    "prequel-and-co-apothecary": [],
+    "and-ore": [],
+    "taco-bar": [
+      "tacos"
+    ],
+    "jamils": []
+  }
+}

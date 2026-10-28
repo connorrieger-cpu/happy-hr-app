@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="112 112 800 800" width="1024" height="1024">
+<defs>
+  <clipPath id="sq"><rect width="1024" height="1024" rx="230"/></clipPath>
+  <clipPath id="faceClip"><circle cx="512" cy="512" r="318"/></clipPath>
+  <linearGradient id="honey" x1="0" y1="0" x2="0.35" y2="1">
+    <stop offset="0" stop-color="#FFEC7A"/><stop offset="0.5" stop-color="#FFD60A"/><stop offset="1" stop-color="#F5A000"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.28" cy="0.12" r="0.85">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.08"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="face" cx="0.36" cy="0.26" r="0.86">
+    <stop offset="0" stop-color="#FFF6B0"/><stop offset="0.35" stop-color="#FFE23C"/><stop offset="0.75" stop-color="#FFC400"/><stop offset="1" stop-color="#EE9A00"/>
+  </radialGradient>
+  <linearGradient id="embossFace" x1="0.2" y1="0" x2="0.8" y2="1">
+    <stop offset="0" stop-color="#FFE96A"/><stop offset="1" stop-color="#FFBE00"/>
+  </linearGradient>
+  <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.85"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="rimLight" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.95"/><stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="rimShade" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0.55" stop-color="#B86A00" stop-opacity="0"/><stop offset="1" stop-color="#B86A00" stop-opacity="0.55"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/><stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.16"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.32"/>
+  </linearGradient>
+  <linearGradient id="lens" x1="0.15" y1="0" x2="0.85" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.62"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.12"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.38"/>
+  </linearGradient>
+  <linearGradient id="beer" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFC21A"/><stop offset="1" stop-color="#D97400"/>
+  </linearGradient>
+  <filter id="lift" x="-40%" y="-40%" width="180%" height="190%">
+    <feDropShadow dx="0" dy="30" stdDeviation="34" flood-color="#6B3A00" flood-opacity="0.45"/>
+  </filter>
+  <filter id="liftSmall" x="-60%" y="-60%" width="220%" height="220%">
+    <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#6B3A00" flood-opacity="0.4"/>
+  </filter>
+  <filter id="blur"><feGaussianBlur stdDeviation="14"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<g>
+  <circle cx="512" cy="512" r="318" fill="#F2B000" filter="url(#lift)"/>
+  <circle cx="512" cy="512" r="318" fill="url(#face)"/>
+  <g clip-path="url(#faceClip)">
+    <ellipse cx="512" cy="845.9000000000001" rx="349.8" ry="174.9" fill="#C27000" opacity="0.2" filter="url(#blur)"/>
+    <path d="M384.8 492.9 Q429.3 403.9 473.8 492.9" fill="none" stroke="#4A2B00" stroke-width="27.0" stroke-linecap="round"/><path d="M639.2 492.9 Q594.7 403.9 550.2 492.9" fill="none" stroke="#4A2B00" stroke-width="27.0" stroke-linecap="round"/><path d="M362.5 562.9 Q530.0 734.6 661.5 544.9" fill="none" stroke="#4A2B00" stroke-width="28.6" stroke-linecap="round"/>
+  </g>
+  <g clip-path="url(#faceClip)">
+    <ellipse cx="512" cy="346.64" rx="248.04000000000002" ry="146.28" fill="url(#sheen)" opacity="0.75"/>
+    <ellipse cx="368.9" cy="337.1" rx="54.06" ry="25.44" fill="#FFFFFF" opacity="0.9" transform="rotate(-32 368.9 337.1)"/>
+  </g>
+  <circle cx="512" cy="512" r="313" fill="none" stroke="url(#rimLight)" stroke-width="10"/>
+  <circle cx="512" cy="512" r="309" fill="none" stroke="url(#rimShade)" stroke-width="18"/>
+  <g transform="translate(770 700) rotate(-16) scale(1.45)" filter="url(#liftSmall)">
+    <path d="M-57 -50 L57 -50 L50 92 Q49 104 37 104 L-37 104 Q-49 104 -50 92Z" fill="url(#beer)"/>
+    <path d="M-66 -92 Q-40 -126 -8 -100 Q22 -132 52 -102 Q78 -112 70 -66 L-58 -52Z" fill="#FFFDF2"/>
+    <path d="M-62 -96 L62 -96 L50 92 Q49 104 37 104 L-37 104 Q-49 104 -50 92Z" fill="url(#glass)" fill-opacity="0.55" stroke="#4A2B00" stroke-width="12" stroke-linejoin="round"/>
+    <rect x="-44" y="-80" width="14" height="164" rx="7" fill="#FFFFFF" opacity="0.5"/>
+    <circle cx="10" cy="30" r="7" fill="#FFFFFF" opacity="0.7"/><circle cx="-12" cy="62" r="5" fill="#FFFFFF" opacity="0.7"/>
+  </g>
+  <path d="M700 496 C702.88 517.12 702.88 517.12 724 520 C702.88 522.88 702.88 522.88 700 544 C697.12 522.88 697.12 522.88 676 520 C697.12 517.12 697.12 517.12 700 496Z" fill="#FFFFFF" opacity="0.9"/>
+</g>
+</svg>

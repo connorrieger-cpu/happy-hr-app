@@ -1,0 +1,122 @@
+# XcodeGen spec for the Happy HR iOS app. On the Mac:
+#   brew install xcodegen
+#   cd ios && xcodegen
+#   open HappyHR.xcodeproj
+# Re-run `xcodegen` after adding or removing files; the .xcodeproj is generated.
+name: HappyHR
+options:
+  bundleIdPrefix: com.happyhr
+  deploymentTarget:
+    iOS: "26.0"
+  createIntermediateGroups: true
+  developmentLanguage: en
+packages:
+  HappyHRCore:
+    path: HappyHRCore
+settings:
+  base:
+    MARKETING_VERSION: "0.1.0"
+    CURRENT_PROJECT_VERSION: "1"
+    SWIFT_VERSION: "6.0"
+    # Xcode 26's "approachable concurrency": app code runs on the main actor by default.
+    SWIFT_DEFAULT_ACTOR_ISOLATION: MainActor
+    SWIFT_APPROACHABLE_CONCURRENCY: YES
+    # Your Apple developer team (Connor Rieger, Personal Team). Change it here, not in Xcode: xcodegen rewrites the project.
+    DEVELOPMENT_TEAM: 2ZQRG94A85
+    CODE_SIGN_STYLE: Automatic
+targets:
+  HappyHR:
+    type: application
+    platform: iOS
+    sources:
+      - path: HappyHR
+      # Shared with the widget extension: the app group store and the Live Activity's data.
+      - path: Shared
+      # The venue list bundled for first launch and offline use, from the web
+      # app's data (`npm run shared` in web/ refreshes it).
+      - path: ../shared/fixtures/venues.json
+        buildPhase: resources
+      # The web app's demo venues, for the Demo data switch.
+      - path: ../shared/fixtures/sample-venues.json
+        buildPhase: resources
+    dependencies:
+      - package: HappyHRCore
+      - target: HappyHRWidgets
+    # Optional keys (git-ignored Secrets.xcconfig, included from here).
+    configFiles:
+      Debug: Config.xcconfig
+      Release: Config.xcconfig
+    # Sign in with Apple (needs the paid Apple Developer Program team below).
+    entitlements:
+      path: HappyHR/HappyHR.entitlements
+      properties:
+        com.apple.developer.applesignin: [Default]
+        # Shares the venue cache, favourites and location with the widget.
+        com.apple.security.application-groups: [group.com.happyhr.app]
+        # Shared web links (https://happy-hr-beta.pages.dev/?v=manita) open the app; the site
+        # serves web/public/.well-known/apple-app-site-association to allow it.
+        # The ?mode=developer entry makes development builds read the file from the site itself
+        # rather than Apple's cache; TestFlight and App Store builds ignore it.
+        com.apple.developer.associated-domains: [applinks:happy-hr-beta.pages.dev, "applinks:happy-hr-beta.pages.dev?mode=developer"]
+    info:
+      path: HappyHR/Info.plist
+      properties:
+        CFBundleDisplayName: Happy Hr
+        UILaunchScreen:
+          UIColorName: LaunchBackground
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait]
+        NSLocationWhenInUseUsageDescription: Happy Hr uses your location to show walking times to the deals around you. Only a rough area, about half a kilometre across, is shared anonymously to see where the app is used.
+        ITSAppUsesNonExemptEncryption: false
+        # The happy-hour countdown on the Lock Screen and in the Dynamic Island.
+        NSSupportsLiveActivities: true
+        LSApplicationQueriesSchemes: [maps, tel]
+        # happyhr://?v=manita&meet=1050 opens the app on a venue (the same query as the web's
+        # shared links). Web links will open the app once Associated Domains is set up.
+        CFBundleURLTypes:
+          - CFBundleURLName: com.happyhr.app
+            CFBundleURLSchemes: [happyhr]
+        # Venue photos from Google Places; empty without a key, and the hero keeps its gradient.
+        GooglePlacesKey: $(GOOGLE_PLACES_KEY)
+        # Lets debug builds use a local test API (http://127.0.0.1); public sites still need HTTPS.
+        NSAppTransportSecurity:
+          NSAllowsLocalNetworking: true
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.happyhr.app
+        TARGETED_DEVICE_FAMILY: "1"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        ENABLE_PREVIEWS: YES
+    scheme:
+      testTargets: []
+  # The home-screen and Lock Screen widget ("On now near you") and the happy-hour Live Activity.
+  HappyHRWidgets:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: HappyHRWidgets
+      - path: Shared
+      - path: HappyHR/Design/Theme.swift
+      - path: HappyHR/Assets.xcassets
+      # For a widget added before the app has ever downloaded the venue list.
+      - path: ../shared/fixtures/venues.json
+        buildPhase: resources
+    dependencies:
+      - package: HappyHRCore
+    entitlements:
+      path: HappyHRWidgets/HappyHRWidgets.entitlements
+      properties:
+        com.apple.security.application-groups: [group.com.happyhr.app]
+    info:
+      path: HappyHRWidgets/Info.plist
+      properties:
+        CFBundleDisplayName: Happy Hr
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.widgetkit-extension
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.happyhr.app.widgets
+        TARGETED_DEVICE_FAMILY: "1"
+        # WidgetKit calls the timeline provider off the main actor.
+        SWIFT_DEFAULT_ACTOR_ISOLATION: nonisolated
+        SKIP_INSTALL: YES

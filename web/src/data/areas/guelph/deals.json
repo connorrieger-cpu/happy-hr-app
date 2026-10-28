@@ -1,0 +1,5138 @@
+[
+  {
+    "placeId": "ChIJFdF8J8KaK4gRl7__h6AwuwY",
+    "id": "royal-electric",
+    "name": "Royal Electric Bar & Public Eatery",
+    "category": "Bar & eatery",
+    "vibe": "bar",
+    "food": [
+      "burgers",
+      "pizza",
+      "wings",
+      "oysters"
+    ],
+    "tags": [
+      "Late night",
+      "Weekend brunch"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "Royal Burger",
+            "price": 16
+          },
+          {
+            "kind": "food",
+            "item": "half-price pizzas"
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Tex Mex Tuesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Cowbell Cerveza",
+            "price": 7
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "buttermilk fried chicken sandwich",
+            "price": 16
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Thursday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          },
+          {
+            "kind": "drink",
+            "item": "Farm League",
+            "price": 6
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Oyster Sunday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "oysters",
+            "price": 2
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Royal Electric features",
+        "url": "https://www.royalelectricguelph.com/features",
+        "date": "2026-10"
+      },
+      {
+        "label": "Cheap Eats Guelph deal calendar",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.royalelectricguelph.com/menus",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJvd-OPsKaK4gR4O_e2wNLj5Q",
+    "id": "mccabes-irish-pub",
+    "name": "McCabe’s Irish Pub & Grill",
+    "category": "Irish pub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings",
+      "tacos",
+      "burgers"
+    ],
+    "tags": [
+      "Patio",
+      "Sports on TV"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 840,
+        "end": 960,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "12 wings, fries and a pitcher of domestic beer",
+            "price": 24
+          }
+        ],
+        "note": "The “24 deal”; dine-in, with a drink"
+      },
+      {
+        "days": [
+          0,
+          1,
+          2
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "12 wings, fries and a pitcher of domestic beer",
+            "price": 24
+          }
+        ],
+        "note": "The “24 deal”, 9 PM to close; dine-in, with a drink"
+      },
+      {
+        "days": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1560,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "12 wings, fries and a pitcher of domestic beer",
+            "price": 24
+          }
+        ],
+        "note": "The “24 deal”, 9 PM to close; dine-in, with a drink"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Wing Monday",
+        "start": 1200,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "small wings (in 10s)",
+            "price": 0.49
+          }
+        ],
+        "note": "After 8 PM, with a drink"
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Taco Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "$1 off all tacos"
+          }
+        ],
+        "note": "Cheap Eats Guelph lists $4 off burgers on Tuesdays instead (Aug 2026)"
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Pound and a Pint",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "1 lb wings and a domestic pint",
+            "price": 18
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Burger Sunday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "$4 off all burgers"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "McCabe’s Guelph daily specials",
+        "url": "https://www.mccabes.ca/guelph",
+        "date": "2026-10"
+      },
+      {
+        "label": "Cheap Eats Guelph deal calendar",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJmSWj2qKbK4gRl7310PL38Zk",
+    "id": "bad-luck-bar",
+    "name": "Bad Luck Bar",
+    "category": "Arcade bar",
+    "vibe": "bar",
+    "food": [
+      "snacks"
+    ],
+    "tags": [
+      "Arcade games",
+      "Karaoke Sundays"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          0
+        ],
+        "title": "Karaoke Sundays",
+        "start": 1020,
+        "end": 1560,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "everything on the menu",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "mixed drinks",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "domestic bottles",
+            "price": 5
+          }
+        ],
+        "note": "Karaoke from 9 PM"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Bad Luck weekly deals (poster from Nov 2023)",
+        "url": "https://www.badluck519.com/weekly-deals",
+        "date": "2026-10"
+      },
+      {
+        "label": "Cheap Eats Guelph deal calendar",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.badluck519.com/food",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJk1X1FMKaK4gRvcoEDTj1d5I",
+    "id": "1881-steakhouse",
+    "name": "1881 Steakhouse & Burger Bar",
+    "category": "Steakhouse & burger bar",
+    "vibe": "restaurant",
+    "food": [
+      "steak",
+      "burgers",
+      "wings"
+    ],
+    "tags": [
+      "Patio",
+      "Sports on TV"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price appetizers"
+          }
+        ]
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "domestic pint and a pound of wings",
+            "price": 16.99
+          },
+          {
+            "kind": "drink",
+            "item": "Yellowstone pints",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "$6 off Budweiser and Bud Light pitchers"
+          },
+          {
+            "kind": "food",
+            "item": "half-price pulled pork sandwiches"
+          }
+        ],
+        "note": "Food specials with a drink"
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Wing Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "jumbo wings",
+            "price": 0.69
+          },
+          {
+            "kind": "drink",
+            "item": "Jose Cuervo tequila",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "Corona, Sol and Dos Equis bottles",
+            "price": 5.5
+          },
+          {
+            "kind": "drink",
+            "item": "Yellowstone pints",
+            "price": 4
+          }
+        ],
+        "note": "Food specials with a drink"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Beef Dip Day",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price beef dip"
+          },
+          {
+            "kind": "drink",
+            "item": "$1 off Coors Original pints"
+          },
+          {
+            "kind": "drink",
+            "item": "Coors Slushie seltzers",
+            "price": 5
+          }
+        ],
+        "note": "Food specials with a drink"
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Burger Day",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price burgers"
+          },
+          {
+            "kind": "drink",
+            "item": "$1 off craft cans"
+          }
+        ],
+        "note": "Food specials with a drink"
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Wine Friday",
+        "start": 960,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price wine bottles"
+          },
+          {
+            "kind": "drink",
+            "item": "$1 off Sleeman Original or Kronenbourg Blanc pints"
+          },
+          {
+            "kind": "food",
+            "item": "$3 off fish and chips"
+          }
+        ],
+        "note": "Food specials with a drink"
+      },
+      {
+        "days": [
+          6
+        ],
+        "title": "Weekend Ribs",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "$4 off ribs"
+          },
+          {
+            "kind": "drink",
+            "item": "sangria pitchers",
+            "price": 19.99
+          },
+          {
+            "kind": "drink",
+            "item": "$1 off Cowbell Hazy Days pints"
+          }
+        ],
+        "note": "Food specials with a drink"
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Caesars & Steaks",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "speciality Caesars",
+            "price": 5.5
+          },
+          {
+            "kind": "food",
+            "item": "$5 off steaks"
+          }
+        ],
+        "note": "Food specials with a drink"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "1881 daily specials",
+        "url": "https://www.1881steakhouseandburgerbar.com/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Cheap Eats Guelph deal calendar",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://images.unoapp.com/boxdata/asset86585/images/1881_Menu0226.pdf",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJX99dJsKaK4gRYJ_EiKVB2TA",
+    "id": "jimmy-jazz",
+    "name": "Jimmy Jazz",
+    "category": "Live music bar",
+    "vibe": "bar",
+    "food": [
+      "pizza",
+      "wings"
+    ],
+    "tags": [
+      "Live music",
+      "Trivia Tuesdays"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Pizza Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price Roy’s pizzas"
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Wing Sunday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          }
+        ],
+        "note": "With open mic; Cheap Eats Guelph says before 10 PM"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Jimmy Jazz weekly rundown",
+        "url": "https://www.jimmyjazz519.ca/weekly-rundown",
+        "date": "2026-10"
+      },
+      {
+        "label": "Cheap Eats Guelph deal calendar",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJAeaRg8GaK4gRzxJTTEEp0tc",
+    "id": "la-cucina-ristorante",
+    "name": "La Cucina Ristorante",
+    "category": "Italian",
+    "vibe": "restaurant",
+    "food": [
+      "pasta"
+    ],
+    "tags": [
+      "Covered terrace",
+      "Half-price wine Tuesdays"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Half-price wine",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price wine bottles"
+          }
+        ],
+        "note": "Except Reserva Vintage"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Pasta Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "$5 off all pasta"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "App & main",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "appetizer and main",
+            "price": 46
+          }
+        ]
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "title": "Long drinks",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Campari or Aperol spritz",
+            "price": 12.5
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "La Cucina week of specials",
+        "url": "https://www.lacucinaguelph.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJH5nK2TmbK4gRysK2s4y4GSI",
+    "id": "la-cucina-pizzeria",
+    "name": "La Cucina Pizzeria",
+    "category": "Pizzeria",
+    "vibe": "restaurant",
+    "food": [
+      "pizza",
+      "pasta"
+    ],
+    "tags": [
+      "Wood-fired pizza",
+      "Patio"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Pasta Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "all pasta",
+            "price": 19
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Half-price wine",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price wine bottles"
+          }
+        ]
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "title": "Long drinks",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Aperol spritz, Campari spritz or Amaretto fizz",
+            "price": 12
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Pizza Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wood-fired pizzas",
+            "price": 17
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "La Cucina Pizzeria daily specials",
+        "url": "https://www.lacucinapizzeriaguelph.com/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://images.unoapp.com/boxdata/asset87177/images/LC-GuelphPizzeria-Menu-Food-v2-PRINT_1.pdf",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ7Qo9Z8KaK4gRGupSK3Ruf8w",
+    "id": "trappers-alley",
+    "name": "Trappers Alley",
+    "category": "Bar & nightclub",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "burgers"
+    ],
+    "tags": [
+      "DJ nights",
+      "Trivia Mondays"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wings",
+            "price": 1
+          }
+        ],
+        "note": "Partytown lists Trappers open from noon; Google lists 9 PM, so check before going early"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          0
+        ],
+        "title": "Wing Sunday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wings",
+            "price": 1
+          }
+        ]
+      },
+      {
+        "days": [
+          1
+        ],
+        "title": "Poutine Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price gourmet poutines"
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Burger Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price burgers"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Beef Dip Thursday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price beef dip"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Partytown daily specials",
+        "url": "https://www.partytown.ca/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJv434w8GaK4gRt9ABh5m6JZw",
+    "id": "miijidaa",
+    "name": "Miijidaa Café + Bistro",
+    "category": "Bistro",
+    "vibe": "restaurant",
+    "food": [
+      "pizza"
+    ],
+    "tags": [
+      "Patio",
+      "Local ingredients"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1,
+          2
+        ],
+        "title": "Pizza + Wine",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "any full-size pizza",
+            "price": 17.99
+          },
+          {
+            "kind": "drink",
+            "item": "select 5 oz wine",
+            "price": 8
+          }
+        ],
+        "note": "Dine-in"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Two Can Dine",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "3-course dinner for two",
+            "price": 59.99
+          },
+          {
+            "kind": "drink",
+            "item": "$10 off wine bottles"
+          }
+        ],
+        "note": "Dine-in"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Miijidaa daily features",
+        "url": "https://www.miijidaa.ca/daily-features",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.miijidaa.ca/menu/dinner",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ6ym5BeqaK4gRcg2syqULsCU",
+    "id": "the-works-guelph",
+    "name": "The WORKS Craft Burgers & Beer",
+    "category": "Burger restaurant",
+    "vibe": "casual",
+    "food": [
+      "burgers",
+      "wings"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Canadian or Coors pints",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "happy hour apps",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "any 3 happy hour apps",
+            "price": 25
+          }
+        ],
+        "note": "In-store only, at participating locations"
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1200,
+        "end": 1260,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Canadian or Coors pints",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "happy hour apps",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "any 3 happy hour apps",
+            "price": 25
+          }
+        ],
+        "note": "8 PM to close; in-store only, at participating locations"
+      },
+      {
+        "days": [
+          5
+        ],
+        "start": 1200,
+        "end": 1320,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Canadian or Coors pints",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "happy hour apps",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "any 3 happy hour apps",
+            "price": 25
+          }
+        ],
+        "note": "8 PM to close; in-store only, at participating locations"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "The WORKS happy hour",
+        "url": "https://worksburger.com/happy-hour/",
+        "date": "2026-10"
+      },
+      {
+        "label": "The WORKS Guelph",
+        "url": "https://worksburger.com/store/guelph/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJr9Sy8-qaK4gRzaKt5bU-HdA",
+    "id": "baker-street-station",
+    "name": "Baker Street Station",
+    "category": "Gastropub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "oysters",
+      "wings"
+    ],
+    "tags": [
+      "Patio",
+      "Craft beer"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Wing Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          },
+          {
+            "kind": "drink",
+            "item": "Wellington pints",
+            "price": 7
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Toonie Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "oysters",
+            "price": 2
+          },
+          {
+            "kind": "food",
+            "item": "fried chicken bites",
+            "price": 2
+          },
+          {
+            "kind": "food",
+            "item": "mini donuts",
+            "price": 2
+          },
+          {
+            "kind": "drink",
+            "item": "$2 off all draft"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Cocktail Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price cocktails"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Baker Street Station posts on its website",
+        "url": "https://www.bakerstreetstation.ca/",
+        "date": "2025-05"
+      },
+      {
+        "label": "Cheap Eats Guelph deal calendar",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.bakerstreetstation.ca/menu/dine-in",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJSQel-uqaK4gR6ninMmxGyzY",
+    "id": "the-wooly-pub",
+    "name": "The Wooly Pub",
+    "category": "Pub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings"
+    ],
+    "tags": [
+      "Trivia Tuesdays",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 900,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "select pints",
+            "price": 6
+          }
+        ]
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "select pints",
+            "price": 6
+          }
+        ],
+        "note": "9 PM to close"
+      },
+      {
+        "days": [
+          0
+        ],
+        "start": 1200,
+        "end": 1320,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "select pints",
+            "price": 6
+          }
+        ],
+        "note": "8 PM to close"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Wingin’ It Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wine Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price wine bottles"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "BBQ Thursday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half rack of ribs and a quarter chicken",
+            "price": 19.99
+          }
+        ],
+        "note": "Price from Cheap Eats Guelph (owner email, Oct 2026)"
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "title": "Lunch value menu",
+        "start": 690,
+        "end": 900,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "lunch item and a drink",
+            "price": 19.99
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Wooly Pub daily features",
+        "url": "https://www.thewoolypub.ca/daily-features",
+        "date": "2026-10"
+      },
+      {
+        "label": "Cheap Eats Guelph deal calendar",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.thewoolypub.ca/menu/menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJPxLVGE-FK4gRZi5lsSubb7c",
+    "id": "fixed-gear-brewing",
+    "name": "Fixed Gear Brewing",
+    "category": "Brewpub",
+    "vibe": "brewery",
+    "food": [
+      "tacos",
+      "wings"
+    ],
+    "tags": [
+      "House-brewed beer",
+      "Trivia Wednesdays",
+      "Patio"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Taco Tuesday",
+        "start": 1020,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "buy one, get one free taco plates"
+          },
+          {
+            "kind": "drink",
+            "item": "buy one, get one free margaritas"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Wing-o Bingo",
+        "start": 1020,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          }
+        ],
+        "note": "Bingo from 8 PM"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Fixed Gear Brewing weekly events",
+        "url": "https://fixedgearbrewing.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJuye2jRqbK4gR8oaFtQugT-I",
+    "id": "the-real-deal",
+    "name": "The Real Deal Sports Bar & Billiards",
+    "category": "Sports bar & billiards",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "burgers",
+      "pizza"
+    ],
+    "tags": [
+      "Pool tables",
+      "Sports on TV"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "chicken quesadilla",
+            "price": 13
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "Louisiana crispy chicken sandwich",
+            "price": 14
+          }
+        ],
+        "note": "Free pool after 5 PM with a $15 purchase for two"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "antojitos",
+            "price": 12.5
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Thursday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "buffalo chicken wrap",
+            "price": 13.5
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Friday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "Dexter burger",
+            "price": 14.75
+          }
+        ]
+      },
+      {
+        "days": [
+          6
+        ],
+        "title": "Saturday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "pesto burger or pesto chicken",
+            "price": 14.75
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Sunday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "1-piece fish and chips",
+            "price": 15.75
+          }
+        ],
+        "note": "Free pool after 5 PM with a $15 purchase for two"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "The Real Deal specials",
+        "url": "https://therealdealsportsbar.com/specials",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://therealdealsportsbar.com/menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJK0DvsS6bK4gR3MKixXwbH58",
+    "id": "brass-taps-pub",
+    "name": "Brass Taps Pub",
+    "category": "Campus pub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings"
+    ],
+    "tags": [
+      "University of Guelph",
+      "Trivia Tuesdays"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Mix It Up Monday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "any cocktail",
+            "price": 5.95
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Tall Cans & Shots",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Caesars",
+            "price": 5.95
+          },
+          {
+            "kind": "drink",
+            "item": "zero-alcohol tall cans",
+            "price": 5
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Spirits Day",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "1 oz mixed shots",
+            "price": 4.5
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Pint Day",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "all draught pints",
+            "price": 5.95
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Wine Down Friday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "6 oz Pelee Island VQA wine",
+            "price": 6.25
+          },
+          {
+            "kind": "drink",
+            "item": "draught flights",
+            "price": 6.75
+          }
+        ]
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "title": "Bistro features",
+        "start": 660,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "bistro features with a drink",
+            "price": 10
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Brass Taps menu and daily drink specials",
+        "url": "https://www.brasstaps.ca/menu",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJZ-zC7kybK4gRUmYxgR_AG4Q",
+    "id": "fork-on-york",
+    "name": "Fork On York",
+    "category": "Italian American",
+    "vibe": "restaurant",
+    "food": [
+      "pasta",
+      "burgers",
+      "wings"
+    ],
+    "tags": [
+      "Wine Wednesdays",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Sleeman draft",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "margarita, Aperol spritz, mule, mojito or Caesar",
+            "price": 11
+          },
+          {
+            "kind": "drink",
+            "item": "old fashioned or negroni",
+            "price": 13
+          },
+          {
+            "kind": "food",
+            "item": "coconut shrimp, calamari or goat cheese & chips",
+            "price": 13
+          },
+          {
+            "kind": "food",
+            "item": "wings (1 lb)",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "burrata",
+            "price": 18
+          },
+          {
+            "kind": "food",
+            "item": "Wagyu cheeseburger",
+            "price": 23
+          }
+        ]
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "Wine Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price wine bottles"
+          }
+        ],
+        "note": "Dine-in, all night"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Fork On York happy hour",
+        "url": "https://forkonyork.com/promotions/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Fork On York Wine Wednesdays",
+        "url": "https://forkonyork.com/wine-wednesdays/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://forkonyork.com/our-menu/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJv80Of0OaK4gRyGwgL6uqCZQ",
+    "id": "the-shakespeare-arms",
+    "name": "The Shakespeare Arms",
+    "category": "British pub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings",
+      "asian"
+    ],
+    "tags": [
+      "Patio",
+      "Sports on TV"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 660,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "domestic pints",
+            "price": 5
+          }
+        ],
+        "note": "Dine-in only"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "appetizers",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "pastas (not seafood)",
+            "price": 14
+          }
+        ],
+        "note": "Dine-in; not on holidays"
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Wing Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wings",
+            "price": 0.9
+          }
+        ],
+        "note": "Dine-in only"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "2 lb wings and a domestic pitcher",
+            "price": 30
+          },
+          {
+            "kind": "food",
+            "item": "1 lb wings and a domestic pint",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "classic burger and a pint",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "25% off for Asian Night"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Shakespeare Arms specials & promotions",
+        "url": "https://theshakespearearms.com/special/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://theshakespearearms.com/storage/2024/03/Main-Menu_web.pdf",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJayHplSmFK4gR64XXLJWy4DY",
+    "id": "milestones-guelph",
+    "name": "Milestones",
+    "category": "Grill & bar",
+    "vibe": "restaurant",
+    "food": [
+      "tacos",
+      "wings",
+      "burgers",
+      "steak"
+    ],
+    "tags": [
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "1 oz highballs, Budweiser or Bud Light (14 oz), Bellinis",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "garlic Parmesan fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "1 oz margaritas",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "select wine bottles at 50% off"
+          },
+          {
+            "kind": "food",
+            "item": "any 3 happy hour starters",
+            "price": 39
+          }
+        ]
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "1 oz highballs, Budweiser or Bud Light (14 oz), Bellinis",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "garlic Parmesan fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "1 oz margaritas",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "select wine bottles at 50% off"
+          },
+          {
+            "kind": "food",
+            "item": "any 3 happy hour starters",
+            "price": 39
+          }
+        ],
+        "note": "Late night"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "1 oz highballs, Budweiser or Bud Light (14 oz), Bellinis",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "garlic Parmesan fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "1 oz margaritas",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "select wine bottles at 50% off"
+          },
+          {
+            "kind": "food",
+            "item": "any 3 happy hour starters",
+            "price": 39
+          }
+        ],
+        "note": "Late night"
+      },
+      {
+        "days": [
+          0
+        ],
+        "start": 1260,
+        "end": 1320,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "1 oz highballs, Budweiser or Bud Light (14 oz), Bellinis",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "garlic Parmesan fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "1 oz margaritas",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "select wine bottles at 50% off"
+          },
+          {
+            "kind": "food",
+            "item": "any 3 happy hour starters",
+            "price": 39
+          }
+        ],
+        "note": "Late night"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Milestones Stone Rd W happy hour",
+        "url": "https://milestonesrestaurants.com/locations/stone-rd-west/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Milestones Stone Rd W menu",
+        "url": "https://milestonesrestaurants.com/menus/stone-rd-west/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://milestonesrestaurants.com/menus/stone-rd-west/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJDwIbpCeFK4gRXiJti4JTJlc",
+    "id": "scaddabush-guelph",
+    "name": "Scaddabush Italian Kitchen & Bar",
+    "category": "Italian",
+    "vibe": "restaurant",
+    "food": [
+      "pizza",
+      "pasta"
+    ],
+    "tags": [
+      "Fresh mozzarella",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "$2 off 18 oz import draught"
+          },
+          {
+            "kind": "drink",
+            "item": "$2 off sangria and spritzes"
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "rosemary fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "avocado bruschetta",
+            "price": 7.45
+          },
+          {
+            "kind": "food",
+            "item": "pizzette, from $10"
+          },
+          {
+            "kind": "food",
+            "item": "San Marzano spaghetti",
+            "price": 14.97
+          }
+        ],
+        "note": "Dine-in only"
+      },
+      {
+        "days": [
+          1,
+          2,
+          3
+        ],
+        "start": 1260,
+        "end": 1320,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "$2 off 18 oz import draught"
+          },
+          {
+            "kind": "drink",
+            "item": "$2 off sangria and spritzes"
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "rosemary fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "avocado bruschetta",
+            "price": 7.45
+          },
+          {
+            "kind": "food",
+            "item": "pizzette, from $10"
+          },
+          {
+            "kind": "food",
+            "item": "San Marzano spaghetti",
+            "price": 14.97
+          }
+        ],
+        "note": "9 PM to close; dine-in only"
+      },
+      {
+        "days": [
+          4
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "$2 off 18 oz import draught"
+          },
+          {
+            "kind": "drink",
+            "item": "$2 off sangria and spritzes"
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "rosemary fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "avocado bruschetta",
+            "price": 7.45
+          },
+          {
+            "kind": "food",
+            "item": "pizzette, from $10"
+          },
+          {
+            "kind": "food",
+            "item": "San Marzano spaghetti",
+            "price": 14.97
+          }
+        ],
+        "note": "9 PM to close; dine-in only"
+      },
+      {
+        "days": [
+          5
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "$2 off 18 oz import draught"
+          },
+          {
+            "kind": "drink",
+            "item": "$2 off sangria and spritzes"
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "rosemary fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "avocado bruschetta",
+            "price": 7.45
+          },
+          {
+            "kind": "food",
+            "item": "pizzette, from $10"
+          },
+          {
+            "kind": "food",
+            "item": "San Marzano spaghetti",
+            "price": 14.97
+          }
+        ],
+        "note": "9 PM to close; dine-in only"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "Wine Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price wine bottles"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Scaddabush Guelph happy hour",
+        "url": "https://scaddabush.com/happy-hour/guelph/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://scaddabush.com/menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJyQdBK16DK4gRGAnEJF8Mbng",
+    "id": "state-and-main-guelph",
+    "name": "State & Main Kitchen & Bar",
+    "category": "Kitchen & bar",
+    "vibe": "restaurant",
+    "food": [
+      "tacos",
+      "wings",
+      "burgers",
+      "steak"
+    ],
+    "tags": [
+      "Dog-friendly patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "State & Main draft (14 oz)",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "State soda (1 oz)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 10.5
+          },
+          {
+            "kind": "food",
+            "item": "Baja fish taco",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "soup dumplings or Brussels sprouts",
+            "price": 8
+          },
+          {
+            "kind": "food",
+            "item": "truffle Parmesan fries or bang bang shrimp",
+            "price": 10
+          }
+        ],
+        "note": "Dine-in only"
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "State & Main draft (14 oz)",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "State soda (1 oz)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 10.5
+          },
+          {
+            "kind": "food",
+            "item": "Baja fish taco",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "soup dumplings or Brussels sprouts",
+            "price": 8
+          },
+          {
+            "kind": "food",
+            "item": "truffle Parmesan fries or bang bang shrimp",
+            "price": 10
+          }
+        ],
+        "note": "9 PM to close; dine-in only"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "State & Main draft (14 oz)",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "State soda (1 oz)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 10.5
+          },
+          {
+            "kind": "food",
+            "item": "Baja fish taco",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "soup dumplings or Brussels sprouts",
+            "price": 8
+          },
+          {
+            "kind": "food",
+            "item": "truffle Parmesan fries or bang bang shrimp",
+            "price": 10
+          }
+        ],
+        "note": "9 PM to close; dine-in only"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Margarita Monday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "$2 off margaritas"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wing Wednesday",
+        "start": 840,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings (1 lb)"
+          },
+          {
+            "kind": "drink",
+            "item": "$1 off Michelob Ultra"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Wine Thursday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price wine bottles"
+          }
+        ]
+      },
+      {
+        "days": [
+          6
+        ],
+        "title": "Sangria Saturday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "$2 off white sangria"
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Caesar Sunday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "$2 off Signature Caesars"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "State & Main Guelph",
+        "url": "https://www.stateandmain.ca/en/locations/on/guelph/79-clair-road-east",
+        "date": "2026-10"
+      },
+      {
+        "label": "State & Main Guelph happy hour menu",
+        "url": "https://www.stateandmain.ca/en/menus/happy-hour/store-8405/on/guelph/79-clair-road-east.html",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJcyhUdnCQK4gRxZezAyXhVao",
+    "id": "kelseys-woodlawn",
+    "name": "Kelseys Original Roadhouse",
+    "category": "Roadhouse",
+    "vibe": "casual",
+    "food": [
+      "wings",
+      "burgers"
+    ],
+    "tags": [
+      "Sports on TV",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "beer, wine and mixed drinks",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "appetizers",
+            "price": 10
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "start": 1200,
+        "end": 1320,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "beer, wine and mixed drinks",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "appetizers",
+            "price": 10
+          }
+        ],
+        "note": "8 PM to close"
+      },
+      {
+        "days": [
+          4,
+          5,
+          6
+        ],
+        "start": 1200,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "beer, wine and mixed drinks",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "appetizers",
+            "price": 10
+          }
+        ],
+        "note": "8 PM to close"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Burger Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "burgers, from $12"
+          },
+          {
+            "kind": "drink",
+            "item": "Budweiser",
+            "price": 6
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Kids Eat Free",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "kids eat free"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wine Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price wine bottles"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Wing Thursday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings and bites"
+          },
+          {
+            "kind": "drink",
+            "item": "Michelob",
+            "price": 7
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "title": "Brunch drinks",
+        "start": 660,
+        "end": 900,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "mimosas, Caesars or Baileys coffee",
+            "price": 5
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Kelseys Guelph (Woodlawn Rd)",
+        "url": "https://www.kelseys.ca/en/locations/on/guelph/124-woodlawn-road",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJe_QtGJ6EK4gR58iwKT0J7-Q",
+    "id": "kelseys-south-guelph",
+    "name": "Kelseys Original Roadhouse (South Guelph)",
+    "category": "Roadhouse",
+    "vibe": "casual",
+    "food": [
+      "wings",
+      "burgers"
+    ],
+    "tags": [
+      "Sports on TV",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "beer, wine and mixed drinks",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "appetizers",
+            "price": 10
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "start": 1200,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "beer, wine and mixed drinks",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "appetizers",
+            "price": 10
+          }
+        ],
+        "note": "8 PM to close"
+      },
+      {
+        "days": [
+          4,
+          5,
+          6
+        ],
+        "start": 1200,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "beer, wine and mixed drinks",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "appetizers",
+            "price": 10
+          }
+        ],
+        "note": "8 PM to close"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Burger Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "burgers, from $12"
+          },
+          {
+            "kind": "drink",
+            "item": "Budweiser",
+            "price": 6
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Kids Eat Free",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "kids eat free"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wine Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price wine bottles"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Wing Thursday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings and bites"
+          },
+          {
+            "kind": "drink",
+            "item": "Michelob",
+            "price": 7
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "title": "Brunch drinks",
+        "start": 660,
+        "end": 900,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "mimosas, Caesars or Baileys coffee",
+            "price": 5
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Kelseys South Guelph",
+        "url": "https://www.kelseys.ca/en/locations/on/guelph/26-clair-rd-w.",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ8SPplSmFK4gR7SHpSyBAT28",
+    "id": "montanas-guelph",
+    "name": "Montana’s BBQ & Bar",
+    "category": "BBQ & bar",
+    "vibe": "casual",
+    "food": [
+      "wings",
+      "tacos",
+      "steak"
+    ],
+    "tags": [
+      "Ribs",
+      "Sports on TV"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Wing Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Taco Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 5
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Rib Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "all-you-can-eat pork ribs"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Platter Thursday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "platters",
+            "price": 25.99
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "title": "Daily drinks",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "14 oz domestic beer",
+            "price": 4.99
+          },
+          {
+            "kind": "drink",
+            "item": "14 oz premium beer",
+            "price": 5.99
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          6
+        ],
+        "title": "Weekend cocktails",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "cocktails",
+            "price": 5.99
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Montana’s Guelph",
+        "url": "https://www.montanas.ca/en/locations/on/guelph/201-stone-road-west",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJNcWAuiiFK4gRbctIRfthfow",
+    "id": "east-side-marios-guelph",
+    "name": "East Side Mario’s",
+    "category": "Italian American",
+    "vibe": "casual",
+    "food": [
+      "pasta",
+      "pizza"
+    ],
+    "tags": [
+      "Family-friendly"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "All-You-Can-Eat Pasta Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "all-you-can-eat pasta with soup or salad and homeloaf",
+            "price": 19.99
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Kids Eat Free Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "free kids’ meal with an adult entrée of $19.99 or more"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Pizza or Pasta Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "pasta or individual cheese pizza with all-you-can-eat soup or salad",
+            "price": 15.99
+          }
+        ],
+        "note": "With a drink"
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Amore for Two",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "3-course dinner for two",
+            "price": 50
+          }
+        ],
+        "note": "With two drinks"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "East Side Mario’s Guelph",
+        "url": "https://www.eastsidemarios.com/en/locations/on/guelph/370-stone-road-west",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJwYfZlSmFK4gRRlVFQP_r3Qg",
+    "id": "swiss-chalet-edinburgh",
+    "name": "Swiss Chalet (Edinburgh Rd)",
+    "category": "Rotisserie chicken",
+    "vibe": "casual",
+    "food": [
+      "diner"
+    ],
+    "tags": [
+      "Family-friendly"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Chicken & Rib Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "quarter chicken dinner and a third rack of ribs",
+            "price": 19.99
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "2 Can Dine Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "meal for two",
+            "price": 19.99
+          }
+        ],
+        "note": "With two drinks"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Swiss Chalet Guelph, Edinburgh Rd S",
+        "url": "https://www.swisschalet.com/en/locations/on/guelph/502-edinburgh-rd-s",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJN6RfEXCQK4gRF6f1eaAi7Vs",
+    "id": "swiss-chalet-woodlawn",
+    "name": "Swiss Chalet (Woodlawn Rd)",
+    "category": "Rotisserie chicken",
+    "vibe": "casual",
+    "food": [
+      "diner"
+    ],
+    "tags": [
+      "Family-friendly"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Chicken & Rib Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "quarter chicken dinner and a third rack of ribs",
+            "price": 19.99
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "2 Can Dine Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "meal for two",
+            "price": 19.99
+          }
+        ],
+        "note": "With two drinks"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Swiss Chalet Guelph, Woodlawn Rd",
+        "url": "https://www.swisschalet.com/en/locations/on/guelph/138-woodlawn-road-west",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJt6tvqimFK4gRbvvU_svjx64",
+    "id": "symposium-cafe-guelph",
+    "name": "Symposium Cafe Restaurant",
+    "category": "Cafe restaurant",
+    "vibe": "casual",
+    "food": [
+      "burgers",
+      "pasta",
+      "wings"
+    ],
+    "tags": [
+      "All-day breakfast",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [],
+        "note": "House wine and PBR draught; prices not published"
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [],
+        "note": "9 PM to close; house wine and PBR draught, prices not published"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [],
+        "note": "9 PM to close; house wine and PBR draught, prices not published"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "burger and fries",
+            "price": 6.99
+          },
+          {
+            "kind": "food",
+            "item": "double burger",
+            "price": 10.99
+          },
+          {
+            "kind": "drink",
+            "item": "half-price beer pitchers"
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price pasta and bowls"
+          },
+          {
+            "kind": "drink",
+            "item": "wine and beer",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "premium pints",
+            "price": 7
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          },
+          {
+            "kind": "drink",
+            "item": "martinis and mules",
+            "price": 7
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Date Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "dinner for two with two drinks, an appetizer and dessert",
+            "price": 69.95
+          },
+          {
+            "kind": "drink",
+            "item": "$10 off wine and prosecco bottles"
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Fish Friday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "1-piece fish and chips",
+            "price": 9.95
+          },
+          {
+            "kind": "food",
+            "item": "2-piece fish and chips",
+            "price": 15.95
+          }
+        ]
+      },
+      {
+        "days": [
+          6
+        ],
+        "title": "Saturday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "ribs and wing dinner",
+            "price": 24.95
+          },
+          {
+            "kind": "drink",
+            "item": "half-price pitchers of sangria, margarita or draft"
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Sunday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "2-for-1 desserts"
+          },
+          {
+            "kind": "food",
+            "item": "kids eat free (12 and under) from 2 PM"
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "title": "Brunch cocktails",
+        "start": 540,
+        "end": 900,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "brunch cocktails",
+            "price": 6.95
+          }
+        ]
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "title": "Early bird dinner",
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "3-course prix fixe",
+            "price": 24.95
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Symposium Cafe Guelph specials calendar",
+        "url": "https://symposiumcafe.com/locations/guelph-restaurants",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJvRh91H6QK4gR_QvsSlarbS0",
+    "id": "boston-pizza-woodlawn",
+    "name": "Boston Pizza",
+    "category": "Pizza & sports bar",
+    "vibe": "casual",
+    "food": [
+      "pizza",
+      "pasta",
+      "wings"
+    ],
+    "tags": [
+      "Sports on TV"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Pizza Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "8-inch gourmet pizza",
+            "price": 10
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Pasta Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "gourmet pasta",
+            "price": 15.99
+          }
+        ],
+        "note": "Boston Pizza’s own site says pasta from $11.99"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wing Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings (8)"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Thursday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "third appetizer free"
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Fishbowl Friday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "$2 off fishbowl cocktails"
+          }
+        ]
+      }
+    ],
+    "deals": "reported",
+    "sources": [
+      {
+        "label": "Cheap Eats Guelph (from the Woodlawn GM, Aug 2026)",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-08"
+      },
+      {
+        "label": "Boston Pizza promotions",
+        "url": "https://bostonpizza.com/en/promotions.html",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ2zqxlgSRK4gR5qDJJpdCDVI",
+    "id": "chucks-roadhouse-woodlawn",
+    "name": "Chuck’s Roadhouse Bar & Grill (Woodlawn Rd)",
+    "category": "Roadhouse",
+    "vibe": "casual",
+    "food": [
+      "steak",
+      "wings",
+      "burgers"
+    ],
+    "tags": [
+      "Sports on TV",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price appetizers"
+          }
+        ],
+        "note": "After 9 PM; dine-in, with a drink"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1500,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price appetizers"
+          }
+        ],
+        "note": "After 9 PM; dine-in, with a drink"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "Rib Day",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half rack of ribs",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "full rack of ribs",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "rib and wing combo",
+            "price": 15
+          }
+        ],
+        "note": "Dine-in, with a drink"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Chuck’s Roadhouse offers",
+        "url": "https://chucksroadhouse.com/offers/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJhTn0u8OFK4gRsrbTUwggrDI",
+    "id": "chucks-roadhouse-clair",
+    "name": "Chuck’s Roadhouse Bar & Grill (Clair Rd)",
+    "category": "Roadhouse",
+    "vibe": "casual",
+    "food": [
+      "steak",
+      "wings",
+      "burgers"
+    ],
+    "tags": [
+      "Sports on TV",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price appetizers"
+          }
+        ],
+        "note": "After 9 PM; dine-in, with a drink"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1500,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price appetizers"
+          }
+        ],
+        "note": "After 9 PM; dine-in, with a drink"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "Rib Day",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half rack of ribs",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "full rack of ribs",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "rib and wing combo",
+            "price": 15
+          }
+        ],
+        "note": "Dine-in, with a drink"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Chuck’s Roadhouse offers",
+        "url": "https://chucksroadhouse.com/offers/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ-VEMzJ-EK4gRC8iBl-oaClI",
+    "id": "st-louis-bar-grill-guelph",
+    "name": "St. Louis Bar & Grill",
+    "category": "Wings & sports bar",
+    "vibe": "casual",
+    "food": [
+      "wings",
+      "burgers"
+    ],
+    "tags": [
+      "Sports on TV",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 690,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "1 oz bar rail mixed drinks",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "12 oz domestic draught",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "domestic bottles",
+            "price": 4
+          },
+          {
+            "kind": "food",
+            "item": "sliders, pickle coins or fries",
+            "price": 4
+          }
+        ],
+        "note": "Open to 5 PM; dine-in only"
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "1 oz bar rail mixed drinks",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "12 oz domestic draught",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "domestic bottles",
+            "price": 4
+          },
+          {
+            "kind": "food",
+            "item": "sliders, pickle coins or fries",
+            "price": 4
+          }
+        ],
+        "note": "9 PM to close; dine-in only"
+      },
+      {
+        "days": [
+          4,
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "1 oz bar rail mixed drinks",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "12 oz domestic draught",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "domestic bottles",
+            "price": 4
+          },
+          {
+            "kind": "food",
+            "item": "sliders, pickle coins or fries",
+            "price": 4
+          }
+        ],
+        "note": "9 PM to close; dine-in only"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Wing Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "St. Louis $4 happy hour",
+        "url": "https://www.stlouiswings.com/happyhour2025/",
+        "date": "2026-08"
+      },
+      {
+        "label": "St. Louis Guelph",
+        "url": "https://locations.stlouiswings.com/on-guelph-5247/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJtdQKT56EK4gR5991rFeJJiE",
+    "id": "shoeless-joes-guelph",
+    "name": "Shoeless Joe’s Sports Grill",
+    "category": "Sports grill",
+    "vibe": "casual",
+    "food": [
+      "wings",
+      "burgers"
+    ],
+    "tags": [
+      "Sports on TV",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "16 oz domestic draught",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "1 oz mixed drinks",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "half-price wine bottles"
+          },
+          {
+            "kind": "food",
+            "item": "snacks",
+            "price": 10
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "16 oz domestic draught",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "1 oz mixed drinks",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "half-price wine bottles"
+          },
+          {
+            "kind": "food",
+            "item": "snacks",
+            "price": 10
+          }
+        ],
+        "note": "9 PM to close"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          0
+        ],
+        "title": "Kids Eat Free",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "one kids’ meal free per adult meal"
+          }
+        ]
+      },
+      {
+        "days": [
+          1
+        ],
+        "title": "Game Day Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "2-for-1 game day starters"
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Wing Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "1 lb wings",
+            "price": 10
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Burger Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "burgers, from $10"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Tender Thursday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "2 orders of chicken tenders",
+            "price": 25.99
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "title": "Bud & Bud Light",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "16 oz Budweiser or Bud Light",
+            "price": 5
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Shoeless Joe’s promotions",
+        "url": "https://shoelessjoes.ca/promotions/",
+        "date": "2026-06"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJva9MEfuPK4gR5glRSPRImjY",
+    "id": "wild-wing-paisley",
+    "name": "Wild Wing (Paisley Rd)",
+    "category": "Wings & sports bar",
+    "vibe": "casual",
+    "food": [
+      "wings"
+    ],
+    "tags": [
+      "Sports on TV"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Michelob Monday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "20 oz Michelob",
+            "price": 6.99
+          },
+          {
+            "kind": "food",
+            "item": "poutines",
+            "price": 10
+          }
+        ],
+        "note": "Poutine price from Cheap Eats Guelph (staff, Aug 2026)"
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Wing Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "single wing orders with fries and dip",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "double wing orders",
+            "price": 22
+          },
+          {
+            "kind": "drink",
+            "item": "Corona bottles",
+            "price": 5.99
+          }
+        ],
+        "note": "Dine-in, with a drink"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wine Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "6 oz wine",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "rib and wing combo",
+            "price": 19.99
+          }
+        ],
+        "note": "Combo price from Cheap Eats Guelph (staff, Aug 2026)"
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Schooner Thursday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "32 oz schooners",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "5 chicken tenders",
+            "price": 10
+          }
+        ],
+        "note": "Tenders price from Cheap Eats Guelph (staff, Aug 2026)"
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Fish Friday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "fish and chips",
+            "price": 15
+          }
+        ],
+        "note": "From Cheap Eats Guelph (staff, Aug 2026)"
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Caesar Sunday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "1 oz Signature Caesars",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "all-you-can-eat wings",
+            "price": 24.99
+          }
+        ],
+        "note": "Wing price from Cheap Eats Guelph (staff, Aug 2026)"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Wild Wing daily specials",
+        "url": "https://www.wildwingrestaurants.com/specials/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Cheap Eats Guelph deal calendar",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ2Q1STnGbK4gRz2fFoqmbvGM",
+    "id": "wild-wing-eastview",
+    "name": "Wild Wing (Eastview Rd)",
+    "category": "Wings & sports bar",
+    "vibe": "casual",
+    "food": [
+      "wings"
+    ],
+    "tags": [
+      "Sports on TV"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Michelob Monday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "20 oz Michelob",
+            "price": 6.99
+          },
+          {
+            "kind": "food",
+            "item": "poutines",
+            "price": 10
+          }
+        ],
+        "note": "Poutine price from Cheap Eats Guelph (staff, Aug 2026)"
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Wing Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "single wing orders with fries and dip",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "double wing orders",
+            "price": 22
+          },
+          {
+            "kind": "drink",
+            "item": "Corona bottles",
+            "price": 5.99
+          }
+        ],
+        "note": "Dine-in, with a drink"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wine Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "6 oz wine",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "rib and wing combo",
+            "price": 19.99
+          }
+        ],
+        "note": "Combo price from Cheap Eats Guelph (staff, Aug 2026)"
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Schooner Thursday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "32 oz schooners",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "5 chicken tenders",
+            "price": 10
+          }
+        ],
+        "note": "Tenders price from Cheap Eats Guelph (staff, Aug 2026)"
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Fish Friday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "fish and chips",
+            "price": 15
+          }
+        ],
+        "note": "From Cheap Eats Guelph (staff, Aug 2026)"
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Caesar Sunday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "1 oz Signature Caesars",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "all-you-can-eat wings",
+            "price": 24.99
+          }
+        ],
+        "note": "Wing price from Cheap Eats Guelph (staff, Aug 2026)"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Wild Wing daily specials",
+        "url": "https://www.wildwingrestaurants.com/specials/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Cheap Eats Guelph deal calendar",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ52DogF6RK4gRoMIQi_1TwF0",
+    "id": "piper-arms-guelph",
+    "name": "Piper Arms",
+    "category": "Pub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings",
+      "asian"
+    ],
+    "tags": [
+      "Late-night specials"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 660,
+        "end": 960,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "20 oz domestic pints",
+            "price": 5
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "20 oz domestic pints",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "1 oz bar rail",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "half-price select appetizers"
+          },
+          {
+            "kind": "food",
+            "item": "wings",
+            "price": 0.99
+          }
+        ],
+        "note": "Late night, after 9 PM; dine-in, with a drink"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "20 oz domestic pints",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "1 oz bar rail",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "half-price select appetizers"
+          },
+          {
+            "kind": "food",
+            "item": "wings",
+            "price": 0.99
+          }
+        ],
+        "note": "Late night, after 9 PM; dine-in, with a drink"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "pasta (not seafood, steak or lobster)",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "half-price select appetizers"
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Wing Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "jumbo wings (min. 6)",
+            "price": 0.99
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Asian Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "25% off Asian dishes"
+          },
+          {
+            "kind": "food",
+            "item": "1 lb wings or classic burger with a domestic pint",
+            "price": 16.5
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Fajita Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "25% off fajitas"
+          },
+          {
+            "kind": "food",
+            "item": "1 lb wings with a domestic tall boy",
+            "price": 16.5
+          }
+        ]
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "title": "Surf & Turf",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "8 oz sirloin with lobster tail",
+            "price": 29
+          },
+          {
+            "kind": "food",
+            "item": "8 oz sirloin with shrimp",
+            "price": 25
+          },
+          {
+            "kind": "food",
+            "item": "half rack of ribs and half pound of wings",
+            "price": 21
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "British Sunday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "25% off British fare"
+          },
+          {
+            "kind": "drink",
+            "item": "domestic tall boys",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "1 lb wings and a domestic pint",
+            "price": 16.5
+          },
+          {
+            "kind": "food",
+            "item": "2 lb wings and a domestic pitcher",
+            "price": 32
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Piper Arms daily specials (PDF)",
+        "url": "https://piperarms.com/storage/2026/04/Daily-Specials_2026-1.pdf",
+        "date": "2026-04"
+      },
+      {
+        "label": "Piper Arms Guelph drinks menu (PDF)",
+        "url": "http://piperarms.com/storage/2026/05/Guelph-1.pdf",
+        "date": "2026-05"
+      }
+    ],
+    "menuUrl": "https://piperarms.com/main-menu/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJzwLMEcuEK4gRIL-sK9b9OH0",
+    "id": "manhattans-bistro",
+    "name": "Manhattans Bistro & Music Club",
+    "category": "Bistro & music club",
+    "vibe": "restaurant",
+    "food": [
+      "pizza",
+      "pasta"
+    ],
+    "tags": [
+      "Live music",
+      "Jazz"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          4,
+          5,
+          6
+        ],
+        "start": 960,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "12 oz draught",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz red wine",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "appetizers",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "12-inch pizzas",
+            "price": 15
+          }
+        ],
+        "note": "Dine-in at the bistro"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Manhattans happy hour menu",
+        "url": "https://manhattans.ca/menu/happy-hour",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJNyOyUaWEK4gR0t8Hf8IvJ8M",
+    "id": "borealis-grille-guelph",
+    "name": "Borealis Grille & Bar",
+    "category": "Grill & bar",
+    "vibe": "restaurant",
+    "food": [
+      "wings",
+      "tacos",
+      "burgers"
+    ],
+    "tags": [
+      "Ontario craft beer",
+      "Patio",
+      "Weekend brunch"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "appetizers",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "taps",
+            "price": 6
+          }
+        ]
+      },
+      {
+        "days": [
+          4,
+          5,
+          6
+        ],
+        "start": 1200,
+        "end": 1320,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "appetizers",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "taps",
+            "price": 6
+          }
+        ],
+        "note": "8 PM to close"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Wing Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wings (1 lb)",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "Wellington pints",
+            "price": 6
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Taco Tuesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "margaritas and cervezas",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "2 tacos",
+            "price": 15
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Date Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "3-course dinner for two",
+            "price": 69.99
+          },
+          {
+            "kind": "drink",
+            "item": "$10 off wine bottles"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Fried Chicken Thursday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "1-piece fried chicken",
+            "price": 17.99
+          },
+          {
+            "kind": "food",
+            "item": "2-piece fried chicken",
+            "price": 24.99
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Flight Friday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "cocktail flights",
+            "price": 12
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Kids Sunday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "kids’ menu items",
+            "price": 5
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Borealis happy hour",
+        "url": "https://www.borealisgrille.ca/menu/happy-hour",
+        "date": "2026-10"
+      },
+      {
+        "label": "Borealis daily features",
+        "url": "https://www.borealisgrille.ca/menu/daily-features",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.borealisgrille.ca/menu/dinner",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJdbbVucSaK4gRKbRNvTopJYU",
+    "id": "bardo-guelph",
+    "name": "Bardō",
+    "category": "Italian-inspired kitchen",
+    "vibe": "restaurant",
+    "food": [
+      "pizza",
+      "pasta"
+    ],
+    "tags": [
+      "Wine Wednesdays",
+      "Sunday brunch",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 900,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "wine",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "Aperol, Hugo or limoncello spritzes",
+            "price": 10
+          }
+        ],
+        "note": "Reported by Cheap Eats Guelph (owner, May 2026); not on Bardō’s Guelph page"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "Wine Wednesday",
+        "start": 660,
+        "end": 1260,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price wine bottles"
+          }
+        ],
+        "note": "Dine-in"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Bardō Gordon St Guelph",
+        "url": "https://bardorestaurants.ca/gordon-st-guelph/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Cheap Eats Guelph deal calendar",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJz-xsWNWPK4gRbqrqOrr9R8M",
+    "id": "wellington-brewery",
+    "name": "Wellington Brewery Taproom",
+    "category": "Brewery taproom",
+    "vibe": "brewery",
+    "food": [
+      "snacks"
+    ],
+    "tags": [
+      "Dog-friendly",
+      "Patio",
+      "Brewery tours"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          5
+        ],
+        "start": 900,
+        "end": 1140,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "$2 off craft drinks"
+          }
+        ],
+        "note": "3 PM to close"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Pint & Pretzel",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "pint and a giant soft pretzel",
+            "price": 12
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Welly Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "pint and a grilled cheese",
+            "price": 16
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Thirsty Thursday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "basket of chips",
+            "price": 5
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Crafternoons",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Caesars and mimosas",
+            "price": 10
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Wellington Brewery visit page",
+        "url": "https://www.wellingtonbrewery.ca/visit",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJrQ1h_BqbK4gRr6cwDV7eAHc",
+    "id": "royal-city-brewing",
+    "name": "Royal City Brewing & Beer Hall",
+    "category": "Brewery & beer hall",
+    "vibe": "brewery",
+    "food": [
+      "burgers",
+      "snacks"
+    ],
+    "tags": [
+      "House-brewed beer",
+      "Trivia Wednesdays"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Anti-Inflation Monday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "beers",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "burgers",
+            "price": 15
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Nacho Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "solo nachos",
+            "price": 16
+          },
+          {
+            "kind": "food",
+            "item": "shareable nachos",
+            "price": 28
+          }
+        ]
+      }
+    ],
+    "deals": "reported",
+    "sources": [
+      {
+        "label": "Cheap Eats Guelph (customer submission, May 2026)",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-06"
+      }
+    ],
+    "menuUrl": "https://royalcitybrew.ca/pages/menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJO1kYXTibK4gREurIOsc3XJo",
+    "id": "la-reina",
+    "name": "La Reina",
+    "category": "Mexican",
+    "vibe": "restaurant",
+    "food": [
+      "tacos"
+    ],
+    "tags": [
+      "Margaritas",
+      "Patio"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Taco Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 5
+          }
+        ],
+        "note": "Until close"
+      }
+    ],
+    "deals": "reported",
+    "sources": [
+      {
+        "label": "Cheap Eats Guelph (from La Reina’s social media, Sep 2026)",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-09"
+      }
+    ],
+    "menuUrl": "https://www.lareina519.com/menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ_aAbtsKaK4gRwmz8Ogju6Xw",
+    "id": "sugo-on-surrey",
+    "name": "Sugo on Surrey",
+    "category": "Italian",
+    "vibe": "restaurant",
+    "food": [
+      "pasta",
+      "pizza",
+      "oysters"
+    ],
+    "tags": [
+      "Date night"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "2 Can Dine",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wine bottle, appetizer, 2 entrées and dessert for two",
+            "price": 120
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Pasta & wine",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "select pasta",
+            "price": 30
+          },
+          {
+            "kind": "drink",
+            "item": "half-price wine bottles"
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "2 for $100",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "2 salads, 2 pastas and 2 desserts",
+            "price": 100
+          }
+        ]
+      }
+    ],
+    "deals": "reported",
+    "sources": [
+      {
+        "label": "Cheap Eats Guelph (owner submission, May 2026)",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-06"
+      }
+    ],
+    "menuUrl": "https://sugoguelph.com/menus",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJvdtK-GObK4gR124s-jqgm0o",
+    "id": "sinalove",
+    "name": "Sinalove",
+    "category": "Mexican seafood",
+    "vibe": "casual",
+    "food": [
+      "tacos",
+      "sushi"
+    ],
+    "tags": [
+      "Sinaloa-style"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Taco Tuesday",
+        "start": 720,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 5.95
+          }
+        ],
+        "note": "Listed as 11 AM–6 PM; Sinalove opens at noon"
+      }
+    ],
+    "deals": "reported",
+    "sources": [
+      {
+        "label": "Cheap Eats Guelph (customer submission, Apr 2026)",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-06"
+      }
+    ],
+    "menuUrl": "https://sinalovemexican.bycalibre.ca/menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJN--Nf8GaK4gRx66t54PivY0",
+    "id": "atmosphere-cafe",
+    "name": "Atmosphere Cafe + Etc.",
+    "category": "European bistro",
+    "vibe": "restaurant",
+    "food": [
+      "pizza"
+    ],
+    "tags": [
+      "Market Square"
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Pizza Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "pizza and a draft pint or tallboy",
+            "price": 25
+          },
+          {
+            "kind": "food",
+            "item": "pizza and a 6 oz house wine",
+            "price": 28
+          }
+        ]
+      }
+    ],
+    "deals": "reported",
+    "sources": [
+      {
+        "label": "Cheap Eats Guelph (web research, May 2026)",
+        "url": "https://cheapeatsguelph.com/",
+        "date": "2026-06"
+      }
+    ],
+    "menuUrl": "https://atmospherecafe.squarespace.com/menu-1",
+    "checked": "2026-10-28"
+  }
+]

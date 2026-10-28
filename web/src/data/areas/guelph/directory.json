@@ -1,0 +1,444 @@
+[
+  {
+    "placeId": "ChIJ7TW9IsKaK4gRXeQ1Vz9oPTA",
+    "id": "brothers-brewing",
+    "name": "Brothers Brewing Company",
+    "category": "Brewery taproom",
+    "vibe": "brewery",
+    "food": [
+      "snacks"
+    ]
+  },
+  {
+    "placeId": "ChIJOeWV1yubK4gRnWNdDSM8-gU",
+    "id": "standing-room-only",
+    "name": "Standing Room Only",
+    "category": "Tiny bar",
+    "vibe": "bar",
+    "food": [
+      "wings"
+    ]
+  },
+  {
+    "placeId": "ChIJ29EsntObK4gRdbjQ_juCxGg",
+    "id": "two-faces",
+    "name": "Two Faces",
+    "category": "Wine bar",
+    "vibe": "wine",
+    "food": [
+      "snacks"
+    ]
+  },
+  {
+    "placeId": "ChIJfSuGIsKaK4gRMZ88mfNqqcs",
+    "id": "nv-kitchen-bar",
+    "name": "NV Kitchen + Bar",
+    "category": "Kitchen & bar",
+    "vibe": "bar",
+    "food": [
+      "burgers",
+      "pizza",
+      "wings",
+      "steak"
+    ]
+  },
+  {
+    "placeId": "ChIJY6Yr_MGaK4gRomWaG28_ND4",
+    "id": "buon-gusto",
+    "name": "Buon Gusto",
+    "category": "Italian",
+    "vibe": "restaurant",
+    "food": [
+      "pizza",
+      "pasta"
+    ]
+  },
+  {
+    "placeId": "ChIJYzr8OMKaK4gRW97mKCaEwJU",
+    "id": "the-cornerstone",
+    "name": "The Cornerstone",
+    "category": "Vegetarian café & bar",
+    "vibe": "restaurant",
+    "food": [
+      "vegan"
+    ]
+  },
+  {
+    "placeId": "ChIJzWIWeMGaK4gR_IyuU0ldT2Q",
+    "id": "crafty-ramen",
+    "name": "Crafty Ramen",
+    "category": "Ramen",
+    "vibe": "casual",
+    "food": [
+      "asian"
+    ]
+  },
+  {
+    "placeId": "ChIJqdS0I8KaK4gR0Soxf6fSixQ",
+    "id": "frank-and-steins",
+    "name": "Frank & Steins",
+    "category": "Pub",
+    "vibe": "bar",
+    "food": [
+      "pub"
+    ]
+  },
+  {
+    "placeId": "ChIJWXXr7OmbK4gRCEa2zH8pugI",
+    "id": "open-close-bar",
+    "name": "open/close bar",
+    "category": "Wine & listening bar",
+    "vibe": "wine"
+  },
+  {
+    "placeId": "ChIJWaWCQgCbK4gRtgVLmux-IYQ",
+    "id": "la-poche",
+    "name": "La Poche",
+    "category": "Café & cocktail bar",
+    "vibe": "cocktails",
+    "food": [
+      "snacks"
+    ]
+  },
+  {
+    "placeId": "ChIJS4EJg1ibK4gRE_NuPwDLXFI",
+    "id": "ward-bar-spring-mill",
+    "name": "The Ward Bar at Spring Mill Distillery",
+    "category": "Distillery bar",
+    "vibe": "cocktails",
+    "food": [
+      "snacks"
+    ]
+  },
+  {
+    "placeId": "ChIJp7ajYeKbK4gReNFWDTR8AUY",
+    "id": "hanami-izakaya",
+    "name": "Hanami Izakaya",
+    "category": "Japanese izakaya",
+    "vibe": "restaurant",
+    "food": [
+      "sushi",
+      "asian"
+    ]
+  },
+  {
+    "placeId": "ChIJq2l4PE2bK4gRSyz8QmN2VFQ",
+    "id": "park-eatery",
+    "name": "Park Eatery",
+    "category": "Neighbourhood eatery",
+    "vibe": "casual",
+    "food": [
+      "burgers"
+    ]
+  },
+  {
+    "placeId": "ChIJ10HVAGybK4gRCqLc5MaFdKU",
+    "id": "piatto-pizzeria",
+    "name": "Piatto Pizzeria + Enoteca",
+    "category": "Neapolitan pizzeria",
+    "vibe": "restaurant",
+    "food": [
+      "pizza",
+      "pasta"
+    ]
+  },
+  {
+    "placeId": "ChIJv9PIGuiaK4gR_AE6bxcWBzA",
+    "id": "retour-bistro",
+    "name": "Retour Bistro",
+    "category": "Lebanese bistro",
+    "vibe": "restaurant",
+    "food": [
+      "middle-eastern"
+    ]
+  },
+  {
+    "placeId": "ChIJ1Q87qcaaK4gR5WYoutjCf_Y",
+    "id": "round-table-board-game-cafe",
+    "name": "The Round Table Board Game Café",
+    "category": "Board game café",
+    "vibe": "casual",
+    "food": [
+      "snacks"
+    ]
+  },
+  {
+    "placeId": "ChIJOUTK59mbK4gRAVpz9izBVNg",
+    "id": "fusion-indian",
+    "name": "Fusion Authentic Indian Cuisine",
+    "category": "Indian",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJnVGICfSbK4gRxL004_lDN4c",
+    "id": "kinton-ramen-gordon",
+    "name": "Kinton Ramen",
+    "category": "Ramen",
+    "vibe": "casual",
+    "food": [
+      "asian"
+    ]
+  },
+  {
+    "placeId": "ChIJj_-EHMKaK4gR7-MRSXVfJx8",
+    "id": "pablos",
+    "name": "Pablo’s",
+    "category": "Dive bar",
+    "vibe": "bar"
+  },
+  {
+    "placeId": "ChIJM0R6ebKbK4gR7TqR4s8v6SM",
+    "id": "bevs",
+    "name": "Bev’s",
+    "category": "Neighbourhood bar",
+    "vibe": "bar"
+  },
+  {
+    "placeId": "ChIJaQbNG-GbK4gR0JbZjh0pzmI",
+    "id": "level-resto-lounge",
+    "name": "Level Resto Lounge",
+    "category": "Ethiopian & lounge",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJCztjb8KaK4gRFWZ-0NE84HE",
+    "id": "bombay-kitchen",
+    "name": "Bombay Kitchen",
+    "category": "Indian & Hakka",
+    "vibe": "restaurant",
+    "food": [
+      "asian"
+    ]
+  },
+  {
+    "placeId": "ChIJx4r0fsGaK4gRV8KpyUZLMm0",
+    "id": "woks-taste",
+    "name": "Wok’s Taste",
+    "category": "Chinese",
+    "vibe": "casual",
+    "food": [
+      "asian"
+    ]
+  },
+  {
+    "placeId": "ChIJDZiaWXubK4gRLlMrrza4Alg",
+    "id": "hidmona-lounge",
+    "name": "Hidmona Lounge",
+    "category": "Eritrean restaurant & lounge",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJSwH3PYiFK4gRRDHwBBx-xng",
+    "id": "beertown-guelph",
+    "name": "Beertown",
+    "category": "Beer hall",
+    "vibe": "bar",
+    "food": [
+      "burgers",
+      "pizza",
+      "wings",
+      "tacos"
+    ]
+  },
+  {
+    "placeId": "ChIJdwhqMcWEK4gRIgzY1PLGZO4",
+    "id": "the-fat-duck",
+    "name": "The Fat Duck Gastro Pub",
+    "category": "Gastropub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings"
+    ]
+  },
+  {
+    "placeId": "ChIJKbnSowiQK4gRpicC_7iYsiI",
+    "id": "r-u-serious",
+    "name": "R U Serious Tap & Grill",
+    "category": "Tap & grill",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "pub"
+    ]
+  },
+  {
+    "placeId": "ChIJVVWVxCybK4gRPRsMOdsLSpo",
+    "id": "bar-mason",
+    "name": "Bar Mason",
+    "category": "Hotel bar & restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "pizza"
+    ]
+  },
+  {
+    "placeId": "ChIJaceDI2CDK4gRdqSPOFLHhc8",
+    "id": "the-keg-guelph",
+    "name": "The Keg Steakhouse + Bar",
+    "category": "Steakhouse",
+    "vibe": "restaurant",
+    "food": [
+      "steak"
+    ]
+  },
+  {
+    "placeId": "ChIJLwYZkIebK4gRStcbV1AzEzY",
+    "id": "kings-sports-bar",
+    "name": "Kings Sports Bar and Grill",
+    "category": "Sports bar",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "pub"
+    ]
+  },
+  {
+    "placeId": "ChIJS7RSC2yQK4gR1I33h33l1JQ",
+    "id": "stampede-ranch",
+    "name": "Stampede Ranch",
+    "category": "Country bar",
+    "vibe": "bar"
+  },
+  {
+    "placeId": "ChIJJxhMmTqQK4gRO6xUlMZBPHU",
+    "id": "mandarin-guelph",
+    "name": "Mandarin",
+    "category": "Buffet",
+    "vibe": "casual",
+    "food": [
+      "asian"
+    ]
+  },
+  {
+    "placeId": "ChIJIQ2jxIGaK4gR_xhC7Ae1zHA",
+    "id": "lucky-belly",
+    "name": "Lucky Belly",
+    "category": "Casual eatery",
+    "vibe": "casual",
+    "food": [
+      "tacos",
+      "burgers"
+    ]
+  },
+  {
+    "placeId": "ChIJPSLBmp6EK4gR9a7xLR1CjiU",
+    "id": "cherry-blossom-sushi",
+    "name": "Cherry Blossom Sushi Bar",
+    "category": "Sushi",
+    "vibe": "restaurant",
+    "food": [
+      "sushi"
+    ]
+  },
+  {
+    "placeId": "ChIJQSoBcXWRK4gR2u_4fSO4F3Y",
+    "id": "revel-cider",
+    "name": "Revel Cider",
+    "category": "Cidery",
+    "vibe": "brewery"
+  },
+  {
+    "placeId": "ChIJfdllNVWRK4gRZX_Xm-B3Tkw",
+    "id": "jannat-e-punjab",
+    "name": "Jannat-E-Punjab Bar & Grill",
+    "category": "Punjabi",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJtyRGCBubK4gRQO694AzQ4yM",
+    "id": "cafe-greek-garden",
+    "name": "Cafe Greek Garden",
+    "category": "Greek",
+    "vibe": "restaurant",
+    "food": [
+      "greek"
+    ]
+  },
+  {
+    "placeId": "ChIJvaWqwqv0K4gRY0uG1nYa2hQ",
+    "id": "souvlaki-flame",
+    "name": "Souvlaki Flame",
+    "category": "Greek",
+    "vibe": "casual",
+    "food": [
+      "greek"
+    ]
+  },
+  {
+    "placeId": "ChIJe6Ze88GaK4gRD8f927hbbHU",
+    "id": "the-bollywood-bistro",
+    "name": "The Bollywood Bistro",
+    "category": "Indian",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJ473AmhCQK4gRFqVFIg_8_iI",
+    "id": "the-nguyens",
+    "name": "The Nguyen’s Vietnamese Family Restaurant",
+    "category": "Vietnamese",
+    "vibe": "casual",
+    "food": [
+      "vietnamese"
+    ]
+  },
+  {
+    "placeId": "ChIJj-sWTxCQK4gR58iZQslQU1Q",
+    "id": "diwa",
+    "name": "Diwa Classic Indian Cuisine",
+    "category": "Indian",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJX_mzMVuaK4gRDine3oB4UpQ",
+    "id": "town-and-country",
+    "name": "Town & Country Restaurant",
+    "category": "Family restaurant",
+    "vibe": "casual",
+    "food": [
+      "diner"
+    ]
+  },
+  {
+    "placeId": "ChIJUzzefxyFK4gRqgWNMPgnHn0",
+    "id": "creekside-kitchen",
+    "name": "Creekside Kitchen",
+    "category": "Kitchen",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJD5xvmj6QK4gRzPlpVqZjGS8",
+    "id": "ben-thanh",
+    "name": "Ben Thanh",
+    "category": "Vietnamese & Thai",
+    "vibe": "casual",
+    "food": [
+      "vietnamese",
+      "thai"
+    ]
+  },
+  {
+    "placeId": "ChIJAQBQP1uaK4gRlr6WJgCepys",
+    "id": "broken-english-bistro",
+    "name": "Broken English Bistro",
+    "category": "Bistro",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJS3Z1JCeQK4gRWPfDtNhj-II",
+    "id": "romeros",
+    "name": "Romero’s",
+    "category": "Italian",
+    "vibe": "restaurant",
+    "food": [
+      "pasta"
+    ]
+  },
+  {
+    "placeId": "ChIJ6S3m5OSDK4gRPIFrFUpoAgc",
+    "id": "ceremony-indian-cuisine",
+    "name": "Ceremony Indian Cuisine",
+    "category": "Indian",
+    "vibe": "restaurant"
+  }
+]

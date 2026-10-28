@@ -1,0 +1,2544 @@
+{
+  "label": "Tue 6:00 PM",
+  "clock": {
+    "day": 2,
+    "minutes": 1080
+  },
+  "words": [
+    {
+      "text": "Côte de Bœuf",
+      "words": [
+        "cote",
+        "de",
+        "boeuf"
+      ]
+    },
+    {
+      "text": "Sneaky Dee’s",
+      "words": [
+        "sneaky",
+        "dees"
+      ]
+    },
+    {
+      "text": "Phở Hưng & Bar",
+      "words": [
+        "pho",
+        "hung",
+        "and",
+        "bar"
+      ]
+    },
+    {
+      "text": "NAZARÉ",
+      "words": [
+        "nazare"
+      ]
+    },
+    {
+      "text": "Añejo’s Café",
+      "words": [
+        "anejos",
+        "cafe"
+      ]
+    },
+    {
+      "text": "Bar-Raval 2.0",
+      "words": [
+        "bar",
+        "raval",
+        "2",
+        "0"
+      ]
+    }
+  ],
+  "distance": [
+    {
+      "a": "tequilla",
+      "b": "tequila",
+      "distance": 1
+    },
+    {
+      "a": "margr",
+      "b": "marga",
+      "distance": 1
+    },
+    {
+      "a": "wnie",
+      "b": "wine",
+      "distance": 1
+    },
+    {
+      "a": "abc",
+      "b": "abc",
+      "distance": 0
+    },
+    {
+      "a": "kitten",
+      "b": "sitting",
+      "distance": 3
+    },
+    {
+      "a": "",
+      "b": "pub",
+      "distance": 3
+    }
+  ],
+  "matches": [
+    {
+      "term": "marg",
+      "word": "margaritas",
+      "typos": true,
+      "matches": true
+    },
+    {
+      "term": "tequilla",
+      "word": "tequila",
+      "typos": true,
+      "matches": true
+    },
+    {
+      "term": "margr",
+      "word": "margaritas",
+      "typos": true,
+      "matches": true
+    },
+    {
+      "term": "wngs",
+      "word": "wings",
+      "typos": true,
+      "matches": true
+    },
+    {
+      "term": "wine",
+      "word": "wings",
+      "typos": false,
+      "matches": false
+    },
+    {
+      "term": "wine",
+      "word": "wings",
+      "typos": true,
+      "matches": true
+    },
+    {
+      "term": "bar",
+      "word": "beer",
+      "typos": true,
+      "matches": false
+    },
+    {
+      "term": "ossignton",
+      "word": "ossington",
+      "typos": true,
+      "matches": true
+    },
+    {
+      "term": "tv",
+      "word": "tvs",
+      "typos": true,
+      "matches": true
+    }
+  ],
+  "concepts": [
+    {
+      "term": "beer",
+      "tokens": [
+        {
+          "group": "drink",
+          "id": "beer"
+        }
+      ]
+    },
+    {
+      "term": "pints",
+      "tokens": [
+        {
+          "group": "drink",
+          "id": "beer"
+        }
+      ]
+    },
+    {
+      "term": "music",
+      "tokens": [
+        {
+          "group": "place",
+          "id": "live-music"
+        }
+      ]
+    },
+    {
+      "term": "musik",
+      "tokens": [
+        {
+          "group": "place",
+          "id": "live-music"
+        }
+      ]
+    },
+    {
+      "term": "tv",
+      "tokens": [
+        {
+          "group": "place",
+          "id": "sports"
+        }
+      ]
+    },
+    {
+      "term": "margaritas",
+      "tokens": [
+        {
+          "group": "drink",
+          "id": "tequila"
+        }
+      ]
+    },
+    {
+      "term": "pizza",
+      "tokens": [
+        {
+          "group": "food",
+          "id": "pizza"
+        }
+      ]
+    },
+    {
+      "term": "piz",
+      "tokens": [
+        {
+          "group": "food",
+          "id": "pizza"
+        }
+      ]
+    },
+    {
+      "term": "win",
+      "tokens": [
+        {
+          "group": "drink",
+          "id": "wine"
+        },
+        {
+          "group": "food",
+          "id": "wings"
+        }
+      ]
+    },
+    {
+      "term": "zzz",
+      "tokens": []
+    }
+  ],
+  "browse": {
+    "drinks": [
+      {
+        "token": {
+          "group": "drink",
+          "id": "beer"
+        },
+        "count": 11
+      },
+      {
+        "token": {
+          "group": "drink",
+          "id": "wine"
+        },
+        "count": 16
+      },
+      {
+        "token": {
+          "group": "drink",
+          "id": "cocktail"
+        },
+        "count": 21
+      },
+      {
+        "token": {
+          "group": "drink",
+          "id": "tequila"
+        },
+        "count": 3
+      },
+      {
+        "token": {
+          "group": "drink",
+          "id": "shot"
+        },
+        "count": 4
+      },
+      {
+        "token": {
+          "group": "drink",
+          "id": "bubbly"
+        },
+        "count": 3
+      }
+    ],
+    "food": [
+      {
+        "token": {
+          "group": "food",
+          "id": "snacks"
+        },
+        "count": 23
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "tacos"
+        },
+        "count": 9
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "oysters"
+        },
+        "count": 9
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "burgers"
+        },
+        "count": 7
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "french"
+        },
+        "count": 7
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "asian"
+        },
+        "count": 5
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "spanish"
+        },
+        "count": 5
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "steak"
+        },
+        "count": 5
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "pub"
+        },
+        "count": 5
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "pizza"
+        },
+        "count": 4
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "pasta"
+        },
+        "count": 4
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "sushi"
+        },
+        "count": 4
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "vegan"
+        },
+        "count": 4
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "korean"
+        },
+        "count": 3
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "vietnamese"
+        },
+        "count": 3
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "middle-eastern"
+        },
+        "count": 3
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "diner"
+        },
+        "count": 3
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "wings"
+        },
+        "count": 2
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "greek"
+        },
+        "count": 2
+      },
+      {
+        "token": {
+          "group": "food",
+          "id": "thai"
+        },
+        "count": 1
+      }
+    ],
+    "places": [
+      {
+        "token": {
+          "group": "place",
+          "id": "open-now"
+        },
+        "count": 57
+      },
+      {
+        "token": {
+          "group": "place",
+          "id": "patio"
+        },
+        "count": 47
+      },
+      {
+        "token": {
+          "group": "place",
+          "id": "live-music"
+        },
+        "count": 19
+      },
+      {
+        "token": {
+          "group": "place",
+          "id": "sports"
+        },
+        "count": 9
+      },
+      {
+        "token": {
+          "group": "place",
+          "id": "trivia"
+        },
+        "count": 1
+      },
+      {
+        "token": {
+          "group": "place",
+          "id": "open-late"
+        },
+        "count": 46
+      },
+      {
+        "token": {
+          "group": "place",
+          "id": "groups"
+        },
+        "count": 64
+      },
+      {
+        "token": {
+          "group": "place",
+          "id": "dogs"
+        },
+        "count": 4
+      }
+    ]
+  },
+  "cases": [
+    {
+      "query": {
+        "text": "",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "haifa-room",
+          "note": "Today: Wine Tuesday",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "roxton-public-house",
+          "note": "Today: $12 Cheeseburger",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "bar-roma",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "fallen-feather",
+          "note": "Today: Buck-a-shuck",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "wasted-youth",
+          "note": "Today: $4 Jameson Shots",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "la-chingada",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "central",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "bar-koukla",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "dont-tell",
+          "note": "Today: Grill Tuesdays",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "sweaty-bettys",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "aleria",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "poetry-jazz-cafe",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "bar-piquette",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "gloria",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "painted-lady",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "rhapsody",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "manita",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-libretto",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "linnys",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "grape-witches",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "azhar",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-poet",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "the-lakeview-diner",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "nazare-snack-bar",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "222-bar",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "mild-afro-lounge",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "taberna-lx",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "la-banane",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-banane",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "casablanca-lounge",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "salt-wine-bar",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "kensei-bar",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "get-well",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "man-of-kent",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "gracies-pizza",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "pies-by-squires",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "vie-strada",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "papi-and-rosita",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "badlands",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "foxley",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "season-six",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "the-garrison",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "the-jean-darlene",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-bowie",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "the-gemini",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "idk-social",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "churchill",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "hanmoto",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "gia-restaurant",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-shozan",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "i-deal-coffee-and-wine",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "club-paris",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "paris-paris",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "favorites-thai",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "reposado",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "co-te-de-boeuf",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "the-fountain",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bellwoods-brewery",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "stefanos-diner",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bambis",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "golden-turtle",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "papi-chulos",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "small-talk",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "neon-tiger",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "fat-choi",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "soos",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "the-lunch-lady",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "oddseoul",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "gift-shop",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "mamakas-taverna",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "no-vacancy",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "union",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "nabe-hana",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "pho-tien-thanh",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "downtown-winery",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "prequel-and-co-apothecary",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "frankies-diner",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "apt-200",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "and-ore",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "prime-seafood-palace",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "ceniza",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "clandestina",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "taco-bar",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "jamils",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "burger",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "manita",
+          "note": "$19 Manita Burger & Fries (reg. $31)",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "roxton-public-house",
+          "note": "$12 Cheeseburger · Tue",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "central",
+          "note": "$4 Cheeseburger Sliders (min 2)",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "the-lakeview-diner",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "man-of-kent",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "stefanos-diner",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "frankies-diner",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "union",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "union",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "unoin",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "union",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "cote de boeuf",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "co-te-de-boeuf",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "NAZARÉ",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "nazare-snack-bar",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "sweaty betty’s",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "sweaty-bettys",
+          "note": null,
+          "on": true,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "sweaty bettys",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "sweaty-bettys",
+          "note": null,
+          "on": true,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "beer",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "central",
+          "note": "$5.50 House Beer",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "poetry-jazz-cafe",
+          "note": "Aperitivo Specials: Spritzes, Mimosas, Rum Punch, Craft Beer",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "manita",
+          "note": "$7 Draft Beer",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-libretto",
+          "note": "$6 Feature Beers",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "grape-witches",
+          "note": "$6 Beer & Cider",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "azhar",
+          "note": "$5 Burdock Beer Cans",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "roxton-public-house",
+          "note": "$20 Budweiser or Michelob Ultra Pitchers · Mon",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "sweaty-bettys",
+          "note": "$1 Off Pints",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "bar-poet",
+          "note": "$6 Poet Lager",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "man-of-kent",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bellwoods-brewery",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "cheap beer near me",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "central",
+          "note": "$5.50 House Beer",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "poetry-jazz-cafe",
+          "note": "Aperitivo Specials: Spritzes, Mimosas, Rum Punch, Craft Beer",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "manita",
+          "note": "$7 Draft Beer",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-libretto",
+          "note": "$6 Feature Beers",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "grape-witches",
+          "note": "$6 Beer & Cider",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "azhar",
+          "note": "$5 Burdock Beer Cans",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "roxton-public-house",
+          "note": "$20 Budweiser or Michelob Ultra Pitchers · Mon",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "sweaty-bettys",
+          "note": "$1 Off Pints",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "bar-poet",
+          "note": "$6 Poet Lager",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "man-of-kent",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bellwoods-brewery",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "music",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "haifa-room",
+          "note": "Today: Wine Tuesday",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "dont-tell",
+          "note": "Today: Grill Tuesdays",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "poetry-jazz-cafe",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "painted-lady",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-libretto",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "nazare-snack-bar",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "taberna-lx",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "casablanca-lounge",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "pies-by-squires",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "vie-strada",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "the-garrison",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "the-jean-darlene",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "idk-social",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "reposado",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bambis",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "golden-turtle",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "small-talk",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "downtown-winery",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "apt-200",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "live music patio",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "poetry-jazz-cafe",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "painted-lady",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "taberna-lx",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "vie-strada",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "reposado",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "golden-turtle",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "small-talk",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "downtown-winery",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "tequilla",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "la-chingada",
+          "note": "$10 Signature Margaritas",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "central",
+          "note": "$10 Classic Margaritas (2 oz)",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "rhapsody",
+          "note": "$10 Classic Margaritas",
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "marg",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "la-chingada",
+          "note": "$10 Signature Margaritas",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "central",
+          "note": "$10 Classic Margaritas (2 oz)",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "rhapsody",
+          "note": "$10 Classic Margaritas",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "painted-lady",
+          "note": "$28 Super-Loaded Nachos & a Margarita · Sat",
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "wngs",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "roxton-public-house",
+          "note": "$14 Wings (per lb) · Mon",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "central",
+          "note": "$12 Wings (1 lb) · Wed",
+          "on": true,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "oysters",
+        "when": "any",
+        "drinks": [],
+        "food": [
+          "oysters"
+        ],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "fallen-feather",
+          "note": "$1 Oysters · Tue, Wed",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "manita",
+          "note": "$2.50 Oysters (min 6)",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "roxton-public-house",
+          "note": "$15 Fish & Chips · Wed",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "dont-tell",
+          "note": "$35 Caviar Flight (3 bites) · Wed",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "azhar",
+          "note": "$15 Salmon Crudo or Lamb Kebab",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "la-banane",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "the-gemini",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "co-te-de-boeuf",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "prime-seafood-palace",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "taco tuesday",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "la-chingada",
+          "note": "$20 Any 3 Tacos · Tue",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "central",
+          "note": "$4 Carnitas Tacos · Thu",
+          "on": true,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "zzz no such place",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": []
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "now",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "haifa-room",
+          "note": "Today: Wine Tuesday",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "roxton-public-house",
+          "note": "Today: $12 Cheeseburger",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "bar-roma",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "fallen-feather",
+          "note": "Today: Buck-a-shuck",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "wasted-youth",
+          "note": "Today: $4 Jameson Shots",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "la-chingada",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "central",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "bar-koukla",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "dont-tell",
+          "note": "Today: Grill Tuesdays",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "sweaty-bettys",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "aleria",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "poetry-jazz-cafe",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "bar-piquette",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "gloria",
+          "note": null,
+          "on": true,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "daily",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "haifa-room",
+          "note": "Today: Wine Tuesday",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "roxton-public-house",
+          "note": "Today: $12 Cheeseburger",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "fallen-feather",
+          "note": "Today: Buck-a-shuck",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "wasted-youth",
+          "note": "Today: $4 Jameson Shots",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "la-chingada",
+          "note": "Today: Taco Tuesday",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "central",
+          "note": "Today: Half Off Tuesday",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "dont-tell",
+          "note": "Today: Grill Tuesdays",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "bar-piquette",
+          "note": "Half-Price Mondays · Mon",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "painted-lady",
+          "note": "Saturday Special · Sat",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-libretto",
+          "note": "Today: Wine Night",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "linnys",
+          "note": "Prime Rib Sundays · Sun",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "azhar",
+          "note": "Martini Mondays · Mon",
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "happy",
+        "drinks": [],
+        "food": [
+          "pizza"
+        ],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "bar-poet",
+          "note": "$28 Pizza + Salad Combo",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-libretto",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "any",
+        "drinks": [
+          "beer",
+          "wine"
+        ],
+        "food": [],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "haifa-room",
+          "note": "Half-Price Wine Bottles · Tue",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "roxton-public-house",
+          "note": "$20 Budweiser or Michelob Ultra Pitchers · Mon",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "central",
+          "note": "$5 OG Shaft on Draft",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "bar-koukla",
+          "note": "Half-Price Greek Wine Bottles",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "sweaty-bettys",
+          "note": "$1 Off Pints",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "poetry-jazz-cafe",
+          "note": "Aperitivo Specials: Spritzes, Mimosas, Rum Punch, Craft Beer",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "bar-piquette",
+          "note": "Selected Wines by the Glass (prices not published)",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "painted-lady",
+          "note": "$5 Glasses of Wine",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "manita",
+          "note": "$7 Draft Beer",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-libretto",
+          "note": "$6 Feature Beers",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "grape-witches",
+          "note": "$6 Beer & Cider",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "azhar",
+          "note": "$5 Burdock Beer Cans",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-poet",
+          "note": "$6 Poet Lager",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "salt-wine-bar",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "man-of-kent",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "i-deal-coffee-and-wine",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "club-paris",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "paris-paris",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bellwoods-brewery",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "downtown-winery",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "any",
+        "drinks": [],
+        "food": [
+          "pizza",
+          "tacos"
+        ],
+        "places": [],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "la-chingada",
+          "note": "$20 Any 3 Tacos · Tue",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "central",
+          "note": "$4 Carnitas Tacos · Thu",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "painted-lady",
+          "note": "$28 Super-Loaded Nachos & a Margarita · Sat",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-poet",
+          "note": "$28 Pizza + Salad Combo",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-libretto",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "get-well",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "gracies-pizza",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "papi-and-rosita",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "reposado",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "papi-chulos",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "ceniza",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "clandestina",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "taco-bar",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [
+          "patio",
+          "open-late"
+        ],
+        "sort": "nearest"
+      },
+      "results": [
+        {
+          "venue": "bar-roma",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "wasted-youth",
+          "note": "Today: $4 Jameson Shots",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "central",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "sweaty-bettys",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "aleria",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "poetry-jazz-cafe",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "gloria",
+          "note": null,
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "painted-lady",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-poet",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "222-bar",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "get-well",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "man-of-kent",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "season-six",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "churchill",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "paris-paris",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "reposado",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "the-fountain",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bellwoods-brewery",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "papi-chulos",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "small-talk",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "oddseoul",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "any",
+        "drinks": [
+          "beer"
+        ],
+        "food": [],
+        "places": [],
+        "sort": "cheapest"
+      },
+      "results": [
+        {
+          "venue": "central",
+          "note": "$5 OG Shaft on Draft",
+          "on": true,
+          "deal": {
+            "item": "OG Shaft on Draft",
+            "price": 5,
+            "on": false,
+            "when": "Daily 2–5 PM"
+          }
+        },
+        {
+          "venue": "azhar",
+          "note": "$5 Burdock Beer Cans",
+          "on": false,
+          "deal": {
+            "item": "Burdock beer cans",
+            "price": 5,
+            "on": false,
+            "when": "Mon–Fri 4–6 PM"
+          }
+        },
+        {
+          "venue": "bar-libretto",
+          "note": "$6 Feature Beers",
+          "on": false,
+          "deal": {
+            "item": "feature beers",
+            "price": 6,
+            "on": false,
+            "when": "Wed–Sat 4–6 PM"
+          }
+        },
+        {
+          "venue": "grape-witches",
+          "note": "$6 Beer & Cider",
+          "on": false,
+          "deal": {
+            "item": "beer & cider",
+            "price": 6,
+            "on": false,
+            "when": "Mon–Fri 3–6 PM"
+          }
+        },
+        {
+          "venue": "bar-poet",
+          "note": "$6 Poet Lager",
+          "on": false,
+          "deal": {
+            "item": "Poet Lager",
+            "price": 6,
+            "on": false,
+            "when": "Mon–Fri 12–5 PM"
+          }
+        },
+        {
+          "venue": "manita",
+          "note": "$7 Draft Beer",
+          "on": false,
+          "deal": {
+            "item": "draft beer",
+            "price": 7,
+            "on": false,
+            "when": "Mon–Thu 3–6 PM"
+          }
+        },
+        {
+          "venue": "roxton-public-house",
+          "note": "$20 Budweiser or Michelob Ultra Pitchers · Mon",
+          "on": true,
+          "deal": {
+            "item": "Budweiser pints",
+            "price": 8,
+            "on": true,
+            "when": "On now · till 10 PM"
+          }
+        },
+        {
+          "venue": "sweaty-bettys",
+          "note": "$1 Off Pints",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "poetry-jazz-cafe",
+          "note": "Aperitivo Specials: Spritzes, Mimosas, Rum Punch, Craft Beer",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "man-of-kent",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bellwoods-brewery",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "wine",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [],
+        "sort": "cheapest"
+      },
+      "results": [
+        {
+          "venue": "painted-lady",
+          "note": "$5 Glasses of Wine",
+          "on": false,
+          "deal": {
+            "item": "glasses of wine",
+            "price": 5,
+            "on": false,
+            "when": "Wed 6–9 PM"
+          }
+        },
+        {
+          "venue": "central",
+          "note": "$7 House Wine (7 oz)",
+          "on": true,
+          "deal": {
+            "item": "house wine (7 oz)",
+            "price": 7,
+            "on": false,
+            "when": "Daily 2–5 PM"
+          }
+        },
+        {
+          "venue": "grape-witches",
+          "note": "$12 Wine by the Glass",
+          "on": false,
+          "deal": {
+            "item": "wine by the glass",
+            "price": 12,
+            "on": false,
+            "when": "Mon–Fri 3–6 PM"
+          }
+        },
+        {
+          "venue": "salt-wine-bar",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "i-deal-coffee-and-wine",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "downtown-winery",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "haifa-room",
+          "note": "Half-Price Wine Bottles · Tue",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "roxton-public-house",
+          "note": "Half-Price Wine, by the Glass or Bottle · Thu",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "bar-koukla",
+          "note": "Half-Price Greek Wine Bottles",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "bar-piquette",
+          "note": "Selected Wines by the Glass (prices not published)",
+          "on": true,
+          "deal": null
+        },
+        {
+          "venue": "bar-libretto",
+          "note": "Half-Price Wine Bottles · Tue, Wed",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "azhar",
+          "note": "Half-Price Wine Bottles",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "bar-poet",
+          "note": "$1/oz Wine on Tap",
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "manita",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "club-paris",
+          "note": null,
+          "on": false,
+          "deal": null
+        },
+        {
+          "venue": "paris-paris",
+          "note": null,
+          "on": false,
+          "deal": null
+        }
+      ]
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "now",
+        "drinks": [],
+        "food": [
+          "wings"
+        ],
+        "places": [],
+        "sort": "cheapest"
+      },
+      "results": [
+        {
+          "venue": "central",
+          "note": "$12 Wings (1 lb) · Wed",
+          "on": true,
+          "deal": {
+            "item": "wings (1 lb)",
+            "price": 12,
+            "on": false,
+            "when": "Wed"
+          }
+        },
+        {
+          "venue": "roxton-public-house",
+          "note": "$14 Wings (per lb) · Mon",
+          "on": true,
+          "deal": {
+            "item": "wings (per lb)",
+            "price": 14,
+            "on": false,
+            "when": "Mon 2–10 PM"
+          }
+        }
+      ]
+    }
+  ]
+}

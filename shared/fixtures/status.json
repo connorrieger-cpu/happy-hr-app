@@ -1,0 +1,766 @@
+[
+  {
+    "label": "Mon 4:30 PM",
+    "clock": {
+      "day": 1,
+      "minutes": 990
+    },
+    "statuses": {
+      "central": {
+        "kind": "live",
+        "minutesLeft": 30,
+        "endsAt": 1020,
+        "progress": 0.8333
+      },
+      "azhar": {
+        "kind": "live",
+        "minutesLeft": 90,
+        "endsAt": 1080,
+        "progress": 0.25
+      },
+      "manita": {
+        "kind": "live",
+        "minutesLeft": 90,
+        "endsAt": 1080,
+        "progress": 0.5
+      },
+      "bar-libretto": {
+        "kind": "none",
+        "next": {
+          "day": 3,
+          "startsAt": 960
+        }
+      },
+      "rhapsody": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 1200
+        }
+      },
+      "la-chingada": {
+        "kind": "live",
+        "minutesLeft": 150,
+        "endsAt": 1140,
+        "progress": 0.1667
+      },
+      "gloria": {
+        "kind": "soon",
+        "startsIn": 30,
+        "startsAt": 1020
+      },
+      "poetry-jazz-cafe": {
+        "kind": "none",
+        "next": {
+          "day": 2,
+          "startsAt": 1080
+        }
+      },
+      "bar-piquette": {
+        "kind": "soon",
+        "startsIn": 30,
+        "startsAt": 1020
+      },
+      "aleria": {
+        "kind": "soon",
+        "startsIn": 30,
+        "startsAt": 1020
+      },
+      "painted-lady": {
+        "kind": "none",
+        "next": {
+          "day": 3,
+          "startsAt": 1080
+        }
+      },
+      "sweaty-bettys": {
+        "kind": "soon",
+        "startsIn": 30,
+        "startsAt": 1020
+      },
+      "bar-koukla": {
+        "kind": "soon",
+        "startsIn": 60,
+        "startsAt": 1050
+      },
+      "bar-roma": {
+        "kind": "none",
+        "next": {
+          "day": 2,
+          "startsAt": 1020
+        }
+      },
+      "bar-poet": {
+        "kind": "live",
+        "minutesLeft": 30,
+        "endsAt": 1020,
+        "progress": 0.9
+      },
+      "grape-witches": {
+        "kind": "live",
+        "minutesLeft": 90,
+        "endsAt": 1080,
+        "progress": 0.5
+      }
+    }
+  },
+  {
+    "label": "Tue 6:00 PM",
+    "clock": {
+      "day": 2,
+      "minutes": 1080
+    },
+    "statuses": {
+      "central": {
+        "kind": "later",
+        "startsIn": 180,
+        "startsAt": 1260
+      },
+      "azhar": {
+        "kind": "none",
+        "next": {
+          "day": 3,
+          "startsAt": 960
+        }
+      },
+      "manita": {
+        "kind": "none",
+        "next": {
+          "day": 3,
+          "startsAt": 900
+        }
+      },
+      "bar-libretto": {
+        "kind": "none",
+        "next": {
+          "day": 3,
+          "startsAt": 960
+        }
+      },
+      "rhapsody": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 1200
+        }
+      },
+      "la-chingada": {
+        "kind": "live",
+        "minutesLeft": 60,
+        "endsAt": 1140,
+        "progress": 0.6667
+      },
+      "gloria": {
+        "kind": "live",
+        "minutesLeft": 60,
+        "endsAt": 1140,
+        "progress": 0.5
+      },
+      "poetry-jazz-cafe": {
+        "kind": "live",
+        "minutesLeft": 180,
+        "endsAt": 1260,
+        "progress": 0
+      },
+      "bar-piquette": {
+        "kind": "live",
+        "minutesLeft": 60,
+        "endsAt": 1140,
+        "progress": 0.5
+      },
+      "aleria": {
+        "kind": "live",
+        "minutesLeft": 60,
+        "endsAt": 1140,
+        "progress": 0.5
+      },
+      "painted-lady": {
+        "kind": "none",
+        "next": {
+          "day": 3,
+          "startsAt": 1080
+        }
+      },
+      "sweaty-bettys": {
+        "kind": "live",
+        "minutesLeft": 60,
+        "endsAt": 1140,
+        "progress": 0.5
+      },
+      "bar-koukla": {
+        "kind": "live",
+        "minutesLeft": 90,
+        "endsAt": 1170,
+        "progress": 0.25
+      },
+      "bar-roma": {
+        "kind": "live",
+        "minutesLeft": 60,
+        "endsAt": 1140,
+        "progress": 0.5
+      },
+      "bar-poet": {
+        "kind": "none",
+        "next": {
+          "day": 3,
+          "startsAt": 720
+        }
+      },
+      "grape-witches": {
+        "kind": "none",
+        "next": {
+          "day": 3,
+          "startsAt": 900
+        }
+      }
+    }
+  },
+  {
+    "label": "Wed 11:50 PM",
+    "clock": {
+      "day": 3,
+      "minutes": 1430
+    },
+    "statuses": {
+      "central": {
+        "kind": "live",
+        "minutesLeft": 10,
+        "endsAt": 1440,
+        "progress": 0.9444
+      },
+      "azhar": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 960
+        }
+      },
+      "manita": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 900
+        }
+      },
+      "bar-libretto": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 960
+        }
+      },
+      "rhapsody": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 1200
+        }
+      },
+      "la-chingada": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 960
+        }
+      },
+      "gloria": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 1020
+        }
+      },
+      "poetry-jazz-cafe": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 1080
+        }
+      },
+      "bar-piquette": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 1020
+        }
+      },
+      "aleria": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 1020
+        }
+      },
+      "painted-lady": {
+        "kind": "none"
+      },
+      "sweaty-bettys": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 1020
+        }
+      },
+      "bar-koukla": {
+        "kind": "live",
+        "minutesLeft": 10,
+        "endsAt": 1440,
+        "progress": 0.9444
+      },
+      "bar-roma": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 1020
+        }
+      },
+      "bar-poet": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 720
+        }
+      },
+      "grape-witches": {
+        "kind": "none",
+        "next": {
+          "day": 4,
+          "startsAt": 900
+        }
+      }
+    }
+  },
+  {
+    "label": "Thu 9:00 PM",
+    "clock": {
+      "day": 4,
+      "minutes": 1260
+    },
+    "statuses": {
+      "central": {
+        "kind": "live",
+        "minutesLeft": 180,
+        "endsAt": 1440,
+        "progress": 0
+      },
+      "azhar": {
+        "kind": "none",
+        "next": {
+          "day": 5,
+          "startsAt": 960
+        }
+      },
+      "manita": {
+        "kind": "none",
+        "next": {
+          "day": 1,
+          "startsAt": 900
+        }
+      },
+      "bar-libretto": {
+        "kind": "live",
+        "minutesLeft": 120,
+        "endsAt": 1380,
+        "progress": 0
+      },
+      "rhapsody": {
+        "kind": "live",
+        "minutesLeft": 60,
+        "endsAt": 1320,
+        "progress": 0.5
+      },
+      "la-chingada": {
+        "kind": "none",
+        "next": {
+          "day": 5,
+          "startsAt": 960
+        }
+      },
+      "gloria": {
+        "kind": "none",
+        "next": {
+          "day": 5,
+          "startsAt": 1020
+        }
+      },
+      "poetry-jazz-cafe": {
+        "kind": "none",
+        "next": {
+          "day": 5,
+          "startsAt": 1080
+        }
+      },
+      "bar-piquette": {
+        "kind": "none",
+        "next": {
+          "day": 5,
+          "startsAt": 1020
+        }
+      },
+      "aleria": {
+        "kind": "soon",
+        "startsIn": 60,
+        "startsAt": 1320
+      },
+      "painted-lady": {
+        "kind": "none",
+        "next": {
+          "day": 3,
+          "startsAt": 1080
+        }
+      },
+      "sweaty-bettys": {
+        "kind": "none",
+        "next": {
+          "day": 5,
+          "startsAt": 1020
+        }
+      },
+      "bar-koukla": {
+        "kind": "live",
+        "minutesLeft": 180,
+        "endsAt": 1440,
+        "progress": 0
+      },
+      "bar-roma": {
+        "kind": "none",
+        "next": {
+          "day": 5,
+          "startsAt": 1020
+        }
+      },
+      "bar-poet": {
+        "kind": "none",
+        "next": {
+          "day": 5,
+          "startsAt": 720
+        }
+      },
+      "grape-witches": {
+        "kind": "none",
+        "next": {
+          "day": 5,
+          "startsAt": 900
+        }
+      }
+    }
+  },
+  {
+    "label": "Fri 5:30 PM",
+    "clock": {
+      "day": 5,
+      "minutes": 1050
+    },
+    "statuses": {
+      "central": {
+        "kind": "none",
+        "next": {
+          "day": 6,
+          "startsAt": 840
+        }
+      },
+      "azhar": {
+        "kind": "live",
+        "minutesLeft": 30,
+        "endsAt": 1080,
+        "progress": 0.75
+      },
+      "manita": {
+        "kind": "none",
+        "next": {
+          "day": 1,
+          "startsAt": 900
+        }
+      },
+      "bar-libretto": {
+        "kind": "live",
+        "minutesLeft": 30,
+        "endsAt": 1080,
+        "progress": 0.75
+      },
+      "rhapsody": {
+        "kind": "later",
+        "startsIn": 150,
+        "startsAt": 1200
+      },
+      "la-chingada": {
+        "kind": "live",
+        "minutesLeft": 90,
+        "endsAt": 1140,
+        "progress": 0.5
+      },
+      "gloria": {
+        "kind": "live",
+        "minutesLeft": 90,
+        "endsAt": 1140,
+        "progress": 0.25
+      },
+      "poetry-jazz-cafe": {
+        "kind": "soon",
+        "startsIn": 30,
+        "startsAt": 1080
+      },
+      "bar-piquette": {
+        "kind": "live",
+        "minutesLeft": 90,
+        "endsAt": 1140,
+        "progress": 0.25
+      },
+      "aleria": {
+        "kind": "later",
+        "startsIn": 270,
+        "startsAt": 1320
+      },
+      "painted-lady": {
+        "kind": "none",
+        "next": {
+          "day": 3,
+          "startsAt": 1080
+        }
+      },
+      "sweaty-bettys": {
+        "kind": "live",
+        "minutesLeft": 90,
+        "endsAt": 1140,
+        "progress": 0.25
+      },
+      "bar-koukla": {
+        "kind": "live",
+        "minutesLeft": 120,
+        "endsAt": 1170,
+        "progress": 0
+      },
+      "bar-roma": {
+        "kind": "live",
+        "minutesLeft": 90,
+        "endsAt": 1140,
+        "progress": 0.25
+      },
+      "bar-poet": {
+        "kind": "none",
+        "next": {
+          "day": 1,
+          "startsAt": 720
+        }
+      },
+      "grape-witches": {
+        "kind": "live",
+        "minutesLeft": 30,
+        "endsAt": 1080,
+        "progress": 0.8333
+      }
+    }
+  },
+  {
+    "label": "Sat 1:15 AM",
+    "clock": {
+      "day": 6,
+      "minutes": 75
+    },
+    "statuses": {
+      "central": {
+        "kind": "later",
+        "startsIn": 765,
+        "startsAt": 840
+      },
+      "azhar": {
+        "kind": "later",
+        "startsIn": 825,
+        "startsAt": 900
+      },
+      "manita": {
+        "kind": "none",
+        "next": {
+          "day": 1,
+          "startsAt": 900
+        }
+      },
+      "bar-libretto": {
+        "kind": "later",
+        "startsIn": 885,
+        "startsAt": 960
+      },
+      "rhapsody": {
+        "kind": "live",
+        "minutesLeft": 45,
+        "endsAt": 1560,
+        "progress": 0.25
+      },
+      "la-chingada": {
+        "kind": "later",
+        "startsIn": 885,
+        "startsAt": 960
+      },
+      "gloria": {
+        "kind": "later",
+        "startsIn": 945,
+        "startsAt": 1020
+      },
+      "poetry-jazz-cafe": {
+        "kind": "later",
+        "startsIn": 1005,
+        "startsAt": 1080
+      },
+      "bar-piquette": {
+        "kind": "none",
+        "next": {
+          "day": 0,
+          "startsAt": 1020
+        }
+      },
+      "aleria": {
+        "kind": "live",
+        "minutesLeft": 45,
+        "endsAt": 1560,
+        "progress": 0.8125
+      },
+      "painted-lady": {
+        "kind": "none",
+        "next": {
+          "day": 3,
+          "startsAt": 1080
+        }
+      },
+      "sweaty-bettys": {
+        "kind": "none",
+        "next": {
+          "day": 1,
+          "startsAt": 1020
+        }
+      },
+      "bar-koukla": {
+        "kind": "later",
+        "startsIn": 975,
+        "startsAt": 1050
+      },
+      "bar-roma": {
+        "kind": "none",
+        "next": {
+          "day": 2,
+          "startsAt": 1020
+        }
+      },
+      "bar-poet": {
+        "kind": "none",
+        "next": {
+          "day": 1,
+          "startsAt": 720
+        }
+      },
+      "grape-witches": {
+        "kind": "none",
+        "next": {
+          "day": 1,
+          "startsAt": 900
+        }
+      }
+    }
+  },
+  {
+    "label": "Sun 11:00 AM",
+    "clock": {
+      "day": 0,
+      "minutes": 660
+    },
+    "statuses": {
+      "central": {
+        "kind": "later",
+        "startsIn": 180,
+        "startsAt": 840
+      },
+      "azhar": {
+        "kind": "later",
+        "startsIn": 240,
+        "startsAt": 900
+      },
+      "manita": {
+        "kind": "none",
+        "next": {
+          "day": 1,
+          "startsAt": 900
+        }
+      },
+      "bar-libretto": {
+        "kind": "none",
+        "next": {
+          "day": 3,
+          "startsAt": 960
+        }
+      },
+      "rhapsody": {
+        "kind": "later",
+        "startsIn": 540,
+        "startsAt": 1200
+      },
+      "la-chingada": {
+        "kind": "later",
+        "startsIn": 300,
+        "startsAt": 960
+      },
+      "gloria": {
+        "kind": "later",
+        "startsIn": 360,
+        "startsAt": 1020
+      },
+      "poetry-jazz-cafe": {
+        "kind": "none",
+        "next": {
+          "day": 2,
+          "startsAt": 1080
+        }
+      },
+      "bar-piquette": {
+        "kind": "later",
+        "startsIn": 360,
+        "startsAt": 1020
+      },
+      "aleria": {
+        "kind": "none",
+        "next": {
+          "day": 1,
+          "startsAt": 1020
+        }
+      },
+      "painted-lady": {
+        "kind": "none",
+        "next": {
+          "day": 3,
+          "startsAt": 1080
+        }
+      },
+      "sweaty-bettys": {
+        "kind": "none",
+        "next": {
+          "day": 1,
+          "startsAt": 1020
+        }
+      },
+      "bar-koukla": {
+        "kind": "later",
+        "startsIn": 390,
+        "startsAt": 1050
+      },
+      "bar-roma": {
+        "kind": "none",
+        "next": {
+          "day": 2,
+          "startsAt": 1020
+        }
+      },
+      "bar-poet": {
+        "kind": "none",
+        "next": {
+          "day": 1,
+          "startsAt": 720
+        }
+      },
+      "grape-witches": {
+        "kind": "none",
+        "next": {
+          "day": 1,
+          "startsAt": 900
+        }
+      }
+    }
+  }
+]

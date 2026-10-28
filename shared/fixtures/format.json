@@ -1,0 +1,883 @@
+{
+  "time": [
+    {
+      "minutes": 0,
+      "full": "12:00 AM",
+      "compact": "12 AM"
+    },
+    {
+      "minutes": 30,
+      "full": "12:30 AM",
+      "compact": "12:30 AM"
+    },
+    {
+      "minutes": 59,
+      "full": "12:59 AM",
+      "compact": "12:59 AM"
+    },
+    {
+      "minutes": 60,
+      "full": "1:00 AM",
+      "compact": "1 AM"
+    },
+    {
+      "minutes": 719,
+      "full": "11:59 AM",
+      "compact": "11:59 AM"
+    },
+    {
+      "minutes": 720,
+      "full": "12:00 PM",
+      "compact": "12 PM"
+    },
+    {
+      "minutes": 725,
+      "full": "12:05 PM",
+      "compact": "12:05 PM"
+    },
+    {
+      "minutes": 1020,
+      "full": "5:00 PM",
+      "compact": "5 PM"
+    },
+    {
+      "minutes": 1050,
+      "full": "5:30 PM",
+      "compact": "5:30 PM"
+    },
+    {
+      "minutes": 1439,
+      "full": "11:59 PM",
+      "compact": "11:59 PM"
+    },
+    {
+      "minutes": 1440,
+      "full": "12:00 AM",
+      "compact": "12 AM"
+    },
+    {
+      "minutes": 1515,
+      "full": "1:15 AM",
+      "compact": "1:15 AM"
+    }
+  ],
+  "range": [
+    {
+      "start": 960,
+      "end": 1080,
+      "text": "4–6 PM"
+    },
+    {
+      "start": 660,
+      "end": 780,
+      "text": "11 AM–1 PM"
+    },
+    {
+      "start": 1260,
+      "end": 1560,
+      "text": "9 PM–2 AM"
+    },
+    {
+      "start": 1050,
+      "end": 1170,
+      "text": "5:30–7:30 PM"
+    },
+    {
+      "start": 1320,
+      "end": 1440,
+      "text": "10 PM–12 AM"
+    }
+  ],
+  "duration": [
+    {
+      "minutes": 5,
+      "text": "5 min"
+    },
+    {
+      "minutes": 45,
+      "text": "45 min"
+    },
+    {
+      "minutes": 60,
+      "text": "1h"
+    },
+    {
+      "minutes": 80,
+      "text": "1h 20m"
+    },
+    {
+      "minutes": 125,
+      "text": "2h 5m"
+    },
+    {
+      "minutes": 180,
+      "text": "3h"
+    }
+  ],
+  "days": [
+    {
+      "days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "text": "Daily"
+    },
+    {
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "text": "Mon–Fri"
+    },
+    {
+      "days": [
+        0,
+        6
+      ],
+      "text": "Weekends"
+    },
+    {
+      "days": [
+        5,
+        6
+      ],
+      "text": "Fri, Sat"
+    },
+    {
+      "days": [
+        2,
+        4
+      ],
+      "text": "Tue, Thu"
+    },
+    {
+      "days": [
+        3
+      ],
+      "text": "Wed"
+    }
+  ],
+  "special": [
+    {
+      "special": {
+        "kind": "food",
+        "item": "oysters",
+        "price": 2.5
+      },
+      "text": "$2.50 Oysters"
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "pints",
+        "price": 6
+      },
+      "text": "$6 Pints"
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Half-price wine bottles"
+      },
+      "text": "Half-Price Wine Bottles"
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "all-you-can-eat tacos (1 hour)",
+        "price": 29.95
+      },
+      "text": "$29.95 All-You-Can-Eat Tacos (1 hour)"
+    }
+  ],
+  "item": [
+    {
+      "item": "$1 off highballs",
+      "text": "$1 Off Highballs"
+    },
+    {
+      "item": "$1 off pints",
+      "text": "$1 Off Pints"
+    },
+    {
+      "item": "$1/oz wine on tap",
+      "text": "$1/oz Wine on Tap"
+    },
+    {
+      "item": "$3 off large macs",
+      "text": "$3 Off Large Macs"
+    },
+    {
+      "item": "20% off snacks",
+      "text": "20% Off Snacks"
+    },
+    {
+      "item": "5 oz Terre dei Penati bianco or rosso",
+      "text": "5 oz Terre dei Penati Bianco or Rosso"
+    },
+    {
+      "item": "8 oz house red or white",
+      "text": "8 oz House Red or White"
+    },
+    {
+      "item": "A few snacks at special prices",
+      "text": "A Few Snacks at Special Prices"
+    },
+    {
+      "item": "Aperitivo specials: spritzes, mimosas, rum punch, craft beer",
+      "text": "Aperitivo Specials: Spritzes, Mimosas, Rum Punch, Craft Beer"
+    },
+    {
+      "item": "Budweiser or Michelob Ultra pitchers",
+      "text": "Budweiser or Michelob Ultra Pitchers"
+    },
+    {
+      "item": "Budweiser pints",
+      "text": "Budweiser Pints"
+    },
+    {
+      "item": "Burdock Ducks IPA",
+      "text": "Burdock Ducks IPA"
+    },
+    {
+      "item": "Burdock beer cans",
+      "text": "Burdock Beer Cans"
+    },
+    {
+      "item": "Caesars",
+      "text": "Caesars"
+    },
+    {
+      "item": "Dad Beer",
+      "text": "Dad Beer"
+    },
+    {
+      "item": "Estrella Damm",
+      "text": "Estrella Damm"
+    },
+    {
+      "item": "Free bites",
+      "text": "Free Bites"
+    },
+    {
+      "item": "Goldstar",
+      "text": "Goldstar"
+    },
+    {
+      "item": "Greek wine",
+      "text": "Greek Wine"
+    },
+    {
+      "item": "Half-price Greek wine bottles",
+      "text": "Half-Price Greek Wine Bottles"
+    },
+    {
+      "item": "Half-price bar rail",
+      "text": "Half-Price Bar Rail"
+    },
+    {
+      "item": "Half-price bottles",
+      "text": "Half-Price Bottles"
+    },
+    {
+      "item": "Half-price meze",
+      "text": "Half-Price Meze"
+    },
+    {
+      "item": "Half-price select wine bottles",
+      "text": "Half-Price Select Wine Bottles"
+    },
+    {
+      "item": "Half-price wine bottles",
+      "text": "Half-Price Wine Bottles"
+    },
+    {
+      "item": "Half-price wine bottles (whole list)",
+      "text": "Half-Price Wine Bottles (whole list)"
+    },
+    {
+      "item": "Half-price wine, by the glass or bottle",
+      "text": "Half-Price Wine, by the Glass or Bottle"
+    },
+    {
+      "item": "Hypnotic or Cool Relax cocktails",
+      "text": "Hypnotic or Cool Relax Cocktails"
+    },
+    {
+      "item": "Jameson shots",
+      "text": "Jameson Shots"
+    },
+    {
+      "item": "Korean lagers",
+      "text": "Korean Lagers"
+    },
+    {
+      "item": "Manita burger & fries (reg. $31)",
+      "text": "Manita Burger & Fries (reg. $31)"
+    },
+    {
+      "item": "Mexican lagers",
+      "text": "Mexican Lagers"
+    },
+    {
+      "item": "Mythos lager",
+      "text": "Mythos Lager"
+    },
+    {
+      "item": "OG Shaft on Draft",
+      "text": "OG Shaft on Draft"
+    },
+    {
+      "item": "Off-menu grill special, new each week",
+      "text": "Off-Menu Grill Special, New Each Week"
+    },
+    {
+      "item": "Poet IPA",
+      "text": "Poet IPA"
+    },
+    {
+      "item": "Poet Lager",
+      "text": "Poet Lager"
+    },
+    {
+      "item": "Saigon beers",
+      "text": "Saigon Beers"
+    },
+    {
+      "item": "Select bites (prices not published)",
+      "text": "Select Bites (prices not published)"
+    },
+    {
+      "item": "Select cocktails & food (prices not published)",
+      "text": "Select Cocktails & Food (prices not published)"
+    },
+    {
+      "item": "Selected wines by the glass (prices not published)",
+      "text": "Selected Wines by the Glass (prices not published)"
+    },
+    {
+      "item": "Set-price family-style meal for 4–5",
+      "text": "Set-Price Family-Style Meal for 4–5"
+    },
+    {
+      "item": "Shaft on Draft",
+      "text": "Shaft on Draft"
+    },
+    {
+      "item": "Singha",
+      "text": "Singha"
+    },
+    {
+      "item": "Smoked prime rib (pre-order)",
+      "text": "Smoked Prime Rib (pre-order)"
+    },
+    {
+      "item": "Thai iced tea highballs",
+      "text": "Thai Iced Tea Highballs"
+    },
+    {
+      "item": "Tiger beers",
+      "text": "Tiger Beers"
+    },
+    {
+      "item": "all-you-can-eat tacos (1 hour)",
+      "text": "All-You-Can-Eat Tacos (1 hour)"
+    },
+    {
+      "item": "any 3 tacos",
+      "text": "Any 3 Tacos"
+    },
+    {
+      "item": "arak",
+      "text": "Arak"
+    },
+    {
+      "item": "arak lemonade",
+      "text": "Arak Lemonade"
+    },
+    {
+      "item": "bar rail",
+      "text": "Bar Rail"
+    },
+    {
+      "item": "beer & cider",
+      "text": "Beer & Cider"
+    },
+    {
+      "item": "bites",
+      "text": "Bites"
+    },
+    {
+      "item": "bottled beer",
+      "text": "Bottled Beer"
+    },
+    {
+      "item": "bottles of Veuve",
+      "text": "Bottles of Veuve"
+    },
+    {
+      "item": "carnitas tacos",
+      "text": "Carnitas Tacos"
+    },
+    {
+      "item": "cava",
+      "text": "Cava"
+    },
+    {
+      "item": "caviar flight (3 bites)",
+      "text": "Caviar Flight (3 bites)"
+    },
+    {
+      "item": "champagne",
+      "text": "Champagne"
+    },
+    {
+      "item": "cheddar perogies",
+      "text": "Cheddar Perogies"
+    },
+    {
+      "item": "cheese & charcuterie",
+      "text": "Cheese & Charcuterie"
+    },
+    {
+      "item": "cheeseburger",
+      "text": "Cheeseburger"
+    },
+    {
+      "item": "cheeseburger sliders (min 2)",
+      "text": "Cheeseburger Sliders (min 2)"
+    },
+    {
+      "item": "classic cocktails",
+      "text": "Classic Cocktails"
+    },
+    {
+      "item": "classic margaritas",
+      "text": "Classic Margaritas"
+    },
+    {
+      "item": "classic margaritas (2 oz)",
+      "text": "Classic Margaritas (2 oz)"
+    },
+    {
+      "item": "classic martinis",
+      "text": "Classic Martinis"
+    },
+    {
+      "item": "cocktails",
+      "text": "Cocktails"
+    },
+    {
+      "item": "crispy chili salmon roll",
+      "text": "Crispy Chili Salmon Roll"
+    },
+    {
+      "item": "croquetas",
+      "text": "Croquetas"
+    },
+    {
+      "item": "daiquiris",
+      "text": "Daiquiris"
+    },
+    {
+      "item": "dips: hummus, muhammara, babaganoush, labneh",
+      "text": "Dips: Hummus, Muhammara, Babaganoush, Labneh"
+    },
+    {
+      "item": "double nachos & 2 margaritas",
+      "text": "Double Nachos & 2 Margaritas"
+    },
+    {
+      "item": "draft beer",
+      "text": "Draft Beer"
+    },
+    {
+      "item": "draught",
+      "text": "Draught"
+    },
+    {
+      "item": "drinks",
+      "text": "Drinks"
+    },
+    {
+      "item": "espresso martinis (2 oz)",
+      "text": "Espresso Martinis (2 oz)"
+    },
+    {
+      "item": "falafel",
+      "text": "Falafel"
+    },
+    {
+      "item": "feature beers",
+      "text": "Feature Beers"
+    },
+    {
+      "item": "fish & chips",
+      "text": "Fish & Chips"
+    },
+    {
+      "item": "foie gras takoyaki",
+      "text": "Foie Gras Takoyaki"
+    },
+    {
+      "item": "fried chicken bites",
+      "text": "Fried Chicken Bites"
+    },
+    {
+      "item": "frites",
+      "text": "Frites"
+    },
+    {
+      "item": "glasses of wine",
+      "text": "Glasses of Wine"
+    },
+    {
+      "item": "grilled skewers",
+      "text": "Grilled Skewers"
+    },
+    {
+      "item": "half Cubanos",
+      "text": "Half Cubanos"
+    },
+    {
+      "item": "half ceviche",
+      "text": "Half Ceviche"
+    },
+    {
+      "item": "half pints",
+      "text": "Half Pints"
+    },
+    {
+      "item": "happy hour food (12 dishes)",
+      "text": "Happy Hour Food (12 dishes)"
+    },
+    {
+      "item": "highballs",
+      "text": "Highballs"
+    },
+    {
+      "item": "highballs (1 oz)",
+      "text": "Highballs (1 oz)"
+    },
+    {
+      "item": "house beer",
+      "text": "House Beer"
+    },
+    {
+      "item": "house cocktails",
+      "text": "House Cocktails"
+    },
+    {
+      "item": "house martinis",
+      "text": "House Martinis"
+    },
+    {
+      "item": "house pints",
+      "text": "House Pints"
+    },
+    {
+      "item": "house red",
+      "text": "House Red"
+    },
+    {
+      "item": "house wine",
+      "text": "House Wine"
+    },
+    {
+      "item": "house wine (7 oz)",
+      "text": "House Wine (7 oz)"
+    },
+    {
+      "item": "hummus & bread",
+      "text": "Hummus & Bread"
+    },
+    {
+      "item": "local craft pints",
+      "text": "Local Craft Pints"
+    },
+    {
+      "item": "margaritas",
+      "text": "Margaritas"
+    },
+    {
+      "item": "margheritas",
+      "text": "Margheritas"
+    },
+    {
+      "item": "martinis",
+      "text": "Martinis"
+    },
+    {
+      "item": "martinis (classic, Vesper, espresso…)",
+      "text": "Martinis (classic, Vesper, espresso…)"
+    },
+    {
+      "item": "mezcal pours",
+      "text": "Mezcal Pours"
+    },
+    {
+      "item": "mimosas",
+      "text": "Mimosas"
+    },
+    {
+      "item": "mojitos",
+      "text": "Mojitos"
+    },
+    {
+      "item": "mules (1 oz)",
+      "text": "Mules (1 oz)"
+    },
+    {
+      "item": "negronis",
+      "text": "Negronis"
+    },
+    {
+      "item": "oysters",
+      "text": "Oysters"
+    },
+    {
+      "item": "oysters (min 6)",
+      "text": "Oysters (min 6)"
+    },
+    {
+      "item": "pastrami sliders",
+      "text": "Pastrami Sliders"
+    },
+    {
+      "item": "pho + spring roll combo",
+      "text": "Pho + Spring Roll Combo"
+    },
+    {
+      "item": "pints",
+      "text": "Pints"
+    },
+    {
+      "item": "pints of lager",
+      "text": "Pints of Lager"
+    },
+    {
+      "item": "pintxos trio",
+      "text": "Pintxos Trio"
+    },
+    {
+      "item": "pizza + salad combo",
+      "text": "Pizza + Salad Combo"
+    },
+    {
+      "item": "rail highballs",
+      "text": "Rail Highballs"
+    },
+    {
+      "item": "rail shots",
+      "text": "Rail Shots"
+    },
+    {
+      "item": "roti canai",
+      "text": "Roti Canai"
+    },
+    {
+      "item": "rum flights",
+      "text": "Rum Flights"
+    },
+    {
+      "item": "rye & gingers",
+      "text": "Rye & Gingers"
+    },
+    {
+      "item": "sake",
+      "text": "Sake"
+    },
+    {
+      "item": "salmon crudo or lamb kebab",
+      "text": "Salmon Crudo or Lamb Kebab"
+    },
+    {
+      "item": "sangria",
+      "text": "Sangria"
+    },
+    {
+      "item": "shot of the day",
+      "text": "Shot of the Day"
+    },
+    {
+      "item": "shots",
+      "text": "Shots"
+    },
+    {
+      "item": "signature cocktails",
+      "text": "Signature Cocktails"
+    },
+    {
+      "item": "signature margaritas",
+      "text": "Signature Margaritas"
+    },
+    {
+      "item": "six-course dinner (per person)",
+      "text": "Six-Course Dinner (per person)"
+    },
+    {
+      "item": "slices",
+      "text": "Slices"
+    },
+    {
+      "item": "small macs",
+      "text": "Small Macs"
+    },
+    {
+      "item": "small pho",
+      "text": "Small Pho"
+    },
+    {
+      "item": "snack plates",
+      "text": "Snack Plates"
+    },
+    {
+      "item": "soju cocktails",
+      "text": "Soju Cocktails"
+    },
+    {
+      "item": "soju shots",
+      "text": "Soju Shots"
+    },
+    {
+      "item": "spicy California roll",
+      "text": "Spicy California Roll"
+    },
+    {
+      "item": "spreads & pita",
+      "text": "Spreads & Pita"
+    },
+    {
+      "item": "spring rolls",
+      "text": "Spring Rolls"
+    },
+    {
+      "item": "spritzes",
+      "text": "Spritzes"
+    },
+    {
+      "item": "steak frites",
+      "text": "Steak Frites"
+    },
+    {
+      "item": "super-loaded nachos & a margarita",
+      "text": "Super-Loaded Nachos & a Margarita"
+    },
+    {
+      "item": "tacos",
+      "text": "Tacos"
+    },
+    {
+      "item": "tallboys",
+      "text": "Tallboys"
+    },
+    {
+      "item": "tasting flights",
+      "text": "Tasting Flights"
+    },
+    {
+      "item": "truffle fries",
+      "text": "Truffle Fries"
+    },
+    {
+      "item": "upstairs cocktails",
+      "text": "Upstairs Cocktails"
+    },
+    {
+      "item": "veggie burger & fries",
+      "text": "Veggie Burger & Fries"
+    },
+    {
+      "item": "vin du moment",
+      "text": "Vin du Moment"
+    },
+    {
+      "item": "well drinks",
+      "text": "Well Drinks"
+    },
+    {
+      "item": "wine by the glass",
+      "text": "Wine by the Glass"
+    },
+    {
+      "item": "wine on tap",
+      "text": "Wine on Tap"
+    },
+    {
+      "item": "wings",
+      "text": "Wings"
+    },
+    {
+      "item": "wings (1 lb)",
+      "text": "Wings (1 lb)"
+    },
+    {
+      "item": "wings (per lb)",
+      "text": "Wings (per lb)"
+    },
+    {
+      "item": "za'atar fries with a martini",
+      "text": "Za'atar Fries with a Martini"
+    },
+    {
+      "item": "za'atar fries, pickles & olives or falafel",
+      "text": "Za'atar Fries, Pickles & Olives or Falafel"
+    }
+  ],
+  "pinLabel": [
+    {
+      "specials": [
+        {
+          "kind": "drink",
+          "item": "pints",
+          "price": 6
+        },
+        {
+          "kind": "food",
+          "item": "oysters",
+          "price": 2.5
+        }
+      ],
+      "text": "$2.50 Oysters"
+    },
+    {
+      "specials": [
+        {
+          "kind": "drink",
+          "item": "Selected wines by the glass (prices not published)"
+        }
+      ],
+      "text": "Selected Wines by…"
+    }
+  ],
+  "distance": [
+    {
+      "meters": 5,
+      "text": "10 m"
+    },
+    {
+      "meters": 94,
+      "text": "90 m"
+    },
+    {
+      "meters": 950,
+      "text": "950 m"
+    },
+    {
+      "meters": 1000,
+      "text": "1.0 km"
+    },
+    {
+      "meters": 1549,
+      "text": "1.5 km"
+    }
+  ]
+}

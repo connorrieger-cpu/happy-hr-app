@@ -1,0 +1,214 @@
+.pin {
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+/* Google Maps sets pointer-events: none on marker content; the pin's own
+   button (dot + label) opts back in so taps open the venue. */
+.pin__hit,
+.pin__hit * {
+  pointer-events: auto;
+}
+
+.pin__hit {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  font: inherit;
+}
+
+/* Generous invisible tap target around the dot. */
+.pin__hit::after {
+  content: '';
+  position: absolute;
+  left: -16px;
+  top: -16px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+
+.pin__dot {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 9px;
+  height: 9px;
+  translate: -50% -50%;
+  border-radius: 50%;
+  background: rgb(255 248 225 / 0.55);
+  border: 1.5px solid rgb(14 11 5 / 0.6);
+  transition:
+    scale 0.25s var(--ease-out),
+    background 0.2s;
+}
+
+/* Restaurants and bars with no known happy hour: present, but quiet. */
+.pin--quiet .pin__dot {
+  width: 7px;
+  height: 7px;
+  background: rgb(255 248 225 / 0.32);
+  border: 1px solid rgb(14 11 5 / 0.45);
+}
+
+.pin--quiet .pin__hit::after {
+  left: -11px;
+  top: -11px;
+  width: 22px;
+  height: 22px;
+}
+
+/* A quiet spot with a daily special today: a faint honey ring. */
+.pin--quiet.pin--special .pin__dot {
+  border-color: rgb(255 214 10 / 0.8);
+  background: rgb(255 214 10 / 0.25);
+}
+
+/* Daily specials view: every spot shown has a special today. */
+.pin--daily .pin__dot {
+  width: 12px;
+  height: 12px;
+  background: var(--ink-800);
+  border: 2.5px solid var(--honey-400);
+}
+
+.pin--daily .pin__label {
+  color: var(--on-honey);
+}
+
+.pin--soon .pin__dot {
+  width: 12px;
+  height: 12px;
+  background: var(--ink-800);
+  border: 2.5px solid var(--honey-400);
+}
+
+.pin--live .pin__dot {
+  width: 14px;
+  height: 14px;
+  background: radial-gradient(circle at 35% 30%, #fffbe0, var(--honey-400) 55%, var(--amber-600));
+  border: 2px solid #fff8d6;
+  box-shadow: var(--honey-glow);
+}
+
+.pin--live .pin__dot::before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  border-radius: 50%;
+  border: 2px solid var(--honey-400);
+  animation: pin-pulse 2.2s ease-out infinite;
+}
+
+@keyframes pin-pulse {
+  from {
+    scale: 1;
+    opacity: 0.85;
+  }
+  to {
+    scale: 3.2;
+    opacity: 0;
+  }
+}
+
+.pin.is-selected .pin__dot {
+  scale: 1.45;
+}
+
+.pin__label {
+  position: absolute;
+  top: 0;
+  translate: 0 -50%;
+  padding: 6px 11px;
+  border-radius: var(--radius-pill);
+  white-space: nowrap;
+  font: 700 12.5px/1 var(--font-ui);
+  letter-spacing: -0.01em;
+  color: var(--text);
+  transition: scale 0.2s var(--ease-out);
+  --glass-blur: 10px;
+}
+
+.pin__label--right {
+  left: 11px;
+  transform-origin: left center;
+}
+
+.pin__label--left {
+  right: 11px;
+  transform-origin: right center;
+}
+
+.pin--live .pin__label {
+  color: var(--on-honey);
+}
+
+.pin__hit:hover .pin__label {
+  scale: 1.06;
+}
+
+.pin__name {
+  position: absolute;
+  left: 0;
+  bottom: 16px;
+  translate: -50% 0;
+  padding: 7px 12px;
+  border-radius: var(--radius-pill);
+  white-space: nowrap;
+  font: 700 13px/1 var(--font-ui);
+  color: var(--text);
+  pointer-events: none;
+  animation: name-in 0.3s var(--ease-out);
+}
+
+@keyframes name-in {
+  from {
+    opacity: 0;
+    translate: -50% 6px;
+  }
+}
+
+.user-dot {
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+.user-dot span,
+.user-dot::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  translate: -50% -50%;
+  border-radius: 50%;
+}
+
+.user-dot span {
+  width: 16px;
+  height: 16px;
+  background: #fff;
+  border: 4px solid #3d8bff;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 0.4);
+}
+
+.user-dot::before {
+  content: '';
+  width: 56px;
+  height: 56px;
+  background: rgb(61 139 255 / 0.18);
+  animation: pin-pulse 2.6s ease-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pin--live .pin__dot::before,
+  .user-dot::before {
+    animation: none;
+  }
+}

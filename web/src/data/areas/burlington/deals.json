@@ -1,0 +1,5600 @@
+[
+  {
+    "placeId": "ChIJgRz991afLIgRAxwmk7y1fGg",
+    "id": "bardo",
+    "name": "Bardō",
+    "category": "Italian kitchen",
+    "vibe": "restaurant",
+    "food": [
+      "pizza",
+      "pasta"
+    ],
+    "tags": [
+      "Sunday brunch"
+    ],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Pizza + Pints",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "personal pizzas",
+            "price": 13
+          },
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 8
+          }
+        ],
+        "note": "With any drink; a limited-time offer"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wine Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          }
+        ],
+        "start": 660,
+        "note": "11 am to close"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Bardō Brant St Burlington page",
+        "url": "https://bardorestaurants.ca/brant-st-burlington/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJFZb5G56fLIgRGn4e2pdeBgE",
+    "id": "prime-steak-raw-bar",
+    "name": "Prime Steak + Raw Bar",
+    "category": "Steakhouse and raw bar",
+    "vibe": "restaurant",
+    "food": [
+      "steak",
+      "oysters",
+      "sushi"
+    ],
+    "tags": [
+      "Oysters",
+      "A5 Kobe beef"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "oysters",
+            "price": 2
+          },
+          {
+            "kind": "food",
+            "item": "yellowfin nigiri or sashimi",
+            "price": 2.5
+          },
+          {
+            "kind": "food",
+            "item": "truffle fries",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails",
+            "price": 12
+          },
+          {
+            "kind": "drink",
+            "item": "draught pints",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "8 oz wine for the price of 5 oz"
+          },
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          }
+        ],
+        "note": "Dine-in only; half-price bottles are those listed at $100 or less"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Prime happy hour page",
+        "url": "https://primesteakandrawbar.ca/happy-hour/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://primesteakandrawbar.ca/happy-hour/"
+  },
+  {
+    "placeId": "ChIJbyXoqkKfLIgRNYzCRb3GaoY",
+    "id": "radius-on-brant",
+    "name": "radius on Brant",
+    "category": "Restaurant and lounge",
+    "vibe": "restaurant",
+    "tags": [
+      "Cocktails"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "small plates",
+            "price": 15
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails",
+            "price": 15
+          },
+          {
+            "kind": "drink",
+            "item": "9 oz wine for the price of 6 oz"
+          }
+        ],
+        "note": "One happy-hour menu for radius’s Hamilton and Burlington rooms; Brant St is closed Mondays"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Spritz + Craft Tuesdays",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "spritzes",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "craft beers",
+            "price": 6
+          }
+        ],
+        "note": "From radius’s weekly lineup, which doesn’t say which room"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wine Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "50% off select wine"
+          }
+        ],
+        "note": "From radius’s weekly lineup, which doesn’t say which room"
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Melody + Martini Thursdays",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 12
+          }
+        ],
+        "note": "From radius’s weekly lineup, which doesn’t say which room"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "radius happy hour menu (fall 2026 PDF)",
+        "url": "https://radius.ca/wp-content/uploads/2026/10/Radius-Happy-Hour-Menu-FALL-2026V2.pdf",
+        "date": "2026-10"
+      },
+      {
+        "label": "radius weekly lineup",
+        "url": "https://radius.ca/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://radius.ca/radius-happy-hour-menu/"
+  },
+  {
+    "placeId": "ChIJteGht-2fLIgR8kZrE6LhQC4",
+    "id": "blk-swan-downtown",
+    "name": "Blk Swan Kitchen Hub",
+    "category": "Pub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings"
+    ],
+    "tags": [
+      "Live music",
+      "Trivia Wednesdays"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 690,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Bud or Bud Light pints",
+            "price": 7.99
+          }
+        ]
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "title": "House pints",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Swan Lager or BD Currency pints",
+            "price": 6.49
+          }
+        ],
+        "note": "Every day"
+      },
+      {
+        "days": [
+          1,
+          2
+        ],
+        "title": "Wing O Mania",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          }
+        ],
+        "start": 900,
+        "note": "After 3 pm; dine-in with a drink"
+      },
+      {
+        "days": [
+          1,
+          0
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "$2 off tall cans"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Pub grub Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "pub grub",
+            "price": 17.99
+          },
+          {
+            "kind": "drink",
+            "item": "9 oz wine for the price of 6 oz"
+          }
+        ],
+        "note": "Trivia at 7:45 pm"
+      },
+      {
+        "days": [
+          4
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "$5 off any pasta"
+          },
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 9
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Fish Friday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "fish and chips",
+            "price": 16.99
+          }
+        ],
+        "start": 900,
+        "note": "After 3 pm"
+      },
+      {
+        "days": [
+          6,
+          0
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Caesars",
+            "price": 6.99
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Blk Swan Downtown daily specials",
+        "url": "https://blkswan.ca/downtownburlingtonhub/dailies.html",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "aka": [
+      "Black Swan"
+    ]
+  },
+  {
+    "placeId": "ChIJ41mcvTqeLIgR0sd0Kb9ysDU",
+    "id": "pepperwood",
+    "name": "Pepperwood Bistro",
+    "category": "Bistro and brewpub",
+    "vibe": "restaurant",
+    "food": [
+      "pub"
+    ],
+    "tags": [
+      "House-brewed beer",
+      "Lakeshore patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 870,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "appetizers",
+            "price": 11
+          },
+          {
+            "kind": "drink",
+            "item": "draft pints",
+            "price": 6.25
+          },
+          {
+            "kind": "drink",
+            "item": "house wine",
+            "price": 6.25
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail",
+            "price": 5.25
+          }
+        ],
+        "note": "Orders placed 2:30–5 pm"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Pepperwood happy hour page",
+        "url": "https://pepperwood.on.ca/happy-hour/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://pepperwood.on.ca/happy-hour/"
+  },
+  {
+    "placeId": "ChIJKSbwZiWeLIgRcQz13Gsiz-E",
+    "id": "the-martini-house",
+    "name": "The Martini House",
+    "category": "Martini bar and restaurant",
+    "vibe": "cocktails",
+    "food": [
+      "pizza",
+      "pasta",
+      "oysters"
+    ],
+    "tags": [
+      "Martini list",
+      "DJ Fridays"
+    ],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Mangia Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "pizzas",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "pastas",
+            "price": 20
+          }
+        ],
+        "note": "All night"
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Tuesday Tapas",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price tapas"
+          }
+        ],
+        "note": "All night"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Date Night Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price wine"
+          }
+        ],
+        "note": "All night"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "The Martini House promotions page",
+        "url": "https://www.martinihouse.ca/what-s-happening-promotions",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJdcOAXyWeLIgRzYNIHDc0uBw",
+    "id": "the-dickens",
+    "name": "The Dickens",
+    "category": "British pub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings",
+      "burgers"
+    ],
+    "tags": [
+      "Trivia Tuesdays",
+      "Open mic Wednesdays",
+      "Karaoke Thursdays"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 720,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Social Lager",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "Budweiser or Bud Light",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "house spirits",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz Jackson-Triggs wine",
+            "price": 6
+          }
+        ],
+        "note": "Open to 5 pm"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Industry Night",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "rail, Jäger, Jameson and El Jimador",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "Budweiser or Bud Light",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          }
+        ],
+        "start": 1260,
+        "end": 1560,
+        "note": "After 9 pm"
+      },
+      {
+        "days": [
+          1
+        ],
+        "title": "Burger Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "original burger",
+            "price": 13
+          }
+        ],
+        "note": "Dine-in with a drink"
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Half-price wing Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wings, half price",
+            "price": 9.5
+          }
+        ],
+        "note": "Dine-in with a drink; trivia at 8 pm"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Appy Ending Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "25% off appetizers"
+          }
+        ],
+        "note": "Dine-in with a drink"
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Fish Friday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "one-piece haddock",
+            "price": 14
+          },
+          {
+            "kind": "food",
+            "item": "two-piece haddock",
+            "price": 20
+          }
+        ],
+        "note": "Dine-in with a drink"
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Sunday Roast",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "roast beef and Yorkshire pudding",
+            "price": 21
+          }
+        ],
+        "note": "Dine-in with a drink"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "The Dickens daily features",
+        "url": "https://thedickens.ca/daily-features.html",
+        "date": "2026-10"
+      },
+      {
+        "label": "The Dickens home page (events)",
+        "url": "https://thedickens.ca/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJaX_FBzCeLIgRSCewjITvUE0",
+    "id": "the-port-house",
+    "name": "The Port House",
+    "category": "Waterfront bar and kitchen",
+    "vibe": "bar",
+    "food": [
+      "pizza",
+      "tacos"
+    ],
+    "tags": [
+      "Lake-view patio",
+      "DJs Fri–Sat"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [],
+        "note": "Prices aren’t published"
+      },
+      {
+        "days": [
+          1,
+          2,
+          3
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [],
+        "note": "Happy hour is 3–6 pm, but it opens at 4 pm Mon–Wed; prices aren’t published"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "The Port House Burlington page (FAQ)",
+        "url": "https://theporthouse.ca/location/burlington",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJv4g8eSSeLIgRKkF6YYVz2tM",
+    "id": "joe-dogs",
+    "name": "Joe Dog’s Gasbar Grill",
+    "category": "Bar and grill",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "pizza",
+      "burgers"
+    ],
+    "tags": [
+      "Tiki bar",
+      "Dog-friendly patio",
+      "Live music Fridays"
+    ],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "Wing Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "buy-one-get-one wings"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Joe Dog’s Burlington page",
+        "url": "https://joedogs.com/burlington/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJZ__-5i-eLIgRODI_-tNluhA",
+    "id": "isabelle",
+    "name": "Isabelle",
+    "category": "Hotel restaurant and lounge",
+    "vibe": "cocktails",
+    "food": [
+      "oysters"
+    ],
+    "tags": [
+      "In the Pearle Hotel"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "oysters",
+            "price": 2.5
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "glasses of wine",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "beers",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "bottles of house wine",
+            "price": 45
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Isabelle happy hour menu",
+        "url": "https://isabelle.ca/menu/happy-hour/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://isabelle.ca/menu/happy-hour/"
+  },
+  {
+    "placeId": "ChIJ65ABXzmeLIgRmncYhd7kjAE",
+    "id": "spencers-at-the-waterfront",
+    "name": "Spencer’s at the Waterfront",
+    "category": "Waterfront restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "steak",
+      "oysters"
+    ],
+    "tags": [
+      "Lake views",
+      "Weekend brunch"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 930,
+        "end": 1050,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "highballs",
+            "price": 7.5
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas or Moscow mules",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz Cave Spring wine",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "draught pints",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "sangria",
+            "price": 16
+          }
+        ],
+        "note": "Cocktail Hour"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Half-Price Wine Tuesdays",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price select bottles"
+          }
+        ],
+        "start": 1020,
+        "note": "From 5 pm"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Shuck Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price oysters"
+          },
+          {
+            "kind": "drink",
+            "item": "bubbly",
+            "price": 30
+          }
+        ],
+        "start": 1020,
+        "note": "From 5 pm; Spencer’s lists “half-price oysters and bubbly, $30”"
+      },
+      {
+        "days": [
+          6,
+          0
+        ],
+        "title": "Weekend brunch",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "all-you-can-enjoy mimosas",
+            "price": 30
+          }
+        ],
+        "start": 660,
+        "end": 900,
+        "note": "Per guest"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Spencer’s Cocktail Hour menu",
+        "url": "https://spencers.ca/menu/cocktail-hour/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Spencer’s weekly offerings",
+        "url": "https://spencers.ca/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://spencers.ca/menu/cocktail-hour/"
+  },
+  {
+    "placeId": "ChIJlXUqUx6eLIgRe0qYWviP5f4",
+    "id": "montfort-brant",
+    "name": "Montfort Mediterranean Grill",
+    "category": "Mediterranean grill",
+    "vibe": "casual",
+    "food": [
+      "middle-eastern",
+      "greek"
+    ],
+    "tags": [],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "chicken shawarma pita and a 16 oz pint",
+            "price": 16.99
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Souvlaki Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "souvlaki special, from $16"
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Sunday Mixed Grill",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "mixed grill for two",
+            "price": 66
+          },
+          {
+            "kind": "food",
+            "item": "mixed grill for four",
+            "price": 129
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Montfort weekly specials",
+        "url": "https://montfortrestaurant.ca/weekly-special",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ60t_LxCeLIgRWRNgPpFfdQs",
+    "id": "turtle-jacks-mapleview",
+    "name": "Turtle Jack’s Mapleview",
+    "category": "Muskoka-style grill",
+    "vibe": "casual",
+    "food": [
+      "wings",
+      "burgers",
+      "steak"
+    ],
+    "tags": [],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "18 oz Canadian or Coors Light",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "sweet potato fries",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "classic burger",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "Turtle wings",
+            "price": 16
+          }
+        ]
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "start": 1200,
+        "end": 1320,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "18 oz Canadian or Coors Light",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 6
+          }
+        ],
+        "note": "8 pm to close"
+      },
+      {
+        "days": [
+          5
+        ],
+        "start": 1200,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "18 oz Canadian or Coors Light",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 6
+          }
+        ],
+        "note": "8 pm to close"
+      },
+      {
+        "days": [
+          0
+        ],
+        "start": 1200,
+        "end": 1260,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "18 oz Canadian or Coors Light",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 6
+          }
+        ],
+        "note": "8 pm to close"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Fajita Tuesdays",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "chicken fajita special with free chips and salsa"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Half-price wine night",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Turtle Jack’s Mapleview page (happy hour times)",
+        "url": "https://turtlejacks.com/locations/turtle-jacks-mapleview/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Turtle Jack’s happy hour menu",
+        "url": "https://turtlejacks.com/happy-hour/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Turtle Jack’s features and specials",
+        "url": "https://turtlejacks.com/features-and-specials/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://turtlejacks.com/happy-hour/"
+  },
+  {
+    "placeId": "ChIJC_Ixuw-eLIgRhG475MmZvuI",
+    "id": "earls-burlington",
+    "name": "Earls Kitchen + Bar",
+    "category": "Kitchen and bar",
+    "vibe": "bar",
+    "food": [
+      "sushi",
+      "oysters",
+      "pizza"
+    ],
+    "tags": [
+      "Late-night happy hour"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price cocktails and sangria"
+          },
+          {
+            "kind": "drink",
+            "item": "half-price house wine and select bottles"
+          },
+          {
+            "kind": "drink",
+            "item": "$3 off beer"
+          },
+          {
+            "kind": "food",
+            "item": "truffle fries",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "Baja tacos",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "oysters",
+            "price": 3.5
+          },
+          {
+            "kind": "food",
+            "item": "margherita pizza",
+            "price": 16
+          }
+        ],
+        "note": "Lounge, bar and patio only"
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price cocktails and sangria"
+          },
+          {
+            "kind": "drink",
+            "item": "half-price house wine and select bottles"
+          },
+          {
+            "kind": "drink",
+            "item": "$3 off beer"
+          },
+          {
+            "kind": "food",
+            "item": "truffle fries",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "Baja tacos",
+            "price": 7
+          }
+        ],
+        "note": "9 pm to close; lounge, bar and patio only"
+      },
+      {
+        "days": [
+          0,
+          6
+        ],
+        "start": 660,
+        "end": 720,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "brunch cocktails and mimosas",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "tiny espresso martinis or bellinis",
+            "price": 7
+          }
+        ],
+        "note": "Brunch happy hour, weekends and holidays until noon"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Earls Burlington page",
+        "url": "https://earls.ca/locations/burlington/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Earls Burlington menu (happy hour tab)",
+        "url": "https://earls.ca/locations/burlington/menu/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://earls.ca/locations/burlington/menu/"
+  },
+  {
+    "placeId": "ChIJ4cSAVx2eLIgRLDREcSjjzYo",
+    "id": "shooterville",
+    "name": "Shooterville Billiards Bar & Grill",
+    "category": "Billiards bar and grill",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "burgers",
+      "pub"
+    ],
+    "tags": [
+      "Pool tables"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [],
+        "note": "Prices are in an image on Shooterville’s site that couldn’t be read; ask at the bar"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Shooterville home page",
+        "url": "https://shooterville.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJK0yGHI9hK4gR41keB2QuaOI",
+    "id": "scaddabush-burlington",
+    "name": "Scaddabush Italian Kitchen & Bar",
+    "category": "Italian kitchen and bar",
+    "vibe": "restaurant",
+    "food": [
+      "pizza",
+      "pasta"
+    ],
+    "tags": [],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [],
+        "note": "Signature drinks and scratch-made pizzas; prices are on the location menu, not published as text"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "Wine Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          }
+        ],
+        "note": "All day"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Scaddabush home page, Burlington selected",
+        "url": "https://scaddabush.com/?locationId=850",
+        "date": "2026-10"
+      },
+      {
+        "label": "Scaddabush happy hour page",
+        "url": "https://scaddabush.com/happy-hour/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJkfwK_PthK4gRF6r_efrK5lY",
+    "id": "milestones-brant",
+    "name": "Milestones",
+    "category": "Grill and bar",
+    "vibe": "restaurant",
+    "food": [
+      "tacos"
+    ],
+    "tags": [],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "highballs, bellinis or 14 oz Budweiser",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "garlic parmesan fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          },
+          {
+            "kind": "food",
+            "item": "any 3 happy-hour starters",
+            "price": 39
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "start": 1260,
+        "end": 1320,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "highballs, bellinis or 14 oz Budweiser",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "garlic parmesan fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 10
+          }
+        ],
+        "note": "9 pm to close"
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "highballs, bellinis or 14 oz Budweiser",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "garlic parmesan fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 10
+          }
+        ],
+        "note": "9 pm to close"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "highballs, bellinis or 14 oz Budweiser",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "garlic parmesan fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 10
+          }
+        ],
+        "note": "9 pm to close"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Milestones Brant Street menu (happy hour)",
+        "url": "https://milestonesrestaurants.com/menus/brant-street/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Milestones Brant Street page",
+        "url": "https://milestonesrestaurants.com/locations/brant-street/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://milestonesrestaurants.com/menus/brant-street/"
+  },
+  {
+    "placeId": "ChIJjQfQqyVhK4gR-zRhwulz7B0",
+    "id": "the-tipsy-fox",
+    "name": "The Tipsy Fox",
+    "category": "Pub and grill",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "pub",
+      "tacos"
+    ],
+    "tags": [],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "domestic pitchers",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "wings (min. 6)",
+            "price": 0.9
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Taco Tuesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "tequila",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "30% off appetizers"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "domestic tall cans",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          },
+          {
+            "kind": "food",
+            "item": "20% off pasta"
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "bar rail",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "ribs and wings",
+            "price": 25
+          }
+        ]
+      },
+      {
+        "days": [
+          6
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "50% off desserts"
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Caesars",
+            "price": 8
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "The Tipsy Fox daily specials (Oct 2026 images)",
+        "url": "https://tipsyfoxpub.com/wp-content/uploads/2026/10/Specials01-768x768.jpeg",
+        "date": "2026-10"
+      },
+      {
+        "label": "The Tipsy Fox daily food specials",
+        "url": "https://tipsyfoxpub.com/wp-content/uploads/2026/10/Specials02-768x768.jpeg",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJIQBynbhhK4gR7-vWZdkcZ7E",
+    "id": "the-keg-burlington",
+    "name": "The Keg Steakhouse + Bar",
+    "category": "Steakhouse",
+    "vibe": "restaurant",
+    "food": [
+      "steak"
+    ],
+    "tags": [],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [],
+        "note": "Bar, lounge and patio; prices on the Keg’s happy-hour menu"
+      },
+      {
+        "days": [
+          0
+        ],
+        "start": 960,
+        "end": 1020,
+        "specials": [],
+        "note": "Bar, lounge and patio; prices on the Keg’s happy-hour menu"
+      },
+      {
+        "days": [
+          6
+        ],
+        "start": 900,
+        "end": 1020,
+        "specials": [],
+        "note": "Bar, lounge and patio; prices on the Keg’s happy-hour menu"
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1320,
+        "specials": [],
+        "note": "9 pm to close; bar, lounge and patio"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [],
+        "note": "9 pm to close; bar, lounge and patio"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "The Keg Burlington page",
+        "url": "https://thekeg.com/en/locations/burlington",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJfSxShNphK4gRKBVriKBz95g",
+    "id": "wild-wing-burlington",
+    "name": "Wild Wing",
+    "category": "Wing bar",
+    "vibe": "casual",
+    "food": [
+      "wings"
+    ],
+    "tags": [],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Michelob Monday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "20 oz Michelob",
+            "price": 6.99
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Wing Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "single orders of wings with fries",
+            "price": 12
+          },
+          {
+            "kind": "drink",
+            "item": "Corona bottles",
+            "price": 5.99
+          }
+        ],
+        "note": "Dine-in with a drink"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wine Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "6 oz wine",
+            "price": 6
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "32 oz schooners",
+            "price": 9
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Caesars",
+            "price": 5
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Wild Wing Ontario daily and drink specials",
+        "url": "https://www.wildwingrestaurants.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJZy22XcdhK4gRtnHWlf5wa9E",
+    "id": "jack-astors-burlington",
+    "name": "Jack Astor’s Bar & Grill",
+    "category": "Bar and grill",
+    "vibe": "bar",
+    "food": [
+      "burgers",
+      "wings"
+    ],
+    "tags": [],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "18 oz PBR",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "18 oz Budweiser or Bud Light",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "classic cocktails",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "mixed drinks",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "PBR bucket of 4",
+            "price": 14.99
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1320,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "18 oz PBR",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "classic cocktails",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "mixed drinks",
+            "price": 6
+          }
+        ],
+        "note": "9 pm to close"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "18 oz PBR",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "classic cocktails",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "mixed drinks",
+            "price": 6
+          }
+        ],
+        "note": "9 pm to close"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1,
+          2
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          }
+        ],
+        "note": "All day"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Jack Astor’s home page, Burlington selected",
+        "url": "https://jackastors.com/?locationId=907",
+        "date": "2026-10"
+      },
+      {
+        "label": "Jack Astor’s Ontario happy hour menu (PDF)",
+        "url": "https://jackastors.com/wp-content/uploads/2026/05/JAE_ON_HH-BevMenu_0426_web.pdf",
+        "date": "2026-05"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://jackastors.com/wp-content/uploads/2026/05/JAE_ON_HH-BevMenu_0426_web.pdf"
+  },
+  {
+    "placeId": "ChIJ74foRsBhK4gR5xvIdGmQa-M",
+    "id": "the-black-bull",
+    "name": "The Black Bull",
+    "category": "British pub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings"
+    ],
+    "tags": [
+      "Live music",
+      "Karaoke"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2
+        ],
+        "start": 720,
+        "end": 960,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "appetizers",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "20 oz draught or tall cans",
+            "price": 6
+          }
+        ],
+        "note": "Large nachos excluded; with any drink"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "Wing Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wings (10 or more)",
+            "price": 0.89
+          }
+        ],
+        "note": "Dine-in only"
+      },
+      {
+        "days": [
+          2
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "liver and onions",
+            "price": 10.99
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "one-piece fish and chips",
+            "price": 12.99
+          },
+          {
+            "kind": "food",
+            "item": "shepherd’s pie",
+            "price": 13.99
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "burger and fries",
+            "price": 12.99
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "chicken dinner",
+            "price": 16.99
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "The Black Bull home page (weekly specials)",
+        "url": "https://blackbull.ca/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJARbrdh2dLIgRgY6Ffccgmo8",
+    "id": "district-kitchen-bar",
+    "name": "District Kitchen + Bar",
+    "category": "Kitchen and bar",
+    "vibe": "bar",
+    "food": [
+      "burgers",
+      "wings",
+      "pizza"
+    ],
+    "tags": [
+      "Drag brunch"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 660,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Social Lager",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "Budweiser or Bud Light",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "house spirits",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz Jackson-Triggs wine",
+            "price": 6
+          }
+        ],
+        "note": "Open to 5 pm"
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Social Lager",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "Budweiser or Bud Light",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "house spirits",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz Jackson-Triggs wine",
+            "price": 6
+          }
+        ],
+        "note": "9 pm to close"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Social Lager",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "Budweiser or Bud Light",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "house spirits",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz Jackson-Triggs wine",
+            "price": 6
+          }
+        ],
+        "note": "9 pm to close"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Burger Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "original burger",
+            "price": 13
+          }
+        ],
+        "note": "Dine-in with a drink"
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Half-price wing Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wings, half price",
+            "price": 9.5
+          }
+        ],
+        "note": "Dine-in with a drink"
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Thirsty Thursday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "9 oz wine for the price of 6 oz"
+          },
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          },
+          {
+            "kind": "food",
+            "item": "25% off appetizers"
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Fish Friday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "one-piece haddock",
+            "price": 14
+          },
+          {
+            "kind": "food",
+            "item": "one-piece halibut",
+            "price": 20
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Sunday pizza",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "pizzas",
+            "price": 13
+          }
+        ],
+        "start": 840,
+        "note": "2 pm to close"
+      },
+      {
+        "days": [
+          6,
+          0
+        ],
+        "title": "Bottomless mimosas",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "bottomless mimosas",
+            "price": 29.95
+          }
+        ],
+        "start": 660,
+        "end": 900,
+        "note": "With an entrée; 90-minute limit"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "District features and happy hour page",
+        "url": "https://districtkitchenandbar.ca/daily-features.html",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJz4PF9lZhK4gRoDIrt6XvTzA",
+    "id": "gametime-social",
+    "name": "GameTime Social",
+    "category": "Sports bar and games",
+    "vibe": "bar",
+    "food": [
+      "pizza",
+      "wings"
+    ],
+    "tags": [
+      "Duckpin bowling",
+      "Arcade"
+    ],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Margarita Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price margherita pizzas"
+          },
+          {
+            "kind": "drink",
+            "item": "half-price margaritas"
+          }
+        ],
+        "note": "All day"
+      },
+      {
+        "days": [
+          3
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "GameTime Social Burlington specials",
+        "url": "https://www.gametimesocial.ca/specials-menu-burlington",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJB0KuBN2dLIgRV6-5oTe0yUc",
+    "id": "mythos",
+    "name": "Mythos Greek Cuisine",
+    "category": "Greek restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "greek"
+    ],
+    "tags": [],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [],
+        "note": "Prices not published; closed Mondays"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Mythos home page",
+        "url": "https://www.mythoscuisine.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ9WMGtk1gK4gRlekSwNFvwh8",
+    "id": "squires-gastro-pub",
+    "name": "Squires Gastro Pub",
+    "category": "Gastropub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings"
+    ],
+    "tags": [],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "20 oz domestic pints",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails",
+            "price": 11
+          },
+          {
+            "kind": "food",
+            "item": "1 lb wings and a pint",
+            "price": 20
+          },
+          {
+            "kind": "food",
+            "item": "any 2 bar bites",
+            "price": 22
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "20 oz domestic pints",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails",
+            "price": 11
+          },
+          {
+            "kind": "food",
+            "item": "1 lb wings and a pint",
+            "price": 20
+          }
+        ],
+        "note": "Late night"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "Wing Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wings",
+            "price": 0.99
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          },
+          {
+            "kind": "food",
+            "item": "pastas",
+            "price": 19
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Friday Fish Fry",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "one-piece fish and chips",
+            "price": 16.95
+          },
+          {
+            "kind": "food",
+            "item": "two-piece fish and chips",
+            "price": 23.95
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "kids eat free with an adult entrée"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Squires specials page",
+        "url": "https://www.squires.pub/specials",
+        "date": "2026-10"
+      },
+      {
+        "label": "Squires menu (happy hour and daily specials)",
+        "url": "https://www.squires.pub/menu",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.squires.pub/specials"
+  },
+  {
+    "placeId": "ChIJlcR9YQthK4gRKXAzDspNXK4",
+    "id": "uptown-social-house",
+    "name": "Uptown Social House",
+    "category": "Pub with live music",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "burgers",
+      "tacos"
+    ],
+    "tags": [
+      "Trivia Thursdays",
+      "Dueling pianos Fri–Sat"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 720,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "bucket of 5 bottles",
+            "price": 25
+          },
+          {
+            "kind": "drink",
+            "item": "bucket of 4 tall cans",
+            "price": 20
+          }
+        ]
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 960,
+        "end": 1140,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price wine"
+          }
+        ]
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Wrap day",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wraps",
+            "price": 13
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Wing day",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wings",
+            "price": 0.89
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Burger day",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "burgers, from $13"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Taco Thursday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "tequila shots",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "Sol or Dos Equis",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 6
+          }
+        ],
+        "note": "Trivia at 7:30 pm"
+      },
+      {
+        "days": [
+          0
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "fish and chips",
+            "price": 13
+          },
+          {
+            "kind": "drink",
+            "item": "Caesars or mimosas",
+            "price": 6
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Uptown Social House home page",
+        "url": "https://uptownsocialhouse.ca/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Uptown Social House daily specials",
+        "url": "https://uptownsocialhouse.ca/daily-specials-1",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ7VTjJvVgK4gRSQbhn2Dbjqo",
+    "id": "qb-sports-bar",
+    "name": "QB Sports Bar Grill Games",
+    "category": "Sports bar",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "burgers",
+      "tacos"
+    ],
+    "tags": [
+      "Games room",
+      "Trivia Tuesdays"
+    ],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Burger combo",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "burger, fries and a drink",
+            "price": 26
+          }
+        ],
+        "start": 1020,
+        "note": "From 5 pm, with live trivia"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Tacos and a drink",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "tacos and a drink",
+            "price": 26
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Wing Thursday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "2 lb of wings",
+            "price": 22
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "kids eat half price"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "QB Sports daily specials",
+        "url": "https://www.qbsports.ca/daily-specials",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJWy3OpFRhK4gRxadYcByAzEY",
+    "id": "chucks-roadhouse",
+    "name": "Chuck’s Roadhouse Bar & Grill",
+    "category": "Roadhouse bar and grill",
+    "vibe": "casual",
+    "food": [
+      "steak",
+      "wings"
+    ],
+    "tags": [],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price appetizers"
+          }
+        ],
+        "note": "After 9 pm; dine-in with a drink"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1500,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price appetizers"
+          }
+        ],
+        "note": "After 9 pm; dine-in with a drink"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "Rib Day",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half rack of ribs",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "full rack of ribs",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "rib and wing combo",
+            "price": 15
+          }
+        ],
+        "note": "Dine-in with a drink"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Chuck’s Roadhouse offers page",
+        "url": "https://chucksroadhouse.com/offers/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJj7vJyCNhK4gR5sICTHJ-byc",
+    "id": "hibachi-teppanyaki-burlington",
+    "name": "Hibachi Teppanyaki & Bar",
+    "category": "Teppanyaki grill",
+    "vibe": "restaurant",
+    "food": [
+      "sushi",
+      "asian"
+    ],
+    "tags": [],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          5
+        ],
+        "title": "Sake Friday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "5 oz hot house sake",
+            "price": 5
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Hibachi Burlington page",
+        "url": "https://www.hibachiteppanyaki.com/locations/burlington",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJtSogih9hK4gRDL4-2tG4TOI",
+    "id": "turtle-jacks-appleby",
+    "name": "Turtle Jack’s Appleby",
+    "category": "Muskoka-style grill",
+    "vibe": "casual",
+    "food": [
+      "wings",
+      "burgers",
+      "steak"
+    ],
+    "tags": [],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "18 oz Canadian or Coors Light",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "sweet potato fries",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "classic burger",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "Turtle wings",
+            "price": 16
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1
+        ],
+        "start": 1200,
+        "end": 1320,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "18 oz Canadian or Coors Light",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 6
+          }
+        ],
+        "note": "8 pm to close"
+      },
+      {
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "start": 1200,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "18 oz Canadian or Coors Light",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 6
+          }
+        ],
+        "note": "8 pm to close"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1200,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "18 oz Canadian or Coors Light",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 6
+          }
+        ],
+        "note": "8 pm to close"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Fajita Tuesdays",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "chicken fajita special with free chips and salsa"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Half-price wine night",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Turtle Jack’s Appleby page (happy hour times)",
+        "url": "https://turtlejacks.com/locations/turtle-jacks-appleby-line/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Turtle Jack’s happy hour menu",
+        "url": "https://turtlejacks.com/happy-hour/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Turtle Jack’s features and specials",
+        "url": "https://turtlejacks.com/features-and-specials/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://turtlejacks.com/happy-hour/"
+  },
+  {
+    "placeId": "ChIJt0Sge9hhK4gR7x3apArzl9M",
+    "id": "lot-88-steakhouse",
+    "name": "Lot 88 Steakhouse & Bar",
+    "category": "Steakhouse and bar",
+    "vibe": "restaurant",
+    "food": [
+      "steak",
+      "oysters"
+    ],
+    "tags": [],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "The Lot 88 Social",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price appetizers"
+          }
+        ],
+        "note": "With any drink; dine-in only; oysters excluded"
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Cellar & Shore",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "oysters",
+            "price": 2.25
+          },
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          }
+        ],
+        "note": "Dine-in only"
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Sunday Prime Rib",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "prime rib, from $19.99"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Lot 88 menu (Dining Rituals)",
+        "url": "https://lot88steakhouse.ca/menu2/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJRSxYyyNhK4gRk9KjDWtQCHU",
+    "id": "montfort-appleby",
+    "name": "Montfort Mediterranean Grill (Appleby)",
+    "category": "Mediterranean grill",
+    "vibe": "casual",
+    "food": [
+      "middle-eastern",
+      "greek"
+    ],
+    "tags": [],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "chicken shawarma pita and a 16 oz pint",
+            "price": 16.99
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Souvlaki Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "souvlaki special, from $16"
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Sunday Mixed Grill",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "mixed grill for two",
+            "price": 66
+          },
+          {
+            "kind": "food",
+            "item": "mixed grill for four",
+            "price": 129
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Montfort weekly specials",
+        "url": "https://montfortrestaurant.ca/weekly-special",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJczUrY6JgK4gRjmLLIEDhfkw",
+    "id": "montfort-burloak",
+    "name": "Montfort Mediterranean Grill (Burloak)",
+    "category": "Mediterranean grill",
+    "vibe": "casual",
+    "food": [
+      "middle-eastern",
+      "greek"
+    ],
+    "tags": [],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "chicken shawarma pita and a 16 oz pint",
+            "price": 16.99
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Souvlaki Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "souvlaki special, from $16"
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Sunday Mixed Grill",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "mixed grill for two",
+            "price": 66
+          },
+          {
+            "kind": "food",
+            "item": "mixed grill for four",
+            "price": 129
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Montfort weekly specials",
+        "url": "https://montfortrestaurant.ca/weekly-special",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJKbiBnV9hK4gRlX1FoGhsapo",
+    "id": "blk-swan-north",
+    "name": "Blk Swan Kitchen Hub North",
+    "category": "Pub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings"
+    ],
+    "tags": [
+      "Trivia Wednesdays",
+      "Karaoke Saturdays"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 690,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Bud or Bud Light pints",
+            "price": 7.99
+          }
+        ]
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "title": "House pints",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Swan Lager or BD Currency pints",
+            "price": 6.49
+          }
+        ],
+        "note": "Every day"
+      },
+      {
+        "days": [
+          1,
+          2
+        ],
+        "title": "Wing O Mania",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          }
+        ],
+        "start": 900,
+        "note": "After 3 pm; dine-in with a drink"
+      },
+      {
+        "days": [
+          1,
+          0
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "$2 off tall cans"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Pub grub Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "pub grub",
+            "price": 17.99
+          },
+          {
+            "kind": "drink",
+            "item": "9 oz wine for the price of 6 oz"
+          }
+        ],
+        "note": "Trivia at 8 pm"
+      },
+      {
+        "days": [
+          4
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "$5 off any pasta"
+          },
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 9
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Fish Friday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "fish and chips",
+            "price": 16.99
+          }
+        ],
+        "start": 900,
+        "note": "After 3 pm"
+      },
+      {
+        "days": [
+          6,
+          0
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Caesars",
+            "price": 6.99
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price appetizers"
+          }
+        ],
+        "start": 900,
+        "note": "After 3 pm"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Blk Swan North daily specials",
+        "url": "https://blkswan.ca/burlington/dailies.html",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "aka": [
+      "Black Swan"
+    ]
+  },
+  {
+    "id": "400-brant",
+    "name": "400 Brant Kitchen & Bar",
+    "category": "Kitchen and bar",
+    "vibe": "cocktails",
+    "address": "400 Brant St",
+    "lat": 43.3255529,
+    "lng": -79.7978714,
+    "website": "https://400brant.ca/",
+    "phone": "(289) 337-3751",
+    "tags": [
+      "Garden patio",
+      "Golf simulators"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 840,
+        "end": 960,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "appetizers and shareables",
+            "price": 14
+          },
+          {
+            "kind": "drink",
+            "item": "rail drinks",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "Aperol spritz",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "sangria",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "25% off draft, cans and select wine"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "400 Brant happy hour menu (PDF)",
+        "url": "https://400brant.ca/wp-content/uploads/2026/10/Happy-Hour-Menu.pdf",
+        "date": "2026-10"
+      },
+      {
+        "label": "Burlington Downtown business directory",
+        "url": "https://burlingtondowntown.ca/business-directory/400-brant-kitchen-bar/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://400brant.ca/wp-content/uploads/2026/10/Happy-Hour-Menu.pdf"
+  },
+  {
+    "placeId": "ChIJJzbI0o9hK4gRbHUuNk2j3x8",
+    "id": "gator-teds",
+    "name": "Gator Ted’s Tap & Grill",
+    "category": "Sports bar and grill",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "tacos",
+      "burgers"
+    ],
+    "tags": [
+      "Live music Fridays",
+      "Big screens"
+    ],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Taco Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 15
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "fajitas",
+            "price": 55
+          },
+          {
+            "kind": "food",
+            "item": "appetizers",
+            "price": 13
+          }
+        ],
+        "note": "As listed: fajitas $55, apps $13"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Burger Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "burgers",
+            "price": 17
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Wrap Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "crispy chicken wraps",
+            "price": 16
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "fish and chips",
+            "price": 16
+          }
+        ]
+      },
+      {
+        "days": [
+          6
+        ],
+        "title": "Rib Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half rack of ribs",
+            "price": 22
+          },
+          {
+            "kind": "food",
+            "item": "full rack of ribs",
+            "price": 28
+          },
+          {
+            "kind": "food",
+            "item": "rib and wing combo",
+            "price": 26
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wings, per pound",
+            "price": 14
+          },
+          {
+            "kind": "food",
+            "item": "pizza, wings and fries",
+            "price": 60
+          }
+        ],
+        "note": "Wing special is dine-in only"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Gator Ted’s weekly specials (home page image)",
+        "url": "https://www.gatorteds.ca/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJm81o7Y9hK4gRZJFMdr8MPzY",
+    "id": "barra-fion",
+    "name": "Barra Fion",
+    "category": "Tapas and wine bar",
+    "vibe": "wine",
+    "food": [
+      "spanish",
+      "pizza"
+    ],
+    "tags": [
+      "Live music Fridays"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "25% off tapas"
+          },
+          {
+            "kind": "drink",
+            "item": "house wine",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "sangria or mules",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "tall cans",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "select pints",
+            "price": 5
+          }
+        ]
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Molson pints",
+            "price": 5
+          }
+        ],
+        "note": "All day"
+      },
+      {
+        "days": [
+          2
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "$5 off premium tequila"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "8 oz wine for the price of 5 oz"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Barra Fion specials page (weekly features image)",
+        "url": "https://www.barrafion.ca/specials",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJu8u_gHVhK4gRNrXVDffPVFM",
+    "id": "jerseys-bar-grill",
+    "name": "Jersey’s Bar & Grill",
+    "category": "Sports bar and grill",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "pub"
+    ],
+    "tags": [
+      "Live bands"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 660,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "domestic draft",
+            "price": 5.5
+          }
+        ],
+        "note": "Draft Days, open till 6 pm"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Irish pint Tuesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "20 oz Guinness",
+            "price": 8.5
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "one-piece fish and chips",
+            "price": 14.95
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Jersey’s specials page (images dated 2026)",
+        "url": "https://jerseysbarandgrill.ca/specials.html",
+        "date": "2026-03"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ862oXWJgK4gRm0ES7FkKNEA",
+    "id": "st-louis-appleby",
+    "name": "St. Louis Bar & Grill (Appleby)",
+    "category": "Wing bar and grill",
+    "vibe": "casual",
+    "food": [
+      "wings",
+      "burgers"
+    ],
+    "tags": [],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 660,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "sliders, pickle coins or fries",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "12 oz domestic draught",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "domestic bottles",
+            "price": 4
+          }
+        ],
+        "note": "Dine-in only"
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "sliders, pickle coins or fries",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "12 oz domestic draught",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "domestic bottles",
+            "price": 4
+          }
+        ],
+        "note": "9 pm to close; dine-in only"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "sliders, pickle coins or fries",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "12 oz domestic draught",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "domestic bottles",
+            "price": 4
+          }
+        ],
+        "note": "9 pm to close; dine-in only"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Half Priced Tuesdays",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          }
+        ],
+        "start": 1020,
+        "note": "From 5 pm, with any drink; dine-in only"
+      },
+      {
+        "days": [
+          5
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price select bottles of wine"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "St. Louis $4 happy hour page",
+        "url": "https://www.stlouiswings.com/happyhour2025/",
+        "date": "2026-08"
+      },
+      {
+        "label": "St. Louis deals page",
+        "url": "https://www.stlouiswings.com/deals/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.stlouiswings.com/happyhour2025/"
+  },
+  {
+    "placeId": "ChIJFziiwURhK4gRgDc5-QKeLJw",
+    "id": "st-louis-walkers",
+    "name": "St. Louis Bar & Grill (Walkers)",
+    "category": "Wing bar and grill",
+    "vibe": "casual",
+    "food": [
+      "wings",
+      "burgers"
+    ],
+    "tags": [],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 690,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "sliders, pickle coins or fries",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "12 oz domestic draught",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "domestic bottles",
+            "price": 4
+          }
+        ],
+        "note": "Dine-in only"
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "sliders, pickle coins or fries",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "12 oz domestic draught",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "domestic bottles",
+            "price": 4
+          }
+        ],
+        "note": "9 pm to close; dine-in only"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "sliders, pickle coins or fries",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "12 oz domestic draught",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house wine",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "domestic bottles",
+            "price": 4
+          }
+        ],
+        "note": "9 pm to close; dine-in only"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Half Priced Tuesdays",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          }
+        ],
+        "start": 1020,
+        "note": "From 5 pm, with any drink; dine-in only"
+      },
+      {
+        "days": [
+          5
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price select bottles of wine"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "St. Louis $4 happy hour page",
+        "url": "https://www.stlouiswings.com/happyhour2025/",
+        "date": "2026-08"
+      },
+      {
+        "label": "St. Louis deals page",
+        "url": "https://www.stlouiswings.com/deals/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.stlouiswings.com/happyhour2025/"
+  },
+  {
+    "placeId": "ChIJX115IgBhK4gRAXTP2yavhQQ",
+    "id": "halton-crown",
+    "name": "Halton Crown Pub and Grill",
+    "category": "Pub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings"
+    ],
+    "tags": [
+      "Live music Fridays"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0
+        ],
+        "start": 1260,
+        "end": 1320,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price appetizers"
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "domestic pints",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "desserts",
+            "price": 5
+          }
+        ],
+        "note": "9 pm to close"
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price appetizers"
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "domestic pints",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "desserts",
+            "price": 5
+          }
+        ],
+        "note": "9 pm to close"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1500,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price appetizers"
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "domestic pints",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "desserts",
+            "price": 5
+          }
+        ],
+        "note": "9 pm to close"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Monday special",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "1 lb wings",
+            "price": 12
+          },
+          {
+            "kind": "drink",
+            "item": "domestic pints",
+            "price": 6
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Halton Crown home page (happy hour, Monday special)",
+        "url": "https://haltoncrownpub.com/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Halton Crown events",
+        "url": "https://haltoncrownpub.com/events/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJj9BV4nFeK4gR5Dnf0e_B3I4",
+    "id": "plank-bronte",
+    "name": "Plank Restobar",
+    "category": "Restobar",
+    "vibe": "restaurant",
+    "tags": [
+      "Bourbon list"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "cocktails (old fashioned, margarita or Plank cosmo)",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "poke spoons",
+            "price": 10
+          }
+        ],
+        "note": "“Appy Hour”; the full menu is a PDF"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Plank Bronte page (Appy Hour posts)",
+        "url": "https://www.plankrestobar.ca/bronte/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Plank Bronte Appy Hour menu",
+        "url": "https://www.plankrestobar.ca/wp-content/uploads/2025/10/PLANK_BRONTE_APPY_HOUR_MENU_OCT2025.pdf",
+        "date": "2025-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJh_1jxCFfK4gRdbJ0hfSXXDk",
+    "id": "marine-tavern",
+    "name": "Marine Tavern",
+    "category": "British pub",
+    "vibe": "bar",
+    "food": [
+      "pub"
+    ],
+    "tags": [
+      "Quiz Tuesdays",
+      "Live music"
+    ],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          4
+        ],
+        "title": "Wine Thursday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          }
+        ],
+        "note": "Live music 7–10 pm"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Marine Tavern What’s On",
+        "url": "https://marinetavern.ca/What-s-On",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJu6aXo3FeK4gRt7cP70f_IJU",
+    "id": "the-firehall-oakville",
+    "name": "The Firehall",
+    "category": "Sports bar and grill",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "pub"
+    ],
+    "tags": [],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Wing night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "2-for-1 wings"
+          }
+        ],
+        "note": "Dine in with a drink"
+      },
+      {
+        "days": [
+          1
+        ],
+        "title": "Kids eat free",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "free kids’ meal with an adult meal"
+          }
+        ],
+        "start": 960,
+        "note": "Up to two kids 10 and under"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "The Firehall specials and promotions",
+        "url": "https://www.thefirehall.ca/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJo6P3tXBeK4gRSfYpEey6L60",
+    "id": "bronte-fish-and-chips",
+    "name": "Bronte Fish & Chips",
+    "category": "Fish and chips",
+    "vibe": "casual",
+    "tags": [],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Tuesday special",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "haddock and chips",
+            "price": 17.95
+          }
+        ],
+        "note": "Dine in ($16.95 to take out)"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Bronte Fish & Chips menu",
+        "url": "https://www.brontefishandchips.ca/menu",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ_X04BQBfK4gRoJ5_XTcWAB0",
+    "id": "por-vida",
+    "name": "Por Vida Mezcal & Mexican",
+    "category": "Mezcal bar and Mexican kitchen",
+    "vibe": "restaurant",
+    "food": [
+      "tacos"
+    ],
+    "tags": [
+      "Mezcal"
+    ],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "All-you-can-eat tacos",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "all-you-can-eat tacos per person",
+            "price": 39
+          },
+          {
+            "kind": "drink",
+            "item": "margarita pitchers",
+            "price": 40
+          }
+        ],
+        "note": "Wednesday is AYCE only; dine in, 90 minutes, plus 18% gratuity"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Por Vida home page",
+        "url": "https://porvida.ca/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Por Vida AYCE menu",
+        "url": "https://porvida.ca/wp-content/uploads/2026/06/PV_AYCE_MENU_JUNE_10_2026.pdf",
+        "date": "2026-06"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJcZ_bpqFfK4gRHrZSncwMhdg",
+    "id": "blk-swan-oakville",
+    "name": "Blk Swan Kitchen Hub Oakville",
+    "category": "Pub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings"
+    ],
+    "tags": [
+      "Trivia Wednesdays",
+      "Live music Fridays",
+      "Karaoke Saturdays"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 690,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Bud or Bud Light pints",
+            "price": 7.99
+          }
+        ]
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "title": "House pints",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Swan Lager pints",
+            "price": 6.99
+          }
+        ],
+        "note": "Every day"
+      },
+      {
+        "days": [
+          1,
+          2
+        ],
+        "title": "Wing O Mania",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          }
+        ],
+        "start": 900,
+        "note": "After 3 pm; dine-in with a drink"
+      },
+      {
+        "days": [
+          1,
+          0
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "$2 off tall cans"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Pub grub Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "pub grub",
+            "price": 17.99
+          },
+          {
+            "kind": "drink",
+            "item": "9 oz wine for the price of 6 oz"
+          }
+        ],
+        "note": "Trivia at 8 pm"
+      },
+      {
+        "days": [
+          4
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "$5 off any pasta"
+          },
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 9
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Fish Friday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "fish and chips",
+            "price": 16.99
+          }
+        ],
+        "start": 900,
+        "note": "After 3 pm"
+      },
+      {
+        "days": [
+          6
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Caesars",
+            "price": 6.99
+          }
+        ],
+        "end": 1080,
+        "note": "Until 6 pm"
+      },
+      {
+        "days": [
+          0
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Caesars",
+            "price": 6.99
+          },
+          {
+            "kind": "food",
+            "item": "half-price appetizers"
+          }
+        ],
+        "note": "Appetizers after 3 pm"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Blk Swan Oakville daily specials",
+        "url": "https://blkswan.ca/oakville/dailies.html",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "aka": [
+      "Black Swan"
+    ]
+  },
+  {
+    "placeId": "ChIJicgj2bpgK4gRgh2NjTqZZng",
+    "id": "milestones-burloak",
+    "name": "Milestones",
+    "category": "Grill and bar",
+    "vibe": "restaurant",
+    "food": [
+      "tacos"
+    ],
+    "tags": [],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "highballs, bellinis or 14 oz Budweiser",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "garlic parmesan fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          },
+          {
+            "kind": "food",
+            "item": "any 3 happy-hour starters",
+            "price": 39
+          }
+        ]
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1320,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "highballs, bellinis or 14 oz Budweiser",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "garlic parmesan fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 10
+          }
+        ],
+        "note": "9 pm to close"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "highballs, bellinis or 14 oz Budweiser",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "garlic parmesan fries",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "tacos",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 10
+          }
+        ],
+        "note": "9 pm to close"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Milestones Burloak menu (happy hour)",
+        "url": "https://milestonesrestaurants.com/menus/burloak",
+        "date": "2026-10"
+      },
+      {
+        "label": "Milestones Burloak page",
+        "url": "https://milestonesrestaurants.com/locations/burloak",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://milestonesrestaurants.com/menus/burloak"
+  },
+  {
+    "placeId": "ChIJ_0hHk7pgK4gRJjEk7TvN8G4",
+    "id": "chop-burloak",
+    "name": "Chop Steakhouse & Bar",
+    "category": "Steakhouse",
+    "vibe": "restaurant",
+    "food": [
+      "steak",
+      "oysters"
+    ],
+    "tags": [],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "house highballs",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house prosecco",
+            "price": 7.5
+          },
+          {
+            "kind": "drink",
+            "item": "Big Life Amber Ale",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "half-dozen oysters",
+            "price": 27
+          },
+          {
+            "kind": "food",
+            "item": "steak bites",
+            "price": 18
+          },
+          {
+            "kind": "food",
+            "item": "chili garlic shrimp",
+            "price": 18
+          }
+        ],
+        "note": "Lounge and patio only"
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "house highballs",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house prosecco",
+            "price": 7.5
+          },
+          {
+            "kind": "drink",
+            "item": "Big Life Amber Ale",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "half-dozen oysters",
+            "price": 27
+          },
+          {
+            "kind": "food",
+            "item": "steak bites",
+            "price": 18
+          },
+          {
+            "kind": "food",
+            "item": "chili garlic shrimp",
+            "price": 18
+          }
+        ],
+        "note": "Lounge and patio only; 9 pm to close"
+      },
+      {
+        "days": [
+          0
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "6 oz house wine",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "house highballs",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz house prosecco",
+            "price": 7.5
+          },
+          {
+            "kind": "drink",
+            "item": "Big Life Amber Ale",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "half-dozen oysters",
+            "price": 27
+          },
+          {
+            "kind": "food",
+            "item": "steak bites",
+            "price": 18
+          },
+          {
+            "kind": "food",
+            "item": "chili garlic shrimp",
+            "price": 18
+          }
+        ],
+        "note": "Lounge and patio only; 9 pm to close"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Chop Burlington–Oakville page",
+        "url": "https://chop.ca/locations/burlington-oakville",
+        "date": "2026-10"
+      },
+      {
+        "label": "Chop menu (happy hour)",
+        "url": "https://chop.ca/menu",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://chop.ca/menu"
+  },
+  {
+    "placeId": "ChIJc13KSylhK4gR5m8k_xNCZPc",
+    "id": "caseys-clubhouse",
+    "name": "Casey’s Clubhouse",
+    "category": "Golf lounge and bar",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "pub"
+    ],
+    "tags": [
+      "Indoor golf"
+    ],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          1,
+          2
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "30% off appetizers"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wing Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "2-for-1 wings"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "fish and chips",
+            "price": 15.95
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Pint & pound",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "a pint and a pound of wings",
+            "price": 20
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Casey’s Clubhouse page and menu (daily specials)",
+        "url": "https://burloakindoorgolf.com/caseys-clubhouse",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJWY54VRpnK4gRNiwqH9sar8Q",
+    "id": "palermo-pub",
+    "name": "Palermo Pub",
+    "category": "Pub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings"
+    ],
+    "tags": [],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "bar rail",
+            "price": 5.8
+          },
+          {
+            "kind": "drink",
+            "item": "Sub-Zero Canadian or Coors Light",
+            "price": 6.5
+          },
+          {
+            "kind": "drink",
+            "item": "domestic bottles",
+            "price": 4.8
+          }
+        ],
+        "note": "“Cocktail Hour”"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "second pound of wings half price"
+          },
+          {
+            "kind": "drink",
+            "item": "32 oz Sub-Zero Canadian or Coors Light",
+            "price": 11.5
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "buffalo chicken sandwich and fries",
+            "price": 18.95
+          },
+          {
+            "kind": "drink",
+            "item": "32 oz Creemore",
+            "price": 12.5
+          },
+          {
+            "kind": "drink",
+            "item": "tall boys",
+            "price": 5.75
+          },
+          {
+            "kind": "drink",
+            "item": "9 oz wine for the price of 6 oz"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "beef dip",
+            "price": 19.95
+          },
+          {
+            "kind": "drink",
+            "item": "pints of Canadian or Coors Light",
+            "price": 6.5
+          },
+          {
+            "kind": "drink",
+            "item": "32 oz Bubble Stash",
+            "price": 12.5
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "fish and chips",
+            "price": 19.95
+          },
+          {
+            "kind": "drink",
+            "item": "32 oz Coors Original",
+            "price": 12.5
+          }
+        ]
+      },
+      {
+        "days": [
+          6
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "homemade burger",
+            "price": 17.95
+          },
+          {
+            "kind": "drink",
+            "item": "32 oz Heineken",
+            "price": 13.5
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wings and fries",
+            "price": 15.95
+          },
+          {
+            "kind": "drink",
+            "item": "32 oz Sub-Zero Canadian or Coors Light",
+            "price": 11.5
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Palermo Pub specials",
+        "url": "https://www.palermopub.com/specials",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJobEy3A5nK4gRbq4Qp5LzRv4",
+    "id": "olive-press-oakville",
+    "name": "The Olive Press",
+    "category": "Italian",
+    "vibe": "restaurant",
+    "food": [
+      "pasta",
+      "pizza"
+    ],
+    "tags": [],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Family night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price spaghetti and meatballs"
+          }
+        ],
+        "start": 900,
+        "note": "From 3 pm with a drink; dine in"
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Friends night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price appetizer with each drink"
+          }
+        ],
+        "start": 900,
+        "note": "From 3 pm; dine in"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Date night",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price bottles of wine"
+          }
+        ],
+        "note": "All day; dine in"
+      },
+      {
+        "days": [
+          6,
+          0
+        ],
+        "title": "Boozy lunch",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price Caesars"
+          }
+        ],
+        "start": 720,
+        "end": 900,
+        "note": "Dine in"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "The Olive Press menu (weekly deals)",
+        "url": "https://www.olivepress.ca/menu/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  }
+]

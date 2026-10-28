@@ -1,0 +1,305 @@
+{
+  "cases": [
+    {
+      "name": "central",
+      "venue": "central",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "azhar",
+      "venue": "azhar",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "manita",
+      "venue": "manita",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "bar-libretto",
+      "venue": "bar-libretto",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "haifa-room",
+      "venue": "haifa-room",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "rhapsody",
+      "venue": "rhapsody",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "la-chingada",
+      "venue": "la-chingada",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "gloria",
+      "venue": "gloria",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "poetry-jazz-cafe",
+      "venue": "poetry-jazz-cafe",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "bar-piquette",
+      "venue": "bar-piquette",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "aleria",
+      "venue": "aleria",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "roxton-public-house",
+      "venue": "roxton-public-house",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "dont-tell",
+      "venue": "dont-tell",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "linnys",
+      "venue": "linnys",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "painted-lady",
+      "venue": "painted-lady",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "sweaty-bettys",
+      "venue": "sweaty-bettys",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": true
+      }
+    },
+    {
+      "name": "bar-koukla",
+      "venue": "bar-koukla",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": true
+      }
+    },
+    {
+      "name": "fallen-feather",
+      "venue": "fallen-feather",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "bar-roma",
+      "venue": "bar-roma",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": true
+      }
+    },
+    {
+      "name": "bar-poet",
+      "venue": "bar-poet",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "grape-witches",
+      "venue": "grape-witches",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "wasted-youth",
+      "venue": "wasted-youth",
+      "tally": null,
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "confirmedByMany",
+      "venue": "manita",
+      "tally": {
+        "yes": 4,
+        "no": 0,
+        "lastYes": "2026-10-25T21:00:00Z",
+        "lastNo": null
+      },
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "✓ Confirmed by 4 people 2 days ago",
+        "confirmed": true,
+        "stale": false
+      }
+    },
+    {
+      "name": "confirmedOnce",
+      "venue": "manita",
+      "tally": {
+        "yes": 1,
+        "no": 0,
+        "lastYes": "2026-10-27T18:00:00Z",
+        "lastNo": null
+      },
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "✓ Confirmed today",
+        "confirmed": true,
+        "stale": false
+      }
+    },
+    {
+      "name": "oldYes",
+      "venue": "manita",
+      "tally": {
+        "yes": 2,
+        "no": 1,
+        "lastYes": "2026-09-01T21:00:00Z",
+        "lastNo": "2026-09-02T21:00:00Z"
+      },
+      "now": "2026-10-27T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": false
+      }
+    },
+    {
+      "name": "200 days on",
+      "venue": "manita",
+      "tally": null,
+      "now": "2027-05-15T20:00:00.000Z",
+      "result": {
+        "label": "Checked Oct 26",
+        "confirmed": false,
+        "stale": true
+      }
+    }
+  ]
+}

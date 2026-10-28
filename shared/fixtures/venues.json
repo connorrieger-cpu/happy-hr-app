@@ -1,0 +1,6864 @@
+{
+  "schemaVersion": 1,
+  "area": {
+    "id": "ossington",
+    "name": "Ossington",
+    "city": "Toronto",
+    "center": {
+      "lat": 43.6466,
+      "lng": -79.4206
+    },
+    "origin": {
+      "lat": 43.6496,
+      "lng": -79.4209,
+      "label": "Ossington & Dundas"
+    },
+    "spine": [
+      {
+        "lat": 43.6444,
+        "lng": -79.41894
+      },
+      {
+        "lat": 43.6498,
+        "lng": -79.42086
+      }
+    ],
+    "bearing": -14.4,
+    "bounds": {
+      "south": 43.6428,
+      "west": -79.4252,
+      "north": 43.6503,
+      "east": -79.416
+    },
+    "region": [
+      {
+        "lat": 43.6428,
+        "lng": -79.4252
+      },
+      {
+        "lat": 43.6503,
+        "lng": -79.4252
+      },
+      {
+        "lat": 43.6503,
+        "lng": -79.416
+      },
+      {
+        "lat": 43.6428,
+        "lng": -79.416
+      }
+    ],
+    "covers": "Ossington, plus Queen and Dundas from Dovercourt to Shaw"
+  },
+  "areas": [
+    {
+      "id": "ossington",
+      "name": "Ossington",
+      "city": "Toronto",
+      "center": {
+        "lat": 43.6466,
+        "lng": -79.4206
+      },
+      "origin": {
+        "lat": 43.6496,
+        "lng": -79.4209,
+        "label": "Ossington & Dundas"
+      },
+      "spine": [
+        {
+          "lat": 43.6444,
+          "lng": -79.41894
+        },
+        {
+          "lat": 43.6498,
+          "lng": -79.42086
+        }
+      ],
+      "bearing": -14.4,
+      "bounds": {
+        "south": 43.6428,
+        "west": -79.4252,
+        "north": 43.6503,
+        "east": -79.416
+      },
+      "region": [
+        {
+          "lat": 43.6428,
+          "lng": -79.4252
+        },
+        {
+          "lat": 43.6503,
+          "lng": -79.4252
+        },
+        {
+          "lat": 43.6503,
+          "lng": -79.416
+        },
+        {
+          "lat": 43.6428,
+          "lng": -79.416
+        }
+      ],
+      "covers": "Ossington, plus Queen and Dundas from Dovercourt to Shaw"
+    },
+    {
+      "id": "kensington",
+      "name": "Kensington",
+      "city": "Toronto",
+      "center": {
+        "lat": 43.6551,
+        "lng": -79.4026
+      },
+      "origin": {
+        "lat": 43.6545,
+        "lng": -79.4006,
+        "label": "Kensington Ave & Baldwin"
+      },
+      "spine": [
+        {
+          "lat": 43.6527,
+          "lng": -79.4019
+        },
+        {
+          "lat": 43.6572,
+          "lng": -79.4037
+        }
+      ],
+      "bearing": -16.7,
+      "bounds": {
+        "south": 43.6519,
+        "west": -79.4085,
+        "north": 43.6584,
+        "east": -79.3975
+      },
+      "region": [
+        {
+          "lat": 43.6523,
+          "lng": -79.40601
+        },
+        {
+          "lat": 43.65645,
+          "lng": -79.40769
+        },
+        {
+          "lat": 43.65795,
+          "lng": -79.40015
+        },
+        {
+          "lat": 43.65291,
+          "lng": -79.39815
+        }
+      ],
+      "covers": "Kensington Market, from Bathurst to Spadina and College to Dundas"
+    },
+    {
+      "id": "king-west",
+      "name": "King West",
+      "city": "Toronto",
+      "center": {
+        "lat": 43.64445,
+        "lng": -79.40006
+      },
+      "origin": {
+        "lat": 43.64445,
+        "lng": -79.40006,
+        "label": "King & Portland"
+      },
+      "spine": [
+        {
+          "lat": 43.64339,
+          "lng": -79.40526
+        },
+        {
+          "lat": 43.64548,
+          "lng": -79.39491
+        }
+      ],
+      "bearing": -16.7,
+      "bounds": {
+        "south": 43.6418,
+        "west": -79.4062,
+        "north": 43.6472,
+        "east": -79.394
+      },
+      "region": [
+        {
+          "lat": 43.64401,
+          "lng": -79.39454
+        },
+        {
+          "lat": 43.64677,
+          "lng": -79.39545
+        },
+        {
+          "lat": 43.64468,
+          "lng": -79.40578
+        },
+        {
+          "lat": 43.64212,
+          "lng": -79.40475
+        }
+      ],
+      "covers": "King West, from Spadina to Tecumseth and Adelaide to Wellington"
+    },
+    {
+      "id": "liberty-village",
+      "name": "Liberty Village",
+      "city": "Toronto",
+      "center": {
+        "lat": 43.6386,
+        "lng": -79.4192
+      },
+      "origin": {
+        "lat": 43.6383,
+        "lng": -79.4196,
+        "label": "Liberty St & Atlantic Ave"
+      },
+      "spine": [
+        {
+          "lat": 43.6372,
+          "lng": -79.4183
+        },
+        {
+          "lat": 43.6403,
+          "lng": -79.4196
+        }
+      ],
+      "bearing": -16.7,
+      "bounds": {
+        "south": 43.6348,
+        "west": -79.4285,
+        "north": 43.6428,
+        "east": -79.41
+      },
+      "region": [
+        {
+          "lat": 43.63895,
+          "lng": -79.42736
+        },
+        {
+          "lat": 43.64205,
+          "lng": -79.41195
+        },
+        {
+          "lat": 43.638,
+          "lng": -79.4102
+        },
+        {
+          "lat": 43.6359,
+          "lng": -79.4188
+        },
+        {
+          "lat": 43.6361,
+          "lng": -79.4268
+        }
+      ],
+      "covers": "Liberty Village, from Dufferin to Strachan and King to the tracks"
+    },
+    {
+      "id": "guelph",
+      "name": "Guelph",
+      "city": "Guelph",
+      "center": {
+        "lat": 43.5446,
+        "lng": -80.2482
+      },
+      "origin": {
+        "lat": 43.54584,
+        "lng": -80.24938,
+        "label": "St. George’s Square"
+      },
+      "spine": [
+        {
+          "lat": 43.5435,
+          "lng": -80.2466
+        },
+        {
+          "lat": 43.5476,
+          "lng": -80.2505
+        }
+      ],
+      "bearing": 0,
+      "bounds": {
+        "south": 43.539,
+        "west": -80.26,
+        "north": 43.552,
+        "east": -80.238
+      },
+      "region": [
+        {
+          "lat": 43.483,
+          "lng": -80.335
+        },
+        {
+          "lat": 43.6,
+          "lng": -80.335
+        },
+        {
+          "lat": 43.6,
+          "lng": -80.145
+        },
+        {
+          "lat": 43.483,
+          "lng": -80.145
+        }
+      ],
+      "addressCity": "Guelph",
+      "covers": "Guelph, with downtown first"
+    },
+    {
+      "id": "burlington",
+      "name": "Burlington",
+      "city": "Burlington",
+      "center": {
+        "lat": 43.3255,
+        "lng": -79.799
+      },
+      "origin": {
+        "lat": 43.32446,
+        "lng": -79.79607,
+        "label": "Brant St & Lakeshore"
+      },
+      "spine": [
+        {
+          "lat": 43.3245,
+          "lng": -79.7961
+        },
+        {
+          "lat": 43.3302,
+          "lng": -79.8004
+        }
+      ],
+      "bearing": 0,
+      "bounds": {
+        "south": 43.319,
+        "west": -79.808,
+        "north": 43.332,
+        "east": -79.788
+      },
+      "region": [
+        {
+          "lat": 43.285,
+          "lng": -79.925
+        },
+        {
+          "lat": 43.5,
+          "lng": -79.925
+        },
+        {
+          "lat": 43.5,
+          "lng": -79.8286
+        },
+        {
+          "lat": 43.4503,
+          "lng": -79.7607
+        },
+        {
+          "lat": 43.4375,
+          "lng": -79.7432
+        },
+        {
+          "lat": 43.4187,
+          "lng": -79.7174
+        },
+        {
+          "lat": 43.4105,
+          "lng": -79.7063
+        },
+        {
+          "lat": 43.4048,
+          "lng": -79.6985
+        },
+        {
+          "lat": 43.285,
+          "lng": -79.6985
+        }
+      ],
+      "addressCity": "Burlington",
+      "alsoCities": [
+        "Oakville"
+      ],
+      "covers": "Burlington and Oakville to Third Line, with downtown Burlington first"
+    }
+  ],
+  "foodTypes": [
+    {
+      "id": "pizza",
+      "label": "Pizza",
+      "emoji": "🍕",
+      "words": [
+        "pizza",
+        "pizzetta"
+      ]
+    },
+    {
+      "id": "pasta",
+      "label": "Pasta & Italian",
+      "emoji": "🍝",
+      "words": [
+        "pasta",
+        "italian",
+        "rigatoni",
+        "spaghetti"
+      ]
+    },
+    {
+      "id": "tacos",
+      "label": "Tacos & Mexican",
+      "emoji": "🌮",
+      "words": [
+        "taco",
+        "mexican",
+        "nachos",
+        "burrito"
+      ]
+    },
+    {
+      "id": "burgers",
+      "label": "Burgers",
+      "emoji": "🍔",
+      "words": [
+        "burger",
+        "sliders"
+      ]
+    },
+    {
+      "id": "wings",
+      "label": "Wings",
+      "emoji": "🍗",
+      "words": [
+        "wings"
+      ]
+    },
+    {
+      "id": "oysters",
+      "label": "Oysters & seafood",
+      "emoji": "🦪",
+      "words": [
+        "oyster",
+        "seafood",
+        "fish",
+        "crudo",
+        "caviar"
+      ]
+    },
+    {
+      "id": "sushi",
+      "label": "Sushi & Japanese",
+      "emoji": "🍣",
+      "words": [
+        "sushi",
+        "japanese",
+        "izakaya",
+        "maki",
+        "nigiri",
+        "sashimi"
+      ]
+    },
+    {
+      "id": "korean",
+      "label": "Korean",
+      "emoji": "🍲",
+      "words": [
+        "korean"
+      ]
+    },
+    {
+      "id": "vietnamese",
+      "label": "Vietnamese",
+      "emoji": "🍜",
+      "words": [
+        "vietnamese",
+        "pho",
+        "banh mi"
+      ]
+    },
+    {
+      "id": "thai",
+      "label": "Thai",
+      "emoji": "🌶️",
+      "words": [
+        "thai"
+      ]
+    },
+    {
+      "id": "asian",
+      "label": "Asian fusion",
+      "emoji": "🥢",
+      "words": [
+        "asian",
+        "malaysian"
+      ]
+    },
+    {
+      "id": "middle-eastern",
+      "label": "Mediterranean",
+      "emoji": "🧆",
+      "words": [
+        "middle eastern",
+        "mediterranean",
+        "israeli",
+        "falafel",
+        "hummus"
+      ]
+    },
+    {
+      "id": "greek",
+      "label": "Greek",
+      "emoji": "🫒",
+      "words": [
+        "greek"
+      ]
+    },
+    {
+      "id": "french",
+      "label": "French",
+      "emoji": "🥖",
+      "words": [
+        "french",
+        "bistro"
+      ]
+    },
+    {
+      "id": "spanish",
+      "label": "Tapas & Portuguese",
+      "emoji": "🥘",
+      "words": [
+        "tapas",
+        "portuguese",
+        "spanish"
+      ]
+    },
+    {
+      "id": "steak",
+      "label": "Steak",
+      "emoji": "🥩",
+      "words": [
+        "steak",
+        "prime rib"
+      ]
+    },
+    {
+      "id": "pub",
+      "label": "Pub food",
+      "emoji": "🥧",
+      "words": [
+        "pub",
+        "fish & chips",
+        "pie"
+      ]
+    },
+    {
+      "id": "vegan",
+      "label": "Vegan",
+      "emoji": "🌱",
+      "words": [
+        "vegan",
+        "plant-based",
+        "veggie"
+      ]
+    },
+    {
+      "id": "diner",
+      "label": "Diner",
+      "emoji": "🍳",
+      "words": [
+        "diner",
+        "brunch"
+      ]
+    },
+    {
+      "id": "snacks",
+      "label": "Bar snacks",
+      "emoji": "🥨",
+      "words": [
+        "snack",
+        "bites",
+        "fries",
+        "nachos"
+      ]
+    }
+  ],
+  "venues": [
+    {
+      "id": "central",
+      "name": "Central",
+      "category": "Bar & kitchen",
+      "vibe": "bar",
+      "address": "114 Ossington Ave",
+      "phone": "(647) 925-6337",
+      "website": "https://centralrestaurants.ca/locations/toronto-ossington",
+      "googleMapsUrl": "https://maps.google.com/?cid=16416524264852902454",
+      "booking": {
+        "provider": "opentable",
+        "url": "https://www.opentable.ca/r/central-restaurants-toronto-ossington-toronto"
+      },
+      "lat": 43.64675,
+      "lng": -79.41999,
+      "tags": [
+        "Local craft beer",
+        "Late night"
+      ],
+      "food": [
+        "burgers",
+        "wings",
+        "tacos",
+        "sushi",
+        "snacks"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "Central Toronto Ossington menu",
+          "url": "https://centralrestaurants.ca/toronto-ossington/menu",
+          "date": "2026-10"
+        },
+        {
+          "label": "blogTO happy hours roundup",
+          "url": "https://www.blogto.com/eat_drink/2025/09/happy-hours-toronto-september/",
+          "date": "2025-09"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "start": 840,
+          "end": 1020,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "highballs (1 oz)",
+              "price": 5
+            },
+            {
+              "kind": "drink",
+              "item": "OG Shaft on Draft",
+              "price": 5
+            },
+            {
+              "kind": "drink",
+              "item": "house beer",
+              "price": 5.5
+            },
+            {
+              "kind": "drink",
+              "item": "house wine (7 oz)",
+              "price": 7
+            },
+            {
+              "kind": "drink",
+              "item": "mules (1 oz)",
+              "price": 8
+            },
+            {
+              "kind": "drink",
+              "item": "espresso martinis (2 oz)",
+              "price": 9
+            },
+            {
+              "kind": "drink",
+              "item": "classic margaritas (2 oz)",
+              "price": 10
+            },
+            {
+              "kind": "food",
+              "item": "cheeseburger sliders (min 2)",
+              "price": 4
+            },
+            {
+              "kind": "food",
+              "item": "cheddar perogies",
+              "price": 5
+            },
+            {
+              "kind": "food",
+              "item": "spicy California roll",
+              "price": 5
+            },
+            {
+              "kind": "food",
+              "item": "crispy chili salmon roll",
+              "price": 6
+            },
+            {
+              "kind": "food",
+              "item": "truffle fries",
+              "price": 11
+            }
+          ]
+        },
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 1260,
+          "end": 1440,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "highballs (1 oz)",
+              "price": 5
+            },
+            {
+              "kind": "drink",
+              "item": "OG Shaft on Draft",
+              "price": 5
+            },
+            {
+              "kind": "drink",
+              "item": "house beer",
+              "price": 5.5
+            },
+            {
+              "kind": "drink",
+              "item": "house wine (7 oz)",
+              "price": 7
+            },
+            {
+              "kind": "drink",
+              "item": "mules (1 oz)",
+              "price": 8
+            },
+            {
+              "kind": "drink",
+              "item": "espresso martinis (2 oz)",
+              "price": 9
+            },
+            {
+              "kind": "drink",
+              "item": "classic margaritas (2 oz)",
+              "price": 10
+            },
+            {
+              "kind": "food",
+              "item": "cheeseburger sliders (min 2)",
+              "price": 4
+            },
+            {
+              "kind": "food",
+              "item": "cheddar perogies",
+              "price": 5
+            },
+            {
+              "kind": "food",
+              "item": "spicy California roll",
+              "price": 5
+            },
+            {
+              "kind": "food",
+              "item": "crispy chili salmon roll",
+              "price": 6
+            },
+            {
+              "kind": "food",
+              "item": "truffle fries",
+              "price": 11
+            }
+          ],
+          "note": "Late night runs Sun–Thu from 9 PM to close per Central’s menu; other listings give slightly different days."
+        }
+      ],
+      "dailySpecials": [
+        {
+          "days": [
+            1
+          ],
+          "title": "Wine Not Monday",
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "house wine",
+              "price": 7
+            }
+          ]
+        },
+        {
+          "days": [
+            2
+          ],
+          "title": "Half Off Tuesday",
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Half-price wine bottles"
+            }
+          ]
+        },
+        {
+          "days": [
+            3
+          ],
+          "title": "Good in the Hood Wednesday",
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Dad Beer",
+              "price": 6
+            },
+            {
+              "kind": "food",
+              "item": "wings (1 lb)",
+              "price": 12
+            }
+          ]
+        },
+        {
+          "days": [
+            4
+          ],
+          "title": "Viva la Thursday",
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "margaritas",
+              "price": 10
+            },
+            {
+              "kind": "food",
+              "item": "carnitas tacos",
+              "price": 4
+            }
+          ]
+        },
+        {
+          "days": [
+            0
+          ],
+          "title": "Almost Famous Sunday",
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "mimosas",
+              "price": 5
+            },
+            {
+              "kind": "drink",
+              "item": "bottles of Veuve",
+              "price": 89
+            }
+          ]
+        },
+        {
+          "days": [
+            0,
+            6
+          ],
+          "title": "Weekend Warriors",
+          "start": 660,
+          "end": 900,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Caesars",
+              "price": 7
+            }
+          ]
+        },
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "title": "Shot of the Day",
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "shot of the day",
+              "price": 5
+            }
+          ]
+        }
+      ],
+      "placeId": "ChIJQSxaStI1K4gRNlIjJdc10-M",
+      "hours": [
+        {
+          "day": 0,
+          "open": 600,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 690,
+          "close": 1500
+        },
+        {
+          "day": 2,
+          "open": 690,
+          "close": 1500
+        },
+        {
+          "day": 3,
+          "open": 690,
+          "close": 1500
+        },
+        {
+          "day": 4,
+          "open": 690,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 690,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 600,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "sports",
+        "groups"
+      ],
+      "menuUrl": "https://centralrestaurants.ca/toronto-ossington/menu",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "azhar",
+      "name": "Azhar Kitchen + Bar",
+      "category": "Middle Eastern",
+      "vibe": "restaurant",
+      "address": "96 Ossington Ave",
+      "phone": "(647) 503-1098",
+      "website": "https://azhartoronto.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=7934032781455980144",
+      "booking": {
+        "provider": "opentable",
+        "url": "https://www.opentable.ca/r/azhar-kitchen-and-bar-toronto-1"
+      },
+      "lat": 43.6463,
+      "lng": -79.41981,
+      "tags": [
+        "Wood-fired"
+      ],
+      "food": [
+        "middle-eastern"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "Azhar happy hour menu",
+          "url": "https://azhartoronto.com/menu/happy-hour-menu",
+          "date": "2026-10"
+        },
+        {
+          "label": "Azhar on OpenTable",
+          "url": "https://www.opentable.ca/r/azhar-kitchen-and-bar-toronto-1",
+          "date": "2026-10"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "start": 960,
+          "end": 1080,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Burdock beer cans",
+              "price": 5
+            },
+            {
+              "kind": "drink",
+              "item": "spritzes",
+              "price": 10
+            },
+            {
+              "kind": "drink",
+              "item": "Half-price wine bottles"
+            },
+            {
+              "kind": "food",
+              "item": "za'atar fries, pickles & olives or falafel",
+              "price": 10
+            },
+            {
+              "kind": "food",
+              "item": "dips: hummus, muhammara, babaganoush, labneh",
+              "price": 15
+            },
+            {
+              "kind": "food",
+              "item": "salmon crudo or lamb kebab",
+              "price": 15
+            }
+          ]
+        },
+        {
+          "days": [
+            0,
+            6
+          ],
+          "start": 900,
+          "end": 1020,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Burdock beer cans",
+              "price": 5
+            },
+            {
+              "kind": "drink",
+              "item": "spritzes",
+              "price": 10
+            },
+            {
+              "kind": "drink",
+              "item": "Half-price wine bottles"
+            },
+            {
+              "kind": "food",
+              "item": "za'atar fries, pickles & olives or falafel",
+              "price": 10
+            },
+            {
+              "kind": "food",
+              "item": "dips: hummus, muhammara, babaganoush, labneh",
+              "price": 15
+            },
+            {
+              "kind": "food",
+              "item": "salmon crudo or lamb kebab",
+              "price": 15
+            }
+          ]
+        },
+        {
+          "days": [
+            5,
+            6
+          ],
+          "start": 1320,
+          "end": 1380,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Burdock beer cans",
+              "price": 5
+            },
+            {
+              "kind": "drink",
+              "item": "cocktails",
+              "price": 10
+            },
+            {
+              "kind": "drink",
+              "item": "Half-price select wine bottles"
+            }
+          ],
+          "note": "Drinks-only late session, listed on OpenTable but not on Azhar’s own site."
+        }
+      ],
+      "dailySpecials": [
+        {
+          "days": [
+            1
+          ],
+          "title": "Martini Mondays",
+          "start": 960,
+          "end": 1320,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "martinis (classic, Vesper, espresso…)",
+              "price": 10
+            },
+            {
+              "kind": "food",
+              "item": "za'atar fries with a martini",
+              "price": 8
+            }
+          ]
+        }
+      ],
+      "placeId": "ChIJV90RSKA1K4gRcPb8RsdYG24",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1350
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 1350
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://azhartoronto.com/menus-azhar-soulful-mediterranean",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "manita",
+      "name": "Manita",
+      "category": "Café & bar",
+      "vibe": "wine",
+      "address": "210 Ossington Ave",
+      "phone": "(416) 551-2230",
+      "website": "https://manita.ca/ossington",
+      "googleMapsUrl": "https://maps.google.com/?cid=5084857321141800044",
+      "booking": {
+        "provider": "resy",
+        "url": "https://resy.com/cities/toronto-on/venues/manita"
+      },
+      "lat": 43.6489218,
+      "lng": -79.420792,
+      "tags": [
+        "All day",
+        "Oysters"
+      ],
+      "food": [
+        "oysters",
+        "burgers"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "Manita Ossington menu (PDF)",
+          "url": "https://www.manita.ca/s/OSS-MENUS-2026.pdf",
+          "date": "2026-09"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 900,
+          "end": 1080,
+          "specials": [
+            {
+              "kind": "food",
+              "item": "oysters (min 6)",
+              "price": 2.5
+            },
+            {
+              "kind": "drink",
+              "item": "draft beer",
+              "price": 7
+            },
+            {
+              "kind": "drink",
+              "item": "5 oz Terre dei Penati bianco or rosso",
+              "price": 15
+            },
+            {
+              "kind": "food",
+              "item": "Manita burger & fries (reg. $31)",
+              "price": 19
+            },
+            {
+              "kind": "food",
+              "item": "veggie burger & fries",
+              "price": 19
+            }
+          ],
+          "note": "Not on holidays."
+        }
+      ],
+      "placeId": "ChIJj1oa9Cs1K4gRbIwz-MoKkUY",
+      "hours": [
+        {
+          "day": 0,
+          "open": 600,
+          "close": 1320
+        },
+        {
+          "day": 1,
+          "open": 600,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 600,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 600,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 600,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 600,
+          "close": 1320
+        },
+        {
+          "day": 6,
+          "open": 600,
+          "close": 1320
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://www.manita.ca/s/OSS-MENUS-2026.pdf",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "bar-libretto",
+      "name": "Bar Libretto",
+      "category": "Late-night pizza bar",
+      "vibe": "casual",
+      "address": "221 Ossington Ave",
+      "phone": "(416) 532-8000",
+      "website": "https://www.pizzerialibretto.com/bar-libretto/",
+      "googleMapsUrl": "https://maps.google.com/?cid=10052976913284778278",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=10052976913284778278"
+      },
+      "lat": 43.6489623,
+      "lng": -79.42028,
+      "tags": [
+        "Late night",
+        "DJs Fri & Sat"
+      ],
+      "food": [
+        "pizza",
+        "snacks"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "Pizzeria Libretto menus and specials",
+          "url": "https://www.pizzerialibretto.com/menus/",
+          "date": "2026-10"
+        },
+        {
+          "label": "Bar Libretto",
+          "url": "https://www.pizzerialibretto.com/bar-libretto/",
+          "date": "2026-10"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "start": 960,
+          "end": 1080,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Half-price bar rail"
+            },
+            {
+              "kind": "drink",
+              "item": "feature beers",
+              "price": 6
+            }
+          ]
+        },
+        {
+          "days": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "start": 1260,
+          "end": 1380,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Half-price bar rail"
+            },
+            {
+              "kind": "drink",
+              "item": "feature beers",
+              "price": 6
+            }
+          ],
+          "note": "The venue says 9 PM to “late”; February 2026 press says until 11 PM."
+        }
+      ],
+      "dailySpecials": [
+        {
+          "days": [
+            2,
+            3
+          ],
+          "title": "Wine Night",
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Half-price wine bottles"
+            }
+          ]
+        },
+        {
+          "days": [
+            0
+          ],
+          "title": "Family-style Sunday",
+          "specials": [
+            {
+              "kind": "food",
+              "item": "Set-price family-style meal for 4–5"
+            },
+            {
+              "kind": "drink",
+              "item": "Half-price wine bottles"
+            }
+          ]
+        }
+      ],
+      "placeId": "ChIJ0Y5QQ_k0K4gRJsmKWz1Zg4s",
+      "hours": [
+        {
+          "day": 0,
+          "open": 780,
+          "close": 1380
+        },
+        {
+          "day": 3,
+          "open": 960,
+          "close": 1500
+        },
+        {
+          "day": 4,
+          "open": 960,
+          "close": 1500
+        },
+        {
+          "day": 5,
+          "open": 960,
+          "close": 1500
+        },
+        {
+          "day": 6,
+          "open": 960,
+          "close": 1500
+        }
+      ],
+      "amenities": [
+        "live-music",
+        "groups"
+      ],
+      "menuUrl": "https://www.pizzerialibretto.com/menus/",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "haifa-room",
+      "name": "The Haifa Room",
+      "category": "Israeli",
+      "vibe": "restaurant",
+      "address": "224 Ossington Ave",
+      "website": "https://www.thehaifaroom.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=6851155143752327834",
+      "booking": {
+        "provider": "opentable",
+        "url": "https://www.opentable.ca/r/the-haifa-room-toronto"
+      },
+      "lat": 43.6492274,
+      "lng": -79.4209264,
+      "tags": [
+        "Falafel"
+      ],
+      "food": [
+        "middle-eastern"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "The Haifa Room menus",
+          "url": "https://thehaifaroom.com/",
+          "date": "2026-07"
+        }
+      ],
+      "happyHours": [],
+      "dailySpecials": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "arak",
+              "price": 6
+            }
+          ]
+        },
+        {
+          "days": [
+            2
+          ],
+          "title": "Wine Tuesday",
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Half-price wine bottles"
+            }
+          ]
+        }
+      ],
+      "placeId": "ChIJ_UAE2gs1K4gRmqJy5E0xFF8",
+      "hours": [
+        {
+          "day": 0,
+          "open": 660,
+          "close": 1320
+        },
+        {
+          "day": 1,
+          "open": 660,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 660,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 660,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 660,
+          "close": 1380
+        },
+        {
+          "day": 5,
+          "open": 660,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 660,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "live-music"
+      ],
+      "menuUrl": "https://www.thehaifaroom.com/menu",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "rhapsody",
+      "name": "Rhapsody",
+      "category": "Cocktail bar",
+      "vibe": "cocktails",
+      "address": "214 Ossington Ave",
+      "phone": "(647) 980-0214",
+      "website": "https://rhapsodytoronto.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=614493497086280234",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=614493497086280234"
+      },
+      "lat": 43.6489864,
+      "lng": -79.4209134,
+      "tags": [
+        "Late night",
+        "No cover"
+      ],
+      "food": [
+        "snacks"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "Rhapsody happy hour menu",
+          "url": "https://rhapsodytoronto.com/happy-hour-menu/",
+          "date": "2026-10"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            4,
+            5,
+            6,
+            0
+          ],
+          "start": 1200,
+          "end": 1320,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Estrella Damm",
+              "price": 7
+            },
+            {
+              "kind": "drink",
+              "item": "classic margaritas",
+              "price": 10
+            },
+            {
+              "kind": "drink",
+              "item": "8 oz house red or white",
+              "price": 10
+            },
+            {
+              "kind": "drink",
+              "item": "Hypnotic or Cool Relax cocktails",
+              "price": 11
+            }
+          ],
+          "note": "Times from Rhapsody’s happy hour page; the printed “Escape Menu” says 2–6 PM and 9 PM to close."
+        },
+        {
+          "days": [
+            4,
+            5,
+            6,
+            0
+          ],
+          "start": 1500,
+          "end": 1560,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Estrella Damm",
+              "price": 7
+            },
+            {
+              "kind": "drink",
+              "item": "classic margaritas",
+              "price": 10
+            },
+            {
+              "kind": "drink",
+              "item": "8 oz house red or white",
+              "price": 10
+            },
+            {
+              "kind": "drink",
+              "item": "Hypnotic or Cool Relax cocktails",
+              "price": 11
+            }
+          ],
+          "note": "Last-hour happy hour, 1–2 AM after Thursday to Sunday nights."
+        }
+      ],
+      "placeId": "ChIJkwv1QZ41K4gRKoKdcpQehwg",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1200,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1200,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1200,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1200,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "groups"
+      ],
+      "menuUrl": "https://rhapsodytoronto.com/drinks-menu/",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "la-chingada",
+      "name": "La Chingada",
+      "category": "Mexican",
+      "vibe": "casual",
+      "address": "1242 Dundas St W",
+      "phone": "(416) 535-2242",
+      "website": "https://www.lachingada.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=13251443665729089551",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=13251443665729089551"
+      },
+      "lat": 43.6496241,
+      "lng": -79.4240902,
+      "tags": [
+        "Margaritas",
+        "Dundas West",
+        "Back patio"
+      ],
+      "food": [
+        "tacos"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "La Chingada website",
+          "url": "https://www.lachingada.ca/",
+          "date": "2026-10"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            4,
+            5,
+            6
+          ],
+          "start": 960,
+          "end": 1140,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "signature margaritas",
+              "price": 10
+            },
+            {
+              "kind": "food",
+              "item": "happy hour food (12 dishes)",
+              "price": 6
+            }
+          ],
+          "note": "Dine-in only."
+        },
+        {
+          "days": [
+            3
+          ],
+          "start": 960,
+          "end": 1320,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "signature margaritas",
+              "price": 10
+            },
+            {
+              "kind": "food",
+              "item": "happy hour food (12 dishes)",
+              "price": 6
+            }
+          ],
+          "note": "Happy hour all day on Wednesdays. Dine-in only."
+        }
+      ],
+      "dailySpecials": [
+        {
+          "days": [
+            1
+          ],
+          "title": "Margarita Monday",
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "margaritas",
+              "price": 10
+            }
+          ]
+        },
+        {
+          "days": [
+            2
+          ],
+          "title": "Taco Tuesday",
+          "specials": [
+            {
+              "kind": "food",
+              "item": "any 3 tacos",
+              "price": 20
+            }
+          ]
+        },
+        {
+          "days": [
+            4
+          ],
+          "title": "AYCE Thursday",
+          "specials": [
+            {
+              "kind": "food",
+              "item": "all-you-can-eat tacos (1 hour)",
+              "price": 29.95
+            }
+          ]
+        },
+        {
+          "days": [
+            5
+          ],
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "bar rail",
+              "price": 6
+            }
+          ]
+        }
+      ],
+      "placeId": "ChIJO9JUdps1K4gRD_DhCM6V5rc",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 1260
+        },
+        {
+          "day": 1,
+          "open": 960,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 960,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 960,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 720,
+          "close": 1380
+        },
+        {
+          "day": 5,
+          "open": 720,
+          "close": 1380
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 1380
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "gloria",
+      "name": "Gloria",
+      "category": "French-American & cocktails",
+      "vibe": "cocktails",
+      "address": "1087 Queen St W",
+      "phone": "(416) 538-9090",
+      "website": "https://www.gloriagreathall.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=10284544454032052425",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=10284544454032052425"
+      },
+      "lat": 43.6432589,
+      "lng": -79.4220707,
+      "tags": [
+        "Martinis",
+        "Queen West"
+      ],
+      "food": [
+        "french"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "Gloria in the Great Hall",
+          "url": "https://www.gloriagreathall.com/",
+          "date": "2026-10"
+        },
+        {
+          "label": "Goodnightmere happy hour guide",
+          "url": "https://goodnightmere.substack.com/p/best-happy-hour-toronto",
+          "date": "undated"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "start": 1020,
+          "end": 1140,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "martinis",
+              "price": 10
+            }
+          ],
+          "note": "Gloria’s site says “Martini Happy Hour 5–7pm daily”; the $10 price comes from a local guide."
+        }
+      ],
+      "placeId": "ChIJ-xHp9nk1K4gRyVBL67AKuo4",
+      "hours": [
+        {
+          "day": 0,
+          "open": 600,
+          "close": 1440
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 600,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://www.gloriagreathall.com/menu",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "poetry-jazz-cafe",
+      "name": "Poetry Jazz Cafe",
+      "category": "Jazz bar",
+      "vibe": "bar",
+      "address": "1078 Queen St W",
+      "phone": "(416) 533-6695",
+      "website": "http://www.poetryjazzcafe.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=14954038098669927514",
+      "lat": 43.6437563,
+      "lng": -79.4217503,
+      "tags": [
+        "Live jazz",
+        "Back patio"
+      ],
+      "food": [
+        "snacks"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "Poetry Jazz Cafe drink menu",
+          "url": "https://www.poetryjazzcafe.com/drinkmenu",
+          "date": "2026-10"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "start": 1080,
+          "end": 1260,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Aperitivo specials: spritzes, mimosas, rum punch, craft beer"
+            },
+            {
+              "kind": "food",
+              "item": "Free bites"
+            }
+          ],
+          "note": "Its fall 2026 “evening chill”. No prices or days are listed; days follow its opening hours."
+        }
+      ],
+      "placeId": "ChIJ-z5EAcI0K4gRWvzgvGtqh88",
+      "hours": [
+        {
+          "day": 2,
+          "open": 1050,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1050,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1050,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1050,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "live-music"
+      ],
+      "menuUrl": "https://www.poetryjazzcafe.com/drinkmenu",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "bar-piquette",
+      "name": "Bar Piquette",
+      "category": "Wine bar",
+      "vibe": "wine",
+      "address": "1084 Queen St W",
+      "phone": "(416) 533-7745",
+      "website": "http://www.barpiquette.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=13251591339953424979",
+      "booking": {
+        "provider": "opentable",
+        "url": "https://www.opentable.ca/r/bar-piquette-toronto"
+      },
+      "lat": 43.6436898,
+      "lng": -79.421971,
+      "tags": [
+        "Natural wine",
+        "Queen West"
+      ],
+      "food": [
+        "snacks",
+        "french"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "Bar Piquette weekly rituals",
+          "url": "https://www.barpiquette.com/weekly-rituals",
+          "date": "2026-10"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "start": 1020,
+          "end": 1140,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Selected wines by the glass (prices not published)"
+            },
+            {
+              "kind": "food",
+              "item": "A few snacks at special prices"
+            }
+          ],
+          "note": "Its “Cinq à Sept”."
+        }
+      ],
+      "dailySpecials": [
+        {
+          "days": [
+            1
+          ],
+          "title": "Half-Price Mondays",
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Half-price wine bottles (whole list)"
+            }
+          ],
+          "note": "Dine-in only."
+        }
+      ],
+      "placeId": "ChIJJ6VJAc01K4gRUwqRHh0c57c",
+      "hours": [
+        {
+          "day": 0,
+          "open": 780,
+          "close": 1320
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 6,
+          "open": 780,
+          "close": 1440
+        }
+      ],
+      "amenities": [
+        "patio"
+      ],
+      "menuUrl": "https://www.barpiquette.com/menu",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "aleria",
+      "name": "Aleria",
+      "category": "Mediterranean",
+      "vibe": "restaurant",
+      "address": "1070 Queen St W",
+      "phone": "(416) 519-1109",
+      "website": "http://aleria.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=77191377239697648",
+      "booking": {
+        "provider": "opentable",
+        "url": "https://www.opentable.ca/r/aleria-toronto"
+      },
+      "lat": 43.64383,
+      "lng": -79.42147,
+      "tags": [
+        "Queen West"
+      ],
+      "food": [
+        "middle-eastern"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "Aleria on OpenTable",
+          "url": "https://www.opentable.ca/r/aleria-toronto",
+          "date": "2026-10"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": 1020,
+          "end": 1140,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "bar rail",
+              "price": 7
+            },
+            {
+              "kind": "food",
+              "item": "Select bites (prices not published)"
+            }
+          ]
+        },
+        {
+          "days": [
+            4,
+            5,
+            6
+          ],
+          "start": 1320,
+          "end": 1560,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "bar rail",
+              "price": 7
+            },
+            {
+              "kind": "food",
+              "item": "Select bites (prices not published)"
+            }
+          ],
+          "note": "Aleria says 10 PM “until late”; OpenTable lists it to 2 AM on Friday and Saturday."
+        }
+      ],
+      "placeId": "ChIJ66nGjXI1K4gR8GgYDCY9EgE",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://www.aleria.ca/menu",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "roxton-public-house",
+      "name": "Roxton Public House",
+      "category": "Pub",
+      "vibe": "bar",
+      "address": "1112 Dundas St W",
+      "phone": "(647) 449-4211",
+      "website": "http://roxtonpub.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=16419636220831962128",
+      "booking": {
+        "provider": "opentable",
+        "url": "https://www.opentable.ca/r/roxton-toronto"
+      },
+      "lat": 43.6496857,
+      "lng": -79.4201234,
+      "tags": [
+        "Sports on TV",
+        "Trivia Wednesdays"
+      ],
+      "food": [
+        "pub",
+        "burgers",
+        "wings"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "Roxton offers on OpenTable",
+          "url": "https://www.opentable.ca/r/roxton-toronto",
+          "date": "2026-10"
+        }
+      ],
+      "happyHours": [],
+      "dailySpecials": [
+        {
+          "days": [
+            1
+          ],
+          "title": "Monday Night Football",
+          "start": 840,
+          "end": 1320,
+          "specials": [
+            {
+              "kind": "food",
+              "item": "wings (per lb)",
+              "price": 14
+            },
+            {
+              "kind": "drink",
+              "item": "Budweiser or Michelob Ultra pitchers",
+              "price": 20
+            },
+            {
+              "kind": "drink",
+              "item": "rail shots",
+              "price": 5
+            }
+          ]
+        },
+        {
+          "days": [
+            2
+          ],
+          "start": 840,
+          "end": 1320,
+          "specials": [
+            {
+              "kind": "food",
+              "item": "cheeseburger",
+              "price": 12
+            },
+            {
+              "kind": "drink",
+              "item": "Budweiser pints",
+              "price": 8
+            },
+            {
+              "kind": "drink",
+              "item": "signature cocktails",
+              "price": 13
+            }
+          ]
+        },
+        {
+          "days": [
+            3
+          ],
+          "title": "Trivia Wednesday",
+          "start": 840,
+          "end": 1320,
+          "specials": [
+            {
+              "kind": "food",
+              "item": "fish & chips",
+              "price": 15
+            },
+            {
+              "kind": "drink",
+              "item": "Burdock Ducks IPA",
+              "price": 8
+            },
+            {
+              "kind": "drink",
+              "item": "Jameson shots",
+              "price": 6
+            }
+          ],
+          "note": "Trivia starts at 6:45 PM ($5 a person)."
+        },
+        {
+          "days": [
+            4
+          ],
+          "start": 840,
+          "end": 1320,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Half-price wine, by the glass or bottle"
+            }
+          ]
+        }
+      ],
+      "placeId": "ChIJLfBGbJY1K4gREJTT2yVE3uM",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 840,
+          "close": 1560
+        },
+        {
+          "day": 2,
+          "open": 840,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 840,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 840,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 840,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "sports",
+        "groups"
+      ],
+      "menuUrl": "https://www.roxtonpub.com/to-eat",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "dont-tell",
+      "name": "Don't Tell",
+      "category": "Asian fusion",
+      "vibe": "restaurant",
+      "address": "59 Ossington Ave",
+      "phone": "(416) 537-5555",
+      "website": "https://www.donttell.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=8329627480424271372",
+      "booking": {
+        "provider": "opentable",
+        "url": "https://www.opentable.ca/r/dont-tell-toronto"
+      },
+      "lat": 43.645549,
+      "lng": -79.41919,
+      "tags": [
+        "Hidden"
+      ],
+      "food": [
+        "asian"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "Don’t Tell on OpenTable",
+          "url": "https://www.opentable.ca/r/dont-tell-toronto",
+          "date": "2026-10"
+        }
+      ],
+      "happyHours": [],
+      "dailySpecials": [
+        {
+          "days": [
+            2
+          ],
+          "title": "Grill Tuesdays",
+          "specials": [
+            {
+              "kind": "food",
+              "item": "Off-menu grill special, new each week"
+            }
+          ]
+        },
+        {
+          "days": [
+            3
+          ],
+          "title": "Caviar Night",
+          "specials": [
+            {
+              "kind": "food",
+              "item": "caviar flight (3 bites)",
+              "price": 35
+            }
+          ]
+        },
+        {
+          "days": [
+            4
+          ],
+          "specials": [
+            {
+              "kind": "food",
+              "item": "six-course dinner (per person)",
+              "price": 45
+            }
+          ]
+        }
+      ],
+      "placeId": "ChIJT9oPYpQ1K4gRDE4Fqg_ImHM",
+      "hours": [
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1380
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1380
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1380
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1500
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1500
+        }
+      ],
+      "amenities": [
+        "live-music"
+      ],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "linnys",
+      "name": "Linny's",
+      "category": "Steakhouse",
+      "vibe": "restaurant",
+      "address": "176 Ossington Ave",
+      "phone": "(647) 390-1836",
+      "website": "https://linnysrestaurant.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=13035978374073890683",
+      "booking": {
+        "provider": "opentable",
+        "url": "https://www.opentable.ca/r/new-big-hug-hospitality-location-toronto"
+      },
+      "lat": 43.6480864,
+      "lng": -79.4205616,
+      "tags": [],
+      "food": [
+        "steak"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "Linny’s on OpenTable",
+          "url": "https://www.opentable.ca/r/new-big-hug-hospitality-location-toronto",
+          "date": "2026-10"
+        }
+      ],
+      "happyHours": [],
+      "dailySpecials": [
+        {
+          "days": [
+            0
+          ],
+          "title": "Prime Rib Sundays",
+          "specials": [
+            {
+              "kind": "food",
+              "item": "Smoked prime rib (pre-order)"
+            }
+          ],
+          "note": "Pre-order when you book."
+        }
+      ],
+      "placeId": "ChIJzTREIyw1K4gRezdZfkMZ6bQ",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1350
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1350
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1350
+        }
+      ],
+      "amenities": [
+        "groups"
+      ],
+      "menuUrl": "https://linnysrestaurant.com/menu/",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "painted-lady",
+      "name": "The Painted Lady",
+      "category": "Saloon & live music",
+      "vibe": "bar",
+      "address": "218 Ossington Ave",
+      "website": "https://www.thepaintedlady.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=16835034152475006481",
+      "lat": 43.6490944,
+      "lng": -79.4208389,
+      "tags": [
+        "Live music",
+        "Late night"
+      ],
+      "food": [
+        "snacks"
+      ],
+      "deals": "venue",
+      "sources": [
+        {
+          "label": "The Painted Lady events",
+          "url": "https://www.thepaintedlady.ca/shows-1/happy-hour-winesday-5jnc5",
+          "date": "2026-10"
+        },
+        {
+          "label": "The Painted Lady menu",
+          "url": "https://www.thepaintedlady.ca/menu",
+          "date": "2026-10"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            3
+          ],
+          "start": 1080,
+          "end": 1260,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "glasses of wine",
+              "price": 5
+            }
+          ],
+          "note": "Its Wednesday “Happy Hour Winesday”, with live jazz."
+        }
+      ],
+      "dailySpecials": [
+        {
+          "days": [
+            6
+          ],
+          "title": "Saturday Special",
+          "start": 900,
+          "end": 1200,
+          "specials": [
+            {
+              "kind": "food",
+              "item": "super-loaded nachos & a margarita",
+              "price": 28
+            },
+            {
+              "kind": "food",
+              "item": "double nachos & 2 margaritas",
+              "price": 48
+            }
+          ]
+        }
+      ],
+      "placeId": "ChIJm6h4Tvk0K4gREZbXp10Oouk",
+      "hours": [
+        {
+          "day": 0,
+          "open": 840,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 2,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 840,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "live-music",
+        "groups"
+      ],
+      "menuUrl": "https://www.thepaintedlady.ca/menu",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "sweaty-bettys",
+      "name": "Sweaty Betty's",
+      "category": "Dive bar",
+      "vibe": "bar",
+      "address": "13 Ossington Ave",
+      "phone": "(416) 535-6861",
+      "website": "http://www.sweatybettysbar.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=936711175619440522",
+      "lat": 43.6445976,
+      "lng": -79.4187776,
+      "tags": [
+        "Patio",
+        "LGBTQ+"
+      ],
+      "deals": "reported",
+      "sources": [
+        {
+          "label": "Yellow Pages patio guide",
+          "url": "https://www.yellowpages.ca/pl/the-top-patios-in-toronto-west-end-edition-P3866",
+          "date": "undated"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "start": 1020,
+          "end": 1140,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "$1 off highballs"
+            },
+            {
+              "kind": "drink",
+              "item": "$1 off pints"
+            }
+          ],
+          "note": "From an undated article; may be out of date."
+        }
+      ],
+      "placeId": "ChIJOywZw_00K4gRim_v79nd_ww",
+      "hours": [
+        {
+          "day": 0,
+          "open": 780,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 900,
+          "close": 1560
+        },
+        {
+          "day": 2,
+          "open": 900,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 900,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 900,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 900,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 780,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups",
+        "dogs"
+      ],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "bar-koukla",
+      "name": "Bar Koukla",
+      "category": "Greek",
+      "vibe": "wine",
+      "address": "88 Ossington Ave",
+      "phone": "(416) 901-7899",
+      "googleMapsUrl": "https://maps.google.com/?cid=9056907650003705940",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=9056907650003705940"
+      },
+      "lat": 43.6461018,
+      "lng": -79.4197435,
+      "tags": [
+        "Greek wine",
+        "Mezze"
+      ],
+      "food": [
+        "greek"
+      ],
+      "deals": "reported",
+      "sources": [
+        {
+          "label": "Goodnightmere happy hour guide",
+          "url": "https://goodnightmere.substack.com/p/best-happy-hour-toronto",
+          "date": "undated"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "start": 1050,
+          "end": 1170,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Half-price Greek wine bottles"
+            }
+          ]
+        },
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "start": 1260,
+          "end": 1440,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "classic martinis",
+              "price": 10
+            }
+          ],
+          "note": "The guide says “after 9 pm”, with no end time."
+        }
+      ],
+      "placeId": "ChIJHYSdxpw1K4gRVCD9qYWZsH0",
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "fallen-feather",
+      "name": "Fallen Feather",
+      "category": "Japanese",
+      "vibe": "restaurant",
+      "address": "217 Ossington Ave",
+      "phone": "(647) 971-7258",
+      "website": "https://www.instagram.com/fallenfeather217",
+      "googleMapsUrl": "https://maps.google.com/?cid=16585677419797212078",
+      "booking": {
+        "provider": "opentable",
+        "url": "https://www.opentable.ca/r/fallen-feather-toronto"
+      },
+      "lat": 43.6488321,
+      "lng": -79.4204173,
+      "tags": [
+        "Oysters"
+      ],
+      "food": [
+        "sushi",
+        "oysters",
+        "steak"
+      ],
+      "deals": "reported",
+      "sources": [
+        {
+          "label": "blogTO buck-a-shuck guide",
+          "url": "https://www.blogto.com/eat_drink/2025/11/buck-shuck-oyster-deals-toronto-day-week/",
+          "date": "2025-11"
+        }
+      ],
+      "happyHours": [],
+      "dailySpecials": [
+        {
+          "days": [
+            2,
+            3
+          ],
+          "title": "Buck-a-shuck",
+          "specials": [
+            {
+              "kind": "food",
+              "item": "oysters",
+              "price": 1
+            },
+            {
+              "kind": "drink",
+              "item": "drinks",
+              "price": 10
+            }
+          ]
+        },
+        {
+          "days": [
+            0
+          ],
+          "specials": [
+            {
+              "kind": "food",
+              "item": "steak frites",
+              "price": 20
+            }
+          ]
+        }
+      ],
+      "placeId": "ChIJoxEbiAY1K4gRrus6Fr0pLOY",
+      "hours": [
+        {
+          "day": 0,
+          "open": 960,
+          "close": 1380
+        },
+        {
+          "day": 1,
+          "open": 960,
+          "close": 1380
+        },
+        {
+          "day": 2,
+          "open": 960,
+          "close": 1380
+        },
+        {
+          "day": 3,
+          "open": 960,
+          "close": 1380
+        },
+        {
+          "day": 4,
+          "open": 960,
+          "close": 1380
+        },
+        {
+          "day": 5,
+          "open": 960,
+          "close": 1440
+        },
+        {
+          "day": 6,
+          "open": 960,
+          "close": 1440
+        }
+      ],
+      "amenities": [
+        "groups"
+      ],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "bar-roma",
+      "name": "Bar Roma",
+      "category": "Cocktail bar",
+      "vibe": "cocktails",
+      "address": "229 Ossington Ave",
+      "phone": "(416) 534-8828",
+      "website": "https://barromatoronto.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=4422500418841019941",
+      "booking": {
+        "provider": "opentable",
+        "url": "https://www.opentable.ca/r/bar-roma-toronto"
+      },
+      "lat": 43.6490985,
+      "lng": -79.4204244,
+      "tags": [
+        "Cocktails"
+      ],
+      "food": [
+        "pasta",
+        "snacks"
+      ],
+      "deals": "reported",
+      "sources": [
+        {
+          "label": "Fringe in Toronto happy hour list",
+          "url": "https://www.fringinto.com/best-happy-hours-toronto/",
+          "date": "2025-06"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "start": 1020,
+          "end": 1140,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Select cocktails & food (prices not published)"
+            }
+          ],
+          "note": "OpenTable lists a 6 PM opening on some nights, which conflicts with a 5 PM start."
+        }
+      ],
+      "placeId": "ChIJwzUsunw1K4gRJQYJFLPgXz0",
+      "hours": [
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1380
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "sports",
+        "groups"
+      ],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "bar-poet",
+      "name": "Bar Poet",
+      "category": "Pizza & beer bar",
+      "vibe": "casual",
+      "address": "1090 Queen St W",
+      "website": "http://barpoet.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=14942191862241121226",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=14942191862241121226"
+      },
+      "lat": 43.6437297,
+      "lng": -79.4223001,
+      "tags": [
+        "Queen West",
+        "Pizza"
+      ],
+      "food": [
+        "pizza"
+      ],
+      "deals": "reported",
+      "sources": [
+        {
+          "label": "UltimateHappyHours",
+          "url": "https://ultimatehappyhours.com/location/toronto-on/",
+          "date": "2026-10"
+        },
+        {
+          "label": "Fringe in Toronto happy hour list",
+          "url": "https://www.fringinto.com/best-happy-hours-toronto/",
+          "date": "2025-06"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "start": 720,
+          "end": 1020,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Poet Lager",
+              "price": 6
+            },
+            {
+              "kind": "drink",
+              "item": "shots",
+              "price": 6
+            },
+            {
+              "kind": "drink",
+              "item": "Poet IPA",
+              "price": 7
+            },
+            {
+              "kind": "drink",
+              "item": "$1/oz wine on tap"
+            },
+            {
+              "kind": "food",
+              "item": "pizza + salad combo",
+              "price": 28
+            }
+          ]
+        }
+      ],
+      "placeId": "ChIJfbK9F4k1K4gRylOd4lRUXc8",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 2,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://www.barpoet.com/menu",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "grape-witches",
+      "name": "Grape Witches",
+      "category": "Natural wine bar",
+      "vibe": "wine",
+      "address": "1247 Dundas St W",
+      "phone": "(416) 546-2151",
+      "website": "http://grapewitches.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=10638620424622993950",
+      "lat": 43.649278,
+      "lng": -79.4237253,
+      "tags": [
+        "Natural wine",
+        "Dundas West"
+      ],
+      "food": [
+        "snacks"
+      ],
+      "deals": "reported",
+      "sources": [
+        {
+          "label": "Tastet happy hour list",
+          "url": "https://tastet.ca/en/lists/our-favourite-happy-hours-in-toronto/",
+          "date": "2026-10"
+        }
+      ],
+      "happyHours": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "start": 900,
+          "end": 1080,
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "beer & cider",
+              "price": 6
+            },
+            {
+              "kind": "drink",
+              "item": "wine by the glass",
+              "price": 12
+            },
+            {
+              "kind": "food",
+              "item": "20% off snacks"
+            }
+          ]
+        }
+      ],
+      "placeId": "ChIJ2cM2tV81K4gRHnLeDen4o5M",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 1,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 720,
+          "close": 1380
+        },
+        {
+          "day": 5,
+          "open": 720,
+          "close": 1380
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 1380
+        }
+      ],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "wasted-youth",
+      "name": "Wasted Youth Bar",
+      "category": "Dive bar",
+      "vibe": "bar",
+      "address": "1185 Dundas St W",
+      "phone": "(647) 380-8555",
+      "googleMapsUrl": "https://maps.google.com/?cid=11939268674350405691",
+      "lat": 43.6491699,
+      "lng": -79.4220471,
+      "tags": [
+        "Dundas West",
+        "Late night"
+      ],
+      "deals": "reported",
+      "sources": [
+        {
+          "label": "Corner listing",
+          "url": "https://www.corner.inc/place/pzxpD8ciPwsV",
+          "date": "2026-09"
+        }
+      ],
+      "happyHours": [],
+      "dailySpecials": [
+        {
+          "days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "specials": [
+            {
+              "kind": "drink",
+              "item": "Jameson shots",
+              "price": 4
+            }
+          ]
+        }
+      ],
+      "placeId": "ChIJA2U-y4o0K4gRO9iaNJrNsKU",
+      "hours": [
+        {
+          "day": 0,
+          "open": 840,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 2,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 840,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 840,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups",
+        "dogs"
+      ],
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "hanmoto",
+      "name": "Hanmoto",
+      "category": "Izakaya",
+      "food": [
+        "sushi"
+      ],
+      "vibe": "restaurant",
+      "address": "2 Lakeview Ave (at Dundas)",
+      "website": "http://www.instagram.com/hanm0t0",
+      "googleMapsUrl": "https://maps.google.com/?cid=8410603142583506284",
+      "lat": 43.6496,
+      "lng": -79.4230583,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJ13mH4Pg0K4gRbFV5NP92uHQ",
+      "hours": [
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 5,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1080,
+          "close": 1560
+        }
+      ]
+    },
+    {
+      "id": "casablanca-lounge",
+      "name": "Casablanca Lounge",
+      "category": "Lounge",
+      "food": [
+        "snacks"
+      ],
+      "vibe": "bar",
+      "address": "1108 Dundas St W",
+      "phone": "(647) 802-8404",
+      "website": "https://linktr.ee/casablancalounge",
+      "googleMapsUrl": "https://maps.google.com/?cid=14015965515171145263",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=14015965515171145263"
+      },
+      "lat": 43.6496018,
+      "lng": -79.4199498,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJZ8TO4kc1K4gRL6bmU2C2gsI",
+      "hours": [
+        {
+          "day": 5,
+          "open": 1260,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1260,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "live-music",
+        "sports",
+        "groups"
+      ]
+    },
+    {
+      "id": "mild-afro-lounge",
+      "name": "Mild Afro Lounge",
+      "category": "African lounge",
+      "vibe": "bar",
+      "address": "1116 Dundas St W",
+      "phone": "(647) 368-8355",
+      "website": "https://mildafrolounge.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=15220683824977825225",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=15220683824977825225"
+      },
+      "lat": 43.6495445,
+      "lng": -79.4202133,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJ0a5GZPk0K4gRyU1W0ku7OtM",
+      "hours": [
+        {
+          "day": 0,
+          "open": 840,
+          "close": 1380
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 6,
+          "open": 840,
+          "close": 1440
+        }
+      ],
+      "amenities": [
+        "patio"
+      ],
+      "menuUrl": "https://mildafrolounge.com/mild-afro-food-menu/"
+    },
+    {
+      "id": "the-lakeview-diner",
+      "name": "The Lakeview Diner",
+      "category": "Diner",
+      "food": [
+        "diner",
+        "burgers"
+      ],
+      "vibe": "casual",
+      "address": "1132 Dundas St W",
+      "phone": "(416) 850-8886",
+      "website": "http://www.thelakeviewdiner.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=16639783315186743385",
+      "lat": 43.6495767,
+      "lng": -79.420449,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJOWjDZfk0K4gRWXgticNi7OY",
+      "hours": [
+        {
+          "day": 0,
+          "open": 0,
+          "close": 1440
+        },
+        {
+          "day": 1,
+          "open": 0,
+          "close": 1440
+        },
+        {
+          "day": 2,
+          "open": 0,
+          "close": 1440
+        },
+        {
+          "day": 3,
+          "open": 0,
+          "close": 1440
+        },
+        {
+          "day": 4,
+          "open": 0,
+          "close": 1440
+        },
+        {
+          "day": 5,
+          "open": 0,
+          "close": 1440
+        },
+        {
+          "day": 6,
+          "open": 0,
+          "close": 1440
+        }
+      ],
+      "amenities": [
+        "groups"
+      ],
+      "menuUrl": "http://www.thelakeviewrestaurant.ca/menu-1"
+    },
+    {
+      "id": "nazare-snack-bar",
+      "name": "Nazaré Snack Bar",
+      "category": "Bar",
+      "food": [
+        "spanish"
+      ],
+      "vibe": "bar",
+      "address": "1151 Dundas St W",
+      "phone": "(647) 435-0103",
+      "googleMapsUrl": "https://maps.google.com/?cid=12674257153560924051",
+      "lat": 43.6492525,
+      "lng": -79.4211075,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJDb2javk0K4gRk8_z5boB5K8",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "live-music",
+        "groups"
+      ]
+    },
+    {
+      "id": "taberna-lx",
+      "name": "Taberna LX",
+      "category": "Portuguese",
+      "food": [
+        "spanish",
+        "steak"
+      ],
+      "vibe": "restaurant",
+      "address": "1161 Dundas St W",
+      "phone": "(416) 516-6660",
+      "website": "http://www.tabernalx.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=3246626981853490938",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=3246626981853490938"
+      },
+      "lat": 43.6491618,
+      "lng": -79.4214645,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJU8BFEAY1K4gR-m6T4wlWDi0",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1380
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1440
+        }
+      ],
+      "amenities": [
+        "patio",
+        "live-music",
+        "sports",
+        "groups"
+      ]
+    },
+    {
+      "id": "kensei-bar",
+      "name": "Kensei Bar",
+      "category": "Cocktail bar",
+      "food": [
+        "snacks"
+      ],
+      "vibe": "cocktails",
+      "address": "1173 Dundas St W",
+      "phone": "(416) 532-4830",
+      "website": "https://www.kenseibar.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=13046974055055706297",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=13046974055055706297"
+      },
+      "lat": 43.6492112,
+      "lng": -79.4217943,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJ94OxP7I1K4gRuUhV-cYpELU",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 2,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 3,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 4,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 5,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1080,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "groups"
+      ],
+      "menuUrl": "https://www.kenseibar.ca/menu"
+    },
+    {
+      "id": "gracies-pizza",
+      "name": "Gracie's Pizza",
+      "category": "Pizza",
+      "food": [
+        "pizza"
+      ],
+      "vibe": "casual",
+      "address": "1181 Dundas St W",
+      "website": "https://graciespizzeria.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=7091821949934874143",
+      "lat": 43.6491906,
+      "lng": -79.4219701,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJNYh0RAA1K4gRH64vSH02a2I",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1560
+        }
+      ],
+      "menuUrl": "https://graciespizza.bycalibre.ca/menu"
+    },
+    {
+      "id": "get-well",
+      "name": "Get Well",
+      "category": "Bar",
+      "food": [
+        "pizza",
+        "snacks"
+      ],
+      "vibe": "bar",
+      "address": "1181 Dundas St W",
+      "phone": "(647) 351-2337",
+      "website": "http://www.getwellbar.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=1140532281610862293",
+      "lat": 43.6491932,
+      "lng": -79.4219371,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJRQRrr040K4gR1f5HPBH80w8",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "http://www.getwellbar.com/barmenu"
+    },
+    {
+      "id": "vie-strada",
+      "name": "Vie Strada",
+      "category": "Italian",
+      "food": [
+        "pasta"
+      ],
+      "vibe": "restaurant",
+      "address": "1183 Dundas St W",
+      "phone": "(416) 792-2494",
+      "googleMapsUrl": "https://maps.google.com/?cid=1194247960166187678",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=1194247960166187678"
+      },
+      "lat": 43.6491658,
+      "lng": -79.4220031,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJu0qUeKw1K4gRnsJwPzHSkhA",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1380
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1440
+        }
+      ],
+      "amenities": [
+        "patio",
+        "live-music",
+        "groups"
+      ]
+    },
+    {
+      "id": "the-garrison",
+      "name": "The Garrison",
+      "category": "Live music bar",
+      "vibe": "bar",
+      "address": "1197 Dundas St W",
+      "phone": "(416) 519-9439",
+      "website": "http://www.garrisontoronto.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=16297380322841385757",
+      "lat": 43.6491333,
+      "lng": -79.4223722,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJHyYW3vg0K4gRHdtmcA7tK-I",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1080,
+          "close": 1605
+        },
+        {
+          "day": 1,
+          "open": 1080,
+          "close": 1605
+        },
+        {
+          "day": 2,
+          "open": 1080,
+          "close": 1605
+        },
+        {
+          "day": 3,
+          "open": 1080,
+          "close": 1365
+        },
+        {
+          "day": 4,
+          "open": 1080,
+          "close": 1605
+        },
+        {
+          "day": 5,
+          "open": 1080,
+          "close": 1605
+        },
+        {
+          "day": 6,
+          "open": 1080,
+          "close": 1605
+        }
+      ],
+      "amenities": [
+        "live-music"
+      ]
+    },
+    {
+      "id": "the-jean-darlene",
+      "name": "The Jean Darlene",
+      "category": "Piano bar",
+      "vibe": "bar",
+      "address": "1203 Dundas St W",
+      "googleMapsUrl": "https://maps.google.com/?cid=8344610202318067354",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=8344610202318067354"
+      },
+      "lat": 43.6491905,
+      "lng": -79.422528,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJPwCavhk1K4gRmtZEcsQCznM",
+      "hours": [
+        {
+          "day": 4,
+          "open": 1200,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1200,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1200,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "live-music",
+        "groups"
+      ]
+    },
+    {
+      "id": "the-gemini",
+      "name": "The Gemini",
+      "category": "Restaurant & bar",
+      "food": [
+        "oysters"
+      ],
+      "vibe": "restaurant",
+      "address": "1209A Dundas St W",
+      "phone": "(416) 531-8997",
+      "website": "https://www.thegeminitoronto.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=11749651423155465507",
+      "lat": 43.6492389,
+      "lng": -79.422629,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJhxuo8Fc1K4gRIy3Yj7clD6M",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1320
+        }
+      ]
+    },
+    {
+      "id": "churchill",
+      "name": "Churchill",
+      "category": "Bar",
+      "vibe": "bar",
+      "address": "1212 Dundas St W",
+      "phone": "(416) 588-4900",
+      "website": "http://instagram.com/churchillbartoronto",
+      "googleMapsUrl": "https://maps.google.com/?cid=17770928819774560014",
+      "lat": 43.6494853,
+      "lng": -79.4230324,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJAxRr5_g0K4gRDhdqb5sFn_Y",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ]
+    },
+    {
+      "id": "gia-restaurant",
+      "name": "Gia Restaurant",
+      "category": "Italian",
+      "food": [
+        "pasta",
+        "vegan"
+      ],
+      "vibe": "restaurant",
+      "address": "1214 Dundas St W",
+      "phone": "(416) 535-8888",
+      "website": "http://giarestaurant.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=6928656019875958553",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=6928656019875958553"
+      },
+      "lat": 43.6495081,
+      "lng": -79.42311,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJV6jKeuU1K4gRGQ-Uw_CHJ2A",
+      "hours": [
+        {
+          "day": 0,
+          "open": 690,
+          "close": 870
+        },
+        {
+          "day": 0,
+          "open": 900,
+          "close": 1230
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 6,
+          "open": 690,
+          "close": 1320
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ]
+    },
+    {
+      "id": "the-fountain",
+      "name": "The Fountain",
+      "category": "Bar",
+      "vibe": "bar",
+      "address": "1261 Dundas St W",
+      "googleMapsUrl": "https://maps.google.com/?cid=18025389106697506104",
+      "lat": 43.6492766,
+      "lng": -79.4243123,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJcbouvPg0K4gROI3m0uMLJ_o",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1140,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 1140,
+          "close": 1560
+        },
+        {
+          "day": 2,
+          "open": 1140,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 1140,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1140,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1140,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1140,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ]
+    },
+    {
+      "id": "stefanos-diner",
+      "name": "Stefano's Diner",
+      "category": "Vegan",
+      "food": [
+        "vegan",
+        "diner",
+        "burgers"
+      ],
+      "vibe": "restaurant",
+      "address": "1265 Dundas St W",
+      "phone": "(437) 318-8697",
+      "website": "https://stefanosdiner.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=12615690614457288405",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=12615690614457288405"
+      },
+      "lat": 43.6492109,
+      "lng": -79.4244646,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJU9GW4uk1K4gR1cb05sXvE68",
+      "hours": [
+        {
+          "day": 0,
+          "open": 600,
+          "close": 1230
+        },
+        {
+          "day": 1,
+          "open": 990,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 990,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 990,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 720,
+          "close": 1410
+        },
+        {
+          "day": 6,
+          "open": 600,
+          "close": 1410
+        }
+      ],
+      "amenities": [
+        "groups"
+      ]
+    },
+    {
+      "id": "bambis",
+      "name": "Bambi's",
+      "category": "Bar",
+      "vibe": "bar",
+      "address": "1265 Dundas St W",
+      "phone": "(289) 845-9200",
+      "website": "https://www.instagram.com/bambistoronto/",
+      "googleMapsUrl": "https://maps.google.com/?cid=4168642275095941517",
+      "lat": 43.6492109,
+      "lng": -79.4244646,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJz9O3gkA1K4gRjRHFEhD-2Tk",
+      "hours": [
+        {
+          "day": 4,
+          "open": 1260,
+          "close": 1590
+        },
+        {
+          "day": 5,
+          "open": 1260,
+          "close": 1590
+        },
+        {
+          "day": 6,
+          "open": 1260,
+          "close": 1590
+        }
+      ],
+      "amenities": [
+        "live-music",
+        "groups"
+      ]
+    },
+    {
+      "id": "downtown-winery",
+      "name": "Downtown Winery",
+      "category": "Urban winery",
+      "food": [
+        "spanish",
+        "snacks"
+      ],
+      "vibe": "wine",
+      "address": "30 Ossington Ave",
+      "phone": "(416) 537-0416",
+      "website": "http://downtownwineryto.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=812767325207138279",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=812767325207138279"
+      },
+      "lat": 43.644878,
+      "lng": -79.4194639,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJnf542v00K4gR5w8EeJOHRws",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 1200
+        },
+        {
+          "day": 2,
+          "open": 720,
+          "close": 1200
+        },
+        {
+          "day": 3,
+          "open": 720,
+          "close": 1200
+        },
+        {
+          "day": 4,
+          "open": 720,
+          "close": 1380
+        },
+        {
+          "day": 5,
+          "open": 720,
+          "close": 1380
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 1380
+        }
+      ],
+      "amenities": [
+        "patio",
+        "live-music",
+        "groups"
+      ],
+      "menuUrl": "https://downtownwineryto.com/flights-menu/"
+    },
+    {
+      "id": "pho-tien-thanh",
+      "name": "Pho Tien Thanh",
+      "category": "Vietnamese",
+      "food": [
+        "vietnamese"
+      ],
+      "vibe": "restaurant",
+      "address": "57 Ossington Ave",
+      "phone": "(416) 588-6997",
+      "website": "https://photienthanh.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=13162527516069535680",
+      "lat": 43.6455011,
+      "lng": -79.4191663,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJoQ5K0_00K4gRwB-hrQmxqrY",
+      "hours": [
+        {
+          "day": 0,
+          "open": 660,
+          "close": 1320
+        },
+        {
+          "day": 1,
+          "open": 660,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 660,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 660,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 660,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 660,
+          "close": 1320
+        },
+        {
+          "day": 6,
+          "open": 660,
+          "close": 1320
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://photienthanh.com/menu/"
+    },
+    {
+      "id": "nabe-hana",
+      "name": "Nabe Hana",
+      "category": "Korean",
+      "food": [
+        "korean"
+      ],
+      "vibe": "restaurant",
+      "address": "70 Ossington Ave",
+      "phone": "(647) 348-8009",
+      "website": "http://www.nabehana.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=9737755645051833869",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=9737755645051833869"
+      },
+      "lat": 43.6457906,
+      "lng": -79.4195709,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJkU_5nKQ1K4gRDY7elCp1I4c",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 1320
+        }
+      ],
+      "menuUrl": "https://www.nabehana.ca/menu"
+    },
+    {
+      "id": "union",
+      "name": "Union",
+      "category": "Bistro",
+      "food": [
+        "french"
+      ],
+      "vibe": "restaurant",
+      "address": "72 Ossington Ave",
+      "phone": "(416) 850-0093",
+      "website": "http://union72.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=14567480780361471431",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=14567480780361471431"
+      },
+      "lat": 43.6458179,
+      "lng": -79.4195744,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJYXmaWVPL1IkRx5XGgZYWKso",
+      "hours": [
+        {
+          "day": 0,
+          "open": 600,
+          "close": 900
+        },
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 1,
+          "open": 690,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 690,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 690,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 690,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 690,
+          "close": 1320
+        },
+        {
+          "day": 6,
+          "open": 600,
+          "close": 900
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1320
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://union72.ca/menus-2/"
+    },
+    {
+      "id": "no-vacancy",
+      "name": "No Vacancy",
+      "category": "Cocktail bar",
+      "food": [
+        "korean",
+        "pasta"
+      ],
+      "vibe": "cocktails",
+      "address": "74 Ossington Ave",
+      "website": "https://novacancybar.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=7586023313784274644",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=7586023313784274644"
+      },
+      "lat": 43.645823,
+      "lng": -79.4197953,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJBaDLG0w1K4gR1H7x6wL4Rmk",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 2,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 3,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 4,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1080,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "groups"
+      ],
+      "menuUrl": "https://www.novacancybar.ca/menu"
+    },
+    {
+      "id": "mamakas-taverna",
+      "name": "Mamakas Taverna",
+      "category": "Greek",
+      "food": [
+        "greek"
+      ],
+      "vibe": "restaurant",
+      "address": "80 Ossington Ave",
+      "phone": "(416) 519-5996",
+      "website": "http://mamakas.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=6991085819778086555",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=6991085819778086555"
+      },
+      "lat": 43.6459466,
+      "lng": -79.419662,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJmVryKPw0K4gRm7YkQoNTBWE",
+      "hours": [
+        {
+          "day": 0,
+          "open": 690,
+          "close": 900
+        },
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 1,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 6,
+          "open": 690,
+          "close": 900
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1320
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ]
+    },
+    {
+      "id": "gift-shop",
+      "name": "Gift Shop",
+      "category": "Cocktail bar",
+      "vibe": "cocktails",
+      "address": "89 Ossington Ave",
+      "phone": "(416) 546-5432",
+      "website": "https://www.instagram.com/giftshopyyz",
+      "googleMapsUrl": "https://maps.google.com/?cid=3952920180473804063",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=3952920180473804063"
+      },
+      "lat": 43.6461441,
+      "lng": -79.4194815,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJNVMDJfw0K4gRHzWd7vWX2zY",
+      "hours": [
+        {
+          "day": 2,
+          "open": 1170,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 1170,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1170,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1170,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1170,
+          "close": 1560
+        }
+      ]
+    },
+    {
+      "id": "oddseoul",
+      "name": "Oddseoul",
+      "category": "Korean",
+      "food": [
+        "korean"
+      ],
+      "vibe": "restaurant",
+      "address": "90 Ossington Ave",
+      "website": "https://resy.com/cities/toronto-on/venues/odd-seoul?date=2026-02-05&seats=2",
+      "googleMapsUrl": "https://maps.google.com/?cid=6480953517136135270",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=6480953517136135270"
+      },
+      "lat": 43.6462334,
+      "lng": -79.4197137,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJ8SrvJ_w0K4gRZsS34uL48Fk",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 1,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 3,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 4,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ]
+    },
+    {
+      "id": "the-lunch-lady",
+      "name": "The Lunch Lady",
+      "category": "Vietnamese",
+      "food": [
+        "vietnamese"
+      ],
+      "vibe": "restaurant",
+      "address": "93 Ossington Ave",
+      "phone": "(647) 748-9550",
+      "website": "https://thelunchlady.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=12765055358087020026",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=12765055358087020026"
+      },
+      "lat": 43.6462872,
+      "lng": -79.4194612,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJY62OJvw0K4gR-j35TDeWJrE",
+      "hours": [
+        {
+          "day": 0,
+          "open": 660,
+          "close": 900
+        },
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 720,
+          "close": 900
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 720,
+          "close": 900
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 720,
+          "close": 900
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 6,
+          "open": 660,
+          "close": 900
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1320
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://thelunchlady.com/menu-toronto"
+    },
+    {
+      "id": "fat-choi",
+      "name": "Fat Choi",
+      "category": "Vegan",
+      "food": [
+        "asian",
+        "vegan"
+      ],
+      "vibe": "restaurant",
+      "address": "94 Ossington Ave",
+      "phone": "(416) 901-7667",
+      "website": "https://www.fatchoito.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=8317621019263426466",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=8317621019263426466"
+      },
+      "lat": 43.6462663,
+      "lng": -79.4197492,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJASCo-jM1K4gRot-ElT8gbnM",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1320
+        }
+      ],
+      "amenities": [
+        "patio"
+      ],
+      "menuUrl": "https://www.fatchoito.com/menu-1"
+    },
+    {
+      "id": "soos",
+      "name": "Soos",
+      "category": "Malaysian",
+      "food": [
+        "asian"
+      ],
+      "vibe": "restaurant",
+      "address": "94 Ossington Ave",
+      "phone": "(416) 901-7667",
+      "website": "http://www.soostoronto.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=11457668527280083149",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=11457668527280083149"
+      },
+      "lat": 43.6462492,
+      "lng": -79.4198168,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJGUKDJ_w0K4gRzdCz-tHQAZ8",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1260
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1290
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1290
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1320
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ]
+    },
+    {
+      "id": "neon-tiger",
+      "name": "Neon Tiger",
+      "category": "Asian fusion",
+      "food": [
+        "asian"
+      ],
+      "vibe": "restaurant",
+      "address": "108 Ossington Ave",
+      "website": "http://www.neontiger.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=1429202412984657926",
+      "lat": 43.6465677,
+      "lng": -79.4199351,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJt5j3nv40K4gRBugUugWM1RM",
+      "hours": [
+        {
+          "day": 0,
+          "open": 900,
+          "close": 1500
+        },
+        {
+          "day": 4,
+          "open": 960,
+          "close": 1440
+        },
+        {
+          "day": 5,
+          "open": 960,
+          "close": 1440
+        },
+        {
+          "day": 6,
+          "open": 900,
+          "close": 1500
+        }
+      ],
+      "amenities": [
+        "sports",
+        "groups"
+      ],
+      "menuUrl": "https://www.neontiger.ca/menu"
+    },
+    {
+      "id": "small-talk",
+      "name": "Small Talk",
+      "category": "Cocktail bar",
+      "food": [
+        "snacks"
+      ],
+      "vibe": "cocktails",
+      "address": "110 Ossington Ave",
+      "phone": "(437) 476-5475",
+      "website": "https://www.smalltalkjazz.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=14907448076929574437",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=14907448076929574437"
+      },
+      "lat": 43.64662,
+      "lng": -79.4198983,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJbxWsn_40K4gRJab3_Arl4c4",
+      "hours": [
+        {
+          "day": 0,
+          "open": 660,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 900,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "live-music",
+        "groups"
+      ],
+      "menuUrl": "https://www.smalltalkjazz.com/menus"
+    },
+    {
+      "id": "papi-chulos",
+      "name": "Papi Chulo's",
+      "category": "Mexican",
+      "food": [
+        "tacos"
+      ],
+      "vibe": "restaurant",
+      "address": "121 Ossington Ave",
+      "phone": "(416) 519-1109",
+      "website": "https://www.papichulos.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=11470144578992760891",
+      "lat": 43.6467774,
+      "lng": -79.4196403,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJZVNGdgQ1K4gRO2g8IbkjLp8",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 1440
+        },
+        {
+          "day": 1,
+          "open": 720,
+          "close": 1440
+        },
+        {
+          "day": 2,
+          "open": 720,
+          "close": 1440
+        },
+        {
+          "day": 3,
+          "open": 720,
+          "close": 1440
+        },
+        {
+          "day": 4,
+          "open": 720,
+          "close": 1440
+        },
+        {
+          "day": 5,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ]
+    },
+    {
+      "id": "bellwoods-brewery",
+      "name": "Bellwoods Brewery",
+      "category": "Brewpub",
+      "food": [
+        "snacks"
+      ],
+      "vibe": "brewery",
+      "address": "124 Ossington Ave",
+      "phone": "(416) 535-4586",
+      "website": "https://bellwoodsbrewery.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=5563858688230030710",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=5563858688230030710"
+      },
+      "lat": 43.647069,
+      "lng": -79.42008,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJfZ_ToP40K4gRdv1rlP_LNk0",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 1380
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 5,
+          "open": 720,
+          "close": 1500
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 1500
+        }
+      ],
+      "amenities": [
+        "patio",
+        "dogs"
+      ]
+    },
+    {
+      "id": "golden-turtle",
+      "name": "Golden Turtle",
+      "category": "Vietnamese",
+      "food": [
+        "vietnamese"
+      ],
+      "vibe": "restaurant",
+      "address": "125 Ossington Ave",
+      "phone": "(416) 531-1601",
+      "website": "http://www.goldenturtle.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=9076397098656485114",
+      "lat": 43.646851,
+      "lng": -79.419667,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJ3efFH_w0K4gR-k7OiRLX9X0",
+      "hours": [
+        {
+          "day": 0,
+          "open": 660,
+          "close": 1260
+        },
+        {
+          "day": 1,
+          "open": 660,
+          "close": 1260
+        },
+        {
+          "day": 3,
+          "open": 660,
+          "close": 1260
+        },
+        {
+          "day": 4,
+          "open": 660,
+          "close": 1260
+        },
+        {
+          "day": 5,
+          "open": 660,
+          "close": 1260
+        },
+        {
+          "day": 6,
+          "open": 660,
+          "close": 1260
+        }
+      ],
+      "amenities": [
+        "patio",
+        "live-music",
+        "groups"
+      ]
+    },
+    {
+      "id": "co-te-de-boeuf",
+      "name": "Côte de Bœuf",
+      "category": "French",
+      "food": [
+        "french",
+        "steak",
+        "oysters"
+      ],
+      "vibe": "restaurant",
+      "address": "130 Ossington Ave",
+      "phone": "(416) 532-2333",
+      "website": "http://www.cotedeboeuf.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=17971199012418060536",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=17971199012418060536"
+      },
+      "lat": 43.6471952,
+      "lng": -79.4201452,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJWaKhqP40K4gR-IAHS0mGZvk",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 1260
+        },
+        {
+          "day": 1,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 720,
+          "close": 1380
+        },
+        {
+          "day": 5,
+          "open": 720,
+          "close": 1380
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 1380
+        }
+      ],
+      "amenities": [
+        "patio"
+      ]
+    },
+    {
+      "id": "reposado",
+      "name": "Reposado",
+      "category": "Bar",
+      "food": [
+        "tacos"
+      ],
+      "vibe": "bar",
+      "address": "136 Ossington Ave",
+      "phone": "(416) 532-6474",
+      "website": "http://www.reposadobar.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=8794642336656327156",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=8794642336656327156"
+      },
+      "lat": 43.6472981,
+      "lng": -79.4201652,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJMbYipv40K4gR9AED85vYDHo",
+      "hours": [
+        {
+          "day": 0,
+          "open": 900,
+          "close": 1440
+        },
+        {
+          "day": 2,
+          "open": 1080,
+          "close": 1530
+        },
+        {
+          "day": 3,
+          "open": 1080,
+          "close": 1530
+        },
+        {
+          "day": 4,
+          "open": 1080,
+          "close": 1530
+        },
+        {
+          "day": 5,
+          "open": 1080,
+          "close": 1530
+        },
+        {
+          "day": 6,
+          "open": 780,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "live-music",
+        "groups"
+      ]
+    },
+    {
+      "id": "favorites-thai",
+      "name": "Favorites Thai",
+      "category": "Thai",
+      "food": [
+        "thai"
+      ],
+      "vibe": "restaurant",
+      "address": "141 Ossington Ave",
+      "phone": "(647) 867-3283",
+      "website": "https://www.myfavethai.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=12937395803361359122",
+      "booking": {
+        "provider": "opentable",
+        "url": "https://www.opentable.ca/r/favorites-thai-bbq-toronto"
+      },
+      "lat": 43.6474152,
+      "lng": -79.4198423,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJRfiGK-U1K4gRErX7GfDcirM",
+      "hours": [
+        {
+          "day": 2,
+          "open": 1080,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1080,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1080,
+          "close": 1350
+        },
+        {
+          "day": 5,
+          "open": 1080,
+          "close": 1350
+        },
+        {
+          "day": 6,
+          "open": 1080,
+          "close": 1350
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://www.myfavethai.com/menu"
+    },
+    {
+      "id": "club-paris",
+      "name": "Club Paris",
+      "category": "Wine bar & shop",
+      "food": [
+        "snacks"
+      ],
+      "vibe": "wine",
+      "address": "146 Ossington Ave",
+      "website": "https://www.shopclubparis.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=1458986589235332459",
+      "lat": 43.6473659,
+      "lng": -79.4203792,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJ4eNPDmM1K4gRa0Vup5JcPxQ",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 720,
+          "close": 1380
+        },
+        {
+          "day": 5,
+          "open": 720,
+          "close": 1440
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 1440
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ]
+    },
+    {
+      "id": "paris-paris",
+      "name": "Paris Paris",
+      "category": "Wine bar & kitchen",
+      "food": [
+        "french",
+        "snacks"
+      ],
+      "vibe": "wine",
+      "address": "146 Ossington Ave",
+      "phone": "(437) 475-8626",
+      "website": "http://www.parisparis.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=9034320585133422629",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=9034320585133422629"
+      },
+      "lat": 43.6473659,
+      "lng": -79.4203792,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJoUMDPvk0K4gRJXjgz7RaYH0",
+      "hours": [
+        {
+          "day": 0,
+          "open": 660,
+          "close": 1380
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1380
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1380
+        },
+        {
+          "day": 3,
+          "open": 720,
+          "close": 1380
+        },
+        {
+          "day": 4,
+          "open": 720,
+          "close": 1440
+        },
+        {
+          "day": 5,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 660,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://www.parisparis.ca/menu"
+    },
+    {
+      "id": "i-deal-coffee-and-wine",
+      "name": "I Deal Coffee & Wine",
+      "category": "Café & wine bar",
+      "food": [
+        "snacks"
+      ],
+      "vibe": "wine",
+      "address": "162 Ossington Ave",
+      "phone": "(416) 364-7700",
+      "website": "http://idealcoffee.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=7346715047696106588",
+      "lat": 43.6479047,
+      "lng": -79.4203709,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJ1XseUvk0K4gRXITxS2nG9GU",
+      "hours": [
+        {
+          "day": 0,
+          "open": 450,
+          "close": 1200
+        },
+        {
+          "day": 1,
+          "open": 450,
+          "close": 1200
+        },
+        {
+          "day": 2,
+          "open": 450,
+          "close": 1200
+        },
+        {
+          "day": 3,
+          "open": 450,
+          "close": 1200
+        },
+        {
+          "day": 4,
+          "open": 450,
+          "close": 1200
+        },
+        {
+          "day": 5,
+          "open": 450,
+          "close": 1380
+        },
+        {
+          "day": 6,
+          "open": 450,
+          "close": 1380
+        }
+      ],
+      "amenities": [
+        "patio"
+      ]
+    },
+    {
+      "id": "bar-shozan",
+      "name": "Bar Shozan",
+      "category": "Japanese",
+      "food": [
+        "sushi"
+      ],
+      "vibe": "restaurant",
+      "address": "164 Ossington Ave",
+      "phone": "(647) 478-6164",
+      "website": "http://www.barshozan.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=13983573538944013209",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=13983573538944013209"
+      },
+      "lat": 43.6479783,
+      "lng": -79.4204493,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJj3SSHXs1K4gRmVNPpwuiD8I",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 900
+        },
+        {
+          "day": 0,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 1050,
+          "close": 1410
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 900
+        },
+        {
+          "day": 6,
+          "open": 1050,
+          "close": 1410
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://www.barshozan.com/menu"
+    },
+    {
+      "id": "idk-social",
+      "name": "IDK Social",
+      "category": "Bar & café",
+      "food": [
+        "snacks"
+      ],
+      "vibe": "bar",
+      "address": "172 Ossington Ave",
+      "phone": "(647) 553-9929",
+      "website": "http://idksocialbar.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=11239493109513533041",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=11239493109513533041"
+      },
+      "lat": 43.648113,
+      "lng": -79.4204119,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJIwoL4jg1K4gRcTYBCG-z-ps",
+      "hours": [
+        {
+          "day": 0,
+          "open": 870,
+          "close": 1110
+        },
+        {
+          "day": 1,
+          "open": 660,
+          "close": 1140
+        },
+        {
+          "day": 2,
+          "open": 660,
+          "close": 1140
+        },
+        {
+          "day": 3,
+          "open": 1200,
+          "close": 1440
+        },
+        {
+          "day": 4,
+          "open": 1200,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1260,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 660,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "live-music",
+        "sports",
+        "groups",
+        "dogs"
+      ]
+    },
+    {
+      "id": "bar-bowie",
+      "name": "Bar Bowie",
+      "category": "Cocktail bar",
+      "vibe": "cocktails",
+      "address": "180R Ossington Ave",
+      "googleMapsUrl": "https://maps.google.com/?cid=2800930237646496558",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=2800930237646496558"
+      },
+      "lat": 43.6483274,
+      "lng": -79.4206173,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJ315Nc581K4gRLuORDzbn3iY",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 2,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1080,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "groups"
+      ]
+    },
+    {
+      "id": "season-six",
+      "name": "Season Six",
+      "category": "Californian",
+      "vibe": "restaurant",
+      "address": "188 Ossington Ave",
+      "phone": "(416) 537-7276",
+      "website": "http://seasonsix.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=10709606919262274371",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=10709606919262274371"
+      },
+      "lat": 43.6485072,
+      "lng": -79.4206844,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJqbDbPAA1K4gRQ4OxSsAqoJQ",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 1260
+        },
+        {
+          "day": 1,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 720,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 720,
+          "close": 1440
+        },
+        {
+          "day": 5,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://www.seasonsix.ca/dine-in-menu"
+    },
+    {
+      "id": "badlands",
+      "name": "Badlands",
+      "category": "Bar",
+      "vibe": "bar",
+      "address": "190 Ossington Ave",
+      "googleMapsUrl": "https://maps.google.com/?cid=7446907030777219963",
+      "lat": 43.6485577,
+      "lng": -79.4206955,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJFWKOXAA1K4gRe8vVNH26WGc",
+      "hours": [
+        {
+          "day": 0,
+          "open": 840,
+          "close": 1260
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 840,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "groups"
+      ]
+    },
+    {
+      "id": "papi-and-rosita",
+      "name": "Papi and Rosita",
+      "category": "Mexican",
+      "food": [
+        "tacos"
+      ],
+      "vibe": "restaurant",
+      "address": "198 Ossington Ave",
+      "phone": "(416) 519-1109",
+      "website": "http://www.papiandrosita.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=10070999205764641358",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=10070999205764641358"
+      },
+      "lat": 43.6486812,
+      "lng": -79.4208229,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJUV0__Zo1K4gRTrLXUGtgw4s",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "groups"
+      ],
+      "menuUrl": "https://www.papiandrosita.com/menu"
+    },
+    {
+      "id": "man-of-kent",
+      "name": "Man of Kent",
+      "category": "British pub",
+      "food": [
+        "pub",
+        "burgers"
+      ],
+      "vibe": "bar",
+      "address": "202 Ossington Ave",
+      "phone": "(647) 231-2312",
+      "website": "https://www.mokossington.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=9550594481223546498",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=9550594481223546498"
+      },
+      "lat": 43.6487318,
+      "lng": -79.420828,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJAQBsRvk0K4gRgrYiVxSHioQ",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 2,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 720,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "sports",
+        "groups"
+      ],
+      "menuUrl": "https://www.mokossington.com/food-menu"
+    },
+    {
+      "id": "pies-by-squires",
+      "name": "Pies by Squires",
+      "category": "British",
+      "food": [
+        "pub"
+      ],
+      "vibe": "restaurant",
+      "address": "202 Ossington Ave",
+      "website": "https://piesbysquires.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=10721293598069920983",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=10721293598069920983"
+      },
+      "lat": 43.648721,
+      "lng": -79.4208734,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJ917k64c1K4gR15SgPbmvyZQ",
+      "hours": [
+        {
+          "day": 0,
+          "open": 720,
+          "close": 1380
+        },
+        {
+          "day": 1,
+          "open": 840,
+          "close": 1380
+        },
+        {
+          "day": 2,
+          "open": 840,
+          "close": 1380
+        },
+        {
+          "day": 3,
+          "open": 840,
+          "close": 1380
+        },
+        {
+          "day": 4,
+          "open": 840,
+          "close": 1380
+        },
+        {
+          "day": 5,
+          "open": 840,
+          "close": 1380
+        },
+        {
+          "day": 6,
+          "open": 720,
+          "close": 1380
+        }
+      ],
+      "amenities": [
+        "live-music",
+        "sports"
+      ],
+      "menuUrl": "https://piesbysquires.com/menu"
+    },
+    {
+      "id": "foxley",
+      "name": "Foxley",
+      "category": "Asian tapas",
+      "food": [
+        "asian"
+      ],
+      "vibe": "restaurant",
+      "address": "207 Ossington Ave",
+      "phone": "(416) 534-8520",
+      "website": "http://www.foxleybistro.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=4078411190932726967",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=4078411190932726967"
+      },
+      "lat": 43.6486399,
+      "lng": -79.4202469,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJpxKXWvk0K4gRt-SFq15tmTg",
+      "hours": [
+        {
+          "day": 1,
+          "open": 540,
+          "close": 1350
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1350
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1350
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1350
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1380
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1380
+        }
+      ],
+      "amenities": [
+        "patio"
+      ],
+      "menuUrl": "https://www.foxleybistro.ca/menu"
+    },
+    {
+      "id": "222-bar",
+      "name": "222 Bar",
+      "category": "Bar",
+      "vibe": "bar",
+      "address": "222 Ossington Ave",
+      "website": "http://www.the222bar.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=2141679214928881904",
+      "lat": 43.6491921,
+      "lng": -79.4209803,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJ1VpQ0OE1K4gR8GisHObFuB0",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://www.the222bar.com/menu"
+    },
+    {
+      "id": "salt-wine-bar",
+      "name": "Salt Wine Bar",
+      "category": "Wine & tapas",
+      "food": [
+        "spanish"
+      ],
+      "vibe": "wine",
+      "address": "225 Ossington Ave",
+      "phone": "(416) 533-7258",
+      "website": "http://saltrestaurant.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=11670178948334103397",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=11670178948334103397"
+      },
+      "lat": 43.648977,
+      "lng": -79.4204946,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJ0bmgQ_k0K4gRZSuyGOzN9KE",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 1050,
+          "close": 1380
+        },
+        {
+          "day": 6,
+          "open": 1050,
+          "close": 1380
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://saltrestaurant.ca/menu/"
+    },
+    {
+      "id": "la-banane",
+      "name": "La Banane",
+      "category": "French",
+      "food": [
+        "french",
+        "oysters"
+      ],
+      "vibe": "restaurant",
+      "address": "227 Ossington Ave",
+      "phone": "(416) 551-6263",
+      "website": "http://www.labanane.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=5716033477665775031",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=5716033477665775031"
+      },
+      "lat": 43.6490287,
+      "lng": -79.4205093,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJGSARXfk0K4gRt12CwCluU08",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 1050,
+          "close": 1380
+        },
+        {
+          "day": 6,
+          "open": 1050,
+          "close": 1380
+        }
+      ],
+      "amenities": [
+        "groups"
+      ]
+    },
+    {
+      "id": "bar-banane",
+      "name": "Bar Banane",
+      "category": "Bar",
+      "food": [
+        "french",
+        "snacks"
+      ],
+      "vibe": "bar",
+      "address": "227A Ossington Ave",
+      "phone": "(647) 693-1103",
+      "website": "http://www.barbanane.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=15533424473722705099",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=15533424473722705099"
+      },
+      "lat": 43.6490985,
+      "lng": -79.4203207,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJa4hAy1A1K4gRy9SZXULPkdc",
+      "hours": [
+        {
+          "day": 3,
+          "open": 1080,
+          "close": 1440
+        },
+        {
+          "day": 4,
+          "open": 1080,
+          "close": 1440
+        },
+        {
+          "day": 5,
+          "open": 1080,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1080,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "groups"
+      ]
+    },
+    {
+      "id": "clandestina",
+      "name": "Clandestina",
+      "category": "Mexican",
+      "food": [
+        "tacos"
+      ],
+      "vibe": "restaurant",
+      "address": "942 Queen St W",
+      "googleMapsUrl": "https://maps.google.com/?cid=7018569769586683669",
+      "lat": 43.6448052,
+      "lng": -79.4166327,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJzT1jBv00K4gRFW-C-wT4ZmE"
+    },
+    {
+      "id": "ceniza",
+      "name": "Ceniza",
+      "category": "Cocktail bar",
+      "food": [
+        "tacos"
+      ],
+      "vibe": "cocktails",
+      "address": "942 Queen St W",
+      "phone": "(416) 534-1351",
+      "website": "https://ceniza.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=13918356780161261569",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=13918356780161261569"
+      },
+      "lat": 43.6448215,
+      "lng": -79.4166467,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJSzVKAzI1K4gRAWCpur_vJ8E",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1380
+        },
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1380
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1380
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1380
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1500
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1560
+        }
+      ],
+      "menuUrl": "https://ceniza.ca/menu/"
+    },
+    {
+      "id": "prime-seafood-palace",
+      "name": "Prime Seafood Palace",
+      "category": "Steakhouse",
+      "food": [
+        "steak",
+        "oysters"
+      ],
+      "vibe": "restaurant",
+      "address": "944 Queen St W",
+      "phone": "(416) 551-8038",
+      "website": "http://www.primeseafoodpalace.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=5711398559766904636",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=5711398559766904636"
+      },
+      "lat": 43.644878,
+      "lng": -79.4167316,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJ2bF-jSk1K4gRPH-V1br2Qk8",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 1,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 2,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1050,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 1050,
+          "close": 1350
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1350
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://www.primeseafoodpalace.ca/menu"
+    },
+    {
+      "id": "frankies-diner",
+      "name": "Frankie's Diner",
+      "category": "Burgers",
+      "food": [
+        "diner",
+        "burgers"
+      ],
+      "vibe": "casual",
+      "address": "994 Queen St W",
+      "phone": "(416) 588-1936",
+      "website": "http://frankiesdiner.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=2777580554668593151",
+      "lat": 43.6443885,
+      "lng": -79.4184467,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJ2xFnwP00K4gR_88NWMzyiyY",
+      "hours": [
+        {
+          "day": 0,
+          "open": 510,
+          "close": 990
+        },
+        {
+          "day": 1,
+          "open": 540,
+          "close": 1140
+        },
+        {
+          "day": 2,
+          "open": 540,
+          "close": 1140
+        },
+        {
+          "day": 3,
+          "open": 540,
+          "close": 1140
+        },
+        {
+          "day": 4,
+          "open": 540,
+          "close": 1140
+        },
+        {
+          "day": 5,
+          "open": 540,
+          "close": 1200
+        },
+        {
+          "day": 6,
+          "open": 510,
+          "close": 1200
+        }
+      ],
+      "amenities": [
+        "groups"
+      ],
+      "menuUrl": "https://www.frankiesdiner.ca/menu"
+    },
+    {
+      "id": "apt-200",
+      "name": "Apt 200",
+      "category": "Bar",
+      "vibe": "bar",
+      "address": "1034 Queen St W",
+      "phone": "(416) 357-1299",
+      "website": "http://apt200.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=1655168025260562879",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=1655168025260562879"
+      },
+      "lat": 43.6440551,
+      "lng": -79.4202278,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJWdfSDf40K4gRv5k9rYxW-BY",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1320,
+          "close": 1560
+        },
+        {
+          "day": 1,
+          "open": 1260,
+          "close": 1560
+        },
+        {
+          "day": 4,
+          "open": 1320,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 1320,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 1320,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "live-music",
+        "groups"
+      ]
+    },
+    {
+      "id": "prequel-and-co-apothecary",
+      "name": "Prequel & Co. Apothecary",
+      "category": "Cocktail bar",
+      "vibe": "cocktails",
+      "address": "1036 Queen St W",
+      "phone": "(647) 368-6630",
+      "website": "http://www.barprequel.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=7904618213249674336",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=7904618213249674336"
+      },
+      "lat": 43.644118,
+      "lng": -79.4203196,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJh_CLcTI1K4gRYGzUbWLYsm0",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 1,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 2,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 3,
+          "open": 1080,
+          "close": 1500
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1560
+        },
+        {
+          "day": 5,
+          "open": 960,
+          "close": 1560
+        },
+        {
+          "day": 6,
+          "open": 960,
+          "close": 1560
+        }
+      ],
+      "amenities": [
+        "groups"
+      ]
+    },
+    {
+      "id": "and-ore",
+      "name": "and/ore",
+      "category": "Fine dining",
+      "vibe": "restaurant",
+      "address": "1040 Queen St W",
+      "phone": "(416) 536-1040",
+      "website": "https://andorerestaurant.com/",
+      "googleMapsUrl": "https://maps.google.com/?cid=6554449238079595998",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=6554449238079595998"
+      },
+      "lat": 43.6440165,
+      "lng": -79.4203989,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJMXCbgWo1K4gR3mUQ5toU9lo",
+      "hours": [
+        {
+          "day": 2,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1440
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1440
+        }
+      ],
+      "amenities": [
+        "groups"
+      ],
+      "menuUrl": "https://andorerestaurant.com/above-ground-menu"
+    },
+    {
+      "id": "taco-bar",
+      "name": "Taco Bar",
+      "category": "Tacos",
+      "food": [
+        "tacos"
+      ],
+      "vibe": "casual",
+      "address": "1082 Queen St W",
+      "googleMapsUrl": "https://maps.google.com/?cid=14914588749162626474",
+      "lat": 43.6437492,
+      "lng": -79.4219151,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJxx8w4Xk1K4gRqj3gTHJD-84",
+      "amenities": [
+        "groups"
+      ]
+    },
+    {
+      "id": "jamils",
+      "name": "Jamil's",
+      "category": "Pakistani",
+      "vibe": "restaurant",
+      "address": "1086 Queen St W",
+      "phone": "(647) 801-1086",
+      "website": "http://www.jamils.ca/",
+      "googleMapsUrl": "https://maps.google.com/?cid=16620694148358362313",
+      "booking": {
+        "provider": "google",
+        "url": "https://maps.google.com/?cid=16620694148358362313"
+      },
+      "lat": 43.643671,
+      "lng": -79.4220325,
+      "tags": [],
+      "happyHours": [],
+      "deals": "none",
+      "placeId": "ChIJHzNfiIM1K4gRyVRQiUSRqOY",
+      "hours": [
+        {
+          "day": 0,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 3,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 4,
+          "open": 1020,
+          "close": 1320
+        },
+        {
+          "day": 5,
+          "open": 1020,
+          "close": 1380
+        },
+        {
+          "day": 6,
+          "open": 1020,
+          "close": 1380
+        }
+      ],
+      "amenities": [
+        "patio",
+        "groups"
+      ],
+      "menuUrl": "https://www.jamils.ca/menu"
+    }
+  ]
+}

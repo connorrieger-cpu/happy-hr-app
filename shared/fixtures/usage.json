@@ -1,0 +1,365 @@
+{
+  "fine": {
+    "lat": 0.005,
+    "lng": 0.007
+  },
+  "coarse": {
+    "lat": 0.05,
+    "lng": 0.07
+  },
+  "cells": [
+    {
+      "name": "Ossington & Dundas",
+      "point": {
+        "lat": 43.6496,
+        "lng": -79.4209
+      },
+      "cell": "43.6475,-79.4185"
+    },
+    {
+      "name": "Downtown Guelph",
+      "point": {
+        "lat": 43.5446,
+        "lng": -80.2482
+      },
+      "cell": "43.5425,-80.2515"
+    },
+    {
+      "name": "Bronte, Oakville",
+      "point": {
+        "lat": 43.3955,
+        "lng": -79.7105
+      },
+      "cell": "43.3975,-79.7125"
+    },
+    {
+      "name": "Union Station (near King West)",
+      "point": {
+        "lat": 43.6453,
+        "lng": -79.3806
+      },
+      "cell": "43.6475,-79.3835"
+    },
+    {
+      "name": "Waterloo (far from every area)",
+      "point": {
+        "lat": 43.4643,
+        "lng": -80.5204
+      },
+      "cell": "43.4750,-80.5350"
+    },
+    {
+      "name": "Montreal",
+      "point": {
+        "lat": 45.5017,
+        "lng": -73.5673
+      },
+      "cell": "45.5250,-73.5350"
+    },
+    {
+      "name": "On a square’s edge",
+      "point": {
+        "lat": 43.65,
+        "lng": -79.415
+      },
+      "cell": "43.6525,-79.4115"
+    }
+  ],
+  "parse": [
+    {
+      "key": "43.6475,-79.4185",
+      "cell": {
+        "lat": 43.6475,
+        "lng": -79.4185
+      }
+    },
+    {
+      "key": "43.4750,-80.5350",
+      "cell": {
+        "lat": 43.475,
+        "lng": -80.535
+      }
+    },
+    {
+      "key": "43.4750,-80.5050",
+      "cell": null
+    },
+    {
+      "key": "43.6496,-79.4209",
+      "cell": null
+    },
+    {
+      "key": "43.6475",
+      "cell": null
+    },
+    {
+      "key": "abc",
+      "cell": null
+    },
+    {
+      "key": "91.0025,-79.4185",
+      "cell": null
+    },
+    {
+      "key": "43.6475,-79.4186",
+      "cell": null
+    }
+  ],
+  "recentDays": {
+    "today": "2026-03-01",
+    "count": 3,
+    "days": [
+      "2026-03-01",
+      "2026-02-28",
+      "2026-02-27"
+    ]
+  },
+  "validate": {
+    "days": [
+      "2026-10-28",
+      "2026-10-27",
+      "2026-10-26"
+    ],
+    "cases": [
+      {
+        "name": "an open with its square",
+        "input": {
+          "platform": "ios",
+          "device": "device-12345678",
+          "area": "ossington",
+          "events": {
+            "open": 1
+          },
+          "cell": "43.6475,-79.4185"
+        },
+        "result": {
+          "platform": "ios",
+          "device": "device-12345678",
+          "area": "ossington",
+          "day": "2026-10-28",
+          "cell": "43.6475,-79.4185",
+          "events": [
+            [
+              "open",
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "name": "taps from yesterday",
+        "input": {
+          "platform": "ios",
+          "device": "device-12345678",
+          "area": "ossington",
+          "events": {
+            "venue": 3,
+            "tile:beer": 1
+          },
+          "day": "2026-10-27"
+        },
+        "result": {
+          "platform": "ios",
+          "device": "device-12345678",
+          "area": "ossington",
+          "day": "2026-10-27",
+          "events": [
+            [
+              "venue",
+              3
+            ],
+            [
+              "tile:beer",
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "name": "a day too long ago counts as today",
+        "input": {
+          "platform": "ios",
+          "device": "device-12345678",
+          "area": "ossington",
+          "events": {
+            "venue": 1
+          },
+          "day": "2026-10-01"
+        },
+        "result": {
+          "platform": "ios",
+          "device": "device-12345678",
+          "area": "ossington",
+          "day": "2026-10-28",
+          "events": [
+            [
+              "venue",
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "name": "a square without an open is dropped",
+        "input": {
+          "platform": "ios",
+          "device": "device-12345678",
+          "area": "ossington",
+          "events": {
+            "venue": 1
+          },
+          "cell": "43.6475,-79.4185"
+        },
+        "result": {
+          "platform": "ios",
+          "device": "device-12345678",
+          "area": "ossington",
+          "day": "2026-10-28",
+          "events": [
+            [
+              "venue",
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "name": "web, no device",
+        "input": {
+          "platform": "web",
+          "area": "guelph",
+          "events": {
+            "open": 1
+          }
+        },
+        "result": {
+          "platform": "web",
+          "area": "guelph",
+          "day": "2026-10-28",
+          "events": [
+            [
+              "open",
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "name": "an exact spot is refused",
+        "input": {
+          "platform": "ios",
+          "device": "device-12345678",
+          "area": "ossington",
+          "events": {
+            "open": 1
+          },
+          "cell": "43.6496,-79.4209"
+        },
+        "result": {
+          "error": "Bad cell."
+        }
+      },
+      {
+        "name": "unknown area",
+        "input": {
+          "platform": "ios",
+          "device": "device-12345678",
+          "area": "mississauga",
+          "events": {
+            "open": 1
+          }
+        },
+        "result": {
+          "error": "Unknown area."
+        }
+      },
+      {
+        "name": "unknown platform",
+        "input": {
+          "platform": "android",
+          "device": "device-12345678",
+          "area": "ossington",
+          "events": {
+            "open": 1
+          }
+        },
+        "result": {
+          "error": "Unknown platform."
+        }
+      },
+      {
+        "name": "bad event name",
+        "input": {
+          "platform": "ios",
+          "device": "device-12345678",
+          "area": "ossington",
+          "events": {
+            "Open App": 1
+          }
+        },
+        "result": {
+          "error": "Bad event: Open App"
+        }
+      },
+      {
+        "name": "zero count",
+        "input": {
+          "platform": "ios",
+          "device": "device-12345678",
+          "area": "ossington",
+          "events": {
+            "open": 0
+          }
+        },
+        "result": {
+          "error": "Bad count."
+        }
+      },
+      {
+        "name": "no events",
+        "input": {
+          "platform": "ios",
+          "device": "device-12345678",
+          "area": "ossington",
+          "events": {}
+        },
+        "result": {
+          "error": "No events."
+        }
+      },
+      {
+        "name": "nothing",
+        "input": null,
+        "result": {
+          "error": "Bad request."
+        }
+      }
+    ]
+  },
+  "labels": [
+    {
+      "name": "open",
+      "label": "Opened the app"
+    },
+    {
+      "name": "venue",
+      "label": "Opened a spot"
+    },
+    {
+      "name": "tile:beer",
+      "label": "Search tile: beer"
+    },
+    {
+      "name": "filter:happy-hours",
+      "label": "Filter chip: happy hours"
+    },
+    {
+      "name": "area:king-west",
+      "label": "Switched area: king west"
+    },
+    {
+      "name": "something-new",
+      "label": "something-new"
+    }
+  ]
+}

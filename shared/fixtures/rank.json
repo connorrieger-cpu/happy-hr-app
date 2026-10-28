@@ -1,0 +1,1554 @@
+[
+  {
+    "label": "Mon 4:30 PM",
+    "clock": {
+      "day": 1,
+      "minutes": 990
+    },
+    "filter": "all",
+    "live": [
+      "manita",
+      "grape-witches",
+      "la-chingada",
+      "central",
+      "azhar",
+      "bar-poet"
+    ],
+    "soon": [
+      "sweaty-bettys",
+      "aleria",
+      "bar-piquette",
+      "gloria",
+      "bar-koukla"
+    ],
+    "later": [],
+    "rest": [
+      "painted-lady",
+      "bar-roma",
+      "rhapsody",
+      "bar-libretto",
+      "poetry-jazz-cafe"
+    ],
+    "unlisted": [
+      "the-lakeview-diner",
+      "haifa-room",
+      "nazare-snack-bar",
+      "222-bar",
+      "mild-afro-lounge",
+      "roxton-public-house",
+      "taberna-lx",
+      "la-banane",
+      "bar-banane",
+      "casablanca-lounge",
+      "salt-wine-bar",
+      "kensei-bar",
+      "fallen-feather",
+      "get-well",
+      "man-of-kent",
+      "gracies-pizza",
+      "pies-by-squires",
+      "vie-strada",
+      "papi-and-rosita",
+      "wasted-youth",
+      "badlands",
+      "foxley",
+      "season-six",
+      "the-garrison",
+      "the-jean-darlene",
+      "bar-bowie",
+      "the-gemini",
+      "idk-social",
+      "linnys",
+      "churchill",
+      "hanmoto",
+      "gia-restaurant",
+      "bar-shozan",
+      "i-deal-coffee-and-wine",
+      "club-paris",
+      "paris-paris",
+      "favorites-thai",
+      "reposado",
+      "co-te-de-boeuf",
+      "the-fountain",
+      "bellwoods-brewery",
+      "stefanos-diner",
+      "bambis",
+      "golden-turtle",
+      "papi-chulos",
+      "small-talk",
+      "neon-tiger",
+      "fat-choi",
+      "soos",
+      "the-lunch-lady",
+      "oddseoul",
+      "gift-shop",
+      "mamakas-taverna",
+      "no-vacancy",
+      "union",
+      "nabe-hana",
+      "dont-tell",
+      "pho-tien-thanh",
+      "downtown-winery",
+      "prequel-and-co-apothecary",
+      "frankies-diner",
+      "apt-200",
+      "and-ore",
+      "prime-seafood-palace",
+      "ceniza",
+      "clandestina",
+      "taco-bar",
+      "jamils"
+    ]
+  },
+  {
+    "label": "Mon 4:30 PM",
+    "clock": {
+      "day": 1,
+      "minutes": 990
+    },
+    "filter": "drinks",
+    "live": [
+      "manita",
+      "grape-witches",
+      "la-chingada",
+      "central",
+      "azhar",
+      "bar-poet"
+    ],
+    "soon": [
+      "sweaty-bettys",
+      "aleria",
+      "bar-piquette",
+      "gloria",
+      "bar-koukla"
+    ],
+    "later": [],
+    "rest": [
+      "painted-lady",
+      "bar-roma",
+      "rhapsody",
+      "bar-libretto",
+      "poetry-jazz-cafe"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Mon 4:30 PM",
+    "clock": {
+      "day": 1,
+      "minutes": 990
+    },
+    "filter": "food",
+    "live": [
+      "manita",
+      "grape-witches",
+      "la-chingada",
+      "central",
+      "azhar",
+      "bar-poet"
+    ],
+    "soon": [
+      "aleria",
+      "bar-piquette"
+    ],
+    "later": [],
+    "rest": [
+      "poetry-jazz-cafe"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Mon 4:30 PM",
+    "clock": {
+      "day": 1,
+      "minutes": 990
+    },
+    "filter": "ending",
+    "live": [
+      "central",
+      "bar-poet"
+    ],
+    "soon": [],
+    "later": [],
+    "rest": [],
+    "unlisted": []
+  },
+  {
+    "label": "Mon 4:30 PM",
+    "clock": {
+      "day": 1,
+      "minutes": 990
+    },
+    "filter": "late",
+    "live": [
+      "central",
+      "azhar"
+    ],
+    "soon": [
+      "aleria",
+      "bar-koukla"
+    ],
+    "later": [],
+    "rest": [
+      "rhapsody",
+      "bar-libretto"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Mon 4:30 PM",
+    "clock": {
+      "day": 1,
+      "minutes": 990
+    },
+    "filter": "daily",
+    "live": [
+      "la-chingada",
+      "central",
+      "azhar"
+    ],
+    "soon": [
+      "bar-piquette"
+    ],
+    "later": [],
+    "rest": [
+      "painted-lady",
+      "bar-libretto"
+    ],
+    "unlisted": [
+      "haifa-room",
+      "roxton-public-house",
+      "fallen-feather",
+      "wasted-youth",
+      "linnys",
+      "dont-tell"
+    ]
+  },
+  {
+    "label": "Tue 6:00 PM",
+    "clock": {
+      "day": 2,
+      "minutes": 1080
+    },
+    "filter": "all",
+    "live": [
+      "bar-roma",
+      "la-chingada",
+      "bar-koukla",
+      "sweaty-bettys",
+      "aleria",
+      "poetry-jazz-cafe",
+      "bar-piquette",
+      "gloria"
+    ],
+    "soon": [],
+    "later": [
+      "central"
+    ],
+    "rest": [
+      "painted-lady",
+      "rhapsody",
+      "manita",
+      "bar-libretto",
+      "grape-witches",
+      "azhar",
+      "bar-poet"
+    ],
+    "unlisted": [
+      "the-lakeview-diner",
+      "haifa-room",
+      "nazare-snack-bar",
+      "222-bar",
+      "mild-afro-lounge",
+      "roxton-public-house",
+      "taberna-lx",
+      "la-banane",
+      "bar-banane",
+      "casablanca-lounge",
+      "salt-wine-bar",
+      "kensei-bar",
+      "fallen-feather",
+      "get-well",
+      "man-of-kent",
+      "gracies-pizza",
+      "pies-by-squires",
+      "vie-strada",
+      "papi-and-rosita",
+      "wasted-youth",
+      "badlands",
+      "foxley",
+      "season-six",
+      "the-garrison",
+      "the-jean-darlene",
+      "bar-bowie",
+      "the-gemini",
+      "idk-social",
+      "linnys",
+      "churchill",
+      "hanmoto",
+      "gia-restaurant",
+      "bar-shozan",
+      "i-deal-coffee-and-wine",
+      "club-paris",
+      "paris-paris",
+      "favorites-thai",
+      "reposado",
+      "co-te-de-boeuf",
+      "the-fountain",
+      "bellwoods-brewery",
+      "stefanos-diner",
+      "bambis",
+      "golden-turtle",
+      "papi-chulos",
+      "small-talk",
+      "neon-tiger",
+      "fat-choi",
+      "soos",
+      "the-lunch-lady",
+      "oddseoul",
+      "gift-shop",
+      "mamakas-taverna",
+      "no-vacancy",
+      "union",
+      "nabe-hana",
+      "dont-tell",
+      "pho-tien-thanh",
+      "downtown-winery",
+      "prequel-and-co-apothecary",
+      "frankies-diner",
+      "apt-200",
+      "and-ore",
+      "prime-seafood-palace",
+      "ceniza",
+      "clandestina",
+      "taco-bar",
+      "jamils"
+    ]
+  },
+  {
+    "label": "Tue 6:00 PM",
+    "clock": {
+      "day": 2,
+      "minutes": 1080
+    },
+    "filter": "drinks",
+    "live": [
+      "bar-roma",
+      "la-chingada",
+      "bar-koukla",
+      "sweaty-bettys",
+      "aleria",
+      "poetry-jazz-cafe",
+      "bar-piquette",
+      "gloria"
+    ],
+    "soon": [],
+    "later": [
+      "central"
+    ],
+    "rest": [
+      "painted-lady",
+      "rhapsody",
+      "manita",
+      "bar-libretto",
+      "grape-witches",
+      "azhar",
+      "bar-poet"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Tue 6:00 PM",
+    "clock": {
+      "day": 2,
+      "minutes": 1080
+    },
+    "filter": "food",
+    "live": [
+      "la-chingada",
+      "aleria",
+      "poetry-jazz-cafe",
+      "bar-piquette"
+    ],
+    "soon": [],
+    "later": [
+      "central"
+    ],
+    "rest": [
+      "manita",
+      "grape-witches",
+      "azhar",
+      "bar-poet"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Tue 6:00 PM",
+    "clock": {
+      "day": 2,
+      "minutes": 1080
+    },
+    "filter": "ending",
+    "live": [],
+    "soon": [],
+    "later": [],
+    "rest": [],
+    "unlisted": []
+  },
+  {
+    "label": "Tue 6:00 PM",
+    "clock": {
+      "day": 2,
+      "minutes": 1080
+    },
+    "filter": "late",
+    "live": [
+      "bar-koukla",
+      "aleria"
+    ],
+    "soon": [],
+    "later": [
+      "central"
+    ],
+    "rest": [
+      "rhapsody",
+      "bar-libretto",
+      "azhar"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Tue 6:00 PM",
+    "clock": {
+      "day": 2,
+      "minutes": 1080
+    },
+    "filter": "daily",
+    "live": [
+      "la-chingada",
+      "bar-piquette"
+    ],
+    "soon": [],
+    "later": [
+      "central"
+    ],
+    "rest": [
+      "painted-lady",
+      "bar-libretto",
+      "azhar"
+    ],
+    "unlisted": [
+      "haifa-room",
+      "roxton-public-house",
+      "fallen-feather",
+      "wasted-youth",
+      "linnys",
+      "dont-tell"
+    ]
+  },
+  {
+    "label": "Wed 11:50 PM",
+    "clock": {
+      "day": 3,
+      "minutes": 1430
+    },
+    "filter": "all",
+    "live": [
+      "central",
+      "bar-koukla"
+    ],
+    "soon": [],
+    "later": [],
+    "rest": [
+      "painted-lady",
+      "bar-roma",
+      "rhapsody",
+      "manita",
+      "bar-libretto",
+      "grape-witches",
+      "la-chingada",
+      "azhar",
+      "sweaty-bettys",
+      "aleria",
+      "poetry-jazz-cafe",
+      "bar-poet",
+      "bar-piquette",
+      "gloria"
+    ],
+    "unlisted": [
+      "the-lakeview-diner",
+      "haifa-room",
+      "nazare-snack-bar",
+      "222-bar",
+      "mild-afro-lounge",
+      "roxton-public-house",
+      "taberna-lx",
+      "la-banane",
+      "bar-banane",
+      "casablanca-lounge",
+      "salt-wine-bar",
+      "kensei-bar",
+      "fallen-feather",
+      "get-well",
+      "man-of-kent",
+      "gracies-pizza",
+      "pies-by-squires",
+      "vie-strada",
+      "papi-and-rosita",
+      "wasted-youth",
+      "badlands",
+      "foxley",
+      "season-six",
+      "the-garrison",
+      "the-jean-darlene",
+      "bar-bowie",
+      "the-gemini",
+      "idk-social",
+      "linnys",
+      "churchill",
+      "hanmoto",
+      "gia-restaurant",
+      "bar-shozan",
+      "i-deal-coffee-and-wine",
+      "club-paris",
+      "paris-paris",
+      "favorites-thai",
+      "reposado",
+      "co-te-de-boeuf",
+      "the-fountain",
+      "bellwoods-brewery",
+      "stefanos-diner",
+      "bambis",
+      "golden-turtle",
+      "papi-chulos",
+      "small-talk",
+      "neon-tiger",
+      "fat-choi",
+      "soos",
+      "the-lunch-lady",
+      "oddseoul",
+      "gift-shop",
+      "mamakas-taverna",
+      "no-vacancy",
+      "union",
+      "nabe-hana",
+      "dont-tell",
+      "pho-tien-thanh",
+      "downtown-winery",
+      "prequel-and-co-apothecary",
+      "frankies-diner",
+      "apt-200",
+      "and-ore",
+      "prime-seafood-palace",
+      "ceniza",
+      "clandestina",
+      "taco-bar",
+      "jamils"
+    ]
+  },
+  {
+    "label": "Wed 11:50 PM",
+    "clock": {
+      "day": 3,
+      "minutes": 1430
+    },
+    "filter": "drinks",
+    "live": [
+      "central",
+      "bar-koukla"
+    ],
+    "soon": [],
+    "later": [],
+    "rest": [
+      "bar-roma",
+      "rhapsody",
+      "manita",
+      "bar-libretto",
+      "grape-witches",
+      "la-chingada",
+      "azhar",
+      "sweaty-bettys",
+      "aleria",
+      "poetry-jazz-cafe",
+      "bar-poet",
+      "bar-piquette",
+      "gloria"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Wed 11:50 PM",
+    "clock": {
+      "day": 3,
+      "minutes": 1430
+    },
+    "filter": "food",
+    "live": [
+      "central"
+    ],
+    "soon": [],
+    "later": [],
+    "rest": [
+      "manita",
+      "grape-witches",
+      "la-chingada",
+      "azhar",
+      "aleria",
+      "poetry-jazz-cafe",
+      "bar-poet",
+      "bar-piquette"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Wed 11:50 PM",
+    "clock": {
+      "day": 3,
+      "minutes": 1430
+    },
+    "filter": "ending",
+    "live": [
+      "central",
+      "bar-koukla"
+    ],
+    "soon": [],
+    "later": [],
+    "rest": [],
+    "unlisted": []
+  },
+  {
+    "label": "Wed 11:50 PM",
+    "clock": {
+      "day": 3,
+      "minutes": 1430
+    },
+    "filter": "late",
+    "live": [
+      "central",
+      "bar-koukla"
+    ],
+    "soon": [],
+    "later": [],
+    "rest": [
+      "rhapsody",
+      "bar-libretto",
+      "azhar",
+      "aleria"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Wed 11:50 PM",
+    "clock": {
+      "day": 3,
+      "minutes": 1430
+    },
+    "filter": "daily",
+    "live": [
+      "central"
+    ],
+    "soon": [],
+    "later": [],
+    "rest": [
+      "painted-lady",
+      "bar-libretto",
+      "la-chingada",
+      "azhar",
+      "bar-piquette"
+    ],
+    "unlisted": [
+      "haifa-room",
+      "roxton-public-house",
+      "fallen-feather",
+      "wasted-youth",
+      "linnys",
+      "dont-tell"
+    ]
+  },
+  {
+    "label": "Thu 9:00 PM",
+    "clock": {
+      "day": 4,
+      "minutes": 1260
+    },
+    "filter": "all",
+    "live": [
+      "rhapsody",
+      "bar-libretto",
+      "central",
+      "bar-koukla"
+    ],
+    "soon": [
+      "aleria"
+    ],
+    "later": [],
+    "rest": [
+      "painted-lady",
+      "bar-roma",
+      "manita",
+      "grape-witches",
+      "la-chingada",
+      "azhar",
+      "sweaty-bettys",
+      "poetry-jazz-cafe",
+      "bar-poet",
+      "bar-piquette",
+      "gloria"
+    ],
+    "unlisted": [
+      "the-lakeview-diner",
+      "haifa-room",
+      "nazare-snack-bar",
+      "222-bar",
+      "mild-afro-lounge",
+      "roxton-public-house",
+      "taberna-lx",
+      "la-banane",
+      "bar-banane",
+      "casablanca-lounge",
+      "salt-wine-bar",
+      "kensei-bar",
+      "fallen-feather",
+      "get-well",
+      "man-of-kent",
+      "gracies-pizza",
+      "pies-by-squires",
+      "vie-strada",
+      "papi-and-rosita",
+      "wasted-youth",
+      "badlands",
+      "foxley",
+      "season-six",
+      "the-garrison",
+      "the-jean-darlene",
+      "bar-bowie",
+      "the-gemini",
+      "idk-social",
+      "linnys",
+      "churchill",
+      "hanmoto",
+      "gia-restaurant",
+      "bar-shozan",
+      "i-deal-coffee-and-wine",
+      "club-paris",
+      "paris-paris",
+      "favorites-thai",
+      "reposado",
+      "co-te-de-boeuf",
+      "the-fountain",
+      "bellwoods-brewery",
+      "stefanos-diner",
+      "bambis",
+      "golden-turtle",
+      "papi-chulos",
+      "small-talk",
+      "neon-tiger",
+      "fat-choi",
+      "soos",
+      "the-lunch-lady",
+      "oddseoul",
+      "gift-shop",
+      "mamakas-taverna",
+      "no-vacancy",
+      "union",
+      "nabe-hana",
+      "dont-tell",
+      "pho-tien-thanh",
+      "downtown-winery",
+      "prequel-and-co-apothecary",
+      "frankies-diner",
+      "apt-200",
+      "and-ore",
+      "prime-seafood-palace",
+      "ceniza",
+      "clandestina",
+      "taco-bar",
+      "jamils"
+    ]
+  },
+  {
+    "label": "Thu 9:00 PM",
+    "clock": {
+      "day": 4,
+      "minutes": 1260
+    },
+    "filter": "drinks",
+    "live": [
+      "rhapsody",
+      "bar-libretto",
+      "central",
+      "bar-koukla"
+    ],
+    "soon": [
+      "aleria"
+    ],
+    "later": [],
+    "rest": [
+      "painted-lady",
+      "bar-roma",
+      "manita",
+      "grape-witches",
+      "la-chingada",
+      "azhar",
+      "sweaty-bettys",
+      "poetry-jazz-cafe",
+      "bar-poet",
+      "bar-piquette",
+      "gloria"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Thu 9:00 PM",
+    "clock": {
+      "day": 4,
+      "minutes": 1260
+    },
+    "filter": "food",
+    "live": [
+      "central"
+    ],
+    "soon": [
+      "aleria"
+    ],
+    "later": [],
+    "rest": [
+      "manita",
+      "grape-witches",
+      "la-chingada",
+      "azhar",
+      "poetry-jazz-cafe",
+      "bar-poet",
+      "bar-piquette"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Thu 9:00 PM",
+    "clock": {
+      "day": 4,
+      "minutes": 1260
+    },
+    "filter": "ending",
+    "live": [],
+    "soon": [],
+    "later": [],
+    "rest": [],
+    "unlisted": []
+  },
+  {
+    "label": "Thu 9:00 PM",
+    "clock": {
+      "day": 4,
+      "minutes": 1260
+    },
+    "filter": "late",
+    "live": [
+      "rhapsody",
+      "bar-libretto",
+      "central",
+      "bar-koukla"
+    ],
+    "soon": [
+      "aleria"
+    ],
+    "later": [],
+    "rest": [
+      "azhar"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Thu 9:00 PM",
+    "clock": {
+      "day": 4,
+      "minutes": 1260
+    },
+    "filter": "daily",
+    "live": [
+      "bar-libretto",
+      "central"
+    ],
+    "soon": [],
+    "later": [],
+    "rest": [
+      "painted-lady",
+      "la-chingada",
+      "azhar",
+      "bar-piquette"
+    ],
+    "unlisted": [
+      "haifa-room",
+      "roxton-public-house",
+      "fallen-feather",
+      "wasted-youth",
+      "linnys",
+      "dont-tell"
+    ]
+  },
+  {
+    "label": "Fri 5:30 PM",
+    "clock": {
+      "day": 5,
+      "minutes": 1050
+    },
+    "filter": "all",
+    "live": [
+      "bar-roma",
+      "bar-libretto",
+      "grape-witches",
+      "la-chingada",
+      "azhar",
+      "bar-koukla",
+      "sweaty-bettys",
+      "bar-piquette",
+      "gloria"
+    ],
+    "soon": [
+      "poetry-jazz-cafe"
+    ],
+    "later": [
+      "rhapsody",
+      "aleria"
+    ],
+    "rest": [
+      "painted-lady",
+      "manita",
+      "central",
+      "bar-poet"
+    ],
+    "unlisted": [
+      "the-lakeview-diner",
+      "haifa-room",
+      "nazare-snack-bar",
+      "222-bar",
+      "mild-afro-lounge",
+      "roxton-public-house",
+      "taberna-lx",
+      "la-banane",
+      "bar-banane",
+      "casablanca-lounge",
+      "salt-wine-bar",
+      "kensei-bar",
+      "fallen-feather",
+      "get-well",
+      "man-of-kent",
+      "gracies-pizza",
+      "pies-by-squires",
+      "vie-strada",
+      "papi-and-rosita",
+      "wasted-youth",
+      "badlands",
+      "foxley",
+      "season-six",
+      "the-garrison",
+      "the-jean-darlene",
+      "bar-bowie",
+      "the-gemini",
+      "idk-social",
+      "linnys",
+      "churchill",
+      "hanmoto",
+      "gia-restaurant",
+      "bar-shozan",
+      "i-deal-coffee-and-wine",
+      "club-paris",
+      "paris-paris",
+      "favorites-thai",
+      "reposado",
+      "co-te-de-boeuf",
+      "the-fountain",
+      "bellwoods-brewery",
+      "stefanos-diner",
+      "bambis",
+      "golden-turtle",
+      "papi-chulos",
+      "small-talk",
+      "neon-tiger",
+      "fat-choi",
+      "soos",
+      "the-lunch-lady",
+      "oddseoul",
+      "gift-shop",
+      "mamakas-taverna",
+      "no-vacancy",
+      "union",
+      "nabe-hana",
+      "dont-tell",
+      "pho-tien-thanh",
+      "downtown-winery",
+      "prequel-and-co-apothecary",
+      "frankies-diner",
+      "apt-200",
+      "and-ore",
+      "prime-seafood-palace",
+      "ceniza",
+      "clandestina",
+      "taco-bar",
+      "jamils"
+    ]
+  },
+  {
+    "label": "Fri 5:30 PM",
+    "clock": {
+      "day": 5,
+      "minutes": 1050
+    },
+    "filter": "drinks",
+    "live": [
+      "bar-roma",
+      "bar-libretto",
+      "grape-witches",
+      "la-chingada",
+      "azhar",
+      "bar-koukla",
+      "sweaty-bettys",
+      "bar-piquette",
+      "gloria"
+    ],
+    "soon": [
+      "poetry-jazz-cafe"
+    ],
+    "later": [
+      "rhapsody",
+      "aleria"
+    ],
+    "rest": [
+      "painted-lady",
+      "manita",
+      "central",
+      "bar-poet"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Fri 5:30 PM",
+    "clock": {
+      "day": 5,
+      "minutes": 1050
+    },
+    "filter": "food",
+    "live": [
+      "grape-witches",
+      "la-chingada",
+      "azhar",
+      "bar-piquette"
+    ],
+    "soon": [
+      "poetry-jazz-cafe"
+    ],
+    "later": [
+      "aleria"
+    ],
+    "rest": [
+      "manita",
+      "central",
+      "bar-poet"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Fri 5:30 PM",
+    "clock": {
+      "day": 5,
+      "minutes": 1050
+    },
+    "filter": "ending",
+    "live": [
+      "bar-libretto",
+      "grape-witches",
+      "azhar"
+    ],
+    "soon": [],
+    "later": [],
+    "rest": [],
+    "unlisted": []
+  },
+  {
+    "label": "Fri 5:30 PM",
+    "clock": {
+      "day": 5,
+      "minutes": 1050
+    },
+    "filter": "late",
+    "live": [
+      "bar-libretto",
+      "azhar",
+      "bar-koukla"
+    ],
+    "soon": [],
+    "later": [
+      "rhapsody",
+      "aleria"
+    ],
+    "rest": [
+      "central"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Fri 5:30 PM",
+    "clock": {
+      "day": 5,
+      "minutes": 1050
+    },
+    "filter": "daily",
+    "live": [
+      "bar-libretto",
+      "la-chingada",
+      "azhar",
+      "bar-piquette"
+    ],
+    "soon": [],
+    "later": [],
+    "rest": [
+      "painted-lady",
+      "central"
+    ],
+    "unlisted": [
+      "haifa-room",
+      "roxton-public-house",
+      "fallen-feather",
+      "wasted-youth",
+      "linnys",
+      "dont-tell"
+    ]
+  },
+  {
+    "label": "Sat 1:15 AM",
+    "clock": {
+      "day": 6,
+      "minutes": 75
+    },
+    "filter": "all",
+    "live": [
+      "rhapsody",
+      "aleria"
+    ],
+    "soon": [],
+    "later": [
+      "central",
+      "azhar",
+      "bar-libretto",
+      "la-chingada",
+      "gloria",
+      "bar-koukla",
+      "poetry-jazz-cafe"
+    ],
+    "rest": [
+      "painted-lady",
+      "bar-roma",
+      "manita",
+      "grape-witches",
+      "sweaty-bettys",
+      "bar-poet",
+      "bar-piquette"
+    ],
+    "unlisted": [
+      "the-lakeview-diner",
+      "haifa-room",
+      "nazare-snack-bar",
+      "222-bar",
+      "mild-afro-lounge",
+      "roxton-public-house",
+      "taberna-lx",
+      "la-banane",
+      "bar-banane",
+      "casablanca-lounge",
+      "salt-wine-bar",
+      "kensei-bar",
+      "fallen-feather",
+      "get-well",
+      "man-of-kent",
+      "gracies-pizza",
+      "pies-by-squires",
+      "vie-strada",
+      "papi-and-rosita",
+      "wasted-youth",
+      "badlands",
+      "foxley",
+      "season-six",
+      "the-garrison",
+      "the-jean-darlene",
+      "bar-bowie",
+      "the-gemini",
+      "idk-social",
+      "linnys",
+      "churchill",
+      "hanmoto",
+      "gia-restaurant",
+      "bar-shozan",
+      "i-deal-coffee-and-wine",
+      "club-paris",
+      "paris-paris",
+      "favorites-thai",
+      "reposado",
+      "co-te-de-boeuf",
+      "the-fountain",
+      "bellwoods-brewery",
+      "stefanos-diner",
+      "bambis",
+      "golden-turtle",
+      "papi-chulos",
+      "small-talk",
+      "neon-tiger",
+      "fat-choi",
+      "soos",
+      "the-lunch-lady",
+      "oddseoul",
+      "gift-shop",
+      "mamakas-taverna",
+      "no-vacancy",
+      "union",
+      "nabe-hana",
+      "dont-tell",
+      "pho-tien-thanh",
+      "downtown-winery",
+      "prequel-and-co-apothecary",
+      "frankies-diner",
+      "apt-200",
+      "and-ore",
+      "prime-seafood-palace",
+      "ceniza",
+      "clandestina",
+      "taco-bar",
+      "jamils"
+    ]
+  },
+  {
+    "label": "Sat 1:15 AM",
+    "clock": {
+      "day": 6,
+      "minutes": 75
+    },
+    "filter": "drinks",
+    "live": [
+      "rhapsody",
+      "aleria"
+    ],
+    "soon": [],
+    "later": [
+      "central",
+      "azhar",
+      "bar-libretto",
+      "la-chingada",
+      "gloria",
+      "bar-koukla",
+      "poetry-jazz-cafe"
+    ],
+    "rest": [
+      "painted-lady",
+      "bar-roma",
+      "manita",
+      "grape-witches",
+      "sweaty-bettys",
+      "bar-poet",
+      "bar-piquette"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Sat 1:15 AM",
+    "clock": {
+      "day": 6,
+      "minutes": 75
+    },
+    "filter": "food",
+    "live": [
+      "aleria"
+    ],
+    "soon": [],
+    "later": [
+      "central",
+      "azhar",
+      "la-chingada",
+      "poetry-jazz-cafe"
+    ],
+    "rest": [
+      "manita",
+      "grape-witches",
+      "bar-poet",
+      "bar-piquette"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Sat 1:15 AM",
+    "clock": {
+      "day": 6,
+      "minutes": 75
+    },
+    "filter": "ending",
+    "live": [],
+    "soon": [],
+    "later": [],
+    "rest": [],
+    "unlisted": []
+  },
+  {
+    "label": "Sat 1:15 AM",
+    "clock": {
+      "day": 6,
+      "minutes": 75
+    },
+    "filter": "late",
+    "live": [
+      "rhapsody",
+      "aleria"
+    ],
+    "soon": [],
+    "later": [
+      "central",
+      "azhar",
+      "bar-libretto",
+      "bar-koukla"
+    ],
+    "rest": [],
+    "unlisted": []
+  },
+  {
+    "label": "Sat 1:15 AM",
+    "clock": {
+      "day": 6,
+      "minutes": 75
+    },
+    "filter": "daily",
+    "live": [],
+    "soon": [],
+    "later": [
+      "central",
+      "azhar",
+      "bar-libretto",
+      "la-chingada"
+    ],
+    "rest": [
+      "painted-lady",
+      "bar-piquette"
+    ],
+    "unlisted": [
+      "haifa-room",
+      "roxton-public-house",
+      "fallen-feather",
+      "wasted-youth",
+      "linnys",
+      "dont-tell"
+    ]
+  },
+  {
+    "label": "Sun 11:00 AM",
+    "clock": {
+      "day": 0,
+      "minutes": 660
+    },
+    "filter": "all",
+    "live": [],
+    "soon": [],
+    "later": [
+      "central",
+      "azhar",
+      "la-chingada",
+      "bar-piquette",
+      "gloria",
+      "bar-koukla",
+      "rhapsody"
+    ],
+    "rest": [
+      "painted-lady",
+      "bar-roma",
+      "manita",
+      "bar-libretto",
+      "grape-witches",
+      "sweaty-bettys",
+      "aleria",
+      "poetry-jazz-cafe",
+      "bar-poet"
+    ],
+    "unlisted": [
+      "the-lakeview-diner",
+      "haifa-room",
+      "nazare-snack-bar",
+      "222-bar",
+      "mild-afro-lounge",
+      "roxton-public-house",
+      "taberna-lx",
+      "la-banane",
+      "bar-banane",
+      "casablanca-lounge",
+      "salt-wine-bar",
+      "kensei-bar",
+      "fallen-feather",
+      "get-well",
+      "man-of-kent",
+      "gracies-pizza",
+      "pies-by-squires",
+      "vie-strada",
+      "papi-and-rosita",
+      "wasted-youth",
+      "badlands",
+      "foxley",
+      "season-six",
+      "the-garrison",
+      "the-jean-darlene",
+      "bar-bowie",
+      "the-gemini",
+      "idk-social",
+      "linnys",
+      "churchill",
+      "hanmoto",
+      "gia-restaurant",
+      "bar-shozan",
+      "i-deal-coffee-and-wine",
+      "club-paris",
+      "paris-paris",
+      "favorites-thai",
+      "reposado",
+      "co-te-de-boeuf",
+      "the-fountain",
+      "bellwoods-brewery",
+      "stefanos-diner",
+      "bambis",
+      "golden-turtle",
+      "papi-chulos",
+      "small-talk",
+      "neon-tiger",
+      "fat-choi",
+      "soos",
+      "the-lunch-lady",
+      "oddseoul",
+      "gift-shop",
+      "mamakas-taverna",
+      "no-vacancy",
+      "union",
+      "nabe-hana",
+      "dont-tell",
+      "pho-tien-thanh",
+      "downtown-winery",
+      "prequel-and-co-apothecary",
+      "frankies-diner",
+      "apt-200",
+      "and-ore",
+      "prime-seafood-palace",
+      "ceniza",
+      "clandestina",
+      "taco-bar",
+      "jamils"
+    ]
+  },
+  {
+    "label": "Sun 11:00 AM",
+    "clock": {
+      "day": 0,
+      "minutes": 660
+    },
+    "filter": "drinks",
+    "live": [],
+    "soon": [],
+    "later": [
+      "central",
+      "azhar",
+      "la-chingada",
+      "bar-piquette",
+      "gloria",
+      "bar-koukla",
+      "rhapsody"
+    ],
+    "rest": [
+      "painted-lady",
+      "bar-roma",
+      "manita",
+      "bar-libretto",
+      "grape-witches",
+      "sweaty-bettys",
+      "aleria",
+      "poetry-jazz-cafe",
+      "bar-poet"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Sun 11:00 AM",
+    "clock": {
+      "day": 0,
+      "minutes": 660
+    },
+    "filter": "food",
+    "live": [],
+    "soon": [],
+    "later": [
+      "central",
+      "azhar",
+      "la-chingada",
+      "bar-piquette"
+    ],
+    "rest": [
+      "manita",
+      "grape-witches",
+      "aleria",
+      "poetry-jazz-cafe",
+      "bar-poet"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Sun 11:00 AM",
+    "clock": {
+      "day": 0,
+      "minutes": 660
+    },
+    "filter": "ending",
+    "live": [],
+    "soon": [],
+    "later": [],
+    "rest": [],
+    "unlisted": []
+  },
+  {
+    "label": "Sun 11:00 AM",
+    "clock": {
+      "day": 0,
+      "minutes": 660
+    },
+    "filter": "late",
+    "live": [],
+    "soon": [],
+    "later": [
+      "central",
+      "azhar",
+      "bar-koukla",
+      "rhapsody"
+    ],
+    "rest": [
+      "bar-libretto",
+      "aleria"
+    ],
+    "unlisted": []
+  },
+  {
+    "label": "Sun 11:00 AM",
+    "clock": {
+      "day": 0,
+      "minutes": 660
+    },
+    "filter": "daily",
+    "live": [],
+    "soon": [],
+    "later": [
+      "central",
+      "azhar",
+      "la-chingada",
+      "bar-piquette"
+    ],
+    "rest": [
+      "painted-lady",
+      "bar-libretto"
+    ],
+    "unlisted": [
+      "haifa-room",
+      "roxton-public-house",
+      "fallen-feather",
+      "wasted-youth",
+      "linnys",
+      "dont-tell"
+    ]
+  }
+]

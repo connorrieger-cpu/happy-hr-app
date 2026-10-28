@@ -1,0 +1,415 @@
+{
+  "submissions": [
+    {
+      "name": "valid happy hour",
+      "input": {
+        "device": "6F9619FF-8B86-D011-B42D-00CF4FC964FF",
+        "venueId": "union",
+        "venueName": "Union",
+        "days": [
+          2
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ]
+      },
+      "error": null
+    },
+    {
+      "name": "valid daily special, all day",
+      "input": {
+        "device": "6F9619FF-8B86-D011-B42D-00CF4FC964FF",
+        "venueId": "union",
+        "venueName": "Union",
+        "days": [
+          2
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ],
+        "kind": "daily",
+        "title": "Pint Tuesday"
+      },
+      "error": null
+    },
+    {
+      "name": "happy hour without hours",
+      "input": {
+        "device": "6F9619FF-8B86-D011-B42D-00CF4FC964FF",
+        "venueId": "union",
+        "venueName": "Union",
+        "days": [
+          2
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ]
+      },
+      "error": "Pick a start and end time."
+    },
+    {
+      "name": "no days",
+      "input": {
+        "device": "6F9619FF-8B86-D011-B42D-00CF4FC964FF",
+        "venueId": "union",
+        "venueName": "Union",
+        "days": [],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ]
+      },
+      "error": "Pick at least one day."
+    },
+    {
+      "name": "end before start",
+      "input": {
+        "device": "6F9619FF-8B86-D011-B42D-00CF4FC964FF",
+        "venueId": "union",
+        "venueName": "Union",
+        "days": [
+          2
+        ],
+        "start": 960,
+        "end": 960,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ]
+      },
+      "error": "The end time must be after the start."
+    },
+    {
+      "name": "longer than a happy hour",
+      "input": {
+        "device": "6F9619FF-8B86-D011-B42D-00CF4FC964FF",
+        "venueId": "union",
+        "venueName": "Union",
+        "days": [
+          2
+        ],
+        "start": 360,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ]
+      },
+      "error": "That’s longer than a happy hour."
+    },
+    {
+      "name": "no specials",
+      "input": {
+        "device": "6F9619FF-8B86-D011-B42D-00CF4FC964FF",
+        "venueId": "union",
+        "venueName": "Union",
+        "days": [
+          2
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": []
+      },
+      "error": "Add at least one special."
+    },
+    {
+      "name": "blank special",
+      "input": {
+        "device": "6F9619FF-8B86-D011-B42D-00CF4FC964FF",
+        "venueId": "union",
+        "venueName": "Union",
+        "days": [
+          2
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "  "
+          }
+        ]
+      },
+      "error": "Describe each special."
+    },
+    {
+      "name": "negative price",
+      "input": {
+        "device": "6F9619FF-8B86-D011-B42D-00CF4FC964FF",
+        "venueId": "union",
+        "venueName": "Union",
+        "days": [
+          2
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "beer",
+            "price": -1
+          }
+        ]
+      },
+      "error": "Check the prices."
+    },
+    {
+      "name": "bad device",
+      "input": {
+        "device": "x",
+        "venueId": "union",
+        "venueName": "Union",
+        "days": [
+          2
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ]
+      },
+      "error": "Missing device id."
+    },
+    {
+      "name": "new place without address",
+      "input": {
+        "device": "6F9619FF-8B86-D011-B42D-00CF4FC964FF",
+        "venueName": "Bar Raval",
+        "days": [
+          2
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ]
+      },
+      "error": "Add the venue’s street address."
+    },
+    {
+      "name": "new place outside every area",
+      "input": {
+        "device": "6F9619FF-8B86-D011-B42D-00CF4FC964FF",
+        "venueName": "Bar Raval",
+        "days": [
+          2
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ],
+        "address": "1 Main St",
+        "lat": 45.5,
+        "lng": -73.6
+      },
+      "error": "That address isn’t in one of our areas."
+    },
+    {
+      "name": "new place in Guelph",
+      "input": {
+        "device": "6F9619FF-8B86-D011-B42D-00CF4FC964FF",
+        "venueName": "The Albion",
+        "days": [
+          2
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ],
+        "address": "49 Norfolk St",
+        "lat": 43.5452,
+        "lng": -80.2508
+      },
+      "error": null
+    },
+    {
+      "name": "title too long",
+      "input": {
+        "device": "6F9619FF-8B86-D011-B42D-00CF4FC964FF",
+        "venueId": "union",
+        "venueName": "Union",
+        "days": [
+          2
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ],
+        "kind": "daily",
+        "title": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      },
+      "error": "The name is too long."
+    }
+  ],
+  "votes": [
+    {
+      "name": "valid",
+      "input": {
+        "device": "device-12345678",
+        "venueId": "central",
+        "worked": true
+      },
+      "error": null
+    },
+    {
+      "name": "missing answer",
+      "input": {
+        "device": "device-12345678",
+        "venueId": "central"
+      },
+      "error": "Say whether it worked."
+    },
+    {
+      "name": "bad venue",
+      "input": {
+        "device": "device-12345678",
+        "venueId": "Central Bar!",
+        "worked": false
+      },
+      "error": "Unknown venue."
+    }
+  ],
+  "voteSummary": {
+    "now": "2026-10-26T20:00:00.000Z",
+    "cases": [
+      {
+        "name": "none",
+        "tally": null,
+        "mood": "none",
+        "text": "No check-ins yet"
+      },
+      {
+        "name": "confirmed",
+        "tally": {
+          "yes": 3,
+          "no": 1,
+          "lastYes": "2026-10-24T20:00:00Z",
+          "lastNo": "2026-10-20T20:00:00Z"
+        },
+        "mood": "confirmed",
+        "text": "Worked for 3 people · last 2 days ago · 1 said it didn’t"
+      },
+      {
+        "name": "disputed recently",
+        "tally": {
+          "yes": 1,
+          "no": 2,
+          "lastYes": "2026-10-10T20:00:00Z",
+          "lastNo": "2026-10-26T19:00:00Z"
+        },
+        "mood": "disputed",
+        "text": "2 said it didn’t work · last today"
+      },
+      {
+        "name": "one yes today",
+        "tally": {
+          "yes": 1,
+          "no": 0,
+          "lastYes": "2026-10-26T15:00:00Z",
+          "lastNo": null
+        },
+        "mood": "confirmed",
+        "text": "Worked for 1 person · last today"
+      }
+    ]
+  },
+  "claims": [
+    {
+      "name": "valid, email",
+      "input": {
+        "device": "device-12345678",
+        "venueId": "central",
+        "name": "Sam",
+        "role": "Manager",
+        "contact": "sam@example.com"
+      },
+      "error": null
+    },
+    {
+      "name": "valid, phone",
+      "input": {
+        "device": "device-12345678",
+        "venueId": "central",
+        "name": "Sam",
+        "contact": "(416) 555-0123"
+      },
+      "error": null
+    },
+    {
+      "name": "no contact",
+      "input": {
+        "device": "device-12345678",
+        "venueId": "central",
+        "name": "Sam",
+        "contact": ""
+      },
+      "error": "Add an email or phone number we can reach you at."
+    },
+    {
+      "name": "short phone",
+      "input": {
+        "device": "device-12345678",
+        "venueId": "central",
+        "name": "Sam",
+        "contact": "555-0123"
+      },
+      "error": "Add an email or phone number we can reach you at."
+    },
+    {
+      "name": "no name",
+      "input": {
+        "device": "device-12345678",
+        "venueId": "central",
+        "name": " ",
+        "contact": "sam@example.com"
+      },
+      "error": "Add your name."
+    }
+  ]
+}

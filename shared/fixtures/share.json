@@ -1,0 +1,157 @@
+{
+  "parse": [
+    {
+      "search": "?v=manita",
+      "link": {
+        "venueId": "manita"
+      }
+    },
+    {
+      "search": "?v=manita&meet=1050",
+      "link": {
+        "venueId": "manita",
+        "meet": 1050
+      }
+    },
+    {
+      "search": "?v=Bad%20Id&meet=99999",
+      "link": {}
+    },
+    {
+      "search": "?venuekey=HHV-7K2M-QX9D-4FTW",
+      "link": {
+        "venueKey": "HHV-7K2M-QX9D-4FTW"
+      }
+    },
+    {
+      "search": "?meet=-5",
+      "link": {}
+    },
+    {
+      "search": "",
+      "link": {}
+    },
+    {
+      "search": "?owner",
+      "link": {}
+    },
+    {
+      "search": "?a=guelph&v=the-albion",
+      "link": {
+        "venueId": "the-albion",
+        "areaId": "guelph"
+      }
+    },
+    {
+      "search": "?a=Bad!&v=manita",
+      "link": {
+        "venueId": "manita"
+      }
+    }
+  ],
+  "links": [
+    {
+      "base": "https://happy-hr-beta.pages.dev/",
+      "venueId": "manita",
+      "url": "https://happy-hr-beta.pages.dev/?v=manita"
+    },
+    {
+      "base": "https://happy-hr-beta.pages.dev/?owner#x",
+      "venueId": "grape-witches",
+      "meet": 1050,
+      "url": "https://happy-hr-beta.pages.dev/?v=grape-witches&meet=1050"
+    },
+    {
+      "base": "https://happy-hr-beta.pages.dev/",
+      "venueId": "manita",
+      "meet": 1050,
+      "areaId": "ossington",
+      "url": "https://happy-hr-beta.pages.dev/?a=ossington&v=manita&meet=1050"
+    }
+  ],
+  "label": "Fri 5:30 PM",
+  "clock": {
+    "day": 5,
+    "minutes": 1050
+  },
+  "venues": [
+    {
+      "venue": "manita",
+      "dealLine": null,
+      "message": "Manita on 210 Ossington Ave",
+      "meetMessage": "Meet at Manita at 6:30 PM?",
+      "meetOptions": [
+        1080,
+        1110,
+        1140,
+        1170
+      ],
+      "preview": "Happy hour Mon–Thu 3–6 PM: $2.50 Oysters (min 6), $7 Draft Beer. 210 Ossington Ave."
+    },
+    {
+      "venue": "grape-witches",
+      "dealLine": "$6 Beer & Cider till 6 PM",
+      "message": "Grape Witches on 1247 Dundas St W: $6 Beer & Cider till 6 PM",
+      "meetMessage": "Meet at Grape Witches at 6:30 PM? $6 Beer & Cider till 6 PM.",
+      "meetOptions": [
+        1080,
+        1110,
+        1140,
+        1170
+      ],
+      "preview": "Happy hour Mon–Fri 3–6 PM: $6 Beer & Cider, $12 Wine by the Glass. 1247 Dundas St W."
+    },
+    {
+      "venue": "sweaty-bettys",
+      "dealLine": "$1 Off Highballs till 7 PM",
+      "message": "Sweaty Betty's on 13 Ossington Ave: $1 Off Highballs till 7 PM",
+      "meetMessage": "Meet at Sweaty Betty's at 6:30 PM? $1 Off Highballs till 7 PM.",
+      "meetOptions": [
+        1080,
+        1110,
+        1140,
+        1170
+      ],
+      "preview": "Happy hour Mon–Fri 5–7 PM: $1 Off Highballs, $1 Off Pints. 13 Ossington Ave."
+    },
+    {
+      "venue": "bar-roma",
+      "dealLine": "Select Cocktails & Food (prices not published) till 7 PM",
+      "message": "Bar Roma on 229 Ossington Ave: Select Cocktails & Food (prices not published) till 7 PM",
+      "meetMessage": "Meet at Bar Roma at 6:30 PM? Select Cocktails & Food (prices not published) till 7 PM.",
+      "meetOptions": [
+        1080,
+        1110,
+        1140,
+        1170
+      ],
+      "preview": "Happy hour Tue–Fri 5–7 PM: Select Cocktails & Food (prices not published). 229 Ossington Ave."
+    },
+    {
+      "venue": "central",
+      "dealLine": "Shot of the Day today",
+      "message": "Central on 114 Ossington Ave: Shot of the Day today",
+      "meetMessage": "Meet at Central at 6:30 PM? Shot of the Day today.",
+      "meetOptions": [
+        1080,
+        1110,
+        1140,
+        1170
+      ],
+      "preview": "Happy hour Daily 2–5 PM: $5 Highballs (1 oz), $5 OG Shaft on Draft. 114 Ossington Ave."
+    },
+    {
+      "venue": "roxton-public-house",
+      "dealLine": null,
+      "message": "Roxton Public House on 1112 Dundas St W",
+      "meetMessage": "Meet at Roxton Public House at 6:30 PM?",
+      "meetOptions": [
+        1080,
+        1110,
+        1140,
+        1170
+      ],
+      "preview": "Mon: Monday Night Football. 1112 Dundas St W."
+    }
+  ]
+}

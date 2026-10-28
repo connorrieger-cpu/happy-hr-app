@@ -1,0 +1,4016 @@
+[
+  {
+    "placeId": "ChIJ3-gq9N40K4gR-p1o031rll8",
+    "id": "primadonna",
+    "name": "Primadonna",
+    "category": "Italian-American restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "pizza",
+      "pasta"
+    ],
+    "tags": [
+      "Rooftop",
+      "DJ Fridays & Saturdays"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 1020,
+        "end": 1140,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "antipasti",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails",
+            "price": 10
+          }
+        ]
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1380,
+        "end": 1500,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "antipasti",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails",
+            "price": 10
+          }
+        ],
+        "note": "Late happy hour, 11 PM to close"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Carb Night",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price pizza, pasta and dessert with any glass of wine or cocktail"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Primadonna Happenings page",
+        "url": "https://primadonnatoronto.com/happenings/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Primadonna happy hour graphic",
+        "url": "https://primadonnatoronto.com/wp-content/uploads/2026/07/Primadonna_HappyHour_Graphic_StaticFeed.jpg",
+        "date": "2026-07"
+      }
+    ],
+    "menuUrl": "https://primadonnatoronto.com/menu/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJO1Z9tt81K4gRxO2d-e0ousM",
+    "id": "honey-chinese",
+    "name": "Honey Chinese",
+    "category": "Pan-Asian restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "asian"
+    ],
+    "tags": [
+      "DJ Fridays"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 1020,
+        "end": 1140,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "bites",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails",
+            "price": 10
+          }
+        ],
+        "note": "Honey Hour"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Honey Chinese Happenings page",
+        "url": "https://honeychineseto.com/happenings/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Honey Hour graphic",
+        "url": "https://honeychineseto.com/wp-content/uploads/2026/08/HoneyChinese_HappyHour_Feed1.png",
+        "date": "2026-08"
+      }
+    ],
+    "menuUrl": "https://honeychineseto.com/menu/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJA4uGWwA1K4gRrBuNISfo_Z8",
+    "id": "chamberlains-pony-bar",
+    "name": "Chamberlain’s Pony Bar",
+    "category": "Cocktail pub",
+    "vibe": "bar",
+    "food": [
+      "tacos"
+    ],
+    "tags": [
+      "Tex-Mex",
+      "Margaritas"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1140,
+        "specials": [],
+        "note": "Prices not published"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Chamberlain’s Pony Bar homepage",
+        "url": "https://www.chamberlainsponybar.com/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.chamberlainsponybar.com/menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJRWiBLtc1K4gR-ASQvfjWtlM",
+    "id": "ruby-soho",
+    "name": "Ruby Soho",
+    "category": "Bar",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "snacks"
+    ],
+    "tags": [
+      "Patio",
+      "Late-night menu"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1140,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Portland Pilsner",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "Blanche de Chambly",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "house wine",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "spritzes",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "chips & guac",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "wings",
+            "price": 15
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Ruby Soho happy hour menu",
+        "url": "https://www.rubysohobar.com/happy-hour",
+        "date": "2026-07"
+      }
+    ],
+    "menuUrl": "https://www.rubysohobar.com/happy-hour",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJr_tCsVg1K4gREHA5C-YHJys",
+    "id": "anejo",
+    "name": "Añejo",
+    "category": "Mexican restaurant & tequila bar",
+    "vibe": "restaurant",
+    "food": [
+      "tacos"
+    ],
+    "tags": [
+      "Huge tequila list"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "margaritas (1.5 oz)",
+            "price": 7.5
+          },
+          {
+            "kind": "food",
+            "item": "classic tacos",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "half-price tequila and mezcal"
+          },
+          {
+            "kind": "drink",
+            "item": "bucket of 4 Modelo",
+            "price": 28
+          }
+        ],
+        "note": "Dine-in only"
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1320,
+        "end": 1500,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "margaritas (1.5 oz)",
+            "price": 7.5
+          },
+          {
+            "kind": "food",
+            "item": "classic tacos",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "half-price tequila and mezcal"
+          }
+        ],
+        "note": "Late happy hour, 10 PM to close. Dine-in only"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1320,
+        "end": 1560,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "margaritas (1.5 oz)",
+            "price": 7.5
+          },
+          {
+            "kind": "food",
+            "item": "classic tacos",
+            "price": 4
+          },
+          {
+            "kind": "drink",
+            "item": "half-price tequila and mezcal"
+          }
+        ],
+        "note": "Late happy hour, 10 PM to close. Dine-in only"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Añejo happy hour menu (King St.)",
+        "url": "https://www.anejo.ca/en/menus/happy-hour.html?s=6736",
+        "date": "2026-10"
+      },
+      {
+        "label": "Añejo King Street location page",
+        "url": "https://www.anejo.ca/en/locations/on/toronto/600-king-street-west",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.anejo.ca/en/menus/happy-hour.html?s=6736",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ8bxierc1K4gRX1CEdlDHBGA",
+    "id": "public-gardens",
+    "name": "Public Gardens",
+    "category": "Italian bar & pizza",
+    "vibe": "bar",
+    "food": [
+      "pizza"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 1020,
+        "end": 1140,
+        "specials": [],
+        "note": "Prices not published"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Public Gardens homepage",
+        "url": "http://www.public-gardens.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ586kfMc1K4gR3sOdu0GM004",
+    "id": "king-taps",
+    "name": "King Taps",
+    "category": "Gastropub",
+    "vibe": "bar",
+    "food": [
+      "pizza",
+      "pub"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 690,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Crown Lager",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "well highballs (1 oz)",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "house wine (6 oz)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "frozen margarita",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "negroni",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "truffle fries",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "margherita pizza",
+            "price": 15
+          }
+        ],
+        "note": "Dine-in only"
+      },
+      {
+        "days": [
+          0,
+          6
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Crown Lager",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "well highballs (1 oz)",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "house wine (6 oz)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "frozen margarita",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "truffle fries",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "margherita pizza",
+            "price": 15
+          }
+        ],
+        "note": "Dine-in only"
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "start": 1320,
+        "end": 1500,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Crown Lager",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "well highballs (1 oz)",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "house wine (6 oz)",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "truffle fries",
+            "price": 7
+          }
+        ],
+        "note": "Late happy hour, 10 PM to close. Dine-in only"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Half-price wine Tuesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price wine"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "King Taps King & Portland happy hour menu",
+        "url": "https://kingtaps.com/locations/king-portland/menu/happy-hour/",
+        "date": "2026-10"
+      },
+      {
+        "label": "King Taps King & Portland location page",
+        "url": "https://kingtaps.com/locations/king-west",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://kingtaps.com/locations/king-portland/menu/happy-hour/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJD6hUolg1K4gRsgUJSNwcOEo",
+    "id": "earls-king-west",
+    "name": "Earls King West",
+    "category": "Restaurant & bar",
+    "vibe": "restaurant",
+    "food": [
+      "sushi",
+      "steak",
+      "pizza"
+    ],
+    "tags": [
+      "Brunch happy hour"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price select wine bottles"
+          },
+          {
+            "kind": "drink",
+            "item": "half-price Earls lime margarita (1.5 oz)"
+          },
+          {
+            "kind": "drink",
+            "item": "half-price Aperol spritz"
+          },
+          {
+            "kind": "drink",
+            "item": "$3 off Stella and Rhino draft"
+          },
+          {
+            "kind": "food",
+            "item": "$5 off starters, sushi and pizza"
+          },
+          {
+            "kind": "food",
+            "item": "petite steak frites",
+            "price": 16
+          }
+        ],
+        "note": "Lounge, bar and patio only. Earls’ location page says 3 to 7 PM"
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1320,
+        "end": 1560,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price select wine bottles"
+          },
+          {
+            "kind": "drink",
+            "item": "half-price Earls lime margarita (1.5 oz)"
+          },
+          {
+            "kind": "drink",
+            "item": "$3 off Stella and Rhino draft"
+          },
+          {
+            "kind": "food",
+            "item": "$5 off starters, sushi and pizza"
+          }
+        ],
+        "note": "Late happy hour, 10 PM to close. Lounge, bar and patio only"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1320,
+        "end": 1560,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price select wine bottles"
+          },
+          {
+            "kind": "drink",
+            "item": "half-price Earls lime margarita (1.5 oz)"
+          },
+          {
+            "kind": "drink",
+            "item": "$3 off Stella and Rhino draft"
+          },
+          {
+            "kind": "food",
+            "item": "$5 off starters, sushi and pizza"
+          }
+        ],
+        "note": "Late happy hour, 10 PM to close. Downstairs only"
+      },
+      {
+        "days": [
+          0,
+          6
+        ],
+        "start": 660,
+        "end": 720,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Aperol spritz",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "mimosa",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "Caesar (1 oz)",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "tiny espresso martini",
+            "price": 7
+          }
+        ],
+        "note": "Brunch happy hour, open to noon"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Half-off wine bottles",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half off all bottles of wine"
+          }
+        ]
+      },
+      {
+        "days": [
+          6
+        ],
+        "title": "Sparkling Saturday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half off bottles of sparkling"
+          }
+        ],
+        "start": 660,
+        "end": 900
+      },
+      {
+        "days": [
+          0
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "$2 off Earls Caesars"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Earls King West menu (Happy Hour and Daily Rituals tabs)",
+        "url": "https://earls.ca/locations/king-west/menu/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Earls King West location page",
+        "url": "https://earls.ca/locations/king-west/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://earls.ca/locations/king-west/menu/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJQz2McwA1K4gRzn01ddFL4T4",
+    "id": "greta-bar",
+    "name": "GRETA Bar",
+    "category": "Bar & arcade",
+    "vibe": "bar",
+    "food": [
+      "tacos",
+      "wings"
+    ],
+    "tags": [
+      "Arcade games",
+      "DJ weekends"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "house wine, beer, highballs (1 oz) and shafts",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Hornitos tequila shots",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Casamigos Blanco",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "select food specials"
+          }
+        ]
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1320,
+        "end": 1560,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "house wine, beer, highballs (1 oz) and shafts",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Hornitos tequila shots",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails",
+            "price": 12
+          },
+          {
+            "kind": "drink",
+            "item": "3 hours of unlimited games",
+            "price": 20
+          }
+        ],
+        "note": "Late happy hour, 10 PM to 2 AM"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          5,
+          6
+        ],
+        "title": "Cheers to the Weekend",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "shafts",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "$2 off doubles"
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Sunday locals + industry party",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "almost every single drink",
+            "price": 5.5
+          },
+          {
+            "kind": "drink",
+            "item": "Guinness",
+            "price": 5.5
+          }
+        ],
+        "note": "Excludes cocktails, Shaft on draft, premium wine and liquor"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "GRETA Toronto menu (Daily Specials tab)",
+        "url": "https://gretabar.com/toronto/food-menu/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://gretabar.com/toronto/food-menu/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJu6NKUN40K4gRC70ylqfYCUI",
+    "id": "wvrst",
+    "name": "WVRST",
+    "category": "Beer hall & sausages",
+    "vibe": "bar",
+    "food": [
+      "pub"
+    ],
+    "tags": [
+      "Beer hall",
+      "Big craft beer list"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "select craft draught",
+            "price": 7.5
+          },
+          {
+            "kind": "food",
+            "item": "$10 off cheese fondue"
+          }
+        ]
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1,
+          2
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half off all wine bottles"
+          },
+          {
+            "kind": "food",
+            "item": "half-price dirty fries and Bavarian pretzel"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "all cocktails",
+            "price": 14
+          },
+          {
+            "kind": "food",
+            "item": "smash burger with fries",
+            "price": 15
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Kölsch tray (2+ litres of Gaffel)",
+            "price": 36
+          },
+          {
+            "kind": "food",
+            "item": "Roast Night porchetta from $19"
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "litre stein of Paulaner Helles",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "Schnitzel Day from $18"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "WVRST King West menu (PDF)",
+        "url": "https://wvrst.com/wp-content/uploads/1.-031226-King-Menu.pdf",
+        "date": "2026-03"
+      }
+    ],
+    "menuUrl": "https://wvrst.com/wp-content/uploads/1.-031226-King-Menu.pdf",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJm5_QX940K4gRdtM5bxGf3g4",
+    "id": "gusto-101",
+    "name": "Gusto 101",
+    "category": "Italian restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "pasta",
+      "pizza"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 900,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Peroni (335 ml)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "house wine (5 oz)",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails",
+            "price": 13
+          },
+          {
+            "kind": "food",
+            "item": "focaccia",
+            "price": 4
+          },
+          {
+            "kind": "food",
+            "item": "beef carpaccio",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "margherita pizza",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "burger",
+            "price": 18
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Gusto 101 happy hour menu",
+        "url": "https://www.gusto101.com/menu/happy-hour-menu",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.gusto101.com/menu/happy-hour-menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJQ8ySZd40K4gRQfWr19HCZIw",
+    "id": "chubbys-jamaican-kitchen",
+    "name": "Chubby’s Jamaican Kitchen",
+    "category": "Jamaican restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "wings"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Red Stripe, Dragon Stout or Heineken",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "house wine or prosecco",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "rum punch and cocktails",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "jerk wings",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "saltfish fritters",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "jerk fries or fried plantain",
+            "price": 6
+          }
+        ],
+        "note": "Island Time. Opens at 4 PM on Mondays and Tuesdays"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Chubby’s Island Time menu",
+        "url": "https://chubbysjamaican.com/menu/island-time-menu",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://chubbysjamaican.com/menu/island-time-menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJqWF0FC81K4gRP-XouZ37Cas",
+    "id": "cafe-renee",
+    "name": "Café Renée",
+    "category": "French brasserie",
+    "vibe": "restaurant",
+    "food": [
+      "french"
+    ],
+    "tags": [
+      "Garden patio",
+      "Martini happy hour"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 960,
+        "end": 1140,
+        "specials": [],
+        "note": "Martini happy hour. Prices not published"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Café Renée FAQ (hours)",
+        "url": "https://www.cafereneebar.com/faq",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.cafereneebar.com/dinner-menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJMbSeYYs1K4gROUqDOyRPZ6Y",
+    "id": "little-sister",
+    "name": "Little Sister",
+    "category": "Dutch-Indonesian food bar",
+    "vibe": "restaurant",
+    "food": [
+      "asian"
+    ],
+    "tags": [
+      "Bar XXX speakeasy"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 990,
+        "end": 1110,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "snacks from $8 to $12"
+          },
+          {
+            "kind": "drink",
+            "item": "drinks from $8 to $12"
+          }
+        ],
+        "note": "Happy “Jam”"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Little Sister Portland St. page",
+        "url": "http://www.littlesisterto.com/ls-portland",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "http://www.littlesisterto.com/menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJZePOld40K4gRdyYgVB5rKZA",
+    "id": "the-keg-king-west",
+    "name": "The Keg King West",
+    "category": "Steakhouse",
+    "vibe": "restaurant",
+    "food": [
+      "steak"
+    ],
+    "tags": [
+      "Patio",
+      "Heritage building"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [],
+        "note": "Bar, lounge and patio only. Prices not published on the site"
+      },
+      {
+        "days": [
+          0
+        ],
+        "start": 1260,
+        "end": 1380,
+        "specials": [],
+        "note": "Late happy hour, 9 PM to close. Bar, lounge and patio only. Prices not published on the site"
+      },
+      {
+        "days": [
+          1,
+          2,
+          3
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [],
+        "note": "Late happy hour, 9 PM to close. Bar, lounge and patio only. Prices not published on the site"
+      },
+      {
+        "days": [
+          4,
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1500,
+        "specials": [],
+        "note": "Late happy hour, 9 PM to close. Bar, lounge and patio only. Prices not published on the site"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "The Keg King West location page",
+        "url": "https://thekeg.com/en/locations/king-west",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://thekeg.com/en/locations/king-west/menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ__8vON40K4gRrdSTtnF6X78",
+    "id": "the-parlour",
+    "name": "The Parlour",
+    "category": "Restaurant & bar",
+    "vibe": "restaurant",
+    "food": [
+      "pizza",
+      "oysters"
+    ],
+    "tags": [
+      "Happy hour till close Sun–Thu"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0
+        ],
+        "start": 720,
+        "end": 1380,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Don Julio 1942 (1 oz)",
+            "price": 19.42
+          },
+          {
+            "kind": "drink",
+            "item": "Vineland Estates wine (5 oz)",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Tippy Canoe lager (16 oz)",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "well highballs",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas (1.25 oz)",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "Aperol spritz",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "East Coast oysters (min. 6)",
+            "price": 3
+          },
+          {
+            "kind": "food",
+            "item": "lobster rolls",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "margherita pizza",
+            "price": 18
+          }
+        ],
+        "note": "Open to close. Not during events and buyouts"
+      },
+      {
+        "days": [
+          2
+        ],
+        "start": 960,
+        "end": 1320,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Don Julio 1942 (1 oz)",
+            "price": 19.42
+          },
+          {
+            "kind": "drink",
+            "item": "Vineland Estates wine (5 oz)",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Tippy Canoe lager (16 oz)",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "well highballs",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas (1.25 oz)",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "Aperol spritz",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "East Coast oysters (min. 6)",
+            "price": 3
+          },
+          {
+            "kind": "food",
+            "item": "lobster rolls",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "margherita pizza",
+            "price": 18
+          }
+        ],
+        "note": "Open to close. Not during events and buyouts"
+      },
+      {
+        "days": [
+          3
+        ],
+        "start": 960,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Don Julio 1942 (1 oz)",
+            "price": 19.42
+          },
+          {
+            "kind": "drink",
+            "item": "Vineland Estates wine (5 oz)",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Tippy Canoe lager (16 oz)",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "well highballs",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas (1.25 oz)",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "Aperol spritz",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "East Coast oysters (min. 6)",
+            "price": 3
+          },
+          {
+            "kind": "food",
+            "item": "lobster rolls",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "margherita pizza",
+            "price": 18
+          }
+        ],
+        "note": "Open to close. Not during events and buyouts"
+      },
+      {
+        "days": [
+          4
+        ],
+        "start": 960,
+        "end": 1500,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Don Julio 1942 (1 oz)",
+            "price": 19.42
+          },
+          {
+            "kind": "drink",
+            "item": "Vineland Estates wine (5 oz)",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Tippy Canoe lager (16 oz)",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "well highballs",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas (1.25 oz)",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "Aperol spritz",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "East Coast oysters (min. 6)",
+            "price": 3
+          },
+          {
+            "kind": "food",
+            "item": "lobster rolls",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "margherita pizza",
+            "price": 18
+          }
+        ],
+        "note": "Open to close. Not during events and buyouts"
+      },
+      {
+        "days": [
+          5
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Don Julio 1942 (1 oz)",
+            "price": 19.42
+          },
+          {
+            "kind": "drink",
+            "item": "Vineland Estates wine (5 oz)",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Tippy Canoe lager (16 oz)",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "well highballs",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas (1.25 oz)",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "Aperol spritz",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "East Coast oysters (min. 6)",
+            "price": 3
+          },
+          {
+            "kind": "food",
+            "item": "lobster rolls",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "margherita pizza",
+            "price": 18
+          }
+        ],
+        "note": "Not during events and buyouts"
+      },
+      {
+        "days": [
+          6
+        ],
+        "start": 720,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Don Julio 1942 (1 oz)",
+            "price": 19.42
+          },
+          {
+            "kind": "drink",
+            "item": "Vineland Estates wine (5 oz)",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Tippy Canoe lager (16 oz)",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "well highballs",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas (1.25 oz)",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "Aperol spritz",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "East Coast oysters (min. 6)",
+            "price": 3
+          },
+          {
+            "kind": "food",
+            "item": "lobster rolls",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "margherita pizza",
+            "price": 18
+          }
+        ],
+        "note": "Not during events and buyouts"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "Parlour Wednesdays",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "2 Can Dine: any pizza, a salad and a dessert",
+            "price": 59
+          }
+        ],
+        "note": "Dine-in only"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "The Parlour Toronto menu (Happy Hour)",
+        "url": "http://theparlourrestaurants.com/toronto-menu/",
+        "date": "2026-10"
+      },
+      {
+        "label": "The Parlour blog: new happy hour hours",
+        "url": "https://theparlourrestaurants.com/2026/09/11/best-happy-hour-toronto/",
+        "date": "2026-09-11"
+      }
+    ],
+    "menuUrl": "http://theparlourrestaurants.com/toronto-menu/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ___Pvd40K4gRmTsHAIN-2jM",
+    "id": "belfast-love",
+    "name": "Belfast Love",
+    "category": "Pub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings"
+    ],
+    "tags": [
+      "Trivia Tuesdays",
+      "Heated patio",
+      "Sports"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 1020,
+        "end": 1140,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "drinks from $5"
+          }
+        ],
+        "note": "The page’s heading says daily; its text says weekdays"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Belfast Love page (Freehouse Collective)",
+        "url": "https://www.freehouse.co/locations/belfast-love",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.datocms-assets.com/75587/1781024106-belfast-love-menu-summer-2026.pdf",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ6bEPOvk1K4gRHjhvwW3VTS0",
+    "id": "harriets-rooftop",
+    "name": "Harriet’s Rooftop",
+    "category": "Rooftop bar & sushi",
+    "vibe": "cocktails",
+    "food": [
+      "sushi"
+    ],
+    "tags": [
+      "Rooftop",
+      "Skyline views",
+      "1 Hotel"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 1020,
+        "end": 1140,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "cocktails at special prices"
+          }
+        ],
+        "note": "Rooftop Happy Hour. Prices not published"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "Wasabi Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price selected sushi and nigiri"
+          }
+        ],
+        "start": 1020,
+        "end": 1140
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Harriet’s Rooftop page (1 Hotel Toronto)",
+        "url": "https://www.1hotels.com/toronto/taste/harriets-rooftop",
+        "date": "2026-10"
+      },
+      {
+        "label": "1 Hotel event: Rooftop Happy Hour",
+        "url": "https://www.1hotels.com/toronto/do/events/rooftop-happy-hour",
+        "date": "2026-10"
+      },
+      {
+        "label": "1 Hotel event: Wasabi Wednesday",
+        "url": "https://www.1hotels.com/toronto/do/events/wasabi-wednesday",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.1hotels.com/toronto/taste/harriets-rooftop#menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJqbX4xN80K4gRH9FFUta4aZg",
+    "id": "casa-madera",
+    "name": "Casa Madera",
+    "category": "Mexican restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "tacos"
+    ],
+    "tags": [
+      "1 Hotel"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          3,
+          4,
+          5
+        ],
+        "start": 1020,
+        "end": 1140,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "cocktails at special prices"
+          },
+          {
+            "kind": "food",
+            "item": "small plates at special prices"
+          }
+        ],
+        "note": "Golden Hour. Prices not published"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Casa Madera page (1 Hotel Toronto)",
+        "url": "https://www.1hotels.com/toronto/taste/casa-madera",
+        "date": "2026-10"
+      },
+      {
+        "label": "1 Hotel event: Golden Hour at Casa Madera",
+        "url": "https://www.1hotels.com/toronto/do/events/golden-hour-at-casa-madera",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.1hotels.com/toronto/taste/casa-madera#menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJpaYLPcM1K4gR7JHGnBTz_EY",
+    "id": "flora-lounge",
+    "name": "Flora Lounge",
+    "category": "Hotel lobby bar",
+    "vibe": "cocktails",
+    "food": [
+      "snacks"
+    ],
+    "tags": [
+      "1 Hotel",
+      "Live music Fridays"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "beer and cider",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "house cocktails",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "fries",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "smoked cheddar croquettes",
+            "price": 8
+          },
+          {
+            "kind": "food",
+            "item": "maple bacon sliders",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "charcuterie board",
+            "price": 23
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Flora Lounge page and Happy Hour menu (1 Hotel Toronto)",
+        "url": "https://www.1hotels.com/toronto/taste/flora-lounge",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.1hotels.com/toronto/taste/flora-lounge",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJqbX4xN80K4gRcLGOedlYN4s",
+    "id": "1-kitchen",
+    "name": "1 Kitchen",
+    "category": "Farm-to-table restaurant",
+    "vibe": "restaurant",
+    "tags": [
+      "1 Hotel",
+      "Ontario wines"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "spritzes at special prices"
+          },
+          {
+            "kind": "drink",
+            "item": "VQA wine bottles at special prices"
+          }
+        ],
+        "note": "Spritz Happy Hour. Prices not published"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "Wine Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price select Canadian wine bottles"
+          }
+        ],
+        "start": 1020,
+        "end": 1260
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "1 Kitchen page (1 Hotel Toronto)",
+        "url": "https://www.1hotels.com/toronto/taste/1-kitchen",
+        "date": "2026-10"
+      },
+      {
+        "label": "1 Hotel event: Spritz Happy Hour",
+        "url": "https://www.1hotels.com/toronto/do/events/spritz-happy-hour",
+        "date": "2026-10"
+      },
+      {
+        "label": "1 Hotel event: Wine Wednesday",
+        "url": "https://www.1hotels.com/toronto/do/events/wine-wednesday",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.1hotels.com/toronto/taste/1-kitchen#menu",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ3av9_j7L1IkR-4usmJxvhyk",
+    "id": "rodneys-oyster-house",
+    "name": "Rodney’s Oyster House",
+    "category": "Oyster bar",
+    "vibe": "restaurant",
+    "food": [
+      "oysters"
+    ],
+    "tags": [
+      "Since 1987",
+      "Up to 26 oyster varieties"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "Low Tide oysters",
+            "price": 2.5
+          },
+          {
+            "kind": "drink",
+            "item": "Alpine, Moosehead or Beau’s cans (355 ml)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "Sealegs Oyster White (5 oz)",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "R.F.C. fried chicken sandwich",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "mini lobster roll",
+            "price": 15
+          }
+        ],
+        "note": "Low Tide menu"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Rodney’s Low Tide menu",
+        "url": "https://rodneysoysterhouse.com/toronto/catering/menus/low-tide-menu/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Toronto Life: Toronto’s best oyster deals",
+        "url": "https://torontolife.com/food/oyster-deals-buck-a-shuck/",
+        "date": "2025-12-03"
+      }
+    ],
+    "menuUrl": "https://rodneysoysterhouse.com/toronto/menus/main/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJCdb97hI1K4gR37ZgLbWxZ3s",
+    "id": "la-plume",
+    "name": "La Plume",
+    "category": "French brasserie",
+    "vibe": "restaurant",
+    "food": [
+      "french",
+      "oysters"
+    ],
+    "tags": [
+      "Oliver & Bonacini",
+      "Bonne Nuit speakeasy"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price oysters"
+          },
+          {
+            "kind": "drink",
+            "item": "select beer (16 oz)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "select wine (5 oz)",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "La Plume favourites",
+            "price": 12
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 840,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price oysters"
+          },
+          {
+            "kind": "drink",
+            "item": "select beer (16 oz)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "select wine (5 oz)",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "La Plume favourites",
+            "price": 12
+          }
+        ]
+      },
+      {
+        "days": [
+          4,
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "bar rail from $5"
+          },
+          {
+            "kind": "drink",
+            "item": "beer from $6"
+          },
+          {
+            "kind": "drink",
+            "item": "wine by the glass from $8"
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails",
+            "price": 12
+          }
+        ],
+        "note": "The Well After Dark, 9 PM to late. Prices from The Well’s page"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2,
+          3
+        ],
+        "title": "Half-price wine",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "up to 50% off select wine bottles"
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "title": "Ohh La Marguerite",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 14
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "La Plume happy hour page",
+        "url": "https://www.laplumebrasserie.com/news/happy-hour/",
+        "date": "2026-10"
+      },
+      {
+        "label": "La Plume homepage (oysters, wine, margaritas)",
+        "url": "https://www.laplumebrasserie.com/",
+        "date": "2026-10"
+      },
+      {
+        "label": "The Well After Dark (The Well Toronto)",
+        "url": "https://thewelltoronto.com/whats-on/the-well-after-dark/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.laplumebrasserie.com/menu/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJFaphFi81K4gR4KHzRXPrJ90",
+    "id": "wang-lang",
+    "name": "Wang Lang",
+    "category": "Thai restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "thai"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Tiger beer",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "Reif wine",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "prosecco",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "fried tofu",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "lemongrass salad",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "pad see ew or pad ga prao",
+            "price": 17
+          }
+        ],
+        "note": "Excluding holidays"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Wang Lang happy hours menu",
+        "url": "https://wanglang.ca/menu/happy-hours",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://wanglang.ca/menu/happy-hours",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJg4KPcnY1K4gR91c0-HfMgsI",
+    "id": "silent-h",
+    "name": "Silent H",
+    "category": "Mexican restaurant & tequila bar",
+    "vibe": "restaurant",
+    "food": [
+      "tacos"
+    ],
+    "tags": [
+      "Tequila bar",
+      "Aitch lounge Thu–Sun"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 1020,
+        "end": 1140,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "margaritas",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "individual bites (tacos, tostadas, esquites)",
+            "price": 4
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Silent H happy hour page",
+        "url": "https://www.silenth.ca/happy-hour",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.silenth.ca/happy-hour",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJYbV94lY1K4gRrfoNwaOG-Mc",
+    "id": "noyaa",
+    "name": "NOYAA",
+    "category": "Mediterranean-Asian restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "asian",
+      "sushi"
+    ],
+    "tags": [
+      "Terrace at The Well"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "wine (red or white)",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "bites",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "appetizers",
+            "price": 14
+          }
+        ],
+        "note": "Golden Hour. An Instagram post gives Tue–Thu 3–7 PM and Fri–Sat 3–6 PM"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "NOYAA Golden Hour menu (PDF)",
+        "url": "https://www.noyaatoronto.com/wp-content/uploads/2026/08/Noyaa-Golden-Hour.pdf",
+        "date": "2026-08"
+      }
+    ],
+    "menuUrl": "https://www.noyaatoronto.com/menu/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJT9j-Xow1K4gRK7bEP2emGPA",
+    "id": "oche-king-west",
+    "name": "Oche",
+    "category": "Darts bar",
+    "vibe": "bar",
+    "food": [
+      "snacks"
+    ],
+    "tags": [
+      "Darts & shuffleboard",
+      "Karaoke"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "house rail, beer, wine and all cocktails",
+            "price": 9
+          }
+        ],
+        "note": "9 PM to close"
+      },
+      {
+        "days": [
+          0
+        ],
+        "start": 660,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "house rail, beer, wine and all cocktails",
+            "price": 9
+          }
+        ],
+        "note": "Open to close"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          0
+        ],
+        "title": "Half-off Sundays",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half off all games"
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Free play Fridays",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "free darts and shuffleboard"
+          }
+        ],
+        "start": 900,
+        "end": 1080
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Oche King West page",
+        "url": "https://oche.com/ca/kingwest",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://oche.com/ca/kingwest",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJYznwHtk0K4gRxMNqIuqFxfo",
+    "id": "bridgette-bar",
+    "name": "Bridgette Bar",
+    "category": "Chef-driven bar",
+    "vibe": "restaurant",
+    "food": [
+      "pizza"
+    ],
+    "tags": [
+      "The Well",
+      "DJs Thu–Sat"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "draft beer",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "select wine (5 oz)",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "half-price wine bottles"
+          },
+          {
+            "kind": "drink",
+            "item": "signature cocktails",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "margherita pizza",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "other pizzas from $11.50"
+          }
+        ],
+        "note": "Matinée happy hour"
+      },
+      {
+        "days": [
+          4,
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "rail",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "select beer",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "select cocktails",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "cheese curd fries",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "margherita pizza",
+            "price": 10
+          }
+        ],
+        "note": "The Well After Dark, 9 PM to late"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          0
+        ],
+        "title": "Sunday Supper Club",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "family-style supper for 2–3",
+            "price": 69
+          }
+        ],
+        "start": 1080,
+        "end": 1320
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Bridgette Bar Toronto page",
+        "url": "http://www.bridgettebar.com/toronto",
+        "date": "2026-10"
+      },
+      {
+        "label": "Bridgette Bar Matinée menu (PDF)",
+        "url": "https://www.bridgettebar.com/s/BBT-Matinee-0410-4ss2.pdf",
+        "date": "2026"
+      },
+      {
+        "label": "Bridgette Bar After Dark menu (PDF)",
+        "url": "https://www.bridgettebar.com/s/BBT-WellAfterDark-0623-print.pdf",
+        "date": "2026"
+      }
+    ],
+    "menuUrl": "https://www.bridgettebar.com/s/BBT-Matinee-0410-4ss2.pdf",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJXSQQ_sk1K4gRrJrPt22bLho",
+    "id": "lulu-bar",
+    "name": "Lulu Bar",
+    "category": "Pan-Pacific bar",
+    "vibe": "restaurant",
+    "food": [
+      "asian",
+      "wings"
+    ],
+    "tags": [
+      "The Well",
+      "DJs Thu–Sat"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "select beers",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "select wine (5 oz)",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "select cocktails",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "edamame",
+            "price": 4
+          },
+          {
+            "kind": "food",
+            "item": "hot dog bao",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "taro tots",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "laab chicken wings",
+            "price": 13
+          },
+          {
+            "kind": "food",
+            "item": "burger",
+            "price": 16
+          }
+        ],
+        "note": "Honolulu Happy Hour"
+      },
+      {
+        "days": [
+          0
+        ],
+        "start": 660,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "select beers",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "select wine (5 oz)",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "select cocktails",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "edamame",
+            "price": 4
+          },
+          {
+            "kind": "food",
+            "item": "hot dog bao",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "taro tots",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "laab chicken wings",
+            "price": 13
+          },
+          {
+            "kind": "food",
+            "item": "burger",
+            "price": 16
+          }
+        ],
+        "note": "Honolulu Happy Hour, from 11 AM on Sundays"
+      },
+      {
+        "days": [
+          4,
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "rail",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "select beers",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "select wine (5 oz)",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "select cocktails",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "hot dog bao",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "laab chicken wings",
+            "price": 13
+          }
+        ],
+        "note": "The Well After Dark, 9 PM to late"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          0
+        ],
+        "title": "Ssam Sunday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "pork belly ssam feast for 2–3",
+            "price": 55
+          }
+        ],
+        "start": 1080,
+        "end": 1320
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Lulu Bar Toronto page",
+        "url": "https://www.lulubar.ca/toronto",
+        "date": "2026-10"
+      },
+      {
+        "label": "Lulu Bar Honolulu Happy Hour menu (PDF)",
+        "url": "https://www.lulubar.ca/s/LLT_HH_0829-Web.pdf",
+        "date": "2026"
+      },
+      {
+        "label": "Lulu Bar After Dark menu (PDF)",
+        "url": "https://www.lulubar.ca/s/LLT_WellAfterDark_0611-web.pdf",
+        "date": "2026"
+      }
+    ],
+    "menuUrl": "https://www.lulubar.ca/s/LLT_HH_0829-Web.pdf",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJmYso8K81K4gRA4L2hOFdZ9Y",
+    "id": "paris-texas",
+    "name": "Paris Texas",
+    "category": "Sports & country bar",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "snacks"
+    ],
+    "tags": [
+      "Sports",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          3
+        ],
+        "start": 1020,
+        "end": 1350,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Corona, Stella, Budweiser or Bud Light",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "Modelo",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail (1 oz) and mixer",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails (2 oz)",
+            "price": 12
+          },
+          {
+            "kind": "drink",
+            "item": "sangria pitcher (1 L)",
+            "price": 36
+          },
+          {
+            "kind": "food",
+            "item": "chicken wings",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "chips and dip",
+            "price": 9
+          }
+        ],
+        "note": "Patio Texas happy hour, all day. Not during major events and playoff games"
+      },
+      {
+        "days": [
+          4
+        ],
+        "start": 1020,
+        "end": 1560,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Corona, Stella, Budweiser or Bud Light",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "Modelo",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail (1 oz) and mixer",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails (2 oz)",
+            "price": 12
+          },
+          {
+            "kind": "drink",
+            "item": "sangria pitcher (1 L)",
+            "price": 36
+          },
+          {
+            "kind": "food",
+            "item": "chicken wings",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "chips and dip",
+            "price": 9
+          }
+        ],
+        "note": "Patio Texas happy hour, all day. Not during major events and playoff games"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1020,
+        "end": 1260,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Corona, Stella, Budweiser or Bud Light",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "Modelo",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail (1 oz) and mixer",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "cocktails (2 oz)",
+            "price": 12
+          },
+          {
+            "kind": "drink",
+            "item": "sangria pitcher (1 L)",
+            "price": 36
+          },
+          {
+            "kind": "food",
+            "item": "chicken wings",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "chips and dip",
+            "price": 9
+          }
+        ],
+        "note": "Patio Texas happy hour. Not during major events and playoff games"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Paris Texas happy hour page",
+        "url": "http://www.paristexas.ca/happy-hour",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "http://www.paristexas.ca/happy-hour",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJzTgVrGo1K4gRoSQ4GlzM0wM",
+    "id": "vinny",
+    "name": "Vinny",
+    "category": "Restaurant & vinyl bar",
+    "vibe": "restaurant",
+    "food": [
+      "oysters"
+    ],
+    "tags": [
+      "DJ sessions Thu–Sat",
+      "Vinyl bar"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 1020,
+        "end": 1140,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "cocktails (old fashioned, negroni, martini, margarita, espresso martini)",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "wine by the glass",
+            "price": 14
+          },
+          {
+            "kind": "food",
+            "item": "half-dozen oysters",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "beef sliders (2)",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "guacamole and chips",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "fries",
+            "price": 8
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Vinny menu (Happy Hour tab)",
+        "url": "https://vinnytoronto.com/menu/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://vinnytoronto.com/menu/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJgzOsWtk0K4gRhx8vKrfnSrk",
+    "id": "beso-by-patria",
+    "name": "Beso by Patria",
+    "category": "Spanish tapas restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "spanish"
+    ],
+    "tags": [
+      "Sangria",
+      "Tapas"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 1020,
+        "end": 1140,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "red or white sangria (2.5 oz)",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "cava (5 oz)",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "wine (5 oz)",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "beer (330 ml)",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "margarita",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "Tapas Social set (six tapas)",
+            "price": 34
+          }
+        ],
+        "note": "Tapas Social, every day till 7 PM"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Beso menu (Tapas Social tab)",
+        "url": "https://besotoronto.com/menu/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://besotoronto.com/menu/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ1z7kIuY1K4gRkxJ0AJtrSlc",
+    "id": "the-dorset",
+    "name": "The Dorset",
+    "category": "British pub & restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "pub"
+    ],
+    "tags": [
+      "Oliver & Bonacini",
+      "Sunday roast",
+      "DJs Thu–Sat"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "select beer (16 oz)",
+            "price": 6.5
+          },
+          {
+            "kind": "drink",
+            "item": "select wine (5 oz)",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "signature and spritz cocktails",
+            "price": 12
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 840,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "select beer (16 oz)",
+            "price": 6.5
+          },
+          {
+            "kind": "drink",
+            "item": "select wine (5 oz)",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "signature and spritz cocktails",
+            "price": 12
+          }
+        ]
+      },
+      {
+        "days": [
+          4,
+          5,
+          6
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "bar rail (1 oz)",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "select beer (16 oz)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "select wine (5 oz)",
+            "price": 8
+          },
+          {
+            "kind": "food",
+            "item": "fish & chips or the Dorset burger",
+            "price": 20
+          },
+          {
+            "kind": "food",
+            "item": "30% off bar snacks"
+          }
+        ],
+        "note": "The Well After Dark, 9 PM to midnight"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2,
+          3
+        ],
+        "title": "Half-price wine",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price wine"
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "The Dorset happy hour page",
+        "url": "https://www.thedorsetwellington.com/happy-hour-toronto/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.thedorsetwellington.com/menus/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ48C7fuA0K4gRF6kQuWDCeS4",
+    "id": "wild-wing-king-west",
+    "name": "Wild Wing",
+    "category": "Wing bar",
+    "vibe": "casual",
+    "food": [
+      "wings"
+    ],
+    "tags": [
+      "Sports"
+    ],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Michelob Monday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Michelob (20 oz)",
+            "price": 6.99
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Wing Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "single order of wings with fries and dip",
+            "price": 12
+          },
+          {
+            "kind": "drink",
+            "item": "Corona bottles",
+            "price": 5.99
+          }
+        ],
+        "note": "Dine-in, with any drink"
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wine Wednesday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "wine (6 oz)",
+            "price": 6
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "schooners (32 oz)",
+            "price": 9
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "signature Caesars (1 oz)",
+            "price": 5
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Wild Wing daily specials (chain site, “at participating restaurants”)",
+        "url": "https://www.wildwingrestaurants.com/specials/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.wildwingrestaurants.com/specials/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJSR_IeVg1K4gRQhjWph2z5vM",
+    "id": "maximes-steakhouse",
+    "name": "Maxime’s Steakhouse",
+    "category": "Steakhouse",
+    "vibe": "restaurant",
+    "food": [
+      "steak",
+      "oysters"
+    ],
+    "tags": [
+      "DJ nightly",
+      "Seafood towers"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1020,
+        "end": 1140,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "cocktails and sangria",
+            "price": 14
+          },
+          {
+            "kind": "drink",
+            "item": "truffle martini with truffle fries",
+            "price": 30
+          },
+          {
+            "kind": "food",
+            "item": "oysters (6)",
+            "price": 18
+          },
+          {
+            "kind": "food",
+            "item": "petit wagyu burgers (2)",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "tuna or beef tartare",
+            "price": 16
+          },
+          {
+            "kind": "food",
+            "item": "triple-cut fries",
+            "price": 9
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Maxime’s menu (Happy Hour tab)",
+        "url": "https://maximestoronto.com/food-menu/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://maximestoronto.com/food-menu/#happy-hour",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJe56zxIw1K4gRtP5JWO98q9Y",
+    "id": "oretta-king-west",
+    "name": "Oretta King West",
+    "category": "Italian restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "pizza",
+      "pasta"
+    ],
+    "tags": [
+      "Aperitivo",
+      "Café by day"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 960,
+        "end": 1140,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "house wine, Asahi, Campari or limoncello soda",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "prosecco, Peroni, espresso martini, margarita or spritzes",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "amaretto sour or negroni",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "aperitivo bites and pizzette from $7"
+          }
+        ],
+        "note": "Aperitivo, at the bar and lounge"
+      },
+      {
+        "days": [
+          1,
+          2
+        ],
+        "start": 1260,
+        "end": 1290,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "house wine, Asahi, Campari or limoncello soda",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "prosecco, Peroni, espresso martini, margarita or spritzes",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "amaretto sour or negroni",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "aperitivo bites and pizzette from $7"
+          }
+        ],
+        "note": "Late aperitivo, 9 PM to close, bar and lounge"
+      },
+      {
+        "days": [
+          3
+        ],
+        "start": 1260,
+        "end": 1350,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "house wine, Asahi, Campari or limoncello soda",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "prosecco, Peroni, espresso martini, margarita or spritzes",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "amaretto sour or negroni",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "aperitivo bites and pizzette from $7"
+          }
+        ],
+        "note": "Late aperitivo, 9 PM to close, bar and lounge"
+      },
+      {
+        "days": [
+          4,
+          5
+        ],
+        "start": 1260,
+        "end": 1410,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "house wine, Asahi, Campari or limoncello soda",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "prosecco, Peroni, espresso martini, margarita or spritzes",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "amaretto sour or negroni",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "aperitivo bites and pizzette from $7"
+          }
+        ],
+        "note": "Late aperitivo, 9 PM to close, bar and lounge"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Oretta King West aperitivo menu (PDF)",
+        "url": "https://cdn.prod.website-files.com/69037000c9f860ad897580a7/6aa178f6964fae615934e675_Oretta%20Aperitivo%20(King%20West)%20-%20Compressed.pdf",
+        "date": "2026"
+      },
+      {
+        "label": "Oretta King West page (hours)",
+        "url": "https://www.oretta.to/restaurants/king-west",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.oretta.to/restaurants/king-west",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJfYcPrt40K4gRZwhcYtUPVTw",
+    "id": "cibo-wine-bar-king-west",
+    "name": "Cibo Wine Bar",
+    "category": "Italian wine bar",
+    "vibe": "restaurant",
+    "food": [
+      "pizza",
+      "pasta"
+    ],
+    "tags": [
+      "Liberty Entertainment Group"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          4,
+          5
+        ],
+        "start": 840,
+        "end": 1110,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "half-price drinks"
+          },
+          {
+            "kind": "food",
+            "item": "antipasti",
+            "price": 8
+          },
+          {
+            "kind": "food",
+            "item": "margherita or Da Napoli pizza",
+            "price": 12
+          }
+        ],
+        "note": "Cibo Sociale"
+      },
+      {
+        "days": [
+          4
+        ],
+        "start": 1320,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "house wine (glass) or Stella pint",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "house tequila shot",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Aperol spritz, espresso martini, margarita or highballs",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "old fashioned or negroni",
+            "price": 12
+          },
+          {
+            "kind": "drink",
+            "item": "bottle of house wine",
+            "price": 25
+          },
+          {
+            "kind": "food",
+            "item": "pizzette",
+            "price": 8
+          }
+        ],
+        "note": "La Dolce Vita, 10 PM to close. Prices from the July 2024 menu linked on the site"
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1320,
+        "end": 1560,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "house wine (glass) or Stella pint",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "house tequila shot",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Aperol spritz, espresso martini, margarita or highballs",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "old fashioned or negroni",
+            "price": 12
+          },
+          {
+            "kind": "drink",
+            "item": "bottle of house wine",
+            "price": 25
+          },
+          {
+            "kind": "food",
+            "item": "pizzette",
+            "price": 8
+          }
+        ],
+        "note": "La Dolce Vita, 10 PM to close. Prices from the July 2024 menu linked on the site"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          2
+        ],
+        "title": "Half-price pizza Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price pizzas"
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Settebello Pasta Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "pastas",
+            "price": 15
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Cibo Wine Bar King West page",
+        "url": "https://www.cibowinebar.com/kingwest",
+        "date": "2026-10"
+      },
+      {
+        "label": "Cibo happy hour menu (PDF)",
+        "url": "https://www.cibowinebar.com/s/Cibo_Happy_Hour_July2024.pdf",
+        "date": "2024-07"
+      },
+      {
+        "label": "Cibo Sociale menu (PDF)",
+        "url": "https://www.cibowinebar.com/s/Cibo-Sociale-Menu-V2.pdf",
+        "date": "2026"
+      },
+      {
+        "label": "Cibo Settebello menu (PDF)",
+        "url": "https://www.cibowinebar.com/s/CiboSetteBello_Menu-1-NEW-ITEMS-3-t2r7.pdf",
+        "date": "2026"
+      }
+    ],
+    "menuUrl": "https://www.cibowinebar.com/kingwest",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJ1elEw2rL1IkRGIfjx_v91FQ",
+    "id": "lavelle",
+    "name": "Lavelle",
+    "category": "Rooftop restaurant & bar",
+    "vibe": "cocktails",
+    "food": [
+      "burgers"
+    ],
+    "tags": [
+      "Rooftop",
+      "Pool deck",
+      "Skyline views"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          4,
+          5
+        ],
+        "start": 900,
+        "end": 1200,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "cocktails (spicy margarita, Caesar, espresso martini, Aperol spritz)",
+            "price": 8
+          },
+          {
+            "kind": "food",
+            "item": "burrata, Caesar, tuna tartare or the Lavelle burger",
+            "price": 20
+          }
+        ],
+        "note": "$20 Happy Hour"
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Lavelle happy hour menu (PDF)",
+        "url": "https://chezlavelle.com/wp-content/uploads/2026/10/Lavelle_Happy_Hour_Corrected_Print.pdf",
+        "date": "2026-10"
+      },
+      {
+        "label": "Lavelle menu page",
+        "url": "https://chezlavelle.com/menu/",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://chezlavelle.com/menu/",
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJLQmM1d80K4gRFvfYfJpVrS4",
+    "id": "the-wheat-sheaf-tavern",
+    "name": "The Wheat Sheaf Tavern",
+    "category": "Historic tavern",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings"
+    ],
+    "tags": [
+      "Since 1849",
+      "Sports",
+      "Live music"
+    ],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Wing Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price wings"
+          }
+        ],
+        "note": "Unconfirmed: from a guide listing current through 2024"
+      }
+    ],
+    "deals": "reported",
+    "sources": [
+      {
+        "label": "Streets of Toronto listing (current through 2024)",
+        "url": "https://streetsoftoronto.com/streats/the-wheat-sheaf-tavern/",
+        "date": "2024"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJN3RNWqU1K4gRhWpaCDcL7q0",
+    "id": "petty-cash",
+    "name": "Petty Cash",
+    "category": "Kitchen & bar",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "pizza"
+    ],
+    "tags": [
+      "Live music Fri & Sat",
+      "Sports",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "start": 1020,
+        "end": 1200,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "mixed drinks and beer bottles",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "half-price apps"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "start": 1020,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "rail drinks",
+            "price": 5
+          }
+        ],
+        "note": "Thursday After Work, 5 PM to midnight"
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1,
+          2
+        ],
+        "title": "$7 Happy Hour all day",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "mixed drinks and beer bottles",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "half-price apps"
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "title": "Wine by the ounce",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "house red or white wine, per ounce",
+            "price": 1
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Half-price steak frites",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "half-price steak frites with any drink"
+          }
+        ]
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Sunday Football Club",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "free wings with any pitcher of beer"
+          }
+        ],
+        "note": "During NFL, NBA, NHL, MLB, MLS and FIFA games"
+      },
+      {
+        "days": [
+          0,
+          6
+        ],
+        "title": "Brunch with Benefits",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "bottomless mimosas and spritzes with a brunch entrée",
+            "price": 25
+          }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Petty Cash weekly programming (posters)",
+        "url": "https://www.pettycashtoronto.com/weekly-programming",
+        "date": "2026-10"
+      }
+    ],
+    "menuUrl": "https://www.pettycashtoronto.com/menu",
+    "checked": "2026-10-28"
+  }
+]

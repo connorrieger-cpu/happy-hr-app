@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["2ZQRG94A85.com.happyhr.app"],
+        "components": [
+          { "/": "/", "?": { "v": "?*" }, "comment": "A shared spot or plan: /?v=manita&meet=1050" },
+          { "/": "/", "?": { "venuekey": "?*" }, "comment": "A venue owner's key: /?venuekey=HHV-…" }
+        ]
+      }
+    ]
+  }
+}

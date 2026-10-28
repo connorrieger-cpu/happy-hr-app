@@ -1,0 +1,1125 @@
+{
+  "types": [
+    {
+      "id": "beer",
+      "label": "Beer",
+      "emoji": "🍺"
+    },
+    {
+      "id": "wine",
+      "label": "Wine",
+      "emoji": "🍷"
+    },
+    {
+      "id": "cocktail",
+      "label": "Cocktails",
+      "emoji": "🍸"
+    },
+    {
+      "id": "tequila",
+      "label": "Tequila & mezcal",
+      "emoji": "🌵"
+    },
+    {
+      "id": "shot",
+      "label": "Shots",
+      "emoji": "🥃"
+    },
+    {
+      "id": "bubbly",
+      "label": "Bubbly & spritz",
+      "emoji": "🥂"
+    }
+  ],
+  "classify": [
+    {
+      "special": {
+        "kind": "drink",
+        "item": "highballs (1 oz)",
+        "price": 5
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": 5
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "OG Shaft on Draft",
+        "price": 5
+      },
+      "drinks": [
+        "beer"
+      ],
+      "single": 5
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "house beer",
+        "price": 5.5
+      },
+      "drinks": [
+        "beer"
+      ],
+      "single": 5.5
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "house wine (7 oz)",
+        "price": 7
+      },
+      "drinks": [
+        "wine"
+      ],
+      "single": 7
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "mules (1 oz)",
+        "price": 8
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": 8
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "espresso martinis (2 oz)",
+        "price": 9
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": 9
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "classic margaritas (2 oz)",
+        "price": 10
+      },
+      "drinks": [
+        "cocktail",
+        "tequila"
+      ],
+      "single": 10
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "cheeseburger sliders (min 2)",
+        "price": 4
+      },
+      "drinks": [],
+      "single": 4
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "cheddar perogies",
+        "price": 5
+      },
+      "drinks": [],
+      "single": 5
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "spicy California roll",
+        "price": 5
+      },
+      "drinks": [],
+      "single": 5
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "crispy chili salmon roll",
+        "price": 6
+      },
+      "drinks": [],
+      "single": 6
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "truffle fries",
+        "price": 11
+      },
+      "drinks": [],
+      "single": 11
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "house wine",
+        "price": 7
+      },
+      "drinks": [
+        "wine"
+      ],
+      "single": 7
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Half-price wine bottles"
+      },
+      "drinks": [
+        "wine"
+      ],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Dad Beer",
+        "price": 6
+      },
+      "drinks": [
+        "beer"
+      ],
+      "single": 6
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "wings (1 lb)",
+        "price": 12
+      },
+      "drinks": [],
+      "single": 12
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "margaritas",
+        "price": 10
+      },
+      "drinks": [
+        "cocktail",
+        "tequila"
+      ],
+      "single": 10
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "carnitas tacos",
+        "price": 4
+      },
+      "drinks": [],
+      "single": 4
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "mimosas",
+        "price": 5
+      },
+      "drinks": [
+        "cocktail",
+        "bubbly"
+      ],
+      "single": 5
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "bottles of Veuve",
+        "price": 89
+      },
+      "drinks": [],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Caesars",
+        "price": 7
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": 7
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "shot of the day",
+        "price": 5
+      },
+      "drinks": [
+        "shot"
+      ],
+      "single": 5
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Burdock beer cans",
+        "price": 5
+      },
+      "drinks": [
+        "beer"
+      ],
+      "single": 5
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "spritzes",
+        "price": 10
+      },
+      "drinks": [
+        "cocktail",
+        "bubbly"
+      ],
+      "single": 10
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "za'atar fries, pickles & olives or falafel",
+        "price": 10
+      },
+      "drinks": [],
+      "single": 10
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "dips: hummus, muhammara, babaganoush, labneh",
+        "price": 15
+      },
+      "drinks": [],
+      "single": 15
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "salmon crudo or lamb kebab",
+        "price": 15
+      },
+      "drinks": [],
+      "single": 15
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "cocktails",
+        "price": 10
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": 10
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Half-price select wine bottles"
+      },
+      "drinks": [
+        "wine"
+      ],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "martinis (classic, Vesper, espresso…)",
+        "price": 10
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": 10
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "za'atar fries with a martini",
+        "price": 8
+      },
+      "drinks": [],
+      "single": 8
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "oysters (min 6)",
+        "price": 2.5
+      },
+      "drinks": [],
+      "single": 2.5
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "draft beer",
+        "price": 7
+      },
+      "drinks": [
+        "beer"
+      ],
+      "single": 7
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "5 oz Terre dei Penati bianco or rosso",
+        "price": 15
+      },
+      "drinks": [],
+      "single": 15
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "Manita burger & fries (reg. $31)",
+        "price": 19
+      },
+      "drinks": [],
+      "single": 19
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "veggie burger & fries",
+        "price": 19
+      },
+      "drinks": [],
+      "single": 19
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Half-price bar rail"
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "feature beers",
+        "price": 6
+      },
+      "drinks": [
+        "beer"
+      ],
+      "single": 6
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "Set-price family-style meal for 4–5"
+      },
+      "drinks": [],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "arak",
+        "price": 6
+      },
+      "drinks": [],
+      "single": 6
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Estrella Damm",
+        "price": 7
+      },
+      "drinks": [],
+      "single": 7
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "classic margaritas",
+        "price": 10
+      },
+      "drinks": [
+        "cocktail",
+        "tequila"
+      ],
+      "single": 10
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "8 oz house red or white",
+        "price": 10
+      },
+      "drinks": [],
+      "single": 10
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Hypnotic or Cool Relax cocktails",
+        "price": 11
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": 11
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "signature margaritas",
+        "price": 10
+      },
+      "drinks": [
+        "cocktail",
+        "tequila"
+      ],
+      "single": 10
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "happy hour food (12 dishes)",
+        "price": 6
+      },
+      "drinks": [],
+      "single": 6
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "any 3 tacos",
+        "price": 20
+      },
+      "drinks": [],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "all-you-can-eat tacos (1 hour)",
+        "price": 29.95
+      },
+      "drinks": [],
+      "single": 29.95
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "bar rail",
+        "price": 6
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": 6
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "martinis",
+        "price": 10
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": 10
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Aperitivo specials: spritzes, mimosas, rum punch, craft beer"
+      },
+      "drinks": [
+        "beer",
+        "cocktail",
+        "bubbly"
+      ],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "Free bites"
+      },
+      "drinks": [],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Selected wines by the glass (prices not published)"
+      },
+      "drinks": [
+        "wine"
+      ],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "A few snacks at special prices"
+      },
+      "drinks": [],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Half-price wine bottles (whole list)"
+      },
+      "drinks": [
+        "wine"
+      ],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "bar rail",
+        "price": 7
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": 7
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "Select bites (prices not published)"
+      },
+      "drinks": [],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "wings (per lb)",
+        "price": 14
+      },
+      "drinks": [],
+      "single": 14
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Budweiser or Michelob Ultra pitchers",
+        "price": 20
+      },
+      "drinks": [
+        "beer"
+      ],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "rail shots",
+        "price": 5
+      },
+      "drinks": [
+        "shot"
+      ],
+      "single": 5
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "cheeseburger",
+        "price": 12
+      },
+      "drinks": [],
+      "single": 12
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Budweiser pints",
+        "price": 8
+      },
+      "drinks": [
+        "beer"
+      ],
+      "single": 8
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "signature cocktails",
+        "price": 13
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": 13
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "fish & chips",
+        "price": 15
+      },
+      "drinks": [],
+      "single": 15
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Burdock Ducks IPA",
+        "price": 8
+      },
+      "drinks": [
+        "beer"
+      ],
+      "single": 8
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Jameson shots",
+        "price": 6
+      },
+      "drinks": [
+        "shot"
+      ],
+      "single": 6
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Half-price wine, by the glass or bottle"
+      },
+      "drinks": [
+        "wine"
+      ],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "Off-menu grill special, new each week"
+      },
+      "drinks": [],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "caviar flight (3 bites)",
+        "price": 35
+      },
+      "drinks": [],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "six-course dinner (per person)",
+        "price": 45
+      },
+      "drinks": [],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "Smoked prime rib (pre-order)"
+      },
+      "drinks": [],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "glasses of wine",
+        "price": 5
+      },
+      "drinks": [
+        "wine"
+      ],
+      "single": 5
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "super-loaded nachos & a margarita",
+        "price": 28
+      },
+      "drinks": [],
+      "single": 28
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "double nachos & 2 margaritas",
+        "price": 48
+      },
+      "drinks": [],
+      "single": 48
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "$1 off highballs"
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "$1 off pints"
+      },
+      "drinks": [
+        "beer"
+      ],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Half-price Greek wine bottles"
+      },
+      "drinks": [
+        "wine"
+      ],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "classic martinis",
+        "price": 10
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": 10
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "oysters",
+        "price": 1
+      },
+      "drinks": [],
+      "single": 1
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "drinks",
+        "price": 10
+      },
+      "drinks": [],
+      "single": 10
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "steak frites",
+        "price": 20
+      },
+      "drinks": [],
+      "single": 20
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Select cocktails & food (prices not published)"
+      },
+      "drinks": [
+        "cocktail"
+      ],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Poet Lager",
+        "price": 6
+      },
+      "drinks": [
+        "beer"
+      ],
+      "single": 6
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "shots",
+        "price": 6
+      },
+      "drinks": [
+        "shot"
+      ],
+      "single": 6
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Poet IPA",
+        "price": 7
+      },
+      "drinks": [
+        "beer"
+      ],
+      "single": 7
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "$1/oz wine on tap"
+      },
+      "drinks": [
+        "wine"
+      ],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "pizza + salad combo",
+        "price": 28
+      },
+      "drinks": [],
+      "single": 28
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "beer & cider",
+        "price": 6
+      },
+      "drinks": [
+        "beer"
+      ],
+      "single": 6
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "wine by the glass",
+        "price": 12
+      },
+      "drinks": [
+        "wine"
+      ],
+      "single": 12
+    },
+    {
+      "special": {
+        "kind": "food",
+        "item": "20% off snacks"
+      },
+      "drinks": [],
+      "single": null
+    },
+    {
+      "special": {
+        "kind": "drink",
+        "item": "Jameson shots",
+        "price": 4
+      },
+      "drinks": [
+        "shot"
+      ],
+      "single": 4
+    }
+  ],
+  "serves": {
+    "central": [
+      "beer",
+      "wine",
+      "cocktail",
+      "tequila",
+      "shot",
+      "bubbly"
+    ],
+    "azhar": [
+      "beer",
+      "wine",
+      "cocktail",
+      "bubbly"
+    ],
+    "manita": [
+      "beer",
+      "wine"
+    ],
+    "bar-libretto": [
+      "beer",
+      "wine",
+      "cocktail"
+    ],
+    "haifa-room": [
+      "wine"
+    ],
+    "rhapsody": [
+      "cocktail",
+      "tequila"
+    ],
+    "la-chingada": [
+      "cocktail",
+      "tequila"
+    ],
+    "gloria": [
+      "cocktail"
+    ],
+    "poetry-jazz-cafe": [
+      "beer",
+      "cocktail",
+      "bubbly"
+    ],
+    "bar-piquette": [
+      "wine"
+    ],
+    "aleria": [
+      "cocktail"
+    ],
+    "roxton-public-house": [
+      "beer",
+      "wine",
+      "cocktail",
+      "shot"
+    ],
+    "dont-tell": [],
+    "linnys": [],
+    "painted-lady": [
+      "wine"
+    ],
+    "sweaty-bettys": [
+      "beer",
+      "cocktail"
+    ],
+    "bar-koukla": [
+      "wine",
+      "cocktail"
+    ],
+    "fallen-feather": [],
+    "bar-roma": [
+      "cocktail"
+    ],
+    "bar-poet": [
+      "beer",
+      "wine",
+      "shot"
+    ],
+    "grape-witches": [
+      "beer",
+      "wine"
+    ],
+    "wasted-youth": [
+      "shot"
+    ],
+    "hanmoto": [],
+    "casablanca-lounge": [
+      "cocktail"
+    ],
+    "mild-afro-lounge": [
+      "cocktail"
+    ],
+    "the-lakeview-diner": [],
+    "nazare-snack-bar": [],
+    "taberna-lx": [],
+    "kensei-bar": [
+      "cocktail"
+    ],
+    "gracies-pizza": [],
+    "get-well": [],
+    "vie-strada": [],
+    "the-garrison": [],
+    "the-jean-darlene": [],
+    "the-gemini": [],
+    "churchill": [],
+    "gia-restaurant": [],
+    "the-fountain": [],
+    "stefanos-diner": [],
+    "bambis": [],
+    "downtown-winery": [
+      "wine"
+    ],
+    "pho-tien-thanh": [],
+    "nabe-hana": [],
+    "union": [],
+    "no-vacancy": [
+      "cocktail"
+    ],
+    "mamakas-taverna": [],
+    "gift-shop": [
+      "cocktail"
+    ],
+    "oddseoul": [],
+    "the-lunch-lady": [],
+    "fat-choi": [],
+    "soos": [],
+    "neon-tiger": [],
+    "small-talk": [
+      "cocktail"
+    ],
+    "papi-chulos": [],
+    "bellwoods-brewery": [
+      "beer"
+    ],
+    "golden-turtle": [],
+    "co-te-de-boeuf": [],
+    "reposado": [],
+    "favorites-thai": [],
+    "club-paris": [
+      "wine"
+    ],
+    "paris-paris": [
+      "wine"
+    ],
+    "i-deal-coffee-and-wine": [
+      "wine"
+    ],
+    "bar-shozan": [],
+    "idk-social": [],
+    "bar-bowie": [
+      "cocktail"
+    ],
+    "season-six": [],
+    "badlands": [],
+    "papi-and-rosita": [],
+    "man-of-kent": [
+      "beer"
+    ],
+    "pies-by-squires": [],
+    "foxley": [],
+    "222-bar": [],
+    "salt-wine-bar": [
+      "wine"
+    ],
+    "la-banane": [],
+    "bar-banane": [],
+    "clandestina": [],
+    "ceniza": [
+      "cocktail"
+    ],
+    "prime-seafood-palace": [],
+    "frankies-diner": [],
+    "apt-200": [],
+    "prequel-and-co-apothecary": [
+      "cocktail"
+    ],
+    "and-ore": [],
+    "taco-bar": [],
+    "jamils": []
+  }
+}

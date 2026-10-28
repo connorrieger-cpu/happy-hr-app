@@ -1,0 +1,903 @@
+[
+  {
+    "placeId": "ChIJJ4L74sE0K4gRtFm4xvCQff4",
+    "id": "trinity-common",
+    "name": "Trinity Common",
+    "category": "Beer hall & kitchen",
+    "vibe": "bar",
+    "food": ["oysters", "tacos"],
+    "tags": ["Craft beer", "Live music", "Patio"],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [1],
+        "title": "Monday",
+        "specials": [
+          { "kind": "drink", "item": "pint of Beau’s and a shot", "price": 10 }
+        ]
+      },
+      {
+        "days": [2],
+        "title": "Buck-a-shuck Tuesday",
+        "specials": [
+          { "kind": "food", "item": "oysters", "price": 1 },
+          { "kind": "drink", "item": "Woodhouse", "price": 7 }
+        ]
+      },
+      {
+        "days": [3],
+        "title": "Wine Wednesday",
+        "specials": [
+          { "kind": "drink", "item": "Half-price wine bottles" }
+        ]
+      },
+      {
+        "days": [4],
+        "title": "Thursday",
+        "specials": [
+          { "kind": "drink", "item": "margaritas", "price": 10 },
+          { "kind": "drink", "item": "tequila shots", "price": 5 },
+          { "kind": "food", "item": "tacos", "price": 5 },
+          { "kind": "food", "item": "three tacos", "price": 12 }
+        ]
+      },
+      {
+        "days": [5],
+        "title": "Friday",
+        "specials": [
+          { "kind": "drink", "item": "rail shots", "price": 5 },
+          { "kind": "drink", "item": "mixed drinks", "price": 6 },
+          { "kind": "drink", "item": "house lager (16 oz)", "price": 6 }
+        ]
+      },
+      {
+        "days": [6],
+        "title": "Saturday",
+        "specials": [
+          { "kind": "drink", "item": "rail doubles", "price": 12 }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Trinity Common “Weekly Specials” (Daily Specials / Contact page)",
+        "url": "https://trinitycommon.ca/contact/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://trinitycommon.ca/menu/"
+  },
+  {
+    "placeId": "ChIJU1gu4us0K4gRv9DuMfAv1x4",
+    "id": "sneaky-dees",
+    "name": "Sneaky Dee’s",
+    "category": "Tex-Mex bar & music venue",
+    "vibe": "casual",
+    "food": ["tacos", "burgers", "wings"],
+    "tags": ["Nachos", "Live music", "Open late"],
+    "happyHours": [
+      {
+        "days": [0, 1, 2, 3, 4, 5, 6],
+        "start": 660,
+        "end": 960,
+        "specials": [
+          { "kind": "drink", "item": "drinks (tax in)", "price": 4 },
+          { "kind": "food", "item": "personal nachos", "price": 10 }
+        ]
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [1],
+        "title": "Monday",
+        "specials": [
+          { "kind": "food", "item": "bacon cheeseburger", "price": 12 },
+          { "kind": "food", "item": "veggie burger", "price": 10 },
+          { "kind": "food", "item": "nachos and a beer pitcher", "price": 30 }
+        ]
+      },
+      {
+        "days": [2],
+        "title": "Tuesday",
+        "specials": [
+          { "kind": "food", "item": "Half-price fajitas" },
+          { "kind": "food", "item": "single tacos", "price": 3 }
+        ]
+      },
+      {
+        "days": [3],
+        "title": "Wednesday",
+        "specials": [
+          { "kind": "food", "item": "Half-price nachos" }
+        ]
+      },
+      {
+        "days": [4],
+        "title": "Thursday",
+        "specials": [
+          { "kind": "food", "item": "chicken wings and a beer pitcher", "price": 30 }
+        ]
+      },
+      {
+        "days": [0, 6],
+        "title": "Weekend brunch",
+        "specials": [
+          { "kind": "food", "item": "brunch items", "price": 11 }
+        ]
+      },
+      {
+        "days": [0, 1, 2, 3, 4, 5, 6],
+        "title": "Every day",
+        "specials": [
+          { "kind": "drink", "item": "mixed drinks", "price": 6 },
+          { "kind": "drink", "item": "select beers", "price": 6 },
+          { "kind": "drink", "item": "select pitchers", "price": 15 }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Sneaky Dee’s website",
+        "url": "https://www.sneakydees.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJqTWeGgA1K4gRLeo2b0E8a7I",
+    "id": "casa-morales",
+    "name": "Casa Morales",
+    "category": "Mexican",
+    "vibe": "restaurant",
+    "food": ["tacos"],
+    "tags": ["Margaritas", "Mezcal", "Patio"],
+    "happyHours": [
+      {
+        "days": [0, 3, 4, 5, 6],
+        "start": 720,
+        "end": 840,
+        "specials": [
+          { "kind": "drink", "item": "Morales margaritas", "price": 11 },
+          { "kind": "drink", "item": "flavour margaritas or mezcalitas", "price": 11 },
+          { "kind": "drink", "item": "sangría", "price": 11 },
+          { "kind": "drink", "item": "Aperol spritz", "price": 11 },
+          { "kind": "drink", "item": "espresso martinis", "price": 12 },
+          { "kind": "drink", "item": "aguita de horchata", "price": 10 },
+          { "kind": "drink", "item": "beer of the day", "price": 5 },
+          { "kind": "drink", "item": "bar rail shots", "price": 5 }
+        ],
+        "note": "In the cantina, during brunch."
+      },
+      {
+        "days": [0, 3, 4, 5, 6],
+        "start": 1020,
+        "end": 1140,
+        "specials": [
+          { "kind": "drink", "item": "Morales margaritas", "price": 11 },
+          { "kind": "drink", "item": "flavour margaritas or mezcalitas", "price": 11 },
+          { "kind": "drink", "item": "sangría", "price": 11 },
+          { "kind": "drink", "item": "Aperol spritz", "price": 11 },
+          { "kind": "drink", "item": "espresso martinis", "price": 12 },
+          { "kind": "drink", "item": "aguita de horchata", "price": 10 },
+          { "kind": "drink", "item": "beer of the day", "price": 5 },
+          { "kind": "drink", "item": "bar rail shots", "price": 5 }
+        ]
+      },
+      {
+        "days": [0, 3, 4],
+        "start": 1260,
+        "end": 1320,
+        "specials": [
+          { "kind": "drink", "item": "Morales margaritas", "price": 11 },
+          { "kind": "drink", "item": "flavour margaritas or mezcalitas", "price": 11 },
+          { "kind": "drink", "item": "sangría", "price": 11 },
+          { "kind": "drink", "item": "Aperol spritz", "price": 11 },
+          { "kind": "drink", "item": "espresso martinis", "price": 12 },
+          { "kind": "drink", "item": "aguita de horchata", "price": 10 },
+          { "kind": "drink", "item": "beer of the day", "price": 5 },
+          { "kind": "drink", "item": "bar rail shots", "price": 5 }
+        ],
+        "note": "Late happy hour, 9 PM to close."
+      },
+      {
+        "days": [5, 6],
+        "start": 1260,
+        "end": 1380,
+        "specials": [
+          { "kind": "drink", "item": "Morales margaritas", "price": 11 },
+          { "kind": "drink", "item": "flavour margaritas or mezcalitas", "price": 11 },
+          { "kind": "drink", "item": "sangría", "price": 11 },
+          { "kind": "drink", "item": "Aperol spritz", "price": 11 },
+          { "kind": "drink", "item": "espresso martinis", "price": 12 },
+          { "kind": "drink", "item": "aguita de horchata", "price": 10 },
+          { "kind": "drink", "item": "beer of the day", "price": 5 },
+          { "kind": "drink", "item": "bar rail shots", "price": 5 }
+        ],
+        "note": "Late happy hour, 9 PM to close."
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Casa Morales website (cantina menu and hours)",
+        "url": "https://www.casamorales.ca/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.casamorales.ca/"
+  },
+  {
+    "placeId": "ChIJX9wAB4c1K4gRUAJJo3lDk6c",
+    "id": "freeplay",
+    "name": "FreePlay",
+    "category": "Arcade bar",
+    "vibe": "bar",
+    "food": ["snacks"],
+    "tags": ["Arcade games", "Board games", "Cheap drinks"],
+    "happyHours": [
+      {
+        "days": [1, 2, 3, 4, 5],
+        "start": 900,
+        "end": 1020,
+        "specials": [
+          { "kind": "drink", "item": "draft beer", "price": 5 },
+          { "kind": "drink", "item": "tall can", "price": 4 },
+          { "kind": "drink", "item": "PBR Strong Iced Tea", "price": 4 }
+        ],
+        "note": "Arcade entry is $5 Sun–Thu, $10 Fri–Sat."
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [0, 1, 2, 3, 4, 5, 6],
+        "title": "Retro prices",
+        "specials": [
+          { "kind": "drink", "item": "vodka drinks", "price": 6 },
+          { "kind": "drink", "item": "draft beer", "price": 6 }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "FreePlay blog: “Retro Games, Retro Vibes, Retro Prices!”",
+        "url": "https://www.freeplaytoronto.com/post/retro-games-retro-vibes-retro-prices",
+        "date": "2026-10-08"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.freeplaytoronto.com/copy-of-menu"
+  },
+  {
+    "placeId": "ChIJy0Gm88I0K4gRFgbnlHv38C0",
+    "id": "handlebar",
+    "name": "Handlebar",
+    "category": "Live music bar",
+    "vibe": "bar",
+    "tags": ["Live music", "Ontario craft beer", "Patio"],
+    "happyHours": [
+      {
+        "days": [1, 2, 3, 4, 5],
+        "start": 1020,
+        "end": 1200,
+        "specials": [
+          { "kind": "drink", "item": "rail drinks", "price": 6 },
+          { "kind": "drink", "item": "Burdock or Eastbound pints", "price": 6 },
+          { "kind": "drink", "item": "Burdock or Eastbound cans", "price": 5 }
+        ],
+        "note": "Billed as its summer 2026 happy hour; still posted in late October."
+      },
+      {
+        "days": [0],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          { "kind": "drink", "item": "Burdock Deluxe pints", "price": 6 }
+        ],
+        "note": "During the Sunday singer-songwriter matinee."
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Handlebar website (happy hour and weekly events)",
+        "url": "https://thehandlebar.ca/",
+        "date": "2026-05"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://thehandlebar.ca/"
+  },
+  {
+    "placeId": "ChIJA-so3b41K4gRChwJv5GxoSk",
+    "id": "midnight-market",
+    "name": "Midnight Market",
+    "category": "Asian snack bar",
+    "vibe": "bar",
+    "food": ["snacks", "asian"],
+    "tags": ["Late night", "Bar snacks"],
+    "happyHours": [
+      {
+        "days": [0, 3, 4, 5, 6],
+        "start": 1050,
+        "end": 1170,
+        "specials": [
+          { "kind": "drink", "item": "Midnight Lager draft", "price": 5 },
+          { "kind": "drink", "item": "hi-balls", "price": 10 },
+          { "kind": "food", "item": "snacks: fries, truffle fries, edamame, turnip cake", "price": 5 },
+          { "kind": "food", "item": "chicken karaage or bulgogi dumplings", "price": 8 },
+          { "kind": "food", "item": "wafu pastas", "price": 15 }
+        ]
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [3],
+        "title": "Wednesday",
+        "specials": [
+          { "kind": "drink", "item": "Tsingtao", "price": 5 }
+        ]
+      },
+      {
+        "days": [4],
+        "title": "Thursday",
+        "specials": [
+          { "kind": "drink", "item": "rail mixed drinks", "price": 7 }
+        ]
+      },
+      {
+        "days": [0],
+        "title": "Sunday",
+        "specials": [
+          { "kind": "drink", "item": "Midnight Lager", "price": 5 }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Midnight Market website (“Happy Hour & Daily Specials”)",
+        "url": "https://www.midnightmkt.ca/",
+        "date": "2026-10"
+      },
+      {
+        "label": "UltimateHappyHours Toronto (menu updated Oct 25, 2026)",
+        "url": "https://ultimatehappyhours.com/location/toronto-on/",
+        "date": "2026-10-25"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJY3dfqjM1K4gRw9m2Zp8-AnQ",
+    "id": "chat-bar",
+    "name": "Chat Bar",
+    "category": "Chinese skewers & beer",
+    "vibe": "casual",
+    "food": ["asian"],
+    "tags": ["Skewers", "Late night"],
+    "happyHours": [
+      {
+        "days": [0, 1, 2, 3, 4],
+        "start": 1260,
+        "end": 1560,
+        "specials": [
+          { "kind": "drink", "item": "Half-price beer" },
+          { "kind": "food", "item": "Buy 2 skewers, get 1 free (cartilage, wings or sausage)" }
+        ],
+        "note": "Late-night happy hour, Sun–Thu after 9 PM."
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Chat Bar post on its website (Instagram feed), Feb 2026",
+        "url": "https://chatbar.ca/",
+        "date": "2026-02-24"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://chatbar.ca/menu-en/"
+  },
+  {
+    "placeId": "ChIJlwCb6Ok0K4gRLdXeKkJNWdw",
+    "id": "kos",
+    "name": "Kos",
+    "category": "Diner & bar",
+    "vibe": "casual",
+    "food": ["diner", "burgers", "wings"],
+    "tags": ["All-day breakfast", "Patio"],
+    "happyHours": [
+      {
+        "days": [1],
+        "start": 960,
+        "end": 1200,
+        "specials": [
+          { "kind": "food", "item": "chicken fingers and a pint", "price": 15.95 }
+        ]
+      },
+      {
+        "days": [2],
+        "start": 960,
+        "end": 1200,
+        "specials": [
+          { "kind": "food", "item": "veggie cheese quesadilla and a pint", "price": 15.95 }
+        ]
+      },
+      {
+        "days": [3],
+        "start": 960,
+        "end": 1200,
+        "specials": [
+          { "kind": "food", "item": "nachos and a pint", "price": 15.95 }
+        ]
+      },
+      {
+        "days": [4],
+        "start": 960,
+        "end": 1200,
+        "specials": [
+          { "kind": "food", "item": "chicken wings and a pint", "price": 15.95 }
+        ]
+      },
+      {
+        "days": [5],
+        "start": 960,
+        "end": 1200,
+        "specials": [
+          { "kind": "food", "item": "cheeseburger and a pint", "price": 15.95 }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Kos menu (Happy Hour tab, updated Nov 2025)",
+        "url": "https://www.kosrestaurant.ca/menu",
+        "date": "2025-11"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.kosrestaurant.ca/menu"
+  },
+  {
+    "placeId": "ChIJ_wSQNOo0K4gRJhN9YP8ZXlo",
+    "id": "voodoo-child",
+    "name": "Voodoo Child",
+    "category": "Cocktail & espresso bar",
+    "vibe": "cocktails",
+    "tags": ["Cocktails", "Coffee by day", "Patio"],
+    "happyHours": [
+      {
+        "days": [0, 1, 2, 3, 4, 5, 6],
+        "start": 1020,
+        "end": 1140,
+        "specials": [
+          { "kind": "drink", "item": "cocktails", "price": 12 },
+          { "kind": "drink", "item": "wine by the glass", "price": 12 },
+          { "kind": "drink", "item": "lager", "price": 5 },
+          { "kind": "drink", "item": "Blackbird shots", "price": 5 }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Voodoo Child website",
+        "url": "https://voodoochildcafe.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJgVmzUog1K4gRr8xdyYTyDRE",
+    "id": "midnight-arcade",
+    "name": "Midnight Arcade",
+    "category": "Arcade bar",
+    "vibe": "bar",
+    "food": ["pizza", "wings", "asian"],
+    "tags": ["Arcade games", "Soju", "Late night"],
+    "happyHours": [
+      {
+        "days": [0, 3, 4, 5, 6],
+        "start": 1080,
+        "end": 1260,
+        "specials": [
+          { "kind": "food", "item": "pizzas", "price": 20 },
+          { "kind": "food", "item": "wings", "price": 10 },
+          { "kind": "drink", "item": "MA lager", "price": 6 },
+          { "kind": "food", "item": "desserts", "price": 6 }
+        ]
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [3],
+        "title": "Wednesday",
+        "specials": [
+          { "kind": "drink", "item": "soju bottles", "price": 20 }
+        ]
+      },
+      {
+        "days": [4],
+        "title": "Thursday",
+        "specials": [
+          { "kind": "drink", "item": "rail shots", "price": 6 },
+          { "kind": "drink", "item": "White Claws", "price": 6 }
+        ]
+      },
+      {
+        "days": [5],
+        "title": "Friday",
+        "start": 1080,
+        "end": 1320,
+        "specials": [
+          { "kind": "drink", "item": "tequila shots", "price": 6 }
+        ]
+      },
+      {
+        "days": [0],
+        "title": "Sunday",
+        "specials": [
+          { "kind": "drink", "item": "Sapporo bottles", "price": 5 },
+          { "kind": "drink", "item": "tequila shots", "price": 6 }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Midnight Arcade website",
+        "url": "https://www.midnightarcade.ca/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJtQfKh341K4gRQjV4iOokECQ",
+    "id": "kensington-socials",
+    "name": "Kensington Socials",
+    "category": "Sports bar",
+    "vibe": "bar",
+    "food": ["wings", "burgers"],
+    "tags": ["Sports", "Karaoke Wednesdays", "Patio"],
+    "happyHours": [
+      {
+        "days": [2, 3, 4, 5],
+        "start": 780,
+        "end": 960,
+        "specials": [
+          { "kind": "drink", "item": "draft beer", "price": 7 },
+          { "kind": "drink", "item": "bottled beer", "price": 6 },
+          { "kind": "drink", "item": "signature cocktails", "price": 7 },
+          { "kind": "drink", "item": "margaritas", "price": 13 }
+        ],
+        "note": "Times from its own site; a directory listing checked in July says Mon–Fri 2–5 PM."
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Kensington Socials website",
+        "url": "https://kensingtonsocials.com/",
+        "date": "2026-10"
+      },
+      {
+        "label": "Restaurantica listing (last checked Jul 2)",
+        "url": "https://www.restaurantica.com/on/toronto/kensington-socials",
+        "date": "2026-07"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJezd4iGU1K4gRPP-zjqtuW1M",
+    "id": "burdock-kensington-tavern",
+    "name": "Burdock Kensington Tavern",
+    "category": "Brewery tavern",
+    "vibe": "brewery",
+    "food": ["steak"],
+    "tags": ["Burdock beer", "Patio", "Steaks"],
+    "happyHours": [
+      {
+        "days": [5],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          { "kind": "drink", "item": "Half-price Ducks IPA and Deluxe pints" }
+        ],
+        "note": "“Duck Out Early” Fridays."
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Burdock Kensington Tavern page",
+        "url": "https://burdockbrewery.com/pages/tavern",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://burdockbrewery.com/pages/tavern"
+  },
+  {
+    "placeId": "ChIJx1XCAyI1K4gRWLk1UAO3Ieg",
+    "id": "tacotaco",
+    "name": "TacoTaco",
+    "category": "Tacos & margaritas",
+    "vibe": "casual",
+    "food": ["tacos"],
+    "tags": ["Margaritas", "Patio", "Halal meats"],
+    "happyHours": [
+      {
+        "days": [1, 2, 3, 4],
+        "start": 1020,
+        "end": 1140,
+        "specials": [
+          { "kind": "drink", "item": "margaritas", "price": 9 },
+          { "kind": "drink", "item": "beer, shots or mixed drinks", "price": 6 },
+          { "kind": "food", "item": "three tacos (same kind)", "price": 15 }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "TacoTaco menu page (“Happy Hour Specials”)",
+        "url": "https://eattaco.ca/menu",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://eattaco.ca/menu"
+  },
+  {
+    "placeId": "ChIJHVV6BRHL1IkReizYCRvjJAw",
+    "id": "t-o-dickens",
+    "name": "T.O. Dickens",
+    "category": "All-day restaurant & cocktail bar",
+    "vibe": "casual",
+    "food": ["pasta"],
+    "tags": ["Open 24/7", "Brunch", "Patio"],
+    "happyHours": [
+      {
+        "days": [1, 2, 3, 4],
+        "start": 900,
+        "end": 1380,
+        "specials": [
+          { "kind": "drink", "item": "cocktails", "price": 9 }
+        ],
+        "note": "Not on holidays."
+      },
+      {
+        "days": [5, 6],
+        "start": 900,
+        "end": 1380,
+        "specials": [
+          { "kind": "drink", "item": "domestic rail shots", "price": 5 }
+        ],
+        "note": "Not on holidays."
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [0],
+        "title": "Sunday brunch",
+        "specials": [
+          { "kind": "drink", "item": "Caesars", "price": 7 },
+          { "kind": "drink", "item": "mimosas", "price": 7 }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "T.O. Dickens website (“Daily Happy Hours”)",
+        "url": "https://todickens.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28"
+  },
+  {
+    "placeId": "ChIJic1_PBw1K4gRwtlTYehab9o",
+    "id": "sinaloa-factory",
+    "name": "Sinaloa Factory",
+    "category": "Mexican seafood & sushi",
+    "vibe": "casual",
+    "food": ["tacos", "sushi"],
+    "tags": ["Mexican sushi", "Aguachile"],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [1],
+        "title": "Birria Monday",
+        "specials": [
+          { "kind": "food", "item": "2-for-1 birria with 2 drinks" }
+        ]
+      },
+      {
+        "days": [2],
+        "title": "Taco Tuesday",
+        "specials": [
+          { "kind": "food", "item": "tacos", "price": 5 }
+        ]
+      },
+      {
+        "days": [3],
+        "title": "All-you-can-eat Wednesday",
+        "specials": [
+          { "kind": "food", "item": "all-you-can-eat Mexican sushi", "price": 24.95 }
+        ]
+      },
+      {
+        "days": [4],
+        "title": "Aguachile Thursday",
+        "specials": [
+          { "kind": "food", "item": "aguachile with 1 drink", "price": 19.95 }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Sinaloa Factory promotions page (all locations, undated)",
+        "url": "https://www.sinaloafactory.com/promotions",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.sinaloafactory.com/menu"
+  },
+  {
+    "placeId": "ChIJF5oEb8I0K4gReAJi5QHFxOA",
+    "id": "pizzeria-via-mercanti",
+    "name": "Pizzeria Via Mercanti",
+    "category": "Neapolitan pizza",
+    "vibe": "restaurant",
+    "food": ["pizza"],
+    "tags": ["Neapolitan pizza", "Patio"],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [1, 2, 3, 4, 5],
+        "title": "Weekday lunch",
+        "start": 720,
+        "end": 900,
+        "specials": [
+          { "kind": "food", "item": "small Margherita pizza and Mercanti salad", "price": 18 }
+        ],
+        "note": "Dine-in only, plus tax."
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Pizzeria Via Mercanti specials page",
+        "url": "https://www.pizzeriaviamercanti.ca/specials",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.pizzeriaviamercanti.ca/menu"
+  },
+  {
+    "placeId": "ChIJv16f6nQ1K4gRDBgrk-5nSbw",
+    "id": "kensington-jerk-and-pasta",
+    "name": "Kensington Jerk & Pasta",
+    "category": "Jamaican-Italian",
+    "vibe": "casual",
+    "food": ["pasta"],
+    "tags": ["Rum bar", "Jerk chicken"],
+    "happyHours": [
+      {
+        "days": [0, 2, 3, 4, 5, 6],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          { "kind": "drink", "item": "shots", "price": 6 }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Kensington Jerk & Pasta drinks menu",
+        "url": "http://jerkandpasta.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "http://jerkandpasta.com/"
+  },
+  {
+    "placeId": "ChIJLx7I0ME0K4gRFyQ_WvDd_vw",
+    "id": "free-times-cafe",
+    "name": "Free Times Cafe",
+    "category": "Café, bar & folk venue",
+    "vibe": "casual",
+    "food": ["snacks"],
+    "tags": ["Live music", "Patio", "Latkes"],
+    "happyHours": [
+      {
+        "days": [0, 2, 3, 4, 5, 6],
+        "start": 960,
+        "end": 1200,
+        "specials": [],
+        "note": "“Happy Hour 4–8pm Everyday” on the patio, bistro and bar. Prices not published."
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [0, 2, 3, 4, 5, 6],
+        "title": "House special",
+        "specials": [
+          { "kind": "drink", "item": "tequila shots", "price": 5 }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Free Times Cafe website and drinks menu",
+        "url": "https://www.freetimescafe.com/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.freetimescafe.com/"
+  },
+  {
+    "placeId": "ChIJrwggMts1K4gR4CCp2k4_aYs",
+    "id": "tonys",
+    "name": "Tony’s",
+    "category": "Pasta & natural wine",
+    "vibe": "wine",
+    "food": ["pasta"],
+    "tags": ["Natural wine", "Bottle shop"],
+    "happyHours": [
+      {
+        "days": [0, 1, 3, 4, 5, 6],
+        "start": 840,
+        "end": 1020,
+        "specials": [],
+        "note": "Aperitivo hours: wine and snacks. Prices not published."
+      },
+      {
+        "days": [0, 1, 3, 4, 5, 6],
+        "start": 1020,
+        "end": 1140,
+        "specials": [
+          { "kind": "food", "item": "prix fixe: pasta, salad, focaccia and a cookie", "price": 21 }
+        ],
+        "note": "Google lists a 6 PM close except Fri–Sat (7 PM), so check before going late."
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [0, 1, 3, 4, 5, 6],
+        "title": "Pasta lunch",
+        "specials": [
+          { "kind": "food", "item": "pasta lunch", "price": 10 }
+        ]
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Tony’s website ($21 prix fixe, aperitivo, $10 pasta lunch)",
+        "url": "https://www.tonyskensington.ca/21-prix-fixe",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.tonyskensington.ca/"
+  }
+]

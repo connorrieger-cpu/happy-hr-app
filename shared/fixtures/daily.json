@@ -1,0 +1,1515 @@
+[
+  {
+    "label": "Mon 4:30 PM",
+    "clock": {
+      "day": 1,
+      "minutes": 990
+    },
+    "todayLabels": {
+      "central": "Wine Not Monday",
+      "azhar": "Martini Mondays",
+      "haifa-room": "$6 Arak",
+      "la-chingada": "Margarita Monday",
+      "bar-piquette": "Half-Price Mondays",
+      "roxton-public-house": "Monday Night Football",
+      "wasted-youth": "$4 Jameson Shots"
+    },
+    "board": {
+      "today": [
+        {
+          "venue": "roxton-public-house",
+          "label": "Monday Night Football",
+          "hours": "2–10 PM"
+        },
+        {
+          "venue": "la-chingada",
+          "label": "Margarita Monday",
+          "hours": "All day"
+        },
+        {
+          "venue": "central",
+          "label": "Wine Not Monday",
+          "hours": "All day"
+        },
+        {
+          "venue": "azhar",
+          "label": "Martini Mondays",
+          "hours": "4–10 PM"
+        },
+        {
+          "venue": "bar-piquette",
+          "label": "Half-Price Mondays",
+          "hours": "All day"
+        },
+        {
+          "venue": "haifa-room",
+          "label": "$6 Arak",
+          "hours": "All day"
+        },
+        {
+          "venue": "wasted-youth",
+          "label": "$4 Jameson Shots",
+          "hours": "All day"
+        },
+        {
+          "venue": "central",
+          "label": "Shot of the Day",
+          "hours": "All day"
+        }
+      ],
+      "week": [
+        {
+          "day": 2,
+          "label": "Tomorrow",
+          "entries": [
+            {
+              "venue": "haifa-room",
+              "label": "Wine Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "roxton-public-house",
+              "label": "$12 Cheeseburger",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "bar-libretto",
+              "label": "Wine Night",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "Buck-a-shuck",
+              "hours": "All day"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "Taco Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Half Off Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "Grill Tuesdays",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "label": "Wednesday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Trivia Wednesday",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "bar-libretto",
+              "label": "Wine Night",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "Buck-a-shuck",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Good in the Hood Wednesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "Caviar Night",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "label": "Thursday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Half-Price Wine, by the Glass or Bottle",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "AYCE Thursday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Viva la Thursday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "$45 Six-Course Dinner (per person)",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "label": "Friday",
+          "entries": [
+            {
+              "venue": "la-chingada",
+              "label": "$6 Bar Rail",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "label": "Saturday",
+          "entries": [
+            {
+              "venue": "painted-lady",
+              "label": "Saturday Special",
+              "hours": "3–8 PM"
+            },
+            {
+              "venue": "central",
+              "label": "Weekend Warriors",
+              "hours": "11 AM–3 PM"
+            }
+          ]
+        },
+        {
+          "day": 0,
+          "label": "Sunday",
+          "entries": [
+            {
+              "venue": "bar-libretto",
+              "label": "Family-style Sunday",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "$20 Steak Frites",
+              "hours": "All day"
+            },
+            {
+              "venue": "linnys",
+              "label": "Prime Rib Sundays",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Almost Famous Sunday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Weekend Warriors",
+              "hours": "11 AM–3 PM"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "label": "Tue 6:00 PM",
+    "clock": {
+      "day": 2,
+      "minutes": 1080
+    },
+    "todayLabels": {
+      "central": "Half Off Tuesday",
+      "bar-libretto": "Wine Night",
+      "haifa-room": "Wine Tuesday",
+      "la-chingada": "Taco Tuesday",
+      "roxton-public-house": "$12 Cheeseburger",
+      "dont-tell": "Grill Tuesdays",
+      "fallen-feather": "Buck-a-shuck",
+      "wasted-youth": "$4 Jameson Shots"
+    },
+    "board": {
+      "today": [
+        {
+          "venue": "haifa-room",
+          "label": "Wine Tuesday",
+          "hours": "All day"
+        },
+        {
+          "venue": "roxton-public-house",
+          "label": "$12 Cheeseburger",
+          "hours": "2–10 PM"
+        },
+        {
+          "venue": "bar-libretto",
+          "label": "Wine Night",
+          "hours": "All day"
+        },
+        {
+          "venue": "fallen-feather",
+          "label": "Buck-a-shuck",
+          "hours": "All day"
+        },
+        {
+          "venue": "la-chingada",
+          "label": "Taco Tuesday",
+          "hours": "All day"
+        },
+        {
+          "venue": "central",
+          "label": "Half Off Tuesday",
+          "hours": "All day"
+        },
+        {
+          "venue": "dont-tell",
+          "label": "Grill Tuesdays",
+          "hours": "All day"
+        },
+        {
+          "venue": "haifa-room",
+          "label": "$6 Arak",
+          "hours": "All day"
+        },
+        {
+          "venue": "wasted-youth",
+          "label": "$4 Jameson Shots",
+          "hours": "All day"
+        },
+        {
+          "venue": "central",
+          "label": "Shot of the Day",
+          "hours": "All day"
+        }
+      ],
+      "week": [
+        {
+          "day": 3,
+          "label": "Tomorrow",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Trivia Wednesday",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "bar-libretto",
+              "label": "Wine Night",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "Buck-a-shuck",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Good in the Hood Wednesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "Caviar Night",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "label": "Thursday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Half-Price Wine, by the Glass or Bottle",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "AYCE Thursday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Viva la Thursday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "$45 Six-Course Dinner (per person)",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "label": "Friday",
+          "entries": [
+            {
+              "venue": "la-chingada",
+              "label": "$6 Bar Rail",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "label": "Saturday",
+          "entries": [
+            {
+              "venue": "painted-lady",
+              "label": "Saturday Special",
+              "hours": "3–8 PM"
+            },
+            {
+              "venue": "central",
+              "label": "Weekend Warriors",
+              "hours": "11 AM–3 PM"
+            }
+          ]
+        },
+        {
+          "day": 0,
+          "label": "Sunday",
+          "entries": [
+            {
+              "venue": "bar-libretto",
+              "label": "Family-style Sunday",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "$20 Steak Frites",
+              "hours": "All day"
+            },
+            {
+              "venue": "linnys",
+              "label": "Prime Rib Sundays",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Almost Famous Sunday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Weekend Warriors",
+              "hours": "11 AM–3 PM"
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "label": "Monday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Monday Night Football",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "Margarita Monday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Wine Not Monday",
+              "hours": "All day"
+            },
+            {
+              "venue": "azhar",
+              "label": "Martini Mondays",
+              "hours": "4–10 PM"
+            },
+            {
+              "venue": "bar-piquette",
+              "label": "Half-Price Mondays",
+              "hours": "All day"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "label": "Wed 11:50 PM",
+    "clock": {
+      "day": 3,
+      "minutes": 1430
+    },
+    "todayLabels": {
+      "central": "Good in the Hood Wednesday",
+      "bar-libretto": "Wine Night",
+      "haifa-room": "$6 Arak",
+      "dont-tell": "Caviar Night",
+      "fallen-feather": "Buck-a-shuck",
+      "wasted-youth": "$4 Jameson Shots"
+    },
+    "board": {
+      "today": [
+        {
+          "venue": "bar-libretto",
+          "label": "Wine Night",
+          "hours": "All day"
+        },
+        {
+          "venue": "fallen-feather",
+          "label": "Buck-a-shuck",
+          "hours": "All day"
+        },
+        {
+          "venue": "central",
+          "label": "Good in the Hood Wednesday",
+          "hours": "All day"
+        },
+        {
+          "venue": "dont-tell",
+          "label": "Caviar Night",
+          "hours": "All day"
+        },
+        {
+          "venue": "haifa-room",
+          "label": "$6 Arak",
+          "hours": "All day"
+        },
+        {
+          "venue": "wasted-youth",
+          "label": "$4 Jameson Shots",
+          "hours": "All day"
+        },
+        {
+          "venue": "central",
+          "label": "Shot of the Day",
+          "hours": "All day"
+        }
+      ],
+      "week": [
+        {
+          "day": 4,
+          "label": "Tomorrow",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Half-Price Wine, by the Glass or Bottle",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "AYCE Thursday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Viva la Thursday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "$45 Six-Course Dinner (per person)",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "label": "Friday",
+          "entries": [
+            {
+              "venue": "la-chingada",
+              "label": "$6 Bar Rail",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "label": "Saturday",
+          "entries": [
+            {
+              "venue": "painted-lady",
+              "label": "Saturday Special",
+              "hours": "3–8 PM"
+            },
+            {
+              "venue": "central",
+              "label": "Weekend Warriors",
+              "hours": "11 AM–3 PM"
+            }
+          ]
+        },
+        {
+          "day": 0,
+          "label": "Sunday",
+          "entries": [
+            {
+              "venue": "bar-libretto",
+              "label": "Family-style Sunday",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "$20 Steak Frites",
+              "hours": "All day"
+            },
+            {
+              "venue": "linnys",
+              "label": "Prime Rib Sundays",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Almost Famous Sunday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Weekend Warriors",
+              "hours": "11 AM–3 PM"
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "label": "Monday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Monday Night Football",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "Margarita Monday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Wine Not Monday",
+              "hours": "All day"
+            },
+            {
+              "venue": "azhar",
+              "label": "Martini Mondays",
+              "hours": "4–10 PM"
+            },
+            {
+              "venue": "bar-piquette",
+              "label": "Half-Price Mondays",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "label": "Tuesday",
+          "entries": [
+            {
+              "venue": "haifa-room",
+              "label": "Wine Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "roxton-public-house",
+              "label": "$12 Cheeseburger",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "bar-libretto",
+              "label": "Wine Night",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "Buck-a-shuck",
+              "hours": "All day"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "Taco Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Half Off Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "Grill Tuesdays",
+              "hours": "All day"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "label": "Thu 9:00 PM",
+    "clock": {
+      "day": 4,
+      "minutes": 1260
+    },
+    "todayLabels": {
+      "central": "Viva la Thursday",
+      "haifa-room": "$6 Arak",
+      "la-chingada": "AYCE Thursday",
+      "roxton-public-house": "Half-Price Wine, by the Glass or Bottle",
+      "dont-tell": "$45 Six-Course Dinner (per person)",
+      "wasted-youth": "$4 Jameson Shots"
+    },
+    "board": {
+      "today": [
+        {
+          "venue": "roxton-public-house",
+          "label": "Half-Price Wine, by the Glass or Bottle",
+          "hours": "2–10 PM"
+        },
+        {
+          "venue": "la-chingada",
+          "label": "AYCE Thursday",
+          "hours": "All day"
+        },
+        {
+          "venue": "central",
+          "label": "Viva la Thursday",
+          "hours": "All day"
+        },
+        {
+          "venue": "dont-tell",
+          "label": "$45 Six-Course Dinner (per person)",
+          "hours": "All day"
+        },
+        {
+          "venue": "haifa-room",
+          "label": "$6 Arak",
+          "hours": "All day"
+        },
+        {
+          "venue": "wasted-youth",
+          "label": "$4 Jameson Shots",
+          "hours": "All day"
+        },
+        {
+          "venue": "central",
+          "label": "Shot of the Day",
+          "hours": "All day"
+        }
+      ],
+      "week": [
+        {
+          "day": 5,
+          "label": "Tomorrow",
+          "entries": [
+            {
+              "venue": "la-chingada",
+              "label": "$6 Bar Rail",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "label": "Saturday",
+          "entries": [
+            {
+              "venue": "painted-lady",
+              "label": "Saturday Special",
+              "hours": "3–8 PM"
+            },
+            {
+              "venue": "central",
+              "label": "Weekend Warriors",
+              "hours": "11 AM–3 PM"
+            }
+          ]
+        },
+        {
+          "day": 0,
+          "label": "Sunday",
+          "entries": [
+            {
+              "venue": "bar-libretto",
+              "label": "Family-style Sunday",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "$20 Steak Frites",
+              "hours": "All day"
+            },
+            {
+              "venue": "linnys",
+              "label": "Prime Rib Sundays",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Almost Famous Sunday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Weekend Warriors",
+              "hours": "11 AM–3 PM"
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "label": "Monday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Monday Night Football",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "Margarita Monday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Wine Not Monday",
+              "hours": "All day"
+            },
+            {
+              "venue": "azhar",
+              "label": "Martini Mondays",
+              "hours": "4–10 PM"
+            },
+            {
+              "venue": "bar-piquette",
+              "label": "Half-Price Mondays",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "label": "Tuesday",
+          "entries": [
+            {
+              "venue": "haifa-room",
+              "label": "Wine Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "roxton-public-house",
+              "label": "$12 Cheeseburger",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "bar-libretto",
+              "label": "Wine Night",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "Buck-a-shuck",
+              "hours": "All day"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "Taco Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Half Off Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "Grill Tuesdays",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "label": "Wednesday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Trivia Wednesday",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "bar-libretto",
+              "label": "Wine Night",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "Buck-a-shuck",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Good in the Hood Wednesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "Caviar Night",
+              "hours": "All day"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "label": "Fri 5:30 PM",
+    "clock": {
+      "day": 5,
+      "minutes": 1050
+    },
+    "todayLabels": {
+      "central": "Shot of the Day",
+      "haifa-room": "$6 Arak",
+      "la-chingada": "$6 Bar Rail",
+      "wasted-youth": "$4 Jameson Shots"
+    },
+    "board": {
+      "today": [
+        {
+          "venue": "la-chingada",
+          "label": "$6 Bar Rail",
+          "hours": "All day"
+        },
+        {
+          "venue": "haifa-room",
+          "label": "$6 Arak",
+          "hours": "All day"
+        },
+        {
+          "venue": "wasted-youth",
+          "label": "$4 Jameson Shots",
+          "hours": "All day"
+        },
+        {
+          "venue": "central",
+          "label": "Shot of the Day",
+          "hours": "All day"
+        }
+      ],
+      "week": [
+        {
+          "day": 6,
+          "label": "Tomorrow",
+          "entries": [
+            {
+              "venue": "painted-lady",
+              "label": "Saturday Special",
+              "hours": "3–8 PM"
+            },
+            {
+              "venue": "central",
+              "label": "Weekend Warriors",
+              "hours": "11 AM–3 PM"
+            }
+          ]
+        },
+        {
+          "day": 0,
+          "label": "Sunday",
+          "entries": [
+            {
+              "venue": "bar-libretto",
+              "label": "Family-style Sunday",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "$20 Steak Frites",
+              "hours": "All day"
+            },
+            {
+              "venue": "linnys",
+              "label": "Prime Rib Sundays",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Almost Famous Sunday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Weekend Warriors",
+              "hours": "11 AM–3 PM"
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "label": "Monday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Monday Night Football",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "Margarita Monday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Wine Not Monday",
+              "hours": "All day"
+            },
+            {
+              "venue": "azhar",
+              "label": "Martini Mondays",
+              "hours": "4–10 PM"
+            },
+            {
+              "venue": "bar-piquette",
+              "label": "Half-Price Mondays",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "label": "Tuesday",
+          "entries": [
+            {
+              "venue": "haifa-room",
+              "label": "Wine Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "roxton-public-house",
+              "label": "$12 Cheeseburger",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "bar-libretto",
+              "label": "Wine Night",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "Buck-a-shuck",
+              "hours": "All day"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "Taco Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Half Off Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "Grill Tuesdays",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "label": "Wednesday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Trivia Wednesday",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "bar-libretto",
+              "label": "Wine Night",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "Buck-a-shuck",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Good in the Hood Wednesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "Caviar Night",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "label": "Thursday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Half-Price Wine, by the Glass or Bottle",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "AYCE Thursday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Viva la Thursday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "$45 Six-Course Dinner (per person)",
+              "hours": "All day"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "label": "Sat 1:15 AM",
+    "clock": {
+      "day": 6,
+      "minutes": 75
+    },
+    "todayLabels": {
+      "central": "Weekend Warriors",
+      "haifa-room": "$6 Arak",
+      "painted-lady": "Saturday Special",
+      "wasted-youth": "$4 Jameson Shots"
+    },
+    "board": {
+      "today": [
+        {
+          "venue": "haifa-room",
+          "label": "$6 Arak",
+          "hours": "All day"
+        },
+        {
+          "venue": "wasted-youth",
+          "label": "$4 Jameson Shots",
+          "hours": "All day"
+        },
+        {
+          "venue": "central",
+          "label": "Shot of the Day",
+          "hours": "All day"
+        },
+        {
+          "venue": "painted-lady",
+          "label": "Saturday Special",
+          "hours": "3–8 PM"
+        },
+        {
+          "venue": "central",
+          "label": "Weekend Warriors",
+          "hours": "11 AM–3 PM"
+        }
+      ],
+      "week": [
+        {
+          "day": 0,
+          "label": "Tomorrow",
+          "entries": [
+            {
+              "venue": "bar-libretto",
+              "label": "Family-style Sunday",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "$20 Steak Frites",
+              "hours": "All day"
+            },
+            {
+              "venue": "linnys",
+              "label": "Prime Rib Sundays",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Almost Famous Sunday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Weekend Warriors",
+              "hours": "11 AM–3 PM"
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "label": "Monday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Monday Night Football",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "Margarita Monday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Wine Not Monday",
+              "hours": "All day"
+            },
+            {
+              "venue": "azhar",
+              "label": "Martini Mondays",
+              "hours": "4–10 PM"
+            },
+            {
+              "venue": "bar-piquette",
+              "label": "Half-Price Mondays",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "label": "Tuesday",
+          "entries": [
+            {
+              "venue": "haifa-room",
+              "label": "Wine Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "roxton-public-house",
+              "label": "$12 Cheeseburger",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "bar-libretto",
+              "label": "Wine Night",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "Buck-a-shuck",
+              "hours": "All day"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "Taco Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Half Off Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "Grill Tuesdays",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "label": "Wednesday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Trivia Wednesday",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "bar-libretto",
+              "label": "Wine Night",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "Buck-a-shuck",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Good in the Hood Wednesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "Caviar Night",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "label": "Thursday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Half-Price Wine, by the Glass or Bottle",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "AYCE Thursday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Viva la Thursday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "$45 Six-Course Dinner (per person)",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "label": "Friday",
+          "entries": [
+            {
+              "venue": "la-chingada",
+              "label": "$6 Bar Rail",
+              "hours": "All day"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "label": "Sun 11:00 AM",
+    "clock": {
+      "day": 0,
+      "minutes": 660
+    },
+    "todayLabels": {
+      "central": "Almost Famous Sunday",
+      "bar-libretto": "Family-style Sunday",
+      "haifa-room": "$6 Arak",
+      "linnys": "Prime Rib Sundays",
+      "fallen-feather": "$20 Steak Frites",
+      "wasted-youth": "$4 Jameson Shots"
+    },
+    "board": {
+      "today": [
+        {
+          "venue": "bar-libretto",
+          "label": "Family-style Sunday",
+          "hours": "All day"
+        },
+        {
+          "venue": "fallen-feather",
+          "label": "$20 Steak Frites",
+          "hours": "All day"
+        },
+        {
+          "venue": "linnys",
+          "label": "Prime Rib Sundays",
+          "hours": "All day"
+        },
+        {
+          "venue": "central",
+          "label": "Almost Famous Sunday",
+          "hours": "All day"
+        },
+        {
+          "venue": "central",
+          "label": "Weekend Warriors",
+          "hours": "11 AM–3 PM"
+        },
+        {
+          "venue": "haifa-room",
+          "label": "$6 Arak",
+          "hours": "All day"
+        },
+        {
+          "venue": "wasted-youth",
+          "label": "$4 Jameson Shots",
+          "hours": "All day"
+        },
+        {
+          "venue": "central",
+          "label": "Shot of the Day",
+          "hours": "All day"
+        }
+      ],
+      "week": [
+        {
+          "day": 1,
+          "label": "Tomorrow",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Monday Night Football",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "Margarita Monday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Wine Not Monday",
+              "hours": "All day"
+            },
+            {
+              "venue": "azhar",
+              "label": "Martini Mondays",
+              "hours": "4–10 PM"
+            },
+            {
+              "venue": "bar-piquette",
+              "label": "Half-Price Mondays",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "label": "Tuesday",
+          "entries": [
+            {
+              "venue": "haifa-room",
+              "label": "Wine Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "roxton-public-house",
+              "label": "$12 Cheeseburger",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "bar-libretto",
+              "label": "Wine Night",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "Buck-a-shuck",
+              "hours": "All day"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "Taco Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Half Off Tuesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "Grill Tuesdays",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "label": "Wednesday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Trivia Wednesday",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "bar-libretto",
+              "label": "Wine Night",
+              "hours": "All day"
+            },
+            {
+              "venue": "fallen-feather",
+              "label": "Buck-a-shuck",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Good in the Hood Wednesday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "Caviar Night",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "label": "Thursday",
+          "entries": [
+            {
+              "venue": "roxton-public-house",
+              "label": "Half-Price Wine, by the Glass or Bottle",
+              "hours": "2–10 PM"
+            },
+            {
+              "venue": "la-chingada",
+              "label": "AYCE Thursday",
+              "hours": "All day"
+            },
+            {
+              "venue": "central",
+              "label": "Viva la Thursday",
+              "hours": "All day"
+            },
+            {
+              "venue": "dont-tell",
+              "label": "$45 Six-Course Dinner (per person)",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "label": "Friday",
+          "entries": [
+            {
+              "venue": "la-chingada",
+              "label": "$6 Bar Rail",
+              "hours": "All day"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "label": "Saturday",
+          "entries": [
+            {
+              "venue": "painted-lady",
+              "label": "Saturday Special",
+              "hours": "3–8 PM"
+            },
+            {
+              "venue": "central",
+              "label": "Weekend Warriors",
+              "hours": "11 AM–3 PM"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

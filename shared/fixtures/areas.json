@@ -1,0 +1,325 @@
+{
+  "areaAt": [
+    {
+      "name": "Ossington & Dundas",
+      "point": {
+        "lat": 43.6496,
+        "lng": -79.4209
+      },
+      "area": "ossington"
+    },
+    {
+      "name": "Kensington Market",
+      "point": {
+        "lat": 43.6545,
+        "lng": -79.4006
+      },
+      "area": "kensington"
+    },
+    {
+      "name": "King & Portland",
+      "point": {
+        "lat": 43.64445,
+        "lng": -79.40006
+      },
+      "area": "king-west"
+    },
+    {
+      "name": "Liberty Village",
+      "point": {
+        "lat": 43.6383,
+        "lng": -79.4196
+      },
+      "area": "liberty-village"
+    },
+    {
+      "name": "Downtown Guelph",
+      "point": {
+        "lat": 43.5446,
+        "lng": -80.2482
+      },
+      "area": "guelph"
+    },
+    {
+      "name": "Downtown Burlington",
+      "point": {
+        "lat": 43.3255,
+        "lng": -79.799
+      },
+      "area": "burlington"
+    },
+    {
+      "name": "Bronte, Oakville (Burlington’s area)",
+      "point": {
+        "lat": 43.3955,
+        "lng": -79.7105
+      },
+      "area": "burlington"
+    },
+    {
+      "name": "Downtown Oakville",
+      "point": {
+        "lat": 43.4466,
+        "lng": -79.6667
+      },
+      "area": null
+    },
+    {
+      "name": "Queen & Spadina (between areas)",
+      "point": {
+        "lat": 43.6487,
+        "lng": -79.3963
+      },
+      "area": "king-west"
+    },
+    {
+      "name": "CN Tower",
+      "point": {
+        "lat": 43.6426,
+        "lng": -79.3871
+      },
+      "area": "king-west"
+    },
+    {
+      "name": "Union Station",
+      "point": {
+        "lat": 43.6453,
+        "lng": -79.3806
+      },
+      "area": "king-west"
+    },
+    {
+      "name": "Downtown Hamilton",
+      "point": {
+        "lat": 43.2557,
+        "lng": -79.8711
+      },
+      "area": null
+    },
+    {
+      "name": "Waterloo",
+      "point": {
+        "lat": 43.4643,
+        "lng": -80.5204
+      },
+      "area": null
+    },
+    {
+      "name": "Montreal",
+      "point": {
+        "lat": 45.5017,
+        "lng": -73.5673
+      },
+      "area": null
+    }
+  ],
+  "inArea": [
+    {
+      "name": "inside",
+      "area": "kensington",
+      "point": {
+        "lat": 43.6545,
+        "lng": -79.4006
+      },
+      "inside": true
+    },
+    {
+      "name": "across Bathurst",
+      "area": "kensington",
+      "point": {
+        "lat": 43.6551,
+        "lng": -79.4067
+      },
+      "inside": true
+    },
+    {
+      "name": "a block past Bathurst",
+      "area": "kensington",
+      "point": {
+        "lat": 43.6548,
+        "lng": -79.4085
+      },
+      "inside": false
+    },
+    {
+      "name": "downtown",
+      "area": "guelph",
+      "point": {
+        "lat": 43.5446,
+        "lng": -80.2482
+      },
+      "inside": true
+    },
+    {
+      "name": "Puslinch, outside the box",
+      "area": "guelph",
+      "point": {
+        "lat": 43.45,
+        "lng": -80.2
+      },
+      "inside": false
+    }
+  ],
+  "submissionsForArea": {
+    "submissions": [
+      {
+        "id": "listed",
+        "createdAt": "2026-10-20T20:00:00Z",
+        "venueName": "Manita",
+        "days": [
+          5
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ],
+        "venueId": "manita"
+      },
+      {
+        "id": "kensington-new",
+        "createdAt": "2026-10-20T20:00:00Z",
+        "venueName": "New Kensington Bar",
+        "days": [
+          5
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ],
+        "address": "200 Augusta Ave",
+        "lat": 43.6553,
+        "lng": -79.4023
+      },
+      {
+        "id": "kensington-later",
+        "createdAt": "2026-10-20T20:00:00Z",
+        "venueName": "New Kensington Bar",
+        "days": [
+          5
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ],
+        "venueId": "c-kensington-new"
+      },
+      {
+        "id": "before-areas",
+        "createdAt": "2026-10-20T20:00:00Z",
+        "venueName": "Old Community Spot",
+        "days": [
+          5
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ],
+        "address": "1 Ossington Ave"
+      },
+      {
+        "id": "guelph-new",
+        "createdAt": "2026-10-20T20:00:00Z",
+        "venueName": "New Guelph Pub",
+        "days": [
+          5
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ],
+        "address": "1 Wyndham St N",
+        "lat": 43.5446,
+        "lng": -80.2482
+      },
+      {
+        "id": "unknown-venue",
+        "createdAt": "2026-10-20T20:00:00Z",
+        "venueName": "Nowhere",
+        "days": [
+          5
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "pints",
+            "price": 6
+          }
+        ],
+        "venueId": "nowhere"
+      }
+    ],
+    "cases": [
+      {
+        "area": "ossington",
+        "legacy": true,
+        "venues": "venues.json",
+        "ids": [
+          "listed",
+          "before-areas"
+        ]
+      },
+      {
+        "area": "kensington",
+        "legacy": false,
+        "venues": "none",
+        "ids": [
+          "kensington-new",
+          "kensington-later"
+        ]
+      },
+      {
+        "area": "king-west",
+        "legacy": false,
+        "venues": "none",
+        "ids": []
+      },
+      {
+        "area": "liberty-village",
+        "legacy": false,
+        "venues": "none",
+        "ids": []
+      },
+      {
+        "area": "guelph",
+        "legacy": false,
+        "venues": "none",
+        "ids": [
+          "guelph-new"
+        ]
+      },
+      {
+        "area": "burlington",
+        "legacy": false,
+        "venues": "none",
+        "ids": []
+      }
+    ]
+  }
+}

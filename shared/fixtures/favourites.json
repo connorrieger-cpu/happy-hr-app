@@ -1,0 +1,292 @@
+{
+  "ids": [
+    "grape-witches",
+    "manita",
+    "roxton-public-house",
+    "golden-turtle",
+    "clandestina",
+    "sweaty-bettys"
+  ],
+  "cases": [
+    {
+      "label": "Mon 4:30 PM",
+      "clock": {
+        "day": 1,
+        "minutes": 990
+      },
+      "lines": [
+        {
+          "venue": "manita",
+          "label": "On · till 6 PM",
+          "tone": "live"
+        },
+        {
+          "venue": "grape-witches",
+          "label": "On · till 6 PM",
+          "tone": "live"
+        },
+        {
+          "venue": "sweaty-bettys",
+          "label": "Starts 5 PM",
+          "tone": "soon"
+        },
+        {
+          "venue": "roxton-public-house",
+          "label": "Monday Night Football today",
+          "tone": "today"
+        },
+        {
+          "venue": "golden-turtle",
+          "label": "Open · till 9 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "clandestina",
+          "label": "Mexican",
+          "tone": "quiet"
+        }
+      ],
+      "startingSoon": []
+    },
+    {
+      "label": "Tue 6:00 PM",
+      "clock": {
+        "day": 2,
+        "minutes": 1080
+      },
+      "lines": [
+        {
+          "venue": "sweaty-bettys",
+          "label": "On · till 7 PM",
+          "tone": "live"
+        },
+        {
+          "venue": "roxton-public-house",
+          "label": "$12 Cheeseburger today",
+          "tone": "today"
+        },
+        {
+          "venue": "manita",
+          "label": "Wed 3 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "grape-witches",
+          "label": "Wed 3 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "golden-turtle",
+          "label": "Closed · opens Wed 11 AM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "clandestina",
+          "label": "Mexican",
+          "tone": "quiet"
+        }
+      ],
+      "startingSoon": []
+    },
+    {
+      "label": "Wed 11:50 PM",
+      "clock": {
+        "day": 3,
+        "minutes": 1430
+      },
+      "lines": [
+        {
+          "venue": "roxton-public-house",
+          "label": "Open · till 2 AM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "manita",
+          "label": "Thu 3 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "grape-witches",
+          "label": "Thu 3 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "golden-turtle",
+          "label": "Closed · opens Thu 11 AM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "sweaty-bettys",
+          "label": "Thu 5 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "clandestina",
+          "label": "Mexican",
+          "tone": "quiet"
+        }
+      ],
+      "startingSoon": []
+    },
+    {
+      "label": "Thu 9:00 PM",
+      "clock": {
+        "day": 4,
+        "minutes": 1260
+      },
+      "lines": [
+        {
+          "venue": "roxton-public-house",
+          "label": "Half-Price Wine, by the Glass or Bottle today",
+          "tone": "today"
+        },
+        {
+          "venue": "manita",
+          "label": "Mon 3 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "grape-witches",
+          "label": "Fri 3 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "golden-turtle",
+          "label": "Closed · opens Fri 11 AM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "sweaty-bettys",
+          "label": "Fri 5 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "clandestina",
+          "label": "Mexican",
+          "tone": "quiet"
+        }
+      ],
+      "startingSoon": []
+    },
+    {
+      "label": "Fri 5:30 PM",
+      "clock": {
+        "day": 5,
+        "minutes": 1050
+      },
+      "lines": [
+        {
+          "venue": "grape-witches",
+          "label": "On · till 6 PM",
+          "tone": "live"
+        },
+        {
+          "venue": "sweaty-bettys",
+          "label": "On · till 7 PM",
+          "tone": "live"
+        },
+        {
+          "venue": "roxton-public-house",
+          "label": "Open · till 2 AM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "manita",
+          "label": "Mon 3 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "golden-turtle",
+          "label": "Open · till 9 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "clandestina",
+          "label": "Mexican",
+          "tone": "quiet"
+        }
+      ],
+      "startingSoon": []
+    },
+    {
+      "label": "Sat 1:15 AM",
+      "clock": {
+        "day": 6,
+        "minutes": 75
+      },
+      "lines": [
+        {
+          "venue": "roxton-public-house",
+          "label": "Closes soon · 2 AM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "manita",
+          "label": "Mon 3 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "grape-witches",
+          "label": "Mon 3 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "golden-turtle",
+          "label": "Closed · opens 11 AM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "sweaty-bettys",
+          "label": "Mon 5 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "clandestina",
+          "label": "Mexican",
+          "tone": "quiet"
+        }
+      ],
+      "startingSoon": []
+    },
+    {
+      "label": "Sun 11:00 AM",
+      "clock": {
+        "day": 0,
+        "minutes": 660
+      },
+      "lines": [
+        {
+          "venue": "roxton-public-house",
+          "label": "Closed · opens 12 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "manita",
+          "label": "Mon 3 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "grape-witches",
+          "label": "Mon 3 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "golden-turtle",
+          "label": "Open · till 9 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "sweaty-bettys",
+          "label": "Mon 5 PM",
+          "tone": "quiet"
+        },
+        {
+          "venue": "clandestina",
+          "label": "Mexican",
+          "tone": "quiet"
+        }
+      ],
+      "startingSoon": []
+    }
+  ]
+}

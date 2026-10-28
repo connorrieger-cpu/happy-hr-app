@@ -1,0 +1,6010 @@
+[
+ {
+  "id": "trinity-common",
+  "name": "Trinity Common",
+  "category": "Beer hall & kitchen",
+  "vibe": "bar",
+  "address": "303 Augusta Ave",
+  "lat": 43.656575,
+  "lng": -79.402578,
+  "tags": [
+   "Craft beer",
+   "Live music",
+   "Patio"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Monday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "pint of Beau’s and a shot",
+      "price": 10
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Buck-a-shuck Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "oysters",
+      "price": 1
+     },
+     {
+      "kind": "drink",
+      "item": "Woodhouse",
+      "price": 7
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wine Wednesday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Half-price wine bottles"
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Thursday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "margaritas",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "tequila shots",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "tacos",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "three tacos",
+      "price": 12
+     }
+    ]
+   },
+   {
+    "days": [
+     5
+    ],
+    "title": "Friday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "rail shots",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "mixed drinks",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "house lager (16 oz)",
+      "price": 6
+     }
+    ]
+   },
+   {
+    "days": [
+     6
+    ],
+    "title": "Saturday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "rail doubles",
+      "price": 12
+     }
+    ]
+   }
+  ],
+  "food": [
+   "oysters",
+   "tacos"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 840,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 840,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 840,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 840,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 780,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJJ4L74sE0K4gRtFm4xvCQff4",
+  "menuUrl": "https://trinitycommon.ca/menu/",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Trinity Common “Weekly Specials” (Daily Specials / Contact page)",
+    "url": "https://trinitycommon.ca/contact/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(647) 346-3030",
+  "website": "http://trinitycommon.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18337972621523048884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "sneaky-dees",
+  "name": "Sneaky Dee’s",
+  "category": "Tex-Mex bar & music venue",
+  "vibe": "casual",
+  "address": "431 College St",
+  "lat": 43.656227,
+  "lng": -79.407422,
+  "tags": [
+   "Nachos",
+   "Live music",
+   "Open late"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 660,
+    "end": 960,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "drinks (tax in)",
+      "price": 4
+     },
+     {
+      "kind": "food",
+      "item": "personal nachos",
+      "price": 10
+     }
+    ]
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "bacon cheeseburger",
+      "price": 12
+     },
+     {
+      "kind": "food",
+      "item": "veggie burger",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "nachos and a beer pitcher",
+      "price": 30
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "Half-price fajitas"
+     },
+     {
+      "kind": "food",
+      "item": "single tacos",
+      "price": 3
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wednesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "Half-price nachos"
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Thursday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "chicken wings and a beer pitcher",
+      "price": 30
+     }
+    ]
+   },
+   {
+    "days": [
+     0,
+     6
+    ],
+    "title": "Weekend brunch",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "brunch items",
+      "price": 11
+     }
+    ]
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "title": "Every day",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "mixed drinks",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "select beers",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "select pitchers",
+      "price": 15
+     }
+    ]
+   }
+  ],
+  "food": [
+   "tacos",
+   "burgers",
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 1620
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1620
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1620
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1620
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1620
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1620
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 1620
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJU1gu4us0K4gRv9DuMfAv1x4",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Sneaky Dee’s website",
+    "url": "https://www.sneakydees.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(416) 603-3090",
+  "website": "https://www.sneakydees.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2222297649807020223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "casa-morales",
+  "name": "Casa Morales",
+  "category": "Mexican",
+  "vibe": "restaurant",
+  "address": "152 Augusta Ave",
+  "lat": 43.652788,
+  "lng": -79.40152,
+  "tags": [
+   "Margaritas",
+   "Mezcal",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 720,
+    "end": 840,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Morales margaritas",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "flavour margaritas or mezcalitas",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "sangría",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "Aperol spritz",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "espresso martinis",
+      "price": 12
+     },
+     {
+      "kind": "drink",
+      "item": "aguita de horchata",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "beer of the day",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "bar rail shots",
+      "price": 5
+     }
+    ],
+    "note": "In the cantina, during brunch."
+   },
+   {
+    "days": [
+     0,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 1020,
+    "end": 1140,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Morales margaritas",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "flavour margaritas or mezcalitas",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "sangría",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "Aperol spritz",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "espresso martinis",
+      "price": 12
+     },
+     {
+      "kind": "drink",
+      "item": "aguita de horchata",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "beer of the day",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "bar rail shots",
+      "price": 5
+     }
+    ]
+   },
+   {
+    "days": [
+     0,
+     3,
+     4
+    ],
+    "start": 1260,
+    "end": 1320,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Morales margaritas",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "flavour margaritas or mezcalitas",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "sangría",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "Aperol spritz",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "espresso martinis",
+      "price": 12
+     },
+     {
+      "kind": "drink",
+      "item": "aguita de horchata",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "beer of the day",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "bar rail shots",
+      "price": 5
+     }
+    ],
+    "note": "Late happy hour, 9 PM to close."
+   },
+   {
+    "days": [
+     5,
+     6
+    ],
+    "start": 1260,
+    "end": 1380,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Morales margaritas",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "flavour margaritas or mezcalitas",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "sangría",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "Aperol spritz",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "espresso martinis",
+      "price": 12
+     },
+     {
+      "kind": "drink",
+      "item": "aguita de horchata",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "beer of the day",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "bar rail shots",
+      "price": 5
+     }
+    ],
+    "note": "Late happy hour, 9 PM to close."
+   }
+  ],
+  "deals": "venue",
+  "food": [
+   "tacos"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 900
+   },
+   {
+    "day": 0,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 600,
+    "close": 900
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 600,
+    "close": 900
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 600,
+    "close": 900
+   },
+   {
+    "day": 5,
+    "open": 1020,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 900
+   },
+   {
+    "day": 6,
+    "open": 1020,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJqTWeGgA1K4gRLeo2b0E8a7I",
+  "menuUrl": "https://www.casamorales.ca/",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Casa Morales website (cantina menu and hours)",
+    "url": "https://www.casamorales.ca/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(416) 340-2336",
+  "website": "http://www.casamorales.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12856435812995623469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "freeplay",
+  "name": "FreePlay",
+  "category": "Arcade bar",
+  "vibe": "bar",
+  "address": "300 College St",
+  "lat": 43.657836,
+  "lng": -79.401668,
+  "tags": [
+   "Arcade games",
+   "Board games",
+   "Cheap drinks"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "start": 900,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "draft beer",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "tall can",
+      "price": 4
+     },
+     {
+      "kind": "drink",
+      "item": "PBR Strong Iced Tea",
+      "price": 4
+     }
+    ],
+    "note": "Arcade entry is $5 Sun–Thu, $10 Fri–Sat."
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "title": "Retro prices",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "vodka drinks",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "draft beer",
+      "price": 6
+     }
+    ]
+   }
+  ],
+  "food": [
+   "snacks"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 900,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 900,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 900,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 900,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 900,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "sports"
+  ],
+  "placeId": "ChIJX9wAB4c1K4gRUAJJo3lDk6c",
+  "menuUrl": "https://www.freeplaytoronto.com/copy-of-menu",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "FreePlay blog: “Retro Games, Retro Vibes, Retro Prices!”",
+    "url": "https://www.freeplaytoronto.com/post/retro-games-retro-vibes-retro-prices",
+    "date": "2026-10-08"
+   }
+  ],
+  "phone": "(416) 929-2979",
+  "website": "http://www.freeplaytoronto.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12075069215620006480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "handlebar",
+  "name": "Handlebar",
+  "category": "Live music bar",
+  "vibe": "bar",
+  "address": "159 Augusta Ave",
+  "lat": 43.652916,
+  "lng": -79.401101,
+  "tags": [
+   "Live music",
+   "Ontario craft beer",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "start": 1020,
+    "end": 1200,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "rail drinks",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "Burdock or Eastbound pints",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "Burdock or Eastbound cans",
+      "price": 5
+     }
+    ],
+    "note": "Billed as its summer 2026 happy hour; still posted in late October."
+   },
+   {
+    "days": [
+     0
+    ],
+    "start": 900,
+    "end": 1080,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Burdock Deluxe pints",
+      "price": 6
+     }
+    ],
+    "note": "During the Sunday singer-songwriter matinee."
+   }
+  ],
+  "deals": "venue",
+  "hours": [
+   {
+    "day": 0,
+    "open": 780,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 1020,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 1020,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 780,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 780,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJy0Gm88I0K4gRFgbnlHv38C0",
+  "menuUrl": "https://thehandlebar.ca/",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Handlebar website (happy hour and weekly events)",
+    "url": "https://thehandlebar.ca/",
+    "date": "2026-05"
+   }
+  ],
+  "phone": "(647) 748-7433",
+  "website": "http://thehandlebar.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3310417836268520982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "midnight-market",
+  "name": "Midnight Market",
+  "category": "Asian snack bar",
+  "vibe": "bar",
+  "address": "434 College St",
+  "lat": 43.656727,
+  "lng": -79.407346,
+  "tags": [
+   "Late night",
+   "Bar snacks"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 1050,
+    "end": 1170,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Midnight Lager draft",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "hi-balls",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "snacks: fries, truffle fries, edamame, turnip cake",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "chicken karaage or bulgogi dumplings",
+      "price": 8
+     },
+     {
+      "kind": "food",
+      "item": "wafu pastas",
+      "price": 15
+     }
+    ]
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     3
+    ],
+    "title": "Wednesday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Tsingtao",
+      "price": 5
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Thursday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "rail mixed drinks",
+      "price": 7
+     }
+    ]
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Sunday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Midnight Lager",
+      "price": 5
+     }
+    ]
+   }
+  ],
+  "food": [
+   "snacks",
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 1050,
+    "close": 1500
+   },
+   {
+    "day": 3,
+    "open": 1050,
+    "close": 1500
+   },
+   {
+    "day": 4,
+    "open": 1050,
+    "close": 1500
+   },
+   {
+    "day": 5,
+    "open": 1050,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 1050,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJA-so3b41K4gRChwJv5GxoSk",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Midnight Market website (“Happy Hour & Daily Specials”)",
+    "url": "https://www.midnightmkt.ca/",
+    "date": "2026-10"
+   },
+   {
+    "label": "UltimateHappyHours Toronto (menu updated Oct 25, 2026)",
+    "url": "https://ultimatehappyhours.com/location/toronto-on/",
+    "date": "2026-10-25"
+   }
+  ],
+  "website": "https://www.midnightmkt.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2999874066338880522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "chat-bar",
+  "name": "Chat Bar",
+  "category": "Chinese skewers & beer",
+  "vibe": "casual",
+  "address": "307 Spadina Ave.",
+  "lat": 43.653819,
+  "lng": -79.397974,
+  "tags": [
+   "Skewers",
+   "Late night"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 1260,
+    "end": 1560,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Half-price beer"
+     },
+     {
+      "kind": "food",
+      "item": "Buy 2 skewers, get 1 free (cartilage, wings or sausage)"
+     }
+    ],
+    "note": "Late-night happy hour, Sun–Thu after 9 PM."
+   }
+  ],
+  "deals": "venue",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 900,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJY3dfqjM1K4gRw9m2Zp8-AnQ",
+  "menuUrl": "https://chatbar.ca/menu-en/",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Chat Bar post on its website (Instagram feed), Feb 2026",
+    "url": "https://chatbar.ca/",
+    "date": "2026-02-24"
+   }
+  ],
+  "phone": "(416) 551-9191",
+  "website": "http://www.chatbar.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8359312712697043395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "kos",
+  "name": "Kos",
+  "category": "Diner & bar",
+  "vibe": "casual",
+  "address": "61 Bellevue Ave",
+  "lat": 43.654884,
+  "lng": -79.403398,
+  "tags": [
+   "All-day breakfast",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     1
+    ],
+    "start": 960,
+    "end": 1200,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "chicken fingers and a pint",
+      "price": 15.95
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "start": 960,
+    "end": 1200,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "veggie cheese quesadilla and a pint",
+      "price": 15.95
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "start": 960,
+    "end": 1200,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "nachos and a pint",
+      "price": 15.95
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "start": 960,
+    "end": 1200,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "chicken wings and a pint",
+      "price": 15.95
+     }
+    ]
+   },
+   {
+    "days": [
+     5
+    ],
+    "start": 960,
+    "end": 1200,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "cheeseburger and a pint",
+      "price": 15.95
+     }
+    ]
+   }
+  ],
+  "deals": "venue",
+  "food": [
+   "diner",
+   "burgers",
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 480,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 480,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 480,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 480,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 480,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 480,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 480,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJlwCb6Ok0K4gRLdXeKkJNWdw",
+  "menuUrl": "https://www.kosrestaurant.ca/menu",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Kos menu (Happy Hour tab, updated Nov 2025)",
+    "url": "https://www.kosrestaurant.ca/menu",
+    "date": "2025-11"
+   }
+  ],
+  "phone": "(647) 799-3407",
+  "website": "http://www.kosrestaurant.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15877806907853821229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "voodoo-child",
+  "name": "Voodoo Child",
+  "category": "Cocktail & espresso bar",
+  "vibe": "cocktails",
+  "address": "388 College St",
+  "lat": 43.657059,
+  "lng": -79.405501,
+  "tags": [
+   "Cocktails",
+   "Coffee by day",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 1020,
+    "end": 1140,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "cocktails",
+      "price": 12
+     },
+     {
+      "kind": "drink",
+      "item": "wine by the glass",
+      "price": 12
+     },
+     {
+      "kind": "drink",
+      "item": "lager",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "Blackbird shots",
+      "price": 5
+     }
+    ]
+   }
+  ],
+  "deals": "venue",
+  "hours": [
+   {
+    "day": 0,
+    "open": 540,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 480,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 480,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 480,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 480,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 480,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 540,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio"
+  ],
+  "placeId": "ChIJ_wSQNOo0K4gRJhN9YP8ZXlo",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Voodoo Child website",
+    "url": "https://voodoochildcafe.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(647) 748-1011",
+  "website": "http://www.voodoochildcafe.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6511670695850480422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "midnight-arcade",
+  "name": "Midnight Arcade",
+  "category": "Arcade bar",
+  "vibe": "bar",
+  "address": "158 Augusta Ave",
+  "lat": 43.652942,
+  "lng": -79.401522,
+  "tags": [
+   "Arcade games",
+   "Soju",
+   "Late night"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 1080,
+    "end": 1260,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "pizzas",
+      "price": 20
+     },
+     {
+      "kind": "food",
+      "item": "wings",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "MA lager",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "desserts",
+      "price": 6
+     }
+    ]
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     3
+    ],
+    "title": "Wednesday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "soju bottles",
+      "price": 20
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Thursday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "rail shots",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "White Claws",
+      "price": 6
+     }
+    ]
+   },
+   {
+    "days": [
+     5
+    ],
+    "title": "Friday",
+    "start": 1080,
+    "end": 1320,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "tequila shots",
+      "price": 6
+     }
+    ]
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Sunday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Sapporo bottles",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "tequila shots",
+      "price": 6
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pizza",
+   "wings",
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 1080,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 1080,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 1080,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 1080,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 1080,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJgVmzUog1K4gRr8xdyYTyDRE",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Midnight Arcade website",
+    "url": "https://www.midnightarcade.ca/",
+    "date": "2026-10"
+   }
+  ],
+  "website": "https://www.midnightarcade.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1228904925469985967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "kensington-socials",
+  "name": "Kensington Socials",
+  "category": "Sports bar",
+  "vibe": "bar",
+  "address": "204 Augusta Ave",
+  "lat": 43.654498,
+  "lng": -79.402181,
+  "tags": [
+   "Sports",
+   "Karaoke Wednesdays",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     2,
+     3,
+     4,
+     5
+    ],
+    "start": 780,
+    "end": 960,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "draft beer",
+      "price": 7
+     },
+     {
+      "kind": "drink",
+      "item": "bottled beer",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "signature cocktails",
+      "price": 7
+     },
+     {
+      "kind": "drink",
+      "item": "margaritas",
+      "price": 13
+     }
+    ],
+    "note": "Times from its own site; a directory listing checked in July says Mon–Fri 2–5 PM."
+   }
+  ],
+  "deals": "venue",
+  "food": [
+   "wings",
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJtQfKh341K4gRQjV4iOokECQ",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Kensington Socials website",
+    "url": "https://kensingtonsocials.com/",
+    "date": "2026-10"
+   },
+   {
+    "label": "Restaurantica listing (last checked Jul 2)",
+    "url": "https://www.restaurantica.com/on/toronto/kensington-socials",
+    "date": "2026-07"
+   }
+  ],
+  "phone": "(647) 809-3211",
+  "website": "https://kensingtonsocials.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2598617574723302722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "burdock-kensington-tavern",
+  "name": "Burdock Kensington Tavern",
+  "category": "Brewery tavern",
+  "vibe": "brewery",
+  "address": "184 Augusta Ave",
+  "lat": 43.653999,
+  "lng": -79.401976,
+  "tags": [
+   "Burdock beer",
+   "Patio",
+   "Steaks"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     5
+    ],
+    "start": 840,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Half-price Ducks IPA and Deluxe pints"
+     }
+    ],
+    "note": "“Duck Out Early” Fridays."
+   }
+  ],
+  "deals": "venue",
+  "food": [
+   "steak"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 840,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 840,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 840,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 840,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 840,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups",
+   "dogs"
+  ],
+  "placeId": "ChIJezd4iGU1K4gRPP-zjqtuW1M",
+  "menuUrl": "https://burdockbrewery.com/pages/tavern",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Burdock Kensington Tavern page",
+    "url": "https://burdockbrewery.com/pages/tavern",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(416) 546-4033",
+  "website": "https://www.burdockbrewery.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6006516211141312316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "tacotaco",
+  "name": "TacoTaco",
+  "category": "Tacos & margaritas",
+  "vibe": "casual",
+  "address": "319 Augusta Ave",
+  "lat": 43.656917,
+  "lng": -79.402666,
+  "tags": [
+   "Margaritas",
+   "Patio",
+   "Halal meats"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 1020,
+    "end": 1140,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "margaritas",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "beer, shots or mixed drinks",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "three tacos (same kind)",
+      "price": 15
+     }
+    ]
+   }
+  ],
+  "deals": "venue",
+  "food": [
+   "tacos"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJx1XCAyI1K4gRWLk1UAO3Ieg",
+  "menuUrl": "https://eattaco.ca/menu",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "TacoTaco menu page (“Happy Hour Specials”)",
+    "url": "https://eattaco.ca/menu",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(647) 257-0010",
+  "website": "https://eattaco.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16726851715889215832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "t-o-dickens",
+  "name": "T.O. Dickens",
+  "category": "All-day restaurant & cocktail bar",
+  "vibe": "casual",
+  "address": "276 Augusta Ave",
+  "lat": 43.656765,
+  "lng": -79.403119,
+  "tags": [
+   "Open 24/7",
+   "Brunch",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 900,
+    "end": 1380,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "cocktails",
+      "price": 9
+     }
+    ],
+    "note": "Not on holidays."
+   },
+   {
+    "days": [
+     5,
+     6
+    ],
+    "start": 900,
+    "end": 1380,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "domestic rail shots",
+      "price": 5
+     }
+    ],
+    "note": "Not on holidays."
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     0
+    ],
+    "title": "Sunday brunch",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Caesars",
+      "price": 7
+     },
+     {
+      "kind": "drink",
+      "item": "mimosas",
+      "price": 7
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pasta"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 0,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 0,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 0,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 0,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 0,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 0,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 0,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJHVV6BRHL1IkReizYCRvjJAw",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "T.O. Dickens website (“Daily Happy Hours”)",
+    "url": "https://todickens.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(416) 960-3333",
+  "website": "http://todickens.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=875073932885503098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "sinaloa-factory",
+  "name": "Sinaloa Factory",
+  "category": "Mexican seafood & sushi",
+  "vibe": "casual",
+  "address": "181 Augusta Ave",
+  "lat": 43.653383,
+  "lng": -79.401248,
+  "tags": [
+   "Mexican sushi",
+   "Aguachile"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Birria Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "2-for-1 birria with 2 drinks"
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Taco Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "tacos",
+      "price": 5
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "All-you-can-eat Wednesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "all-you-can-eat Mexican sushi",
+      "price": 24.95
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Aguachile Thursday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "aguachile with 1 drink",
+      "price": 19.95
+     }
+    ]
+   }
+  ],
+  "food": [
+   "tacos",
+   "sushi"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1200
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJic1_PBw1K4gRwtlTYehab9o",
+  "menuUrl": "https://www.sinaloafactory.com/menu",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Sinaloa Factory promotions page (all locations, undated)",
+    "url": "https://www.sinaloafactory.com/promotions",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(416) 597-0907",
+  "website": "http://sinaloafactory.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15739899176794970562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "pizzeria-via-mercanti",
+  "name": "Pizzeria Via Mercanti",
+  "category": "Neapolitan pizza",
+  "vibe": "restaurant",
+  "address": "188 Augusta Ave",
+  "lat": 43.654047,
+  "lng": -79.402011,
+  "tags": [
+   "Neapolitan pizza",
+   "Patio"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "title": "Weekday lunch",
+    "start": 720,
+    "end": 900,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "small Margherita pizza and Mercanti salad",
+      "price": 18
+     }
+    ],
+    "note": "Dine-in only, plus tax."
+   }
+  ],
+  "food": [
+   "pizza"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJF5oEb8I0K4gReAJi5QHFxOA",
+  "menuUrl": "https://www.pizzeriaviamercanti.ca/menu",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Pizzeria Via Mercanti specials page",
+    "url": "https://www.pizzeriaviamercanti.ca/specials",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(416) 598-2222",
+  "website": "http://www.pizzeriaviamercanti.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16196286771865191032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "kensington-jerk-and-pasta",
+  "name": "Kensington Jerk & Pasta",
+  "category": "Jamaican-Italian",
+  "vibe": "casual",
+  "address": "61 Kensington Ave",
+  "lat": 43.654327,
+  "lng": -79.400374,
+  "tags": [
+   "Rum bar",
+   "Jerk chicken"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 960,
+    "end": 1080,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "shots",
+      "price": 6
+     }
+    ]
+   }
+  ],
+  "deals": "venue",
+  "food": [
+   "pasta"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1080
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1140
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1140
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1140
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1140
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1140
+   }
+  ],
+  "placeId": "ChIJv16f6nQ1K4gRDBgrk-5nSbw",
+  "menuUrl": "http://jerkandpasta.com/",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Kensington Jerk & Pasta drinks menu",
+    "url": "http://jerkandpasta.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(437) 872-2697",
+  "website": "http://jerkandpasta.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13567489626799282188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "free-times-cafe",
+  "name": "Free Times Cafe",
+  "category": "Café, bar & folk venue",
+  "vibe": "casual",
+  "address": "320 College St",
+  "lat": 43.657679,
+  "lng": -79.402487,
+  "tags": [
+   "Live music",
+   "Patio",
+   "Latkes"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 960,
+    "end": 1200,
+    "specials": [],
+    "note": "“Happy Hour 4–8pm Everyday” on the patio, bistro and bar. Prices not published."
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "title": "House special",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "tequila shots",
+      "price": 5
+     }
+    ]
+   }
+  ],
+  "food": [
+   "snacks"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJLx7I0ME0K4gRFyQ_WvDd_vw",
+  "menuUrl": "https://www.freetimescafe.com/",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Free Times Cafe website and drinks menu",
+    "url": "https://www.freetimescafe.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(416) 967-1078",
+  "website": "http://www.freetimescafe.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18230252366018323479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "tonys",
+  "name": "Tony’s",
+  "category": "Pasta & natural wine",
+  "vibe": "wine",
+  "address": "283 Augusta Ave",
+  "lat": 43.65599,
+  "lng": -79.402369,
+  "tags": [
+   "Natural wine",
+   "Bottle shop"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 840,
+    "end": 1020,
+    "specials": [],
+    "note": "Aperitivo hours: wine and snacks. Prices not published."
+   },
+   {
+    "days": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 1020,
+    "end": 1140,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "prix fixe: pasta, salad, focaccia and a cookie",
+      "price": 21
+     }
+    ],
+    "note": "Google lists a 6 PM close except Fri–Sat (7 PM), so check before going late."
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     6
+    ],
+    "title": "Pasta lunch",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "pasta lunch",
+      "price": 10
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pasta"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1080
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1080
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1080
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1080
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1140
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1140
+   }
+  ],
+  "amenities": [
+   "patio",
+   "dogs"
+  ],
+  "placeId": "ChIJrwggMts1K4gR4CCp2k4_aYs",
+  "menuUrl": "https://www.tonyskensington.ca/",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Tony’s website ($21 prix fixe, aperitivo, $10 pasta lunch)",
+    "url": "https://www.tonyskensington.ca/21-prix-fixe",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(647) 794-7097",
+  "website": "https://www.tonyskensington.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10045630051735118048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "ronnies-local-069",
+  "name": "Ronnie’s Local 069",
+  "category": "Dive bar",
+  "vibe": "bar",
+  "address": "69 Nassau St",
+  "lat": 43.655042,
+  "lng": -79.402642,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 840,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups",
+   "dogs"
+  ],
+  "placeId": "ChIJ7RMACcI0K4gRtsGC5taWeTk",
+  "phone": "(416) 340-1110",
+  "googleMapsUrl": "https://maps.google.com/?cid=4141507182078378422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "embassy-bar",
+  "name": "Embassy Bar",
+  "category": "Bar",
+  "vibe": "bar",
+  "address": "223 Augusta Ave",
+  "lat": 43.654349,
+  "lng": -79.40179,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 900,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 900,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 900,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 900,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 900,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 900,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 900,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJgR4LbMI0K4gRjnyNXnaiIdU",
+  "phone": "(416) 591-1132",
+  "googleMapsUrl": "https://maps.google.com/?cid=15357734833586273422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "pamenar",
+  "name": "Pamenar",
+  "category": "Café & bar",
+  "vibe": "bar",
+  "address": "307 Augusta Ave",
+  "lat": 43.656684,
+  "lng": -79.402709,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 540,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 510,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 510,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 510,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 510,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 510,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 540,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJ2zl04sE0K4gR-44Du4C98TM",
+  "googleMapsUrl": "https://maps.google.com/?cid=3742981125912628987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "el-rey-mezcal-bar",
+  "name": "El Rey Mezcal Bar",
+  "category": "Mezcal bar",
+  "vibe": "cocktails",
+  "address": "2a Kensington Ave",
+  "lat": 43.652802,
+  "lng": -79.400136,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "tacos"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 1020,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 1020,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups",
+   "dogs"
+  ],
+  "placeId": "ChIJC7ZkAsM0K4gRXV1uVuN0T-s",
+  "website": "http://elreybar.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16955899641829678429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "grossmans-tavern",
+  "name": "Grossman’s Tavern",
+  "category": "Blues bar",
+  "vibe": "bar",
+  "address": "377 Spadina Ave.",
+  "lat": 43.656004,
+  "lng": -79.399015,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJ43RXb8E0K4gRpNM329xtxS4",
+  "phone": "(416) 977-7000",
+  "website": "http://www.grossmanstavern.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3370220691494785956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "supermarket-bar-and-variety",
+  "name": "Supermarket Bar & Variety",
+  "category": "Live music bar",
+  "vibe": "bar",
+  "address": "268 Augusta Ave",
+  "lat": 43.656608,
+  "lng": -79.403177,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "amenities": [
+   "patio",
+   "live-music"
+  ],
+  "placeId": "ChIJr_6vCeo0K4gRyGW3XWSOMb0",
+  "phone": "(416) 840-0501",
+  "website": "http://www.supermarketto.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13632834108747376072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "the-little-jerry",
+  "name": "The Little Jerry",
+  "category": "Wine bar",
+  "vibe": "wine",
+  "address": "418 College St",
+  "lat": 43.656788,
+  "lng": -79.406893,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 1080,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 1080,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 1080,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 1080,
+    "close": 1500
+   },
+   {
+    "day": 5,
+    "open": 1080,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 1080,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJt8EMLG01K4gRAE3QF2g8Zw8",
+  "phone": "(416) 551-5981",
+  "website": "http://www.thelittlejerry.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1109922250943909120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "lonely-diner",
+  "name": "Lonely Diner",
+  "category": "Cocktail bar",
+  "vibe": "cocktails",
+  "address": "432 College St",
+  "lat": 43.656765,
+  "lng": -79.407198,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian",
+   "snacks"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 1050,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 1050,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 1050,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 1050,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 1050,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJPbRWNL41K4gRLX9TDHsu3aQ",
+  "googleMapsUrl": "https://maps.google.com/?cid=11879702498095890221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "cloak-and-dagger",
+  "name": "Cloak & Dagger",
+  "category": "Irish pub",
+  "vibe": "bar",
+  "address": "394 College St",
+  "lat": 43.657008,
+  "lng": -79.405701,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "pub"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 840,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJ8RqtNOo0K4gRPgBMtNyC0Cc",
+  "phone": "(647) 436-0228",
+  "website": "https://sq-al.facebook.com/thecloakanddaggerpub/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2868936847064301630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "slice-of-life",
+  "name": "Slice of Life",
+  "category": "Cocktail bar",
+  "vibe": "cocktails",
+  "address": "409 College St",
+  "lat": 43.656367,
+  "lng": -79.406509,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 1080,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 1140,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 1140,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 1140,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 1080,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 1080,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJC3FKfd41K4gRMJwprlMFuUM",
+  "phone": "(416) 504-0409",
+  "website": "https://www.sliceoflifebar.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4879937528195030064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "sampo",
+  "name": "Sampo",
+  "category": "Japanese snack bar",
+  "vibe": "bar",
+  "address": "370 College St",
+  "lat": 43.657272,
+  "lng": -79.404687,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 1080,
+    "close": 1545
+   },
+   {
+    "day": 1,
+    "open": 1080,
+    "close": 1545
+   },
+   {
+    "day": 2,
+    "open": 1080,
+    "close": 1545
+   },
+   {
+    "day": 4,
+    "open": 1080,
+    "close": 1545
+   },
+   {
+    "day": 5,
+    "open": 1080,
+    "close": 1545
+   },
+   {
+    "day": 6,
+    "open": 1080,
+    "close": 1545
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJ8_YGQGM1K4gR93fcZnitfHk",
+  "phone": "(416) 964-3111",
+  "website": "http://www.sampobar.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8754062508334807031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "the-green-room",
+  "name": "The Green Room",
+  "category": "Cheap-drinks bar",
+  "vibe": "bar",
+  "address": "414 College St",
+  "lat": 43.65684,
+  "lng": -79.406797,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 960,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJ06kDHJQ0K4gRlMVs0vtN-_0",
+  "phone": "(416) 929-3253",
+  "googleMapsUrl": "https://maps.google.com/?cid=18301307254712616340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "tobys-pub-and-eatery",
+  "name": "Toby’s Pub & Eatery",
+  "category": "Sports pub",
+  "vibe": "bar",
+  "address": "411 College St",
+  "lat": 43.656414,
+  "lng": -79.406687,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "pub",
+   "wings",
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJD1ru2-s0K4gRnkuNro6PxMc",
+  "phone": "(416) 868-6297",
+  "website": "http://www.tobyspub.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14394788151959571358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "last-temptation",
+  "name": "Last Temptation",
+  "category": "Pub & patio",
+  "vibe": "casual",
+  "address": "12 Kensington Ave",
+  "lat": 43.653179,
+  "lng": -79.40024,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "pub"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJCQt3_8I0K4gRL6_1ft5-53w",
+  "phone": "(416) 599-2551",
+  "website": "https://lasttemptation.shop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9000301874401095471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "lola",
+  "name": "Lola",
+  "category": "Bar & kitchen",
+  "vibe": "bar",
+  "address": "40 Kensington Ave",
+  "lat": 43.653755,
+  "lng": -79.400676,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 780,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 780,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 780,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups",
+   "dogs"
+  ],
+  "placeId": "ChIJ1c2Zcb01K4gR8Xb28_AeLBw",
+  "phone": "(416) 598-9209",
+  "googleMapsUrl": "https://maps.google.com/?cid=2030031552271251185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "rumble-pontiac",
+  "name": "Rumble Pontiac",
+  "category": "Bar",
+  "vibe": "bar",
+  "address": "197 1/2 Baldwin St",
+  "lat": 43.65448,
+  "lng": -79.401545,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 840,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 840,
+    "close": 1560
+   }
+  ],
+  "placeId": "ChIJW0taztk1K4gRKIDliZYRc6A",
+  "googleMapsUrl": "https://maps.google.com/?cid=11561604006646480936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "bistro-422",
+  "name": "Bistro 422",
+  "category": "Dive bar",
+  "vibe": "bar",
+  "address": "422 College St",
+  "lat": 43.656817,
+  "lng": -79.407005,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 1020,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 1020,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 1020,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 1020,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 1020,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJyZUX3es0K4gRXI2bwA6Z7f8",
+  "phone": "(416) 963-9416",
+  "website": "https://www.facebook.com/bistro422toronto",
+  "googleMapsUrl": "https://maps.google.com/?cid=18441564337792060764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "tapestry",
+  "name": "Tapestry",
+  "category": "Live music bar",
+  "vibe": "bar",
+  "address": "224 Augusta Ave",
+  "lat": 43.654952,
+  "lng": -79.402382,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 1200,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 1200,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 1200,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 1200,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 1200,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 1200,
+    "close": 1560
+   }
+  ],
+  "placeId": "ChIJbwyQQYg1K4gR-6nubYDv0Pg",
+  "website": "https://instagram.com/tapestry_to?igshid=YmMyMTA2M2Y=",
+  "googleMapsUrl": "https://maps.google.com/?cid=17929093451441154555&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "el-rancho",
+  "name": "El Rancho",
+  "category": "Latin restaurant & dance club",
+  "vibe": "casual",
+  "address": "430 College St",
+  "lat": 43.656807,
+  "lng": -79.407113,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 4,
+    "open": 1260,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 1140,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 1140,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "live-music",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJ89VYoSMzK4gRI4fK3-eJVqA",
+  "phone": "(416) 921-2752",
+  "website": "https://elrancho.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11553573523050628899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "nest",
+  "name": "NEST",
+  "category": "Nightclub",
+  "vibe": "bar",
+  "address": "423 College St",
+  "lat": 43.656437,
+  "lng": -79.407105,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 5,
+    "open": 1320,
+    "close": 1620
+   },
+   {
+    "day": 6,
+    "open": 1350,
+    "close": 1620
+   }
+  ],
+  "placeId": "ChIJFYkn3us0K4gRXJS_mIuZEus",
+  "phone": "(416) 792-9488",
+  "website": "http://www.nesttoronto.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16938769973336052828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "grey-gardens",
+  "name": "Grey Gardens",
+  "category": "Seafood & wine bar",
+  "vibe": "wine",
+  "address": "199 Augusta Ave",
+  "lat": 43.653807,
+  "lng": -79.401475,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "oysters"
+  ],
+  "hours": [
+   {
+    "day": 1,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 1020,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio"
+  ],
+  "placeId": "ChIJh6SGZ8I0K4gR47bAdya6pjs",
+  "phone": "(647) 351-1552",
+  "website": "http://greygardens.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4298327568752359139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "sunnys-chinese",
+  "name": "Sunnys Chinese",
+  "category": "Chinese & cocktails",
+  "vibe": "restaurant",
+  "address": "60 Kensington Ave Units 6-14",
+  "lat": 43.654212,
+  "lng": -79.400961,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1350
+   },
+   {
+    "day": 5,
+    "open": 1020,
+    "close": 1350
+   },
+   {
+    "day": 6,
+    "open": 1020,
+    "close": 1350
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJZZpWSbg1K4gRSxIEN9mrN4Q",
+  "phone": "(437) 833-5798",
+  "website": "https://www.sunnyschinese.com/?utm_source=extnet&utm_medium=yext",
+  "googleMapsUrl": "https://maps.google.com/?cid=9527272486144840267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "quetzal",
+  "name": "Quetzal",
+  "category": "Mexican (wood-fired)",
+  "vibe": "restaurant",
+  "address": "419 College St",
+  "lat": 43.656338,
+  "lng": -79.406826,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 1080,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 1080,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 1080,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 1080,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 1080,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJz7oN7gU1K4gRtjOP6_CCSiU",
+  "phone": "(647) 347-3663",
+  "website": "https://www.quetzaltoronto.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2687104098935714742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "danico",
+  "name": "DaNico",
+  "category": "Italian fine dining",
+  "vibe": "restaurant",
+  "address": "440 College St",
+  "lat": 43.656693,
+  "lng": -79.40757,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "pasta"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 1020,
+    "close": 1320
+   }
+  ],
+  "placeId": "ChIJLxOGU8s1K4gRgdxAIsLtxB8",
+  "phone": "(647) 800-1435",
+  "website": "https://www.danicotoronto.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2289215928665169025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "hawker",
+  "name": "Hawker",
+  "category": "Vegan small plates",
+  "vibe": "restaurant",
+  "address": "291 Augusta Ave",
+  "lat": 43.656321,
+  "lng": -79.402562,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "vegan"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 900
+   },
+   {
+    "day": 0,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 960
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 960
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 960
+   },
+   {
+    "day": 5,
+    "open": 1020,
+    "close": 1350
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 900
+   },
+   {
+    "day": 6,
+    "open": 1020,
+    "close": 1350
+   }
+  ],
+  "amenities": [
+   "patio",
+   "dogs"
+  ],
+  "placeId": "ChIJVVX5Gk2bLIgR164zALPCRrY",
+  "phone": "(416) 628-1905",
+  "website": "http://hawker.to/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13134399437330951895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "rikki-tikki",
+  "name": "Rikki Tikki",
+  "category": "Indian",
+  "vibe": "restaurant",
+  "address": "209 Augusta Ave",
+  "lat": 43.654081,
+  "lng": -79.401486,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJHQh6Y9E1K4gRnEPL5L5ZRsg",
+  "phone": "(416) 792-3229",
+  "website": "https://rikkitikki.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14431320732372517788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "the-cottage-cheese",
+  "name": "The Cottage Cheese",
+  "category": "Indian",
+  "vibe": "restaurant",
+  "address": "64 Oxford St",
+  "lat": 43.656221,
+  "lng": -79.402868,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1350
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1350
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1350
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1350
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1350
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1350
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1350
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJ6QFtDG81K4gRcsXqXrbLohk",
+  "phone": "(647) 368-8633",
+  "website": "http://thecottagecheese.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1847262781312255346&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "baazigar",
+  "name": "Baazigar",
+  "category": "Indian street food & bar",
+  "vibe": "casual",
+  "address": "189 Augusta Ave",
+  "lat": 43.653578,
+  "lng": -79.401358,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 750,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJ96ZmH2A1K4gRigRqcwGFQOQ",
+  "phone": "(647) 329-3022",
+  "website": "http://baazigar.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16447292080434840714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "el-trompo",
+  "name": "El Trompo",
+  "category": "Mexican",
+  "vibe": "casual",
+  "address": "277 Augusta Ave",
+  "lat": 43.655848,
+  "lng": -79.402428,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "tacos"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 1140
+   },
+   {
+    "day": 1,
+    "open": 600,
+    "close": 1230
+   },
+   {
+    "day": 2,
+    "open": 600,
+    "close": 1290
+   },
+   {
+    "day": 3,
+    "open": 600,
+    "close": 1290
+   },
+   {
+    "day": 4,
+    "open": 600,
+    "close": 1290
+   },
+   {
+    "day": 5,
+    "open": 600,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJ8Su7-ME0K4gRK_OfqwTtE-4",
+  "phone": "(416) 260-0097",
+  "website": "http://www.eltrompo.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17155316009899389739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "pancho-y-emiliano",
+  "name": "Pancho y Emiliano",
+  "category": "Mexican",
+  "vibe": "casual",
+  "address": "200 Augusta Ave",
+  "lat": 43.654377,
+  "lng": -79.402324,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "tacos"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 721,
+    "close": 1200
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJrRVowUI0K4gRVNI9MWi4U_g",
+  "phone": "(416) 925-8454",
+  "website": "https://www.panchoyemiliano.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17893848502115357268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "placos-tacos",
+  "name": "Placos Tacos",
+  "category": "Mexican bar",
+  "vibe": "casual",
+  "address": "21 Kensington Ave",
+  "lat": 43.653181,
+  "lng": -79.39986,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "tacos"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJFYu8U2Y1K4gRPjc2eVBU6Vc",
+  "phone": "(416) 595-5773",
+  "website": "https://placostacos.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6334687055481026366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "isaan-der",
+  "name": "Isaan Der",
+  "category": "Thai",
+  "vibe": "restaurant",
+  "address": "327 Spadina Ave.",
+  "lat": 43.654541,
+  "lng": -79.398268,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "thai"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1380
+   }
+  ],
+  "placeId": "ChIJPScU_vQ1K4gRGssv1baMuBs",
+  "phone": "(416) 596-7642",
+  "website": "http://isaander.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1997501151627430682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "pomegranate",
+  "name": "Pomegranate",
+  "category": "Persian",
+  "vibe": "restaurant",
+  "address": "420 College St",
+  "lat": 43.656809,
+  "lng": -79.406948,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "middle-eastern"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 6,
+    "open": 1020,
+    "close": 1260
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJG1zf3Os0K4gRGvUia4Zrqno",
+  "phone": "(416) 921-7557",
+  "website": "http://pomegranatetoronto.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8838995443735262490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "tibet-cafe-and-bar",
+  "name": "Tibet Café and Bar",
+  "category": "Tibetan",
+  "vibe": "casual",
+  "address": "51 Kensington Ave",
+  "lat": 43.653916,
+  "lng": -79.400138,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJF0GhTcI0K4gRJQvhKBi3_Zc",
+  "phone": "(416) 351-8862",
+  "website": "https://tibetcafeandbar.com/?utm_source=google&utm_medium=maps&utm_campaign=website",
+  "googleMapsUrl": "https://maps.google.com/?cid=10952111183227849509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "korean-grill-house",
+  "name": "Korean Grill House",
+  "category": "Korean BBQ",
+  "vibe": "restaurant",
+  "address": "431 Spadina Ave.",
+  "lat": 43.657353,
+  "lng": -79.399445,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "korean"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1350
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1350
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1350
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1350
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1350
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1410
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1410
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJJ4bRpv01K4gRAf2trBp08Kk",
+  "phone": "(647) 368-8380",
+  "googleMapsUrl": "https://maps.google.com/?cid=12245415044735433985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "daldongnae",
+  "name": "Daldongnae",
+  "category": "Korean BBQ",
+  "vibe": "restaurant",
+  "address": "355 Spadina Ave.",
+  "lat": 43.655489,
+  "lng": -79.398778,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "korean"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1500
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1500
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJ449iJAA1K4gRYEVAUsIGr0Y",
+  "phone": "(416) 348-0093",
+  "website": "https://www.daldongnaebbq.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5093297135252686176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "original-ka-chi",
+  "name": "Original Ka Chi",
+  "category": "Korean",
+  "vibe": "casual",
+  "address": "8 St Andrew St",
+  "lat": 43.654407,
+  "lng": -79.399336,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "korean"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJg-fmUrXP1IkRKLD3UgCzgas",
+  "phone": "(416) 597-1999",
+  "website": "http://www.originalkachi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12358355666454687784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "the-famous-owl-of-minerva",
+  "name": "The Famous Owl of Minerva",
+  "category": "Korean",
+  "vibe": "casual",
+  "address": "2 280 Spadina Avenue, Spadina Cres Unit A, 2F",
+  "lat": 43.652586,
+  "lng": -79.398445,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "korean"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 600,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 600,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 600,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 600,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 600,
+    "close": 1680
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 1680
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJuYKNcMM0K4gRTHhqrcHkN74",
+  "phone": "(416) 599-7275",
+  "website": "http://www.owlfamily.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13706675511414650956&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "saigon-lotus",
+  "name": "Saigon Lotus",
+  "category": "Vietnamese",
+  "vibe": "casual",
+  "address": "6 St Andrew St",
+  "lat": 43.65441,
+  "lng": -79.399277,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "vietnamese"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJv6RRx8M0K4gRKh5I866TqfI",
+  "phone": "(416) 901-1115",
+  "website": "https://www.saigonlotus.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17485669407857843754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "ramen-isshin",
+  "name": "Ramen Isshin",
+  "category": "Ramen",
+  "vibe": "casual",
+  "address": "421 College St",
+  "lat": 43.656458,
+  "lng": -79.406985,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1530
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1530
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJN8T23es0K4gRZXVo0Gb3Fag",
+  "phone": "(416) 367-4013",
+  "website": "http://www.ramenisshin.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12111858793838048613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "hacienda-las-americas",
+  "name": "Hacienda Las Americas",
+  "category": "Latin American",
+  "vibe": "casual",
+  "address": "424 College St",
+  "lat": 43.656761,
+  "lng": -79.407052,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1020
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1200
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1230
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1230
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1680
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1680
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJ0aa93es0K4gRGB6s6tCOo98",
+  "phone": "(647) 347-2931",
+  "website": "https://haciendalasamericason.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16114880919603256856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "august-8",
+  "name": "August 8",
+  "category": "All-you-can-eat sushi",
+  "vibe": "casual",
+  "address": "331 Spadina Ave.",
+  "lat": 43.654702,
+  "lng": -79.398418,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "sushi"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJGycF6cM0K4gRfqbrx73M_2I",
+  "phone": "(416) 597-2288",
+  "website": "http://www.august8.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7133645450253149822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "pho-hung",
+  "name": "Phở Hưng",
+  "category": "Vietnamese",
+  "vibe": "casual",
+  "address": "350 Spadina Ave.",
+  "lat": 43.654442,
+  "lng": -79.398925,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "vietnamese"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJ8UEiwcM0K4gRKqBc4DFmv_w",
+  "phone": "(416) 593-4274",
+  "website": "http://phohung.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=18212387782513172522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "rol-san",
+  "name": "Rol San",
+  "category": "Dim sum",
+  "vibe": "casual",
+  "address": "390 Spadina Ave.",
+  "lat": 43.65547,
+  "lng": -79.399415,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 600,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 600,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 600,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 600,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 600,
+    "close": 1620
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 1620
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJ75am68M0K4gRywTE5GXMPCw",
+  "phone": "(416) 977-1128",
+  "website": "https://rolsanrestaurant.shop/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3187647374273283275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "wok-theory",
+  "name": "Wok Theory",
+  "category": "Dim sum & Cantonese",
+  "vibe": "restaurant",
+  "address": "530 Dundas St W",
+  "lat": 43.652858,
+  "lng": -79.398953,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 600,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 600,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 600,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 600,
+    "close": 1260
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 1260
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJtz1T3wk1K4gREBhPo9oGYOI",
+  "phone": "(416) 979-2480",
+  "website": "https://woktheory.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16312045386448443408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "mothers-dumplings",
+  "name": "Mother’s Dumplings",
+  "category": "Dumplings",
+  "vibe": "casual",
+  "address": "421 Spadina Ave.",
+  "lat": 43.657117,
+  "lng": -79.399436,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 675,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 675,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "groups",
+   "dogs"
+  ],
+  "placeId": "ChIJ0zE_DsE0K4gR8rEk8B9DNg4",
+  "phone": "(416) 217-2008",
+  "website": "http://www.mothersdumplings.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1024079769725350386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "dumpling-house",
+  "name": "Dumpling House",
+  "category": "Dumplings",
+  "vibe": "casual",
+  "address": "328 Spadina Ave.",
+  "lat": 43.653803,
+  "lng": -79.398681,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1350
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1350
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJGURRlsM0K4gRvjF3bakHYNM",
+  "phone": "(416) 596-8898",
+  "website": "http://dumplinghouse.restaurantwebexpert.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15231182364034412990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "haos-bistro",
+  "name": "Hao’s Bistro",
+  "category": "Chinese",
+  "vibe": "casual",
+  "address": "339 Spadina Ave.",
+  "lat": 43.655088,
+  "lng": -79.398477,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJVXrryXA1K4gRWwtzZt2OKy0",
+  "phone": "(647) 616-3935",
+  "website": "http://www.haosbistro.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3254852237263047515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "a-szechuan",
+  "name": "A Szechuan",
+  "category": "Sichuan",
+  "vibe": "casual",
+  "address": "440 Spadina Ave.",
+  "lat": 43.657016,
+  "lng": -79.399935,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJg5xXzUQ1K4gR9NHKVt3hTRc",
+  "phone": "(647) 390-6006",
+  "googleMapsUrl": "https://maps.google.com/?cid=1679246576839217652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "thai-country-kitchen",
+  "name": "Thai Country Kitchen",
+  "category": "Thai",
+  "vibe": "casual",
+  "address": "412 Spadina Ave.",
+  "lat": 43.656182,
+  "lng": -79.39961,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "thai"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJ32OVcME0K4gRyC0sevCnJPA",
+  "phone": "(416) 977-5999",
+  "googleMapsUrl": "https://maps.google.com/?cid=17304140319547993544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "som-tum-jinda",
+  "name": "Som Tum Jinda",
+  "category": "Thai",
+  "vibe": "casual",
+  "address": "356 College St",
+  "lat": 43.657454,
+  "lng": -79.404315,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "thai"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1380
+   }
+  ],
+  "placeId": "ChIJEQITi8U1K4gRoufK-3gaBlU",
+  "phone": "(416) 968-6668",
+  "website": "https://somtumjinda.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6126613450006914978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "ajisen-ramen",
+  "name": "Ajisen Ramen",
+  "category": "Ramen",
+  "vibe": "casual",
+  "address": "332 Spadina Ave.",
+  "lat": 43.653901,
+  "lng": -79.398763,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJ99RulsM0K4gRnx0RBnNEpnE",
+  "phone": "(416) 977-8080",
+  "website": "https://www.ajisenramen.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8189308233233538463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "anh-dao",
+  "name": "Anh Dao",
+  "category": "Vietnamese",
+  "vibe": "casual",
+  "address": "383 Spadina Ave.",
+  "lat": 43.656304,
+  "lng": -79.399105,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "vietnamese"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJh8CNbsE0K4gR2r0OsuTNVQ0",
+  "phone": "(416) 598-4514",
+  "googleMapsUrl": "https://maps.google.com/?cid=960900477637017050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "kl-kitchen",
+  "name": "KL Kitchen",
+  "category": "Cantonese seafood, open late",
+  "vibe": "casual",
+  "address": "536 Dundas St W Main Floor",
+  "lat": 43.652956,
+  "lng": -79.39914,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1680
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1680
+   }
+  ],
+  "placeId": "ChIJb311jmk1K4gR5B_2ZvjOF-U",
+  "phone": "(416) 977-3388",
+  "website": "https://klkitchentoronto.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16507890525424459748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "new-sky",
+  "name": "New Sky",
+  "category": "Chinese",
+  "vibe": "casual",
+  "address": "444 Spadina Ave.",
+  "lat": 43.657036,
+  "lng": -79.400279,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1410
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1410
+   },
+   {
+    "day": 2,
+    "open": 540,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1410
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1410
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1470
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1470
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJnTud38M0K4gRQyT_5zziC7U",
+  "phone": "(416) 596-8787",
+  "website": "https://newskytoronto.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13045769496826946627&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "sangs-great-seafood",
+  "name": "Sang’s Great Seafood",
+  "category": "Cantonese seafood",
+  "vibe": "casual",
+  "address": "343 Spadina Ave.",
+  "lat": 43.655202,
+  "lng": -79.398499,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 960,
+    "close": 1680
+   },
+   {
+    "day": 6,
+    "open": 960,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJvVkJ3sM0K4gReROkCwasL_4",
+  "phone": "(416) 591-2188",
+  "googleMapsUrl": "https://maps.google.com/?cid=18316047351504180089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "new-ho-king",
+  "name": "New Ho King",
+  "category": "Chinese, open late",
+  "vibe": "casual",
+  "address": "410 Spadina Ave.",
+  "lat": 43.656155,
+  "lng": -79.399691,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 960,
+    "close": 1710
+   },
+   {
+    "day": 6,
+    "open": 960,
+    "close": 1710
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJszjccME0K4gRwQxyz_rw0tY",
+  "phone": "(416) 595-1881",
+  "website": "https://newhokingon.com/?",
+  "googleMapsUrl": "https://maps.google.com/?cid=15479699829238664385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "kings-noodle",
+  "name": "King’s Noodle",
+  "category": "Cantonese BBQ & noodles",
+  "vibe": "casual",
+  "address": "296 Spadina Ave.",
+  "lat": 43.653073,
+  "lng": -79.398493,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 540,
+    "close": 1230
+   },
+   {
+    "day": 1,
+    "open": 540,
+    "close": 1230
+   },
+   {
+    "day": 2,
+    "open": 540,
+    "close": 1230
+   },
+   {
+    "day": 4,
+    "open": 540,
+    "close": 1230
+   },
+   {
+    "day": 5,
+    "open": 540,
+    "close": 1230
+   },
+   {
+    "day": 6,
+    "open": 540,
+    "close": 1230
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJmR5AnsM0K4gRlGIeZrA964k",
+  "phone": "(416) 598-1817",
+  "website": "https://kingsnoodle.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9938104830559937172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "pho-pasteur",
+  "name": "Pho Pasteur",
+  "category": "Vietnamese",
+  "vibe": "casual",
+  "address": "525 Dundas St W",
+  "lat": 43.652575,
+  "lng": -79.399027,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "vietnamese"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 0,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 0,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 0,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 0,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 0,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 0,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 0,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJcx1yDsM0K4gRnX8faXSfHuQ",
+  "phone": "(416) 351-7188",
+  "website": "http://phopasteur.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16437751012277583773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "taste-of-china",
+  "name": "Taste of China",
+  "category": "Cantonese seafood",
+  "vibe": "casual",
+  "address": "338 Spadina Ave.",
+  "lat": 43.654041,
+  "lng": -79.398768,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1680
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1680
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJQfVrvsM0K4gRa3QsUxItpj0",
+  "phone": "(416) 348-8828",
+  "website": "http://tasteofchinarestaurant.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4442287639175656555&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "koi-japan-sushi",
+  "name": "Koi Japan Sushi",
+  "category": "Sushi",
+  "vibe": "casual",
+  "address": "281 Augusta Ave",
+  "lat": 43.655935,
+  "lng": -79.402389,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "sushi"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1230
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1230
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1230
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1230
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1230
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1230
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1230
+   }
+  ],
+  "amenities": [
+   "patio"
+  ],
+  "placeId": "ChIJg3wDguQ1K4gRWlYPkPturKw",
+  "phone": "(905) 409-8686",
+  "website": "http://www.koijapansushi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=12442441897250608730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "mamacitas",
+  "name": "Mamacita’s",
+  "category": "Mexican",
+  "vibe": "casual",
+  "address": "305 Augusta Ave",
+  "lat": 43.656628,
+  "lng": -79.402655,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "tacos"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1140
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1140
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1140
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1140
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1140
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1140
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1140
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJGQM4CgA1K4gR-J-fhzF3GNs",
+  "googleMapsUrl": "https://maps.google.com/?cid=15787499548359761912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "ninas-brunch",
+  "name": "Nina’s Brunch",
+  "category": "Brunch",
+  "vibe": "casual",
+  "address": "238 Augusta Ave",
+  "lat": 43.655402,
+  "lng": -79.402618,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "diner"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 450,
+    "close": 930
+   },
+   {
+    "day": 1,
+    "open": 450,
+    "close": 870
+   },
+   {
+    "day": 3,
+    "open": 450,
+    "close": 870
+   },
+   {
+    "day": 4,
+    "open": 450,
+    "close": 870
+   },
+   {
+    "day": 5,
+    "open": 450,
+    "close": 870
+   },
+   {
+    "day": 6,
+    "open": 450,
+    "close": 930
+   }
+  ],
+  "amenities": [
+   "patio"
+  ],
+  "placeId": "ChIJA_GAR141K4gRGs6TZ0NlXXo",
+  "phone": "(647) 766-6866",
+  "googleMapsUrl": "https://maps.google.com/?cid=8817314985636253210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ }
+]

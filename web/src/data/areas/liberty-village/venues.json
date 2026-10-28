@@ -1,0 +1,2659 @@
+[
+ {
+  "id": "brazen-head",
+  "name": "Brazen Head Irish Pub",
+  "category": "Irish pub",
+  "vibe": "bar",
+  "address": "165 E Liberty St",
+  "lat": 43.638442,
+  "lng": -79.417237,
+  "tags": [
+   "Trivia Mondays",
+   "Live Celtic music Thursdays",
+   "Patio"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "title": "All-day happy hour",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "shots (1 oz)",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "daily tap (20 oz)",
+      "price": 7
+     },
+     {
+      "kind": "drink",
+      "item": "daily tap (32 oz)",
+      "price": 13
+     },
+     {
+      "kind": "drink",
+      "item": "house wine (6 oz)",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "classic or spicy margaritas (2 oz)",
+      "price": 13
+     }
+    ],
+    "note": "Open to close, every day. The daily tap excludes Irish pours."
+   },
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "title": "Lunch feature",
+    "start": 690,
+    "end": 900,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "taco duo",
+      "price": 12
+     },
+     {
+      "kind": "food",
+      "item": "smash burger & fries",
+      "price": 15
+     },
+     {
+      "kind": "food",
+      "item": "Liberty bowl",
+      "price": 16
+     }
+    ]
+   },
+   {
+    "days": [
+     1
+    ],
+    "title": "Burger Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "burger & pub fries",
+      "price": 17
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Taco Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "chef’s tacos (each)",
+      "price": 6
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wingsday & Wine Down Wednesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "wings (1 lb)",
+      "price": 15
+     },
+     {
+      "kind": "drink",
+      "item": "wine (6 oz)",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "$10 off wine bottles"
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Thorogood Thursday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Signal Hill whisky, Scotch and an 18 oz beer",
+      "price": 15
+     }
+    ]
+   },
+   {
+    "days": [
+     5
+    ],
+    "title": "Fish n’ Chip Friday & Thank Guinness It’s Friday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Guinness",
+      "price": 11
+     },
+     {
+      "kind": "food",
+      "item": "fish & chips",
+      "price": 18
+     }
+    ],
+    "note": "The happy hour card says an 18 oz Guinness; the main menu says 20 oz."
+   },
+   {
+    "days": [
+     0,
+     6
+    ],
+    "title": "Bottomless mimosas",
+    "start": 630,
+    "end": 900,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "bottomless mimosas (per guest)",
+      "price": 32
+     }
+    ],
+    "note": "Weekend brunch only; 1.5-hour table limit."
+   }
+  ],
+  "food": [
+   "pub",
+   "wings",
+   "burgers",
+   "tacos"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 630,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 630,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJLeyIhAM1K4gR5NQrBuiHsMw",
+  "menuUrl": "https://fabrestaurants.ca/menus/?loc=brazen-head",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Brazen Head happy hour & lunch menu (PDF)",
+    "url": "https://fabrestaurants.b-cdn.net/wp-content/uploads/2021/02/BRZN_TT_5x7_HAPPY-HOUR-LunchFeatures_1013-2026WEB.pdf",
+    "date": "2026-10"
+   },
+   {
+    "label": "Brazen Head menu with daily features (PDF)",
+    "url": "https://fabrestaurants.b-cdn.net/wp-content/uploads/2021/02/BRZN-CORE-Menu-8-5x14-1006-2026WEB.pdf",
+    "date": "2026-10"
+   },
+   {
+    "label": "Brazen Head brunch menu (PDF)",
+    "url": "https://fabrestaurants.b-cdn.net/wp-content/uploads/2021/02/BRZN-BRUNCH-8-5x14MENU-1006-2026WEB.pdf",
+    "date": "2026-10"
+   },
+   {
+    "label": "Brazen Head",
+    "url": "https://fabrestaurants.ca/restaurant/brazen-head/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(416) 535-8787",
+  "website": "http://www.brazenhead.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14749438210244072676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "fox-and-johns",
+  "name": "Fox and John’s Restaurant + Bar",
+  "category": "Pub & grill",
+  "vibe": "bar",
+  "address": "107 Atlantic Ave",
+  "lat": 43.639323,
+  "lng": -79.420623,
+  "tags": [
+   "Late-night happy hour",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "start": 840,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Canadian or Coors Light bottles",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "bar rail (1 oz)",
+      "price": 5.5
+     },
+     {
+      "kind": "drink",
+      "item": "Kawartha draft",
+      "price": 6.5
+     },
+     {
+      "kind": "drink",
+      "item": "20 oz draft (3 Speed, Canadian, Coors Light)",
+      "price": 6.95
+     },
+     {
+      "kind": "drink",
+      "item": "house wine (6 oz)",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "margaritas or Aperol spritzes",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "espresso martinis",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "perogies (5)",
+      "price": 5.5
+     },
+     {
+      "kind": "food",
+      "item": "fish taco",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "chicken dumplings (5)",
+      "price": 7.5
+     },
+     {
+      "kind": "food",
+      "item": "mini nachos, truffle fries or quesadilla",
+      "price": 9
+     },
+     {
+      "kind": "food",
+      "item": "beef sliders (2)",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "20% off starters and shareables"
+     }
+    ],
+    "note": "Restrictions apply on game and event days."
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "start": 1260,
+    "end": 1500,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Canadian or Coors Light bottles",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "bar rail (1 oz)",
+      "price": 5.5
+     },
+     {
+      "kind": "drink",
+      "item": "Kawartha draft",
+      "price": 6.5
+     },
+     {
+      "kind": "drink",
+      "item": "20 oz draft (3 Speed, Canadian, Coors Light)",
+      "price": 6.95
+     },
+     {
+      "kind": "drink",
+      "item": "house wine (6 oz)",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "margaritas or Aperol spritzes",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "espresso martinis",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "perogies (5)",
+      "price": 5.5
+     },
+     {
+      "kind": "food",
+      "item": "fish taco",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "chicken dumplings (5)",
+      "price": 7.5
+     },
+     {
+      "kind": "food",
+      "item": "mini nachos, truffle fries or quesadilla",
+      "price": 9
+     },
+     {
+      "kind": "food",
+      "item": "beef sliders (2)",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "20% off starters and shareables"
+     }
+    ],
+    "note": "9 PM to close. Restrictions apply on game and event days."
+   },
+   {
+    "days": [
+     4,
+     5
+    ],
+    "start": 1260,
+    "end": 1560,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Canadian or Coors Light bottles",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "bar rail (1 oz)",
+      "price": 5.5
+     },
+     {
+      "kind": "drink",
+      "item": "Kawartha draft",
+      "price": 6.5
+     },
+     {
+      "kind": "drink",
+      "item": "20 oz draft (3 Speed, Canadian, Coors Light)",
+      "price": 6.95
+     },
+     {
+      "kind": "drink",
+      "item": "house wine (6 oz)",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "margaritas or Aperol spritzes",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "espresso martinis",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "perogies (5)",
+      "price": 5.5
+     },
+     {
+      "kind": "food",
+      "item": "fish taco",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "chicken dumplings (5)",
+      "price": 7.5
+     },
+     {
+      "kind": "food",
+      "item": "mini nachos, truffle fries or quesadilla",
+      "price": 9
+     },
+     {
+      "kind": "food",
+      "item": "beef sliders (2)",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "20% off starters and shareables"
+     }
+    ],
+    "note": "9 PM to close. Restrictions apply on game and event days."
+   },
+   {
+    "days": [
+     6
+    ],
+    "start": 1320,
+    "end": 1560,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Canadian or Coors Light bottles",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "bar rail (1 oz)",
+      "price": 5.5
+     },
+     {
+      "kind": "drink",
+      "item": "Kawartha draft",
+      "price": 6.5
+     },
+     {
+      "kind": "drink",
+      "item": "20 oz draft (3 Speed, Canadian, Coors Light)",
+      "price": 6.95
+     },
+     {
+      "kind": "drink",
+      "item": "house wine (6 oz)",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "margaritas or Aperol spritzes",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "espresso martinis",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "perogies (5)",
+      "price": 5.5
+     },
+     {
+      "kind": "food",
+      "item": "fish taco",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "chicken dumplings (5)",
+      "price": 7.5
+     },
+     {
+      "kind": "food",
+      "item": "mini nachos, truffle fries or quesadilla",
+      "price": 9
+     },
+     {
+      "kind": "food",
+      "item": "beef sliders (2)",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "20% off starters and shareables"
+     }
+    ],
+    "note": "10 PM to close. Restrictions apply on game and event days."
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Monday specials",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "Half-price wings"
+     },
+     {
+      "kind": "drink",
+      "item": "F&J lager",
+      "price": 6.95
+     }
+    ],
+    "note": "Dine-in only."
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Tuesday specials",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "F&J burger",
+      "price": 16.95
+     },
+     {
+      "kind": "drink",
+      "item": "F&J lager",
+      "price": 6.95
+     },
+     {
+      "kind": "drink",
+      "item": "Half-price wine bottles"
+     }
+    ],
+    "note": "Dine-in only."
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wednesday specials",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "8 oz NY steak",
+      "price": 25
+     },
+     {
+      "kind": "drink",
+      "item": "Half-price wine bottles"
+     },
+     {
+      "kind": "drink",
+      "item": "Great Lakes Octopus IPA",
+      "price": 8.75
+     }
+    ],
+    "note": "Dine-in only."
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Thursday specials",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "tacos (chicken, shrimp or fish)",
+      "price": 13
+     },
+     {
+      "kind": "drink",
+      "item": "lime margaritas",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "tequila shots",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "Corona",
+      "price": 6
+     }
+    ],
+    "note": "Dine-in only."
+   },
+   {
+    "days": [
+     5
+    ],
+    "title": "Friday specials",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "fish & chips",
+      "price": 19
+     },
+     {
+      "kind": "drink",
+      "item": "espresso martinis",
+      "price": 13
+     },
+     {
+      "kind": "drink",
+      "item": "Creemore",
+      "price": 8.75
+     }
+    ],
+    "note": "Dine-in only."
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Sunday specials",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "pot roast dinner",
+      "price": 23
+     },
+     {
+      "kind": "drink",
+      "item": "Caesars or mimosas",
+      "price": 7
+     },
+     {
+      "kind": "food",
+      "item": "pint of F&J lager & 1 lb wings",
+      "price": 16
+     },
+     {
+      "kind": "food",
+      "item": "pitcher of F&J lager & 2 lb wings",
+      "price": 36
+     }
+    ],
+    "note": "Dine-in only."
+   }
+  ],
+  "food": [
+   "pub",
+   "wings",
+   "burgers",
+   "tacos",
+   "steak"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 1500
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1500
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1500
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1500
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJI6fHdHM1K4gRLBF96jf_i7c",
+  "menuUrl": "https://www.foxandjohnspub.com/liberty-main-menu",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Fox and John’s Liberty Village happy hour",
+    "url": "https://www.foxandjohnspub.com/happy-hour-liberty",
+    "date": "2026-04"
+   },
+   {
+    "label": "Fox and John’s Liberty Village specials",
+    "url": "https://www.foxandjohnspub.com/liberty-menu",
+    "date": "2026-08"
+   }
+  ],
+  "phone": "(416) 535-2337",
+  "website": "https://www.foxandjohnspub.com/liberty-village?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+  "googleMapsUrl": "https://maps.google.com/?cid=13225945346325942572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "local-public-eatery",
+  "name": "LOCAL Public Eatery",
+  "category": "Pub & grill",
+  "vibe": "bar",
+  "address": "171 E Liberty St Unit 100",
+  "lat": 43.638384,
+  "lng": -79.419355,
+  "tags": [
+   "Late-night happy hour",
+   "Shuffleboard",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "start": 840,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "LPE house lager (0.35 L)",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "domestic draft (0.35 L)",
+      "price": 6.5
+     },
+     {
+      "kind": "drink",
+      "item": "espresso mar-tiny (1 oz)",
+      "price": 7
+     },
+     {
+      "kind": "drink",
+      "item": "Start Me Up (2 oz)",
+      "price": 10.25
+     },
+     {
+      "kind": "drink",
+      "item": "Hugo spritz",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "Old Smoky (2.5 oz)",
+      "price": 14
+     },
+     {
+      "kind": "drink",
+      "item": "$2 off glasses of wine"
+     },
+     {
+      "kind": "drink",
+      "item": "51% off wine bottles"
+     },
+     {
+      "kind": "drink",
+      "item": "$3 off margaritas and martinis"
+     },
+     {
+      "kind": "food",
+      "item": "chips & salsa",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "chips, dips & crudités",
+      "price": 14
+     },
+     {
+      "kind": "food",
+      "item": "hot wings",
+      "price": 16
+     },
+     {
+      "kind": "food",
+      "item": "fish tacos",
+      "price": 17.75
+     },
+     {
+      "kind": "food",
+      "item": "ahi tuna poké bowl",
+      "price": 19.75
+     },
+     {
+      "kind": "food",
+      "item": "nachos",
+      "price": 24.5
+     },
+     {
+      "kind": "food",
+      "item": "$5 off steaks"
+     }
+    ],
+    "note": "May differ on statutory holidays."
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 1260,
+    "end": 1500,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "LPE house lager (0.35 L)",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "domestic draft (0.35 L)",
+      "price": 6.5
+     },
+     {
+      "kind": "drink",
+      "item": "espresso mar-tiny (1 oz)",
+      "price": 7
+     },
+     {
+      "kind": "drink",
+      "item": "Start Me Up (2 oz)",
+      "price": 10.25
+     },
+     {
+      "kind": "drink",
+      "item": "Hugo spritz",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "Old Smoky (2.5 oz)",
+      "price": 14
+     },
+     {
+      "kind": "drink",
+      "item": "$2 off glasses of wine"
+     },
+     {
+      "kind": "drink",
+      "item": "51% off wine bottles"
+     },
+     {
+      "kind": "drink",
+      "item": "$3 off margaritas and martinis"
+     },
+     {
+      "kind": "food",
+      "item": "chips & salsa",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "chips, dips & crudités",
+      "price": 14
+     },
+     {
+      "kind": "food",
+      "item": "hot wings",
+      "price": 16
+     },
+     {
+      "kind": "food",
+      "item": "fish tacos",
+      "price": 17.75
+     },
+     {
+      "kind": "food",
+      "item": "ahi tuna poké bowl",
+      "price": 19.75
+     },
+     {
+      "kind": "food",
+      "item": "nachos",
+      "price": 24.5
+     },
+     {
+      "kind": "food",
+      "item": "$5 off steaks"
+     }
+    ],
+    "note": "9 PM to close. LOCAL’s weekly schedule starts Thursday’s at 10 PM. May differ on statutory holidays."
+   },
+   {
+    "days": [
+     5,
+     6
+    ],
+    "start": 1380,
+    "end": 1560,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "LPE house lager (0.35 L)",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "domestic draft (0.35 L)",
+      "price": 6.5
+     },
+     {
+      "kind": "drink",
+      "item": "espresso mar-tiny (1 oz)",
+      "price": 7
+     },
+     {
+      "kind": "drink",
+      "item": "Start Me Up (2 oz)",
+      "price": 10.25
+     },
+     {
+      "kind": "drink",
+      "item": "Hugo spritz",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "Old Smoky (2.5 oz)",
+      "price": 14
+     },
+     {
+      "kind": "drink",
+      "item": "$2 off glasses of wine"
+     },
+     {
+      "kind": "drink",
+      "item": "51% off wine bottles"
+     },
+     {
+      "kind": "drink",
+      "item": "$3 off margaritas and martinis"
+     },
+     {
+      "kind": "food",
+      "item": "chips & salsa",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "chips, dips & crudités",
+      "price": 14
+     },
+     {
+      "kind": "food",
+      "item": "hot wings",
+      "price": 16
+     },
+     {
+      "kind": "food",
+      "item": "fish tacos",
+      "price": 17.75
+     },
+     {
+      "kind": "food",
+      "item": "ahi tuna poké bowl",
+      "price": 19.75
+     },
+     {
+      "kind": "food",
+      "item": "nachos",
+      "price": 24.5
+     },
+     {
+      "kind": "food",
+      "item": "$5 off steaks"
+     }
+    ],
+    "note": "11 PM to close. May differ on statutory holidays."
+   },
+   {
+    "days": [
+     6
+    ],
+    "start": 600,
+    "end": 840,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "LPE house lager (0.35 L)",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "domestic draft (0.35 L)",
+      "price": 6.5
+     },
+     {
+      "kind": "drink",
+      "item": "espresso mar-tiny (1 oz)",
+      "price": 7
+     },
+     {
+      "kind": "drink",
+      "item": "Start Me Up (2 oz)",
+      "price": 10.25
+     },
+     {
+      "kind": "drink",
+      "item": "Hugo spritz",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "Old Smoky (2.5 oz)",
+      "price": 14
+     },
+     {
+      "kind": "drink",
+      "item": "$2 off glasses of wine"
+     },
+     {
+      "kind": "drink",
+      "item": "51% off wine bottles"
+     },
+     {
+      "kind": "drink",
+      "item": "$3 off margaritas and martinis"
+     }
+    ],
+    "note": "Drinks only. Listed on the location page, not the menu."
+   }
+  ],
+  "deals": "venue",
+  "food": [
+   "burgers",
+   "wings",
+   "tacos",
+   "steak",
+   "pub"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 1500
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1500
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1500
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1500
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJ3SpxhwM1K4gRGJucBXQA6yU",
+  "menuUrl": "https://localpubliceatery.com/neighbourhoods/liberty-village/menu/",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "LOCAL Liberty Village menu (happy hour)",
+    "url": "https://localpubliceatery.com/neighbourhoods/liberty-village/menu/",
+    "date": "2026-10"
+   },
+   {
+    "label": "LOCAL Liberty Village",
+    "url": "https://localpubliceatery.com/neighbourhoods/liberty-village/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(416) 901-8351",
+  "website": "https://localpubliceatery.com/neighbourhoods/liberty-village/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2732278097240693528&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "nodo-liberty",
+  "name": "NODO Liberty",
+  "category": "Italian",
+  "vibe": "restaurant",
+  "address": "120 Lynn Williams St",
+  "lat": 43.639061,
+  "lng": -79.417727,
+  "tags": [
+   "Aperitivo hour",
+   "Big patio",
+   "Weekend brunch"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "start": 840,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "bottled beer (Moretti, Heineken)",
+      "price": 7
+     },
+     {
+      "kind": "drink",
+      "item": "house wine",
+      "price": 8
+     },
+     {
+      "kind": "drink",
+      "item": "draft (Heineken, Asahi)",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "Peroni draft",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "mini cocktails (espresso martini, margarita, mojito…)",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "snacks (focaccia, shishitos, smashed potatoes…)",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "pizzettas, meatballs or ricotta crostone",
+      "price": 12
+     }
+    ],
+    "note": "Aperitivo hour. Not on game days, holidays or during special events."
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     3
+    ],
+    "title": "Seashells & Vino",
+    "start": 1020,
+    "end": 1260,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "oysters",
+      "price": 2
+     },
+     {
+      "kind": "drink",
+      "item": "Half-price select wine bottles"
+     }
+    ],
+    "note": "5 PM to close."
+   }
+  ],
+  "food": [
+   "pizza",
+   "pasta",
+   "oysters"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJFc8Ovjw1K4gRTRm14OeEK3k",
+  "menuUrl": "https://www.nodoliberty.ca/menu",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "NODO Liberty aperitivo menu",
+    "url": "https://www.nodoliberty.ca/menu?location=Lynn+Williams+Street&menu=aperitivo",
+    "date": "2026-10"
+   },
+   {
+    "label": "NODO Liberty",
+    "url": "https://www.nodoliberty.ca/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(647) 368-8110",
+  "website": "http://www.nodorestaurant.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8731218434030115149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "liberty-soho",
+  "name": "Liberty Soho",
+  "category": "Bar & kitchen",
+  "vibe": "bar",
+  "address": "139 E Liberty St",
+  "lat": 43.63847,
+  "lng": -79.41683,
+  "tags": [
+   "Late-night happy hour",
+   "Patio",
+   "Weekend brunch"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 960,
+    "end": 1080,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Liberty lager, Ace Hill pilsner or Blanche de Chambly",
+      "price": 8
+     },
+     {
+      "kind": "drink",
+      "item": "Mill Street Organic or Cottage Springs",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "Stella Artois",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "house wine",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "martinis",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "spritzes",
+      "price": 12
+     },
+     {
+      "kind": "food",
+      "item": "chips & guac",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "wings",
+      "price": 15
+     },
+     {
+      "kind": "food",
+      "item": "poutine, nachos, sliders or spinach dip",
+      "price": 15
+     }
+    ]
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 1260,
+    "end": 1440,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Liberty lager, Ace Hill pilsner or Blanche de Chambly",
+      "price": 8
+     },
+     {
+      "kind": "drink",
+      "item": "Mill Street Organic or Cottage Springs",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "Stella Artois",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "house wine",
+      "price": 9
+     },
+     {
+      "kind": "drink",
+      "item": "martinis",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "spritzes",
+      "price": 12
+     },
+     {
+      "kind": "food",
+      "item": "chips & guac",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "wings",
+      "price": 15
+     },
+     {
+      "kind": "food",
+      "item": "poutine, nachos, sliders or spinach dip",
+      "price": 15
+     }
+    ],
+    "note": "9 PM to close."
+   }
+  ],
+  "deals": "venue",
+  "food": [
+   "wings",
+   "snacks",
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups",
+   "dogs"
+  ],
+  "placeId": "ChIJBeQ5y5o1K4gRAQpbk72P918",
+  "menuUrl": "https://www.liberty-soho.com/menu-1",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Liberty Soho happy hour menu",
+    "url": "https://www.liberty-soho.com/happy-hour",
+    "date": "2025-08"
+   }
+  ],
+  "phone": "(416) 477-7972",
+  "website": "http://liberty-soho.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6915153797234493953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "left-field-brewery",
+  "name": "Left Field Brewery",
+  "category": "Brewery taproom",
+  "vibe": "brewery",
+  "address": "40 Hanna Ave Ste G1",
+  "lat": 43.638851,
+  "lng": -79.419939,
+  "tags": [
+   "Brewed on site",
+   "Courtyard beer garden",
+   "Pub chess Tuesdays"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Half-price wings",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "Half-price wings"
+     }
+    ],
+    "note": "All day. Restrictions apply; ask your server."
+   }
+  ],
+  "food": [
+   "wings",
+   "burgers",
+   "pub"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups",
+   "dogs"
+  ],
+  "placeId": "ChIJ7fgNALk1K4gRTr_lqp16OO8",
+  "menuUrl": "https://www.leftfieldbrewery.ca/",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Left Field Liberty Village events calendar",
+    "url": "https://www.leftfieldbrewery.ca/events/liberty-village-calendar",
+    "date": "2026-08"
+   }
+  ],
+  "phone": "(416) 350-1958",
+  "website": "https://www.leftfieldbrewery.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17237662391356211022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "kinton-ramen",
+  "name": "KINTON RAMEN Liberty Village",
+  "category": "Ramen",
+  "vibe": "casual",
+  "address": "153 Liberty St",
+  "lat": 43.637409,
+  "lng": -79.424721,
+  "tags": [
+   "Ramen"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "start": 840,
+    "end": 1080,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Sapporo draft (16 oz)",
+      "price": 5.99
+     },
+     {
+      "kind": "food",
+      "item": "20% off select sides (gyoza, karaage, takoyaki…)"
+     },
+     {
+      "kind": "food",
+      "item": "Free Coca-Cola drink with a pork donburi"
+     }
+    ],
+    "note": "Dine-in only. A chain-wide offer at participating KINTON locations."
+   }
+  ],
+  "deals": "venue",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1350
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1350
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1350
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1350
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1350
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1350
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1350
+   }
+  ],
+  "placeId": "ChIJKdCyeck1K4gRAhAPprhM8Mw",
+  "menuUrl": "https://kintonramen.com/menu/ontario/",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "KINTON RAMEN happy hour",
+    "url": "https://kintonramen.com/happy-hour/",
+    "date": "2026-07"
+   }
+  ],
+  "phone": "(647) 368-8551",
+  "website": "https://www.kintonramen.com/location/kinton-ramen-liberty-village/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing&utm_content=kinton-ramen-liberty-village",
+  "googleMapsUrl": "https://maps.google.com/?cid=14767387534091554818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "injapan",
+  "name": "INJapan Japanese Restaurant",
+  "category": "Sushi",
+  "vibe": "casual",
+  "address": "124 Atlantic Ave",
+  "lat": 43.639722,
+  "lng": -79.421398,
+  "tags": [
+   "Lunch bento deals"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Monday lunch bento",
+    "start": 690,
+    "end": 930,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "sushi bento (reg. $16.95)",
+      "price": 14.95
+     }
+    ],
+    "note": "Lunch only, not on holidays."
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Tuesday lunch bento",
+    "start": 690,
+    "end": 930,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "salmon teriyaki bento (reg. $16.95)",
+      "price": 14.95
+     }
+    ],
+    "note": "Lunch only, not on holidays."
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wednesday lunch bento",
+    "start": 690,
+    "end": 930,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "bulgogi bento (reg. $16.95)",
+      "price": 14.95
+     }
+    ],
+    "note": "Lunch only, not on holidays."
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Thursday lunch bento",
+    "start": 690,
+    "end": 930,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "chicken teriyaki bento (reg. $16.95)",
+      "price": 14.95
+     }
+    ],
+    "note": "Lunch only, not on holidays."
+   },
+   {
+    "days": [
+     5
+    ],
+    "title": "Friday lunch bento",
+    "start": 690,
+    "end": 930,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "sashimi bento (reg. $17.95)",
+      "price": 15.95
+     }
+    ],
+    "note": "Lunch only, not on holidays."
+   },
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "title": "Lunch maki special",
+    "start": 690,
+    "end": 930,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "any 2 maki rolls with miso soup",
+      "price": 13.95
+     }
+    ],
+    "note": "Lunch only, not on holidays."
+   }
+  ],
+  "food": [
+   "sushi"
+  ],
+  "hours": [
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 900,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJ9dTNPwE1K4gR1sDDb4ThZAY",
+  "menuUrl": "https://www.injapan.ca/",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "INJapan menu",
+    "url": "https://www.injapan.ca/",
+    "date": "2026"
+   }
+  ],
+  "phone": "(416) 516-4648",
+  "website": "https://www.injapan.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=460741020825665750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "chiang-mai",
+  "name": "Chiang Mai",
+  "category": "Thai",
+  "vibe": "restaurant",
+  "address": "171 E Liberty St Unit 144",
+  "lat": 43.638156,
+  "lng": -79.417633,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "thai"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJYwH_c7Y1K4gRNIoE81lSDNE",
+  "phone": "(647) 342-8424",
+  "website": "http://chiangmai.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15063505399930194484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "mildreds-temple-kitchen",
+  "name": "Mildred’s Temple Kitchen",
+  "category": "Brunch",
+  "vibe": "restaurant",
+  "address": "85 Hanna Ave #104",
+  "lat": 43.640174,
+  "lng": -79.420049,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "diner"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 540,
+    "close": 900
+   },
+   {
+    "day": 1,
+    "open": 600,
+    "close": 900
+   },
+   {
+    "day": 2,
+    "open": 600,
+    "close": 900
+   },
+   {
+    "day": 3,
+    "open": 600,
+    "close": 900
+   },
+   {
+    "day": 4,
+    "open": 600,
+    "close": 900
+   },
+   {
+    "day": 5,
+    "open": 600,
+    "close": 900
+   },
+   {
+    "day": 6,
+    "open": 540,
+    "close": 900
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups",
+   "dogs"
+  ],
+  "placeId": "ChIJI4DOYAE1K4gRrXtqciHmAlI",
+  "phone": "(416) 588-5695",
+  "website": "https://mildreds.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5909538692391402413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "black-sheep",
+  "name": "Black Sheep",
+  "category": "Rooftop cocktail bar",
+  "vibe": "cocktails",
+  "address": "165 E Liberty St 3rd Floor",
+  "lat": 43.638442,
+  "lng": -79.417237,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "snacks"
+  ],
+  "hours": [
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 1020,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 1020,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJxTow9-Q1K4gRBs9huZJqHkc",
+  "phone": "(416) 535-8787",
+  "website": "https://fabrestaurants.ca/restaurant/black-sheep/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5124650604402167558&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "kibo-sushi-house",
+  "name": "Kibo Sushi House",
+  "category": "Sushi",
+  "vibe": "casual",
+  "address": "171 E Liberty St #146",
+  "lat": 43.638189,
+  "lng": -79.417387,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "sushi"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "live-music",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJJRJq9QM1K4gR6TKN2r-ooSA",
+  "phone": "(647) 347-8082",
+  "website": "http://www.kibosushi.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2351346022423016169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "paris-steak",
+  "name": "Paris Steak",
+  "category": "Steak frites",
+  "vibe": "restaurant",
+  "address": "120 Atlantic Ave",
+  "lat": 43.639603,
+  "lng": -79.421355,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "steak",
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "dogs"
+  ],
+  "placeId": "ChIJM1ahfq01K4gR3o0ImrxKokk",
+  "phone": "(416) 536-4444",
+  "website": "http://www.parissteak.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5305885484894424542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "wilburs-taco-shop",
+  "name": "Wilbur’s Taco Shop",
+  "category": "Tacos & margaritas",
+  "vibe": "casual",
+  "address": "50 Atlantic Ave",
+  "lat": 43.637578,
+  "lng": -79.42053,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "tacos"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1290
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1290
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1290
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1290
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1290
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1290
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1290
+   }
+  ],
+  "amenities": [
+   "patio"
+  ],
+  "placeId": "ChIJ9X-DgH41K4gRwbXocBx5I1E",
+  "website": "http://wilburstacoshop.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5846649904317380033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "thai-barn-na",
+  "name": "Thai Barn Na",
+  "category": "Thai",
+  "vibe": "casual",
+  "address": "127 Jefferson Ave",
+  "lat": 43.639514,
+  "lng": -79.421839,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "thai"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1350
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1350
+   }
+  ],
+  "amenities": [
+   "patio"
+  ],
+  "placeId": "ChIJK7gnKJk1K4gR6MeIzVpZs24",
+  "phone": "(416) 534-8222",
+  "website": "https://www.thaibarnna.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7976817611533502440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "caffino",
+  "name": "Caffino",
+  "category": "Italian",
+  "vibe": "restaurant",
+  "address": "1185 King St W",
+  "lat": 43.639171,
+  "lng": -79.425454,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "pasta"
+  ],
+  "hours": [
+   {
+    "day": 2,
+    "open": 690,
+    "close": 930
+   },
+   {
+    "day": 2,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 930
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 930
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 930
+   },
+   {
+    "day": 5,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 1020,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups",
+   "dogs"
+  ],
+  "placeId": "ChIJw8wXAao1K4gRio0SyJ5QaUg",
+  "phone": "(416) 588-9010",
+  "website": "http://caffino.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5217790286177144202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "school",
+  "name": "SCHOOL",
+  "category": "Brunch",
+  "vibe": "restaurant",
+  "address": "70 Fraser Ave",
+  "lat": 43.637756,
+  "lng": -79.424408,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "diner"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 540,
+    "close": 960
+   },
+   {
+    "day": 1,
+    "open": 600,
+    "close": 960
+   },
+   {
+    "day": 2,
+    "open": 600,
+    "close": 960
+   },
+   {
+    "day": 3,
+    "open": 600,
+    "close": 960
+   },
+   {
+    "day": 4,
+    "open": 600,
+    "close": 960
+   },
+   {
+    "day": 5,
+    "open": 600,
+    "close": 960
+   },
+   {
+    "day": 6,
+    "open": 540,
+    "close": 960
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups",
+   "dogs"
+  ],
+  "placeId": "ChIJJYHcQwc1K4gRHt_KHlWC7JQ",
+  "phone": "(416) 588-0005",
+  "website": "http://www.schooltoronto.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10731095314217492254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "oeb-breakfast-co",
+  "name": "OEB Breakfast Co.",
+  "category": "Breakfast & brunch",
+  "vibe": "casual",
+  "address": "125 E Liberty St",
+  "lat": 43.638376,
+  "lng": -79.416333,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "diner"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 480,
+    "close": 960
+   },
+   {
+    "day": 1,
+    "open": 420,
+    "close": 840
+   },
+   {
+    "day": 2,
+    "open": 420,
+    "close": 840
+   },
+   {
+    "day": 3,
+    "open": 420,
+    "close": 840
+   },
+   {
+    "day": 4,
+    "open": 420,
+    "close": 840
+   },
+   {
+    "day": 5,
+    "open": 420,
+    "close": 900
+   },
+   {
+    "day": 6,
+    "open": 480,
+    "close": 960
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJf4-Dbvs1K4gRRurSDCy8_ww",
+  "phone": "(416) 238-1152",
+  "website": "https://eatoeb.com/locations/toronto-libertyvillage/",
+  "googleMapsUrl": "https://maps.google.com/?cid=936674144896084550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "bbq-chicken",
+  "name": "bb.q Chicken",
+  "category": "Korean fried chicken",
+  "vibe": "casual",
+  "address": "49 E Liberty St Unit 3",
+  "lat": 43.638939,
+  "lng": -79.411694,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "korean",
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 900,
+    "close": 1500
+   },
+   {
+    "day": 1,
+    "open": 900,
+    "close": 1500
+   },
+   {
+    "day": 2,
+    "open": 900,
+    "close": 1500
+   },
+   {
+    "day": 3,
+    "open": 900,
+    "close": 1500
+   },
+   {
+    "day": 4,
+    "open": 900,
+    "close": 1500
+   },
+   {
+    "day": 5,
+    "open": 900,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 900,
+    "close": 1560
+   }
+  ],
+  "placeId": "ChIJi047Rjw1K4gRQUhh6J1psNQ",
+  "phone": "(416) 531-2927",
+  "website": "https://bbqchickenca.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15325865658871269441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "merci-mon-ami",
+  "name": "Merci Mon Ami",
+  "category": "Lunch bistro",
+  "vibe": "casual",
+  "address": "171 E Liberty St",
+  "lat": 43.638333,
+  "lng": -79.419167,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 1,
+    "open": 540,
+    "close": 900
+   },
+   {
+    "day": 2,
+    "open": 540,
+    "close": 900
+   },
+   {
+    "day": 3,
+    "open": 540,
+    "close": 900
+   },
+   {
+    "day": 4,
+    "open": 540,
+    "close": 900
+   },
+   {
+    "day": 5,
+    "open": 540,
+    "close": 900
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 1080
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups",
+   "dogs"
+  ],
+  "placeId": "ChIJ34hMBAQ1K4gRxXsS2UNA0Gg",
+  "phone": "(647) 436-3831",
+  "website": "http://www.mercimonami.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7552607235249175493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "corks",
+  "name": "Corks Beer & Wine Bar",
+  "category": "Beer & wine bar",
+  "vibe": "wine",
+  "address": "1100 King St W",
+  "lat": 43.6401,
+  "lng": -79.422649,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 1,
+    "open": 540,
+    "close": 1020
+   },
+   {
+    "day": 2,
+    "open": 540,
+    "close": 1020
+   },
+   {
+    "day": 3,
+    "open": 540,
+    "close": 1020
+   },
+   {
+    "day": 4,
+    "open": 540,
+    "close": 1020
+   },
+   {
+    "day": 5,
+    "open": 540,
+    "close": 1020
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJSSzj_H81K4gRmmAfJHugSY4",
+  "website": "https://www.longos.com/in-store-services/corks",
+  "googleMapsUrl": "https://maps.google.com/?cid=10252902477433102490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ }
+]

@@ -1,0 +1,727 @@
+openapi: 3.1.0
+info:
+  title: Happy HR API
+  version: '1'
+  description: |
+    The backend behind the Happy HR web and iOS apps: the curated venue list
+    and the community layer (people adding deals and saying whether they
+    worked). Hosted on Cloudflare Pages Functions with a D1 database.
+
+    Conventions:
+    - Times are minutes after midnight, Toronto time (America/Toronto). An end
+      past 1440 runs into the next day (1500 = 1 AM).
+    - Weekdays are 0 = Sunday … 6 = Saturday.
+    - Errors are `{ "error": "message for people" }` with a 4xx/5xx status.
+    - Each install sends an anonymous `device` id it makes once and keeps (a
+      UUID is ideal; it's stored lowercased). Accounts are optional: sign in
+      with a 6-digit code sent by email, then send `Authorization: Bearer
+      <token>` to the account endpoints (favourites follow you).
+servers:
+  - url: https://happy-hr-beta.pages.dev
+    description: Beta
+  - url: http://localhost:5173
+    description: Local (wrangler pages dev)
+paths:
+  /api/health:
+    get:
+      summary: API status and the current venue data version
+      operationId: getHealth
+      responses:
+        '200':
+          description: Up
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Health' }
+        '503':
+          description: The database isn't answering
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Health' }
+  /api/venues:
+    get:
+      summary: One area's listed venues, with happy hours, daily specials and food tags
+      description: |
+        The same data the web app bundles. Send the last ETag in If-None-Match;
+        a 304 means nothing changed. Cache it on device (one copy per area) so the
+        app works offline. Every payload also lists all the areas, for the area menu
+        and for working out which area someone is in.
+      operationId: getVenues
+      parameters:
+        - in: query
+          name: area
+          required: false
+          description: An area id from `areas` ("kensington", "guelph"). Omitted means Ossington, as apps from before areas ask.
+          schema: { type: string }
+        - in: header
+          name: If-None-Match
+          required: false
+          schema: { type: string }
+      responses:
+        '200':
+          description: The venue list
+          headers:
+            ETag: { schema: { type: string }, description: The quoted data version }
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/VenuesPayload' }
+        '304':
+          description: Unchanged since the ETag you sent
+        '404': { $ref: '#/components/responses/Problem' }
+  /api/community:
+    get:
+      summary: Community-added deals and each venue's check-ins from the last 30 days
+      operationId: getCommunity
+      responses:
+        '200':
+          description: Visible submissions (oldest first) and vote tallies keyed by venue id
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/CommunityData' }
+  /api/submissions:
+    post:
+      summary: Add a happy hour or a daily special
+      description: |
+        Goes live right away, marked Community; the owner can hide it. Limits:
+        10 a day per device and 40 per network. Sent with the venue's own key
+        (`venueKey`), it's marked From the venue instead and isn't rate limited;
+        a key for a different venue gets 403.
+      operationId: createSubmission
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/SubmissionInput' }
+      responses:
+        '201':
+          description: Created
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [id]
+                properties:
+                  id: { type: string }
+        '400': { $ref: '#/components/responses/Problem' }
+        '403': { $ref: '#/components/responses/Problem' }
+        '429': { $ref: '#/components/responses/Problem' }
+  /api/claims:
+    post:
+      summary: Ask to manage a venue's page
+      description: |
+        Staff of a listed venue ask to post its deals. The owner checks it's
+        them, approves it on the owner page, and sends a link with a venue key
+        (`/?venuekey=HHV-…`). 3 a day per device or network.
+      operationId: createClaim
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/ClaimInput' }
+      responses:
+        '201':
+          description: Received
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [id]
+                properties:
+                  id: { type: string }
+        '400': { $ref: '#/components/responses/Problem' }
+        '429': { $ref: '#/components/responses/Problem' }
+        '503': { $ref: '#/components/responses/Problem' }
+  /api/venue-key:
+    post:
+      summary: Which venue a venue key belongs to
+      description: The app checks a key from a `?venuekey=` link, then keeps it (web localStorage; iOS Keychain) to post as that venue.
+      operationId: checkVenueKey
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [key]
+              properties:
+                key: { type: string, pattern: '^[A-Za-z0-9-]{8,40}$' }
+      responses:
+        '200':
+          description: The key is live
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [venueId]
+                properties:
+                  venueId: { type: string }
+                  areaId: { type: string, description: The venue's area, so the app can open it }
+        '400': { $ref: '#/components/responses/Problem' }
+        '404': { $ref: '#/components/responses/Problem' }
+        '503': { $ref: '#/components/responses/Problem' }
+  /api/votes:
+    post:
+      summary: Say whether a venue's deal worked today
+      description: One vote per device, venue and Toronto day; voting again replaces it. 60 a day per device, 300 per network.
+      operationId: createVote
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/VoteInput' }
+      responses:
+        '200':
+          description: Saved
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [ok]
+                properties:
+                  ok: { type: boolean }
+        '400': { $ref: '#/components/responses/Problem' }
+        '429': { $ref: '#/components/responses/Problem' }
+  /api/auth/code:
+    post:
+      summary: Email a 6-digit sign-in code
+      description: |
+        The code works for 10 minutes and 5 tries; asking again replaces it. A new
+        email gets an account when the code is verified. 5 codes an hour per email,
+        30 a day per network.
+      operationId: requestSignInCode
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [email]
+              properties:
+                email: { type: string, format: email }
+      responses:
+        '200':
+          description: Sent
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [sent]
+                properties:
+                  sent: { type: boolean }
+                  devCode: { type: string, description: Local testing only (DEV_SHOW_CODE); never in production }
+        '400': { $ref: '#/components/responses/Problem' }
+        '429': { $ref: '#/components/responses/Problem' }
+        '502': { $ref: '#/components/responses/Problem' }
+        '503': { $ref: '#/components/responses/Problem' }
+  /api/auth/verify:
+    post:
+      summary: Check the code and sign this device in
+      operationId: verifySignInCode
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [email, code]
+              properties:
+                email: { type: string, format: email }
+                code: { type: string, pattern: '^[0-9]{6}$' }
+                device: { type: string, description: The install's anonymous device id }
+      responses:
+        '200':
+          description: Signed in. Keep the token somewhere safe (the Keychain on iOS).
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [token, account]
+                properties:
+                  token: { type: string }
+                  account: { $ref: '#/components/schemas/Account' }
+        '400': { $ref: '#/components/responses/Problem' }
+        '429': { $ref: '#/components/responses/Problem' }
+  /api/auth/sign-out:
+    post:
+      summary: End this device's session
+      operationId: signOut
+      security: [{ bearer: [] }]
+      responses:
+        '200':
+          description: Signed out (also when the token was already gone)
+          content:
+            application/json:
+              schema: { type: object, properties: { ok: { type: boolean } } }
+  /api/me:
+    get:
+      summary: Who's signed in on this device
+      operationId: getMe
+      security: [{ bearer: [] }]
+      responses:
+        '200':
+          description: The account
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [account]
+                properties:
+                  account: { $ref: '#/components/schemas/Account' }
+        '401': { $ref: '#/components/responses/Problem' }
+    patch:
+      summary: Set the chat name and/or agree to the chat rules
+      operationId: updateMe
+      security: [{ bearer: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { type: object, properties: { displayName: { type: string, maxLength: 24 }, chatRules: { type: boolean } } }
+      responses:
+        '200':
+          description: The account
+          content:
+            application/json:
+              schema: { type: object, properties: { account: { $ref: '#/components/schemas/Account' } } }
+        '400': { $ref: '#/components/responses/Problem' }
+        '401': { $ref: '#/components/responses/Problem' }
+    delete:
+      summary: Delete the account, its favourites, its chat messages and every signed-in device (revokes Apple access too)
+      operationId: deleteMe
+      security: [{ bearer: [] }]
+      responses:
+        '200':
+          description: Deleted
+          content:
+            application/json:
+              schema: { type: object, properties: { ok: { type: boolean } } }
+        '401': { $ref: '#/components/responses/Problem' }
+  /api/favourites:
+    get:
+      summary: The signed-in person's starred venues
+      operationId: getFavourites
+      security: [{ bearer: [] }]
+      responses:
+        '200':
+          description: Venue ids, oldest first
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Favourites' }
+        '401': { $ref: '#/components/responses/Problem' }
+    put:
+      summary: Replace the starred venues (apps merge the phone's and the account's first)
+      operationId: putFavourites
+      security: [{ bearer: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/Favourites' }
+      responses:
+        '200':
+          description: Saved; the stored list
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Favourites' }
+        '400': { $ref: '#/components/responses/Problem' }
+        '401': { $ref: '#/components/responses/Problem' }
+  /api/auth/apple:
+    post:
+      summary: Sign in with Apple (iOS)
+      description: |
+        The app sends Apple's identity token and the raw nonce (Apple got its SHA-256). Finds the
+        account by Apple's id, else joins an email-code account with the same verified email, else
+        makes one. Apple's first sign-in may include a first name, used as the chat name.
+      operationId: signInWithApple
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [identityToken, nonce]
+              properties:
+                identityToken: { type: string }
+                authorizationCode: { type: string, description: Kept only to revoke Apple access when the account is deleted }
+                nonce: { type: string }
+                givenName: { type: string }
+                device: { type: string }
+      responses:
+        '200':
+          description: Signed in
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [token, account]
+                properties:
+                  token: { type: string }
+                  account: { $ref: '#/components/schemas/Account' }
+        '400': { $ref: '#/components/responses/Problem' }
+        '401': { $ref: '#/components/responses/Problem' }
+  /api/chat:
+    get:
+      summary: The group chat's latest 50 messages, oldest first (or only newer ones with ?after=<id>)
+      description: Anyone can read. With a token, people you've blocked are left out. The app asks every few seconds while the chat is open.
+      operationId: getChat
+      parameters:
+        - { in: query, name: after, required: false, schema: { type: integer } }
+      responses:
+        '200':
+          description: Messages
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [messages]
+                properties:
+                  messages: { type: array, items: { $ref: '#/components/schemas/ChatMessage' } }
+    post:
+      summary: Post to the group chat
+      description: Needs a chat name and agreement to the rules (PATCH /api/me). Word filter; 3 s between messages, 60 an hour.
+      operationId: postChat
+      security: [{ bearer: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { type: object, required: [body], properties: { body: { type: string, maxLength: 500 } } }
+      responses:
+        '201':
+          description: Posted
+          content:
+            application/json:
+              schema: { type: object, properties: { message: { $ref: '#/components/schemas/ChatMessage' } } }
+        '400': { $ref: '#/components/responses/Problem' }
+        '401': { $ref: '#/components/responses/Problem' }
+        '403': { $ref: '#/components/responses/Problem' }
+        '429': { $ref: '#/components/responses/Problem' }
+  /api/chat/{id}:
+    delete:
+      summary: Delete your own message
+      operationId: deleteChatMessage
+      security: [{ bearer: [] }]
+      parameters:
+        - { in: path, name: id, required: true, schema: { type: integer } }
+      responses:
+        '200': { description: Deleted }
+        '403': { $ref: '#/components/responses/Problem' }
+  /api/chat/report:
+    post:
+      summary: Report a message; reports from 3 different people hide it until the owner looks
+      operationId: reportChatMessage
+      security: [{ bearer: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { type: object, required: [messageId], properties: { messageId: { type: integer }, reason: { type: string } } }
+      responses:
+        '200': { description: Reported }
+  /api/chat/blocks:
+    get:
+      summary: People you've blocked
+      operationId: getChatBlocks
+      security: [{ bearer: [] }]
+      responses:
+        '200': { description: '{ blocked: [{ userId, name }] }' }
+    post:
+      summary: Block someone (their messages disappear for you)
+      operationId: blockChatUser
+      security: [{ bearer: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { type: object, required: [userId], properties: { userId: { type: string } } }
+      responses:
+        '200': { description: Blocked }
+    delete:
+      summary: Unblock someone
+      operationId: unblockChatUser
+      security: [{ bearer: [] }]
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { type: object, required: [userId], properties: { userId: { type: string } } }
+      responses:
+        '200': { description: Unblocked }
+components:
+  securitySchemes:
+    bearer:
+      type: http
+      scheme: bearer
+      description: The token from /api/auth/verify
+  responses:
+    Problem:
+      description: Rejected, with a message to show the person
+      content:
+        application/json:
+          schema: { $ref: '#/components/schemas/Problem' }
+  schemas:
+    Problem:
+      type: object
+      required: [error]
+      properties:
+        error: { type: string }
+    Health:
+      type: object
+      required: [ok, api, schemaVersion, dataVersion, database, time]
+      properties:
+        ok: { type: boolean }
+        api: { type: integer, description: API version (1) }
+        schemaVersion: { type: integer, description: Venue payload version; a bump means older apps should ask people to update }
+        dataVersion: { type: string, description: Same as the /api/venues ETag (unquoted) }
+        database: { type: string, enum: [ok, unavailable] }
+        time: { type: string, format: date-time }
+    Weekday:
+      type: integer
+      minimum: 0
+      maximum: 6
+      description: 0 = Sunday … 6 = Saturday
+    Minutes:
+      type: integer
+      minimum: 0
+      maximum: 1800
+      description: Minutes after midnight, Toronto time; may exceed 1440 for past-midnight ends
+    LatLng:
+      type: object
+      required: [lat, lng]
+      properties:
+        lat: { type: number }
+        lng: { type: number }
+    Special:
+      type: object
+      required: [kind, item]
+      properties:
+        kind: { type: string, enum: [drink, food] }
+        item: { type: string, description: 'Lowercase noun when priced ("pints" → "$6 pints"); a full phrase otherwise' }
+        price: { type: number, description: CAD }
+    HappyHourWindow:
+      type: object
+      required: [days, start, end, specials]
+      properties:
+        days: { type: array, items: { $ref: '#/components/schemas/Weekday' } }
+        start: { $ref: '#/components/schemas/Minutes' }
+        end: { $ref: '#/components/schemas/Minutes' }
+        specials: { type: array, items: { $ref: '#/components/schemas/Special' } }
+        note: { type: string }
+        community: { $ref: '#/components/schemas/CommunityRef' }
+    DailySpecial:
+      type: object
+      description: A deal on certain days of the week. Without start/end it runs whenever the venue is open.
+      required: [days, specials]
+      properties:
+        days: { type: array, items: { $ref: '#/components/schemas/Weekday' } }
+        title: { type: string, description: 'e.g. "Taco Tuesday"' }
+        specials: { type: array, items: { $ref: '#/components/schemas/Special' } }
+        start: { $ref: '#/components/schemas/Minutes' }
+        end: { $ref: '#/components/schemas/Minutes' }
+        note: { type: string }
+        community: { $ref: '#/components/schemas/CommunityRef' }
+    CommunityRef:
+      type: object
+      required: [id, createdAt]
+      properties:
+        id: { type: string }
+        createdAt: { type: string, format: date-time }
+        byVenue: { type: boolean, description: Posted by the venue's own staff }
+    OpenSpan:
+      type: object
+      required: [day, open, close]
+      description: One stretch a venue is open. A close past 1440 runs into the next day; a span ending at 1440 joins the next day's span that opens at 0 (24-hour places).
+      properties:
+        day: { $ref: '#/components/schemas/Weekday' }
+        open: { $ref: '#/components/schemas/Minutes' }
+        close: { $ref: '#/components/schemas/Minutes' }
+    Amenity:
+      type: string
+      enum: [patio, live-music, sports, groups, dogs]
+    FoodType:
+      type: string
+      enum: [pizza, pasta, tacos, burgers, wings, oysters, sushi, korean, vietnamese, thai, asian, middle-eastern, greek, french, spanish, steak, pub, vegan, diner, snacks]
+    FoodTypeInfo:
+      type: object
+      required: [id, label, emoji, words]
+      properties:
+        id: { $ref: '#/components/schemas/FoodType' }
+        label: { type: string }
+        emoji: { type: string }
+        words: { type: array, items: { type: string }, description: Lowercase words that count as a mention in a category or special }
+    DealSource:
+      type: object
+      required: [label, url, date]
+      properties:
+        label: { type: string }
+        url: { type: string, format: uri }
+        date: { type: string, description: '"2026-09", "2025-10-14" or "undated"' }
+    Venue:
+      type: object
+      required: [id, name, category, vibe, address, lat, lng, tags, happyHours, deals]
+      properties:
+        id: { type: string }
+        name: { type: string }
+        category: { type: string }
+        vibe: { type: string, enum: [bar, brewery, wine, cocktails, restaurant, casual] }
+        address: { type: string }
+        lat: { type: number }
+        lng: { type: number }
+        tags: { type: array, items: { type: string } }
+        happyHours: { type: array, items: { $ref: '#/components/schemas/HappyHourWindow' } }
+        dailySpecials: { type: array, items: { $ref: '#/components/schemas/DailySpecial' } }
+        food: { type: array, items: { $ref: '#/components/schemas/FoodType' } }
+        hours: { type: array, items: { $ref: '#/components/schemas/OpenSpan' }, description: Opening hours; absent when unknown }
+        amenities: { type: array, items: { $ref: '#/components/schemas/Amenity' } }
+        placeId: { type: string, description: Google Places id, for photos (Places SDK on iOS) }
+        menuUrl: { type: string, format: uri }
+        checked: { type: string, description: 'When we last checked the deals, e.g. "2026-10-26"' }
+        deals:
+          type: string
+          enum: [venue, reported, community, sample, none]
+          description: Where the deal details come from
+        sources: { type: array, items: { $ref: '#/components/schemas/DealSource' } }
+        phone: { type: string, description: 'Display format, e.g. "(416) 532-8000"' }
+        website: { type: string, format: uri }
+        googleMapsUrl: { type: string, format: uri }
+        booking:
+          type: object
+          required: [provider, url]
+          properties:
+            provider: { type: string, enum: [opentable, resy, google] }
+            url: { type: string, format: uri }
+    Area:
+      type: object
+      required: [id, name, city, center, origin, spine, bearing, bounds]
+      properties:
+        id: { type: string }
+        name: { type: string }
+        city: { type: string }
+        center: { $ref: '#/components/schemas/LatLng' }
+        origin:
+          description: Where walking times start when the person's location is unknown
+          allOf:
+            - $ref: '#/components/schemas/LatLng'
+            - type: object
+              required: [label]
+              properties:
+                label: { type: string }
+        spine: { type: array, items: { $ref: '#/components/schemas/LatLng' }, minItems: 2, maxItems: 2, description: Two points along the main street, for label placement }
+        bearing: { type: number, description: Map rotation (degrees) for the area (-16.7 lines up with Toronto's street grid) }
+        bounds:
+          type: object
+          description: What the map frames when the area opens (downtown, for a city)
+          required: [south, west, north, east]
+          properties:
+            south: { type: number }
+            west: { type: number }
+            north: { type: number }
+            east: { type: number }
+        region: { type: array, items: { $ref: '#/components/schemas/LatLng' }, minItems: 3, description: The area's outline. Spots within 45 m of it belong (0 m for a city); someone inside it, or within 3 km of it, is in this area }
+        addressCity: { type: string, description: For a whole city, the city its spots' addresses are in }
+        covers: { type: string, description: 'What the list covers, after "in": "Kensington Market, from Bathurst to Spadina and College to Dundas"' }
+    VenuesPayload:
+      type: object
+      required: [schemaVersion, version, area, areas, foodTypes, venues]
+      properties:
+        schemaVersion: { type: integer }
+        version: { type: string }
+        area: { $ref: '#/components/schemas/Area' }
+        areas: { type: array, items: { $ref: '#/components/schemas/Area' }, description: Every area, in menu order }
+        foodTypes: { type: array, items: { $ref: '#/components/schemas/FoodTypeInfo' } }
+        venues: { type: array, items: { $ref: '#/components/schemas/Venue' } }
+    SubmissionInput:
+      type: object
+      required: [device, venueName, days, specials]
+      properties:
+        device: { type: string, pattern: '^[A-Za-z0-9-]{8,64}$' }
+        kind: { type: string, enum: [happy-hour, daily], default: happy-hour }
+        title: { type: string, maxLength: 40, description: A daily special's name }
+        venueId: { type: string, description: A listed venue; omit for a new place }
+        venueName: { type: string, maxLength: 80 }
+        address: { type: string, maxLength: 120, description: Required for a new place }
+        lat: { type: number }
+        lng: { type: number }
+        days: { type: array, items: { $ref: '#/components/schemas/Weekday' }, minItems: 1 }
+        start: { $ref: '#/components/schemas/Minutes', description: Required for a happy hour; omit both for an all-day daily special }
+        end: { $ref: '#/components/schemas/Minutes' }
+        specials: { type: array, items: { $ref: '#/components/schemas/Special' }, minItems: 1, maxItems: 6 }
+        note: { type: string, maxLength: 280 }
+        venueKey: { type: string, description: The venue's own key; requires venueId and marks the deal From the venue }
+    ClaimInput:
+      type: object
+      required: [device, venueId, name, contact]
+      properties:
+        device: { type: string, pattern: '^[A-Za-z0-9-]{8,64}$' }
+        venueId: { type: string, description: A listed venue (not one the community added) }
+        name: { type: string, maxLength: 80 }
+        role: { type: string, maxLength: 40 }
+        contact: { type: string, maxLength: 120, description: An email address, or a phone number with at least 10 digits }
+        message: { type: string, maxLength: 280 }
+    CommunitySubmission:
+      type: object
+      required: [id, kind, venueName, days, specials, createdAt]
+      properties:
+        id: { type: string }
+        kind: { type: string, enum: [happy-hour, daily] }
+        title: { type: string }
+        venueId: { type: string }
+        venueName: { type: string }
+        address: { type: string }
+        lat: { type: number }
+        lng: { type: number }
+        days: { type: array, items: { $ref: '#/components/schemas/Weekday' } }
+        start: { $ref: '#/components/schemas/Minutes' }
+        end: { $ref: '#/components/schemas/Minutes' }
+        specials: { type: array, items: { $ref: '#/components/schemas/Special' } }
+        note: { type: string }
+        byVenue: { type: boolean, description: Posted with the venue's key }
+        createdAt: { type: string, format: date-time }
+    VoteInput:
+      type: object
+      required: [device, venueId, worked]
+      properties:
+        device: { type: string, pattern: '^[A-Za-z0-9-]{8,64}$' }
+        venueId: { type: string }
+        worked: { type: boolean }
+    VoteTally:
+      type: object
+      required: [yes, no, lastYes, lastNo]
+      properties:
+        yes: { type: integer }
+        no: { type: integer }
+        lastYes: { type: [string, 'null'], format: date-time }
+        lastNo: { type: [string, 'null'], format: date-time }
+    CommunityData:
+      type: object
+      required: [submissions, votes]
+      properties:
+        submissions: { type: array, items: { $ref: '#/components/schemas/CommunitySubmission' } }
+        votes:
+          type: object
+          additionalProperties: { $ref: '#/components/schemas/VoteTally' }
+    Account:
+      type: object
+      required: [id, email, apple, displayName, chatRules]
+      properties:
+        id: { type: string }
+        email: { type: [string, 'null'], format: email, description: Null for an Apple account that hid its email }
+        apple: { type: boolean }
+        displayName: { type: [string, 'null'], description: The name shown in the chat }
+        chatRules: { type: boolean, description: Agreed to the chat rules }
+    ChatMessage:
+      type: object
+      required: [id, userId, name, body, createdAt]
+      properties:
+        id: { type: integer }
+        userId: { type: string }
+        name: { type: string }
+        body: { type: string }
+        createdAt: { type: string, format: date-time }
+    Favourites:
+      type: object
+      required: [venueIds]
+      properties:
+        venueIds:
+          type: array
+          maxItems: 300
+          items: { type: string, pattern: '^[a-z0-9][a-z0-9-]{0,79}$' }

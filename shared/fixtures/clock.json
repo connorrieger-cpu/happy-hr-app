@@ -1,0 +1,51 @@
+[
+  {
+    "instant": "2026-10-26T21:30:00Z",
+    "clock": {
+      "day": 1,
+      "minutes": 1050
+    }
+  },
+  {
+    "instant": "2026-03-08T06:59:00Z",
+    "clock": {
+      "day": 0,
+      "minutes": 119
+    }
+  },
+  {
+    "instant": "2026-03-08T07:01:00Z",
+    "clock": {
+      "day": 0,
+      "minutes": 181
+    }
+  },
+  {
+    "instant": "2026-11-01T05:30:00Z",
+    "clock": {
+      "day": 0,
+      "minutes": 90
+    }
+  },
+  {
+    "instant": "2026-11-01T06:30:00Z",
+    "clock": {
+      "day": 0,
+      "minutes": 90
+    }
+  },
+  {
+    "instant": "2026-12-31T04:59:00Z",
+    "clock": {
+      "day": 3,
+      "minutes": 1439
+    }
+  },
+  {
+    "instant": "2026-12-31T05:00:00Z",
+    "clock": {
+      "day": 4,
+      "minutes": 0
+    }
+  }
+]

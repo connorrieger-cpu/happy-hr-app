@@ -1,0 +1,102 @@
+/* Liquid glass material.
+   A translucent, saturated blur with a diagonal sheen, a bright top edge,
+   a soft inner shade along the bottom, and a specular rim drawn by ::before. */
+
+.glass {
+  position: relative;
+  isolation: isolate;
+  background:
+    linear-gradient(140deg, var(--glass-sheen), transparent 38%, transparent 70%, rgb(255 214 10 / 0.06)),
+    var(--glass-fill);
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(180%);
+  backdrop-filter: blur(var(--glass-blur)) saturate(180%);
+  border: 1px solid var(--glass-border);
+  box-shadow:
+    inset 0 1px 0 var(--glass-highlight),
+    inset 0 -1px 1px var(--glass-shade),
+    var(--glass-shadow);
+}
+
+.glass::before {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  padding: 1px;
+  pointer-events: none;
+  background: linear-gradient(
+    155deg,
+    var(--glass-rim),
+    transparent 28%,
+    transparent 64%,
+    rgb(255 214 10 / 0.38)
+  );
+  -webkit-mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  z-index: 1;
+}
+
+.glass--strong {
+  background:
+    linear-gradient(140deg, var(--glass-sheen), transparent 38%, transparent 70%, rgb(255 214 10 / 0.05)),
+    var(--glass-fill-strong);
+}
+
+/* Yellow-tinted glass for primary actions and live pins. */
+.glass--honey {
+  color: var(--on-honey);
+  background: var(--honey-fill);
+  border-color: rgb(255 246 200 / 0.8);
+  box-shadow:
+    var(--honey-bevel),
+    var(--honey-glow),
+    0 8px 20px rgb(0 0 0 / 0.3);
+}
+
+.glass--honey::before {
+  background: linear-gradient(155deg, rgb(255 255 255 / 0.95), transparent 35%, transparent 70%, rgb(255 255 255 / 0.4));
+}
+
+/* Chromium can refract what's behind the glass through an SVG displacement map.
+   The class is only added when that's supported (see lib/refraction.ts). */
+.supports-refraction .glass--refract {
+  -webkit-backdrop-filter: url(#liquid-refraction) blur(var(--glass-blur)) saturate(180%);
+  backdrop-filter: url(#liquid-refraction) blur(var(--glass-blur)) saturate(180%);
+}
+
+.glass-button {
+  display: inline-grid;
+  place-items: center;
+  min-width: 44px;
+  height: 44px;
+  padding: 0 14px;
+  border-radius: var(--radius-pill);
+  color: var(--text);
+  font: 600 14px/1 var(--font-ui);
+  cursor: pointer;
+  transition:
+    transform 0.2s var(--ease-out),
+    background 0.2s;
+}
+
+.glass-button:hover {
+  background:
+    linear-gradient(140deg, var(--glass-sheen), transparent 50%),
+    var(--glass-fill-strong);
+}
+
+.glass-button:active {
+  transform: scale(0.95);
+}
+
+.glass-button.glass--honey {
+  color: var(--on-honey);
+}
+
+.glass-button.glass--honey:hover {
+  background: var(--honey-fill);
+  filter: brightness(1.06);
+}

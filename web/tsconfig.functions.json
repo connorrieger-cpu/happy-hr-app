@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.functions.tsbuildinfo",
+    "target": "es2023",
+    "lib": ["ES2023"],
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "types": ["@cloudflare/workers-types"],
+    "skipLibCheck": true,
+    "noEmit": true,
+    "verbatimModuleSyntax": true,
+    "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  },
+  "include": [
+    "functions",
+    "server",
+    "src/lib/community.ts",
+    "src/lib/types.ts",
+    "src/lib/time.ts",
+    "src/lib/food.ts",
+    "src/lib/areas.ts",
+    "src/data/ossington.ts",
+    "src/data/ossington.directory.ts",
+    "src/data/areas/index.ts"
+  ]
+}

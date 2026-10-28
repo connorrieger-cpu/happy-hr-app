@@ -1,0 +1,151 @@
+{
+  "limits": {
+    "body": 500,
+    "name": 24,
+    "cooldownSeconds": 3,
+    "perHour": 60,
+    "autoHideReports": 3
+  },
+  "rules": [
+    "Be kind. Swearing’s fine; slurs, harassment, hate and threats aren’t.",
+    "No spam, ads or links to sell things.",
+    "Nothing sexual or illegal, and no one’s personal details.",
+    "Report anything that breaks these rules. We review reports within a day and remove people who break them."
+  ],
+  "messages": [
+    {
+      "body": "",
+      "error": "Write a message first."
+    },
+    {
+      "body": "   ",
+      "error": "Write a message first."
+    },
+    {
+      "body": "Manita’s oysters are on till 6!",
+      "error": null
+    },
+    {
+      "body": "Anyone at Bar Koukla? Scunthorpe fans welcome",
+      "error": null
+    },
+    {
+      "body": "That shiitake pizza at Libretto 🍕",
+      "error": null
+    },
+    {
+      "body": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "error": null
+    },
+    {
+      "body": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "error": "Keep it under 500 characters."
+    },
+    {
+      "body": "what the fuck",
+      "error": null
+    },
+    {
+      "body": "F.U.C.K this",
+      "error": null
+    },
+    {
+      "body": "fuuuuck",
+      "error": null
+    },
+    {
+      "body": "sh1t happens",
+      "error": null
+    },
+    {
+      "body": "f u c k",
+      "error": null
+    },
+    {
+      "body": "passing the class",
+      "error": null
+    },
+    {
+      "body": "Ass is fine? classic",
+      "error": null
+    },
+    {
+      "body": "rapeseed oil",
+      "error": null
+    },
+    {
+      "body": "S-H-I-T",
+      "error": null
+    },
+    {
+      "body": "you b1tch",
+      "error": "That message breaks the chat rules."
+    },
+    {
+      "body": "kys",
+      "error": "That message breaks the chat rules."
+    },
+    {
+      "body": "this patio is the shit",
+      "error": null
+    }
+  ],
+  "names": [
+    {
+      "name": "Connor",
+      "error": null
+    },
+    {
+      "name": "Zoë O’Brien",
+      "error": null
+    },
+    {
+      "name": "",
+      "error": "Pick a name for the chat."
+    },
+    {
+      "name": "  ",
+      "error": "Pick a name for the chat."
+    },
+    {
+      "name": "xxxxxxxxxxxxxxxxxxxxxxxx",
+      "error": null
+    },
+    {
+      "name": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+      "error": "Keep your name under 24 characters."
+    },
+    {
+      "name": "<script>",
+      "error": "Use letters, numbers and spaces in your name."
+    },
+    {
+      "name": "-dash",
+      "error": "Use letters, numbers and spaces in your name."
+    },
+    {
+      "name": "shithead",
+      "error": null
+    },
+    {
+      "name": "bitch",
+      "error": "Pick a different name."
+    },
+    {
+      "name": "B1tch",
+      "error": "Pick a different name."
+    },
+    {
+      "name": "Mary-Jane 2",
+      "error": null
+    },
+    {
+      "name": "fuck",
+      "error": "Pick a different name."
+    },
+    {
+      "name": "Sh1t",
+      "error": "Pick a different name."
+    }
+  ]
+}

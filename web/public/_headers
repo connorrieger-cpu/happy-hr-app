@@ -1,0 +1,7 @@
+# Cloudflare Pages response headers. Private beta: ask search engines not to index anything.
+/*
+  X-Robots-Tag: noindex, nofollow
+
+# Lets iPhones with the app open shared links (/?v=…, /?venuekey=…) in the app.
+/.well-known/apple-app-site-association
+  Content-Type: application/json

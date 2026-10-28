@@ -1,0 +1,734 @@
+{
+  "label": "Tue 6:00 PM",
+  "clock": {
+    "day": 2,
+    "minutes": 1080
+  },
+  "ids": [
+    "open-now",
+    "patio",
+    "live-music",
+    "sports",
+    "trivia",
+    "open-late",
+    "groups",
+    "dogs"
+  ],
+  "venues": {
+    "central": [
+      "patio",
+      "sports",
+      "open-late",
+      "groups"
+    ],
+    "azhar": [
+      "patio",
+      "groups"
+    ],
+    "manita": [
+      "patio",
+      "groups"
+    ],
+    "bar-libretto": [
+      "live-music",
+      "open-late",
+      "groups"
+    ],
+    "haifa-room": [
+      "live-music",
+      "open-late"
+    ],
+    "rhapsody": [
+      "open-late",
+      "groups"
+    ],
+    "la-chingada": [
+      "patio",
+      "groups"
+    ],
+    "gloria": [
+      "patio",
+      "open-late",
+      "groups"
+    ],
+    "poetry-jazz-cafe": [
+      "patio",
+      "live-music",
+      "open-late"
+    ],
+    "bar-piquette": [
+      "patio"
+    ],
+    "aleria": [
+      "patio",
+      "open-late",
+      "groups"
+    ],
+    "roxton-public-house": [
+      "sports",
+      "trivia",
+      "open-late",
+      "groups"
+    ],
+    "dont-tell": [
+      "live-music",
+      "open-late"
+    ],
+    "linnys": [
+      "groups"
+    ],
+    "painted-lady": [
+      "patio",
+      "live-music",
+      "open-late",
+      "groups"
+    ],
+    "sweaty-bettys": [
+      "patio",
+      "open-late",
+      "groups",
+      "dogs"
+    ],
+    "bar-koukla": [
+      "patio",
+      "groups"
+    ],
+    "fallen-feather": [
+      "groups"
+    ],
+    "bar-roma": [
+      "patio",
+      "sports",
+      "open-late",
+      "groups"
+    ],
+    "bar-poet": [
+      "patio",
+      "open-late",
+      "groups"
+    ],
+    "grape-witches": [],
+    "wasted-youth": [
+      "patio",
+      "open-late",
+      "groups",
+      "dogs"
+    ],
+    "hanmoto": [
+      "open-late"
+    ],
+    "casablanca-lounge": [
+      "live-music",
+      "sports",
+      "open-late",
+      "groups"
+    ],
+    "mild-afro-lounge": [
+      "patio"
+    ],
+    "the-lakeview-diner": [
+      "open-late",
+      "groups"
+    ],
+    "nazare-snack-bar": [
+      "live-music",
+      "open-late",
+      "groups"
+    ],
+    "taberna-lx": [
+      "patio",
+      "live-music",
+      "sports",
+      "groups"
+    ],
+    "kensei-bar": [
+      "open-late",
+      "groups"
+    ],
+    "gracies-pizza": [
+      "open-late"
+    ],
+    "get-well": [
+      "patio",
+      "open-late",
+      "groups"
+    ],
+    "vie-strada": [
+      "patio",
+      "live-music",
+      "groups"
+    ],
+    "the-garrison": [
+      "live-music",
+      "open-late"
+    ],
+    "the-jean-darlene": [
+      "live-music",
+      "open-late",
+      "groups"
+    ],
+    "the-gemini": [],
+    "churchill": [
+      "patio",
+      "open-late",
+      "groups"
+    ],
+    "gia-restaurant": [
+      "patio",
+      "groups"
+    ],
+    "the-fountain": [
+      "patio",
+      "open-late",
+      "groups"
+    ],
+    "stefanos-diner": [
+      "groups"
+    ],
+    "bambis": [
+      "live-music",
+      "open-late",
+      "groups"
+    ],
+    "downtown-winery": [
+      "patio",
+      "live-music",
+      "groups"
+    ],
+    "pho-tien-thanh": [
+      "patio",
+      "groups"
+    ],
+    "nabe-hana": [],
+    "union": [
+      "patio",
+      "groups"
+    ],
+    "no-vacancy": [
+      "open-late",
+      "groups"
+    ],
+    "mamakas-taverna": [
+      "patio",
+      "groups"
+    ],
+    "gift-shop": [
+      "open-late"
+    ],
+    "oddseoul": [
+      "patio",
+      "open-late",
+      "groups"
+    ],
+    "the-lunch-lady": [
+      "patio",
+      "groups"
+    ],
+    "fat-choi": [
+      "patio"
+    ],
+    "soos": [
+      "patio",
+      "groups"
+    ],
+    "neon-tiger": [
+      "sports",
+      "open-late",
+      "groups"
+    ],
+    "small-talk": [
+      "patio",
+      "live-music",
+      "open-late",
+      "groups"
+    ],
+    "papi-chulos": [
+      "patio",
+      "open-late",
+      "groups"
+    ],
+    "bellwoods-brewery": [
+      "patio",
+      "open-late",
+      "dogs"
+    ],
+    "golden-turtle": [
+      "patio",
+      "live-music",
+      "groups"
+    ],
+    "co-te-de-boeuf": [
+      "patio"
+    ],
+    "reposado": [
+      "patio",
+      "live-music",
+      "open-late",
+      "groups"
+    ],
+    "favorites-thai": [
+      "patio",
+      "groups"
+    ],
+    "club-paris": [
+      "patio",
+      "groups"
+    ],
+    "paris-paris": [
+      "patio",
+      "open-late",
+      "groups"
+    ],
+    "i-deal-coffee-and-wine": [
+      "patio"
+    ],
+    "bar-shozan": [
+      "patio",
+      "groups"
+    ],
+    "idk-social": [
+      "live-music",
+      "sports",
+      "open-late",
+      "groups",
+      "dogs"
+    ],
+    "bar-bowie": [
+      "open-late",
+      "groups"
+    ],
+    "season-six": [
+      "patio",
+      "open-late",
+      "groups"
+    ],
+    "badlands": [
+      "open-late",
+      "groups"
+    ],
+    "papi-and-rosita": [
+      "open-late",
+      "groups"
+    ],
+    "man-of-kent": [
+      "patio",
+      "sports",
+      "open-late",
+      "groups"
+    ],
+    "pies-by-squires": [
+      "live-music",
+      "sports"
+    ],
+    "foxley": [
+      "patio"
+    ],
+    "222-bar": [
+      "patio",
+      "open-late",
+      "groups"
+    ],
+    "salt-wine-bar": [
+      "patio",
+      "groups"
+    ],
+    "la-banane": [
+      "groups"
+    ],
+    "bar-banane": [
+      "open-late",
+      "groups"
+    ],
+    "clandestina": [],
+    "ceniza": [
+      "open-late"
+    ],
+    "prime-seafood-palace": [
+      "patio",
+      "groups"
+    ],
+    "frankies-diner": [
+      "groups"
+    ],
+    "apt-200": [
+      "live-music",
+      "open-late",
+      "groups"
+    ],
+    "prequel-and-co-apothecary": [
+      "open-late",
+      "groups"
+    ],
+    "and-ore": [
+      "groups"
+    ],
+    "taco-bar": [
+      "groups"
+    ],
+    "jamils": [
+      "patio",
+      "groups"
+    ]
+  },
+  "search": [
+    {
+      "query": {
+        "text": "",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [
+          "open-now"
+        ],
+        "sort": "nearest"
+      },
+      "results": [
+        "haifa-room",
+        "roxton-public-house",
+        "bar-roma",
+        "fallen-feather",
+        "wasted-youth",
+        "la-chingada",
+        "central",
+        "dont-tell",
+        "sweaty-bettys",
+        "aleria",
+        "poetry-jazz-cafe",
+        "bar-piquette",
+        "gloria",
+        "painted-lady",
+        "manita",
+        "linnys",
+        "grape-witches",
+        "azhar",
+        "bar-poet",
+        "the-lakeview-diner",
+        "nazare-snack-bar",
+        "222-bar",
+        "salt-wine-bar",
+        "kensei-bar",
+        "get-well",
+        "man-of-kent",
+        "gracies-pizza",
+        "pies-by-squires",
+        "papi-and-rosita",
+        "foxley",
+        "season-six",
+        "the-garrison",
+        "bar-bowie",
+        "idk-social",
+        "churchill",
+        "hanmoto",
+        "gia-restaurant",
+        "i-deal-coffee-and-wine",
+        "club-paris",
+        "paris-paris",
+        "favorites-thai",
+        "reposado",
+        "co-te-de-boeuf",
+        "bellwoods-brewery",
+        "stefanos-diner",
+        "papi-chulos",
+        "the-lunch-lady",
+        "mamakas-taverna",
+        "no-vacancy",
+        "union",
+        "pho-tien-thanh",
+        "downtown-winery",
+        "prequel-and-co-apothecary",
+        "frankies-diner",
+        "and-ore",
+        "prime-seafood-palace",
+        "ceniza"
+      ]
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [
+          "patio"
+        ],
+        "sort": "nearest"
+      },
+      "results": [
+        "bar-roma",
+        "wasted-youth",
+        "la-chingada",
+        "central",
+        "bar-koukla",
+        "sweaty-bettys",
+        "aleria",
+        "poetry-jazz-cafe",
+        "bar-piquette",
+        "gloria",
+        "painted-lady",
+        "manita",
+        "azhar",
+        "bar-poet",
+        "222-bar",
+        "mild-afro-lounge",
+        "taberna-lx",
+        "salt-wine-bar",
+        "get-well",
+        "man-of-kent",
+        "vie-strada",
+        "foxley",
+        "season-six",
+        "churchill",
+        "gia-restaurant",
+        "bar-shozan",
+        "i-deal-coffee-and-wine",
+        "club-paris",
+        "paris-paris",
+        "favorites-thai",
+        "reposado",
+        "co-te-de-boeuf",
+        "the-fountain",
+        "bellwoods-brewery",
+        "golden-turtle",
+        "papi-chulos",
+        "small-talk",
+        "fat-choi",
+        "soos",
+        "the-lunch-lady",
+        "oddseoul",
+        "mamakas-taverna",
+        "union",
+        "pho-tien-thanh",
+        "downtown-winery",
+        "prime-seafood-palace",
+        "jamils"
+      ]
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [
+          "live-music"
+        ],
+        "sort": "nearest"
+      },
+      "results": [
+        "haifa-room",
+        "dont-tell",
+        "poetry-jazz-cafe",
+        "painted-lady",
+        "bar-libretto",
+        "nazare-snack-bar",
+        "taberna-lx",
+        "casablanca-lounge",
+        "pies-by-squires",
+        "vie-strada",
+        "the-garrison",
+        "the-jean-darlene",
+        "idk-social",
+        "reposado",
+        "bambis",
+        "golden-turtle",
+        "small-talk",
+        "downtown-winery",
+        "apt-200"
+      ]
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [
+          "sports"
+        ],
+        "sort": "nearest"
+      },
+      "results": [
+        "roxton-public-house",
+        "bar-roma",
+        "central",
+        "taberna-lx",
+        "casablanca-lounge",
+        "man-of-kent",
+        "pies-by-squires",
+        "idk-social",
+        "neon-tiger"
+      ]
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [
+          "trivia"
+        ],
+        "sort": "nearest"
+      },
+      "results": [
+        "roxton-public-house"
+      ]
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [
+          "open-late"
+        ],
+        "sort": "nearest"
+      },
+      "results": [
+        "haifa-room",
+        "roxton-public-house",
+        "bar-roma",
+        "wasted-youth",
+        "central",
+        "dont-tell",
+        "sweaty-bettys",
+        "aleria",
+        "poetry-jazz-cafe",
+        "gloria",
+        "painted-lady",
+        "rhapsody",
+        "bar-libretto",
+        "bar-poet",
+        "the-lakeview-diner",
+        "nazare-snack-bar",
+        "222-bar",
+        "bar-banane",
+        "casablanca-lounge",
+        "kensei-bar",
+        "get-well",
+        "man-of-kent",
+        "gracies-pizza",
+        "papi-and-rosita",
+        "badlands",
+        "season-six",
+        "the-garrison",
+        "the-jean-darlene",
+        "bar-bowie",
+        "idk-social",
+        "churchill",
+        "hanmoto",
+        "paris-paris",
+        "reposado",
+        "the-fountain",
+        "bellwoods-brewery",
+        "bambis",
+        "papi-chulos",
+        "small-talk",
+        "neon-tiger",
+        "oddseoul",
+        "gift-shop",
+        "no-vacancy",
+        "prequel-and-co-apothecary",
+        "apt-200",
+        "ceniza"
+      ]
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [
+          "groups"
+        ],
+        "sort": "nearest"
+      },
+      "results": [
+        "roxton-public-house",
+        "bar-roma",
+        "fallen-feather",
+        "wasted-youth",
+        "la-chingada",
+        "central",
+        "bar-koukla",
+        "sweaty-bettys",
+        "aleria",
+        "gloria",
+        "painted-lady",
+        "rhapsody",
+        "manita",
+        "bar-libretto",
+        "linnys",
+        "azhar",
+        "bar-poet",
+        "the-lakeview-diner",
+        "nazare-snack-bar",
+        "222-bar",
+        "taberna-lx",
+        "la-banane",
+        "bar-banane",
+        "casablanca-lounge",
+        "salt-wine-bar",
+        "kensei-bar",
+        "get-well",
+        "man-of-kent",
+        "vie-strada",
+        "papi-and-rosita",
+        "badlands",
+        "season-six",
+        "the-jean-darlene",
+        "bar-bowie",
+        "idk-social",
+        "churchill",
+        "gia-restaurant",
+        "bar-shozan",
+        "club-paris",
+        "paris-paris",
+        "favorites-thai",
+        "reposado",
+        "the-fountain",
+        "stefanos-diner",
+        "bambis",
+        "golden-turtle",
+        "papi-chulos",
+        "small-talk",
+        "neon-tiger",
+        "soos",
+        "the-lunch-lady",
+        "oddseoul",
+        "mamakas-taverna",
+        "no-vacancy",
+        "union",
+        "pho-tien-thanh",
+        "downtown-winery",
+        "prequel-and-co-apothecary",
+        "frankies-diner",
+        "apt-200",
+        "and-ore",
+        "prime-seafood-palace",
+        "taco-bar",
+        "jamils"
+      ]
+    },
+    {
+      "query": {
+        "text": "",
+        "when": "any",
+        "drinks": [],
+        "food": [],
+        "places": [
+          "dogs"
+        ],
+        "sort": "nearest"
+      },
+      "results": [
+        "wasted-youth",
+        "sweaty-bettys",
+        "idk-social",
+        "bellwoods-brewery"
+      ]
+    }
+  ]
+}

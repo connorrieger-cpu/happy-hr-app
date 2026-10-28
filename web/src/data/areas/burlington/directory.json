@@ -1,0 +1,596 @@
+[
+  {
+    "placeId": "ChIJC5fu7CSeLIgRcGgF6kYjF1c",
+    "id": "the-mule",
+    "name": "The Mule",
+    "category": "Taco and tequila bar",
+    "vibe": "casual",
+    "food": [
+      "tacos"
+    ]
+  },
+  {
+    "id": "emmas-back-porch",
+    "name": "Emma’s Back Porch",
+    "category": "Waterfront bar and grill",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "pub"
+    ],
+    "address": "2084 Old Lakeshore Rd",
+    "lat": 43.3256906,
+    "lng": -79.7926221,
+    "website": "https://emmasbackporch.ca/"
+  },
+  {
+    "placeId": "ChIJTQiReySeLIgRvYeN2u2b8F4",
+    "id": "culaccino",
+    "name": "Culaccino Bar + Kitchen",
+    "category": "Craft beer gastropub",
+    "vibe": "bar",
+    "food": [
+      "pizza",
+      "pasta"
+    ]
+  },
+  {
+    "placeId": "ChIJ83Z9g2JgK4gR3Fjvoj-ka7s",
+    "id": "the-poacher",
+    "name": "The Poacher",
+    "category": "British pub",
+    "vibe": "bar",
+    "food": [
+      "pub"
+    ]
+  },
+  {
+    "placeId": "ChIJs_hlXnRhK4gRV4I9sf0fhZU",
+    "id": "the-north-coal",
+    "name": "The North Coal Kitchen & Bar",
+    "category": "Cottage-style kitchen and bar",
+    "vibe": "bar"
+  },
+  {
+    "placeId": "ChIJ3XDOTgCfLIgRk3wrcRD9JY0",
+    "id": "bar-origin",
+    "name": "Bar Origin",
+    "category": "Shared plates and cocktail lounge",
+    "vibe": "cocktails"
+  },
+  {
+    "placeId": "ChIJlXnuLgA1K4gRBomTWX4mHwQ",
+    "id": "buvette",
+    "name": "Buvette Restaurant & Wine Bar",
+    "category": "Restaurant and wine bar",
+    "vibe": "wine",
+    "food": [
+      "steak",
+      "oysters"
+    ]
+  },
+  {
+    "placeId": "ChIJASTluFCcLIgRfhFRlsTZkus",
+    "id": "di-marios-trattoria",
+    "name": "Di Mario’s Trattoria",
+    "category": "Italian trattoria",
+    "vibe": "restaurant",
+    "food": [
+      "pasta"
+    ]
+  },
+  {
+    "placeId": "ChIJd9aKvDmfLIgRtMD3XK7kNNo",
+    "id": "nisi-greek-taverna",
+    "name": "Nisi Greek Taverna",
+    "category": "Greek taverna",
+    "vibe": "restaurant",
+    "food": [
+      "greek"
+    ]
+  },
+  {
+    "placeId": "ChIJpbnEzZqfLIgRJ-Lyz_ag61U",
+    "id": "no-8",
+    "name": "No.8 Restaurant",
+    "category": "Restaurant",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJdXyPlC-eLIgRM6djWeGTZLo",
+    "id": "son-of-a-peach",
+    "name": "Son of a Peach Pizzeria",
+    "category": "Pizzeria",
+    "vibe": "casual",
+    "food": [
+      "pizza"
+    ]
+  },
+  {
+    "placeId": "ChIJuQVUly-eLIgRFuqwS_eW2tU",
+    "id": "rayhoon",
+    "name": "Rayhoon Persian Eatery",
+    "category": "Persian restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "middle-eastern"
+    ]
+  },
+  {
+    "placeId": "ChIJJ3hmZiWeLIgREL1009fY8pw",
+    "id": "downtown-bistro",
+    "name": "Downtown Bistro & Grill",
+    "category": "European bistro",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJi-QZ9C-eLIgRGecFpUhXoXc",
+    "id": "mikado",
+    "name": "Mikado Japanese Restaurant",
+    "category": "Japanese restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "sushi"
+    ]
+  },
+  {
+    "placeId": "ChIJv3vC8S-eLIgRKA4A1bz9264",
+    "id": "paradiso",
+    "name": "Paradiso",
+    "category": "Mediterranean restaurant",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJuVE-_y-eLIgR6i2XGAW4HD4",
+    "id": "lettuce-love-cafe",
+    "name": "Lettuce Love Café",
+    "category": "Plant-based café",
+    "vibe": "casual",
+    "food": [
+      "vegan"
+    ]
+  },
+  {
+    "placeId": "ChIJ0xXk541cK4gRqE_RaxDiFOQ",
+    "id": "the-express",
+    "name": "The Express Italian Eatery",
+    "category": "Italian eatery",
+    "vibe": "casual",
+    "food": [
+      "pasta",
+      "pizza"
+    ]
+  },
+  {
+    "placeId": "ChIJZa-0bi6eLIgRchIn0AU_9LY",
+    "id": "the-carriage-house",
+    "name": "The Carriage House",
+    "category": "Fine dining",
+    "vibe": "restaurant",
+    "food": [
+      "steak"
+    ]
+  },
+  {
+    "placeId": "ChIJ4wHf3ySeLIgRiCe9RqEp24k",
+    "id": "the-works-burlington",
+    "name": "The Works Craft Burgers & Beer",
+    "category": "Burger restaurant",
+    "vibe": "casual",
+    "food": [
+      "burgers"
+    ]
+  },
+  {
+    "placeId": "ChIJpawHlSOeLIgRX7eLH_7BNXE",
+    "id": "pho-mi-tt",
+    "name": "Pho Mi T&T",
+    "category": "Vietnamese restaurant",
+    "vibe": "casual",
+    "food": [
+      "vietnamese",
+      "thai"
+    ]
+  },
+  {
+    "placeId": "ChIJH28pawNhK4gRJ0Y1rUQdt6M",
+    "id": "cima-enoteca",
+    "name": "Cima Enoteca",
+    "category": "Italian restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "pasta"
+    ]
+  },
+  {
+    "placeId": "ChIJqY9nBd1hK4gRa5o4OOxKtfw",
+    "id": "nickel-brook",
+    "name": "Nickel Brook Brewing Co.",
+    "category": "Brewery taproom",
+    "vibe": "brewery"
+  },
+  {
+    "placeId": "ChIJzcU0o5BhK4gRo8nV9o0AaSs",
+    "id": "piper-arms",
+    "name": "Piper Arms",
+    "category": "British pub",
+    "vibe": "bar",
+    "food": [
+      "pub"
+    ]
+  },
+  {
+    "placeId": "ChIJQe_K5KdhK4gRJ3N0Vui3_tE",
+    "id": "the-judge-and-jury",
+    "name": "The Judge & Jury",
+    "category": "Pub",
+    "vibe": "bar",
+    "food": [
+      "pub"
+    ]
+  },
+  {
+    "placeId": "ChIJE5Gl1RdiK4gRRCFbFIyeet4",
+    "id": "carrigan-arms",
+    "name": "Carrigan Arms",
+    "category": "Irish pub",
+    "vibe": "bar",
+    "food": [
+      "pub"
+    ]
+  },
+  {
+    "placeId": "ChIJe5moqj2dLIgRq9ya_4fSYvQ",
+    "id": "ye-olde-squire",
+    "name": "Ye Olde Squire",
+    "category": "British pub",
+    "vibe": "bar",
+    "food": [
+      "pub"
+    ]
+  },
+  {
+    "placeId": "ChIJpZeqwnJhK4gR8TzFveaERas",
+    "id": "the-lone-wolf",
+    "name": "The Lone Wolf Resto Bar",
+    "category": "Resto bar",
+    "vibe": "bar"
+  },
+  {
+    "placeId": "ChIJKStKrHVhK4gRuCsb2XCKb8s",
+    "id": "social-99",
+    "name": "Social 99 Restaurant & Bar",
+    "category": "Restaurant and bar",
+    "vibe": "cocktails"
+  },
+  {
+    "placeId": "ChIJq8JQdSNhK4gRWFIGNb2ynPk",
+    "id": "beertown-burlington",
+    "name": "Beertown",
+    "category": "Craft beer public house",
+    "vibe": "bar",
+    "food": [
+      "burgers",
+      "wings"
+    ]
+  },
+  {
+    "placeId": "ChIJUWLunmJgK4gRMW3-2jTMA6A",
+    "id": "loondocks",
+    "name": "Loondocks",
+    "category": "Casual fine dining",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJRS_r5WJgK4gRHORr3HUkmlI",
+    "id": "jacksons-landing",
+    "name": "Jacksons Landing",
+    "category": "Restaurant and bar",
+    "vibe": "casual"
+  },
+  {
+    "placeId": "ChIJ50e6gQthK4gR58Ec90kfVAc",
+    "id": "rust-bistrobar",
+    "name": "Rust Bistrobar",
+    "category": "Bistro",
+    "vibe": "restaurant",
+    "food": [
+      "steak"
+    ]
+  },
+  {
+    "placeId": "ChIJd30JyVJgK4gRuQTcgCNnOII",
+    "id": "jakes-grill",
+    "name": "Jake’s Grill & Oyster House",
+    "category": "Seafood grill",
+    "vibe": "restaurant",
+    "food": [
+      "oysters",
+      "steak"
+    ]
+  },
+  {
+    "placeId": "ChIJ8_hXmkxgK4gR9DRWf9vZB_w",
+    "id": "napoleons",
+    "name": "Napoleon’s Steak & Seafood",
+    "category": "Steak and seafood",
+    "vibe": "restaurant",
+    "food": [
+      "steak"
+    ]
+  },
+  {
+    "placeId": "ChIJk3GhW45hK4gRIVHLOXTxqoY",
+    "id": "cherry-house",
+    "name": "Cherry House",
+    "category": "Fine dining",
+    "vibe": "restaurant",
+    "food": [
+      "steak"
+    ]
+  },
+  {
+    "placeId": "ChIJxXCw5gmeLIgR7dlhb0LOqok",
+    "id": "lord-nelson",
+    "name": "Lord Nelson Steak House",
+    "category": "Steakhouse",
+    "vibe": "restaurant",
+    "food": [
+      "steak"
+    ]
+  },
+  {
+    "placeId": "ChIJqUstkMidLIgRfQNGhNMFIr8",
+    "id": "west-plains-bistro",
+    "name": "West Plains Bistro",
+    "category": "Bistro",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJz2T7jcdhK4gRvFLzXQZwrpw",
+    "id": "sotiris",
+    "name": "Sotiris Greek Restaurant",
+    "category": "Greek restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "greek"
+    ]
+  },
+  {
+    "placeId": "ChIJiW1c_KxhK4gRPsmeD0Hgj9M",
+    "id": "industria-burlington",
+    "name": "Industria Pizzeria + Bar",
+    "category": "Pizzeria and bar",
+    "vibe": "restaurant",
+    "food": [
+      "pizza",
+      "pasta"
+    ]
+  },
+  {
+    "placeId": "ChIJHRvI_iFhK4gR6CFhbTpCSUk",
+    "id": "el-inka",
+    "name": "El Inka Peruvian Cuisine",
+    "category": "Peruvian restaurant",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJB_L3A1hhK4gRQTHuUQQEcDo",
+    "id": "pepe-and-lelas",
+    "name": "Pepe and Lela’s",
+    "category": "Mexican restaurant",
+    "vibe": "casual",
+    "food": [
+      "tacos"
+    ]
+  },
+  {
+    "placeId": "ChIJZfSk9BlhK4gRASlP4J_vfX8",
+    "id": "avani",
+    "name": "Avani Asian Indian Bistro",
+    "category": "Indian bistro",
+    "vibe": "restaurant",
+    "food": [
+      "asian"
+    ]
+  },
+  {
+    "placeId": "ChIJHYAfih9hK4gRvNsNpdW94bo",
+    "id": "applestone-pizzeria",
+    "name": "Applestone Pizzeria",
+    "category": "Pizzeria",
+    "vibe": "casual",
+    "food": [
+      "pizza"
+    ]
+  },
+  {
+    "placeId": "ChIJxVlk1VNhK4gRkGJSYLa17Hs",
+    "id": "nai-restaurant",
+    "name": "Nai Restaurant",
+    "category": "Middle Eastern restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "middle-eastern"
+    ]
+  },
+  {
+    "placeId": "ChIJnXRgSotgK4gRGxtBfjEp_2Q",
+    "id": "bahn-thai",
+    "name": "Bahn Thai",
+    "category": "Thai restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "thai"
+    ]
+  },
+  {
+    "placeId": "ChIJU--CX1BgK4gRnr1uLKc88nw",
+    "id": "sakai",
+    "name": "Sakai Japanese & Korean",
+    "category": "Japanese and Korean restaurant",
+    "vibe": "restaurant",
+    "food": [
+      "sushi",
+      "korean"
+    ]
+  },
+  {
+    "placeId": "ChIJXxhcWLFhK4gRIkD3N8saVF8",
+    "id": "club-54",
+    "name": "Club 54",
+    "category": "Nightclub",
+    "vibe": "bar"
+  },
+  {
+    "placeId": "ChIJk5kjlc9hK4gRwMd4Hmgt508",
+    "id": "kelseys-burlington",
+    "name": "Kelseys Original Roadhouse",
+    "category": "Roadhouse",
+    "vibe": "casual",
+    "food": [
+      "burgers",
+      "wings"
+    ]
+  },
+  {
+    "placeId": "ChIJR-WEO5VhK4gRzidMn7Rd6zQ",
+    "id": "montanas-burlington",
+    "name": "Montana’s BBQ & Bar",
+    "category": "Barbecue and bar",
+    "vibe": "casual",
+    "food": [
+      "wings",
+      "burgers"
+    ]
+  },
+  {
+    "placeId": "ChIJiwGEqXBhK4gRNkk-oSvk3oU",
+    "id": "east-side-marios-burlington",
+    "name": "East Side Mario’s",
+    "category": "Italian-American",
+    "vibe": "casual",
+    "food": [
+      "pasta",
+      "pizza"
+    ]
+  },
+  {
+    "placeId": "ChIJAQ7u5sRhK4gRoddqLrzF3d8",
+    "id": "red-lobster-burlington",
+    "name": "Red Lobster",
+    "category": "Seafood restaurant",
+    "vibe": "casual"
+  },
+  {
+    "placeId": "ChIJhddxorhhK4gRlLWCXoWNSbc",
+    "id": "boston-pizza-south",
+    "name": "Boston Pizza (South Service Rd)",
+    "category": "Sports bar and grill",
+    "vibe": "casual",
+    "food": [
+      "pizza",
+      "wings"
+    ]
+  },
+  {
+    "placeId": "ChIJFyiIKEphK4gRVS79F6VVbOI",
+    "id": "boston-pizza-north",
+    "name": "Boston Pizza (Dundas St)",
+    "category": "Sports bar and grill",
+    "vibe": "casual",
+    "food": [
+      "pizza",
+      "wings"
+    ]
+  },
+  {
+    "placeId": "ChIJR88uu7xgK4gR3cETD_WirAs",
+    "id": "kelseys-oakville",
+    "name": "Kelseys Original Roadhouse",
+    "category": "Bar and grill",
+    "vibe": "casual",
+    "food": [
+      "burgers",
+      "wings"
+    ]
+  },
+  {
+    "placeId": "ChIJxdtcsgdeK4gRcW5b8DbynfY",
+    "id": "brontes-sports-kitchen",
+    "name": "Bronte’s Sports Kitchen",
+    "category": "Sports bar and grill",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "pub"
+    ]
+  },
+  {
+    "placeId": "ChIJi-wYdnFeK4gRhKlzgm_PyCg",
+    "id": "cucci",
+    "name": "Cucci",
+    "category": "Italian",
+    "vibe": "restaurant",
+    "food": [
+      "pasta"
+    ]
+  },
+  {
+    "placeId": "ChIJ7Wrr2VBfK4gRsJeNg0zGULc",
+    "id": "the-wine-bar-oakville",
+    "name": "The Wine Bar",
+    "category": "Wine bar",
+    "vibe": "wine",
+    "food": [
+      "snacks"
+    ]
+  },
+  {
+    "placeId": "ChIJDe3n5XNdK4gR-AI4BohAXvk",
+    "id": "camila-oakville",
+    "name": "Camila",
+    "category": "Mexican",
+    "vibe": "restaurant",
+    "food": [
+      "tacos"
+    ]
+  },
+  {
+    "placeId": "ChIJ07S-5J1nK4gREMyLKafY1uY",
+    "id": "peppinos-oven",
+    "name": "Peppino’s Oven",
+    "category": "Pizza, taps and eatery",
+    "vibe": "casual",
+    "food": [
+      "pizza"
+    ]
+  },
+  {
+    "placeId": "ChIJ9V6HPgBfK4gRQ3V3MZU5o9k",
+    "id": "mi-amor-taqueria",
+    "name": "Mi Amor Taqueria",
+    "category": "Taqueria",
+    "vibe": "casual",
+    "food": [
+      "tacos"
+    ]
+  },
+  {
+    "placeId": "ChIJr4CxZG5fK4gRPpZQ3P12UdI",
+    "id": "casa-mia-oakville",
+    "name": "Casa Mia",
+    "category": "Peruvian and Latin",
+    "vibe": "restaurant"
+  },
+  {
+    "placeId": "ChIJvyBVctBdK4gRwmY_-9ISFDk",
+    "id": "el-spero",
+    "name": "El Spero",
+    "category": "Family restaurant",
+    "vibe": "casual",
+    "food": [
+      "diner"
+    ]
+  }
+]

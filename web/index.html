@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Happy HR</title>
+    <meta name="description" content="Happy hours happening right now, near you. Starting with Ossington, Toronto." />
+    <!-- Link previews. Shared venue links (/?v=…) get their own title and description from functions/index.ts. -->
+    <meta property="og:site_name" content="Happy HR" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Happy HR" />
+    <meta property="og:description" content="Happy hours happening right now, near you. Starting with Ossington, Toronto." />
+    <meta property="og:url" content="https://happy-hr-beta.pages.dev/" />
+    <meta property="og:image" content="https://happy-hr-beta.pages.dev/icons/og.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <!-- Private beta: keep it out of search engines. -->
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="theme-color" content="#0e0b05" />
+    <script>
+      // Apply the saved System / Light / Dark choice before first paint (see src/hooks/useTheme.ts).
+      ;(function () {
+        var mode
+        try {
+          mode = localStorage.getItem('happyhr:theme')
+        } catch (e) {}
+        var light = mode === 'light' || (mode !== 'dark' && matchMedia('(prefers-color-scheme: light)').matches)
+        document.documentElement.dataset.theme = light ? 'light' : 'dark'
+      })()
+    </script>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Happy HR" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

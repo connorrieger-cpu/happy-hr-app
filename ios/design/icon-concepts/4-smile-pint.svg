@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+<defs>
+  <clipPath id="sq"><rect width="1024" height="1024" rx="230"/></clipPath>
+  <linearGradient id="honey" x1="0" y1="0" x2="0.35" y2="1">
+    <stop offset="0" stop-color="#FFEC7A"/><stop offset="0.5" stop-color="#FFD60A"/><stop offset="1" stop-color="#F5A000"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.28" cy="0.12" r="0.85">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/><stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.08"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="face" cx="0.36" cy="0.26" r="0.86">
+    <stop offset="0" stop-color="#FFF6B0"/><stop offset="0.35" stop-color="#FFE23C"/><stop offset="0.75" stop-color="#FFC400"/><stop offset="1" stop-color="#EE9A00"/>
+  </radialGradient>
+  <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.85"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/><stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.16"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.32"/>
+  </linearGradient>
+  <linearGradient id="beer" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFC21A"/><stop offset="1" stop-color="#D97400"/>
+  </linearGradient>
+  <linearGradient id="night" x1="0.2" y1="0" x2="0.8" y2="1">
+    <stop offset="0" stop-color="#3A2A08"/><stop offset="0.5" stop-color="#1A1203"/><stop offset="1" stop-color="#0B0801"/>
+  </linearGradient>
+  <filter id="lift" x="-40%" y="-40%" width="180%" height="190%">
+    <feDropShadow dx="0" dy="26" stdDeviation="30" flood-color="#6B3A00" flood-opacity="0.42"/>
+  </filter>
+  <filter id="liftDark" x="-40%" y="-40%" width="180%" height="190%">
+    <feDropShadow dx="0" dy="30" stdDeviation="34" flood-color="#3D2200" flood-opacity="0.55"/>
+  </filter>
+  <filter id="blur"><feGaussianBlur stdDeviation="14"/></filter>
+  
+</defs>
+<g clip-path="url(#sq)">
+  <rect width="1024" height="1024" fill="url(#honey)"/>
+  <rect width="1024" height="1024" fill="url(#glow)"/>
+  
+  <path d="M300 250 L724 250 L684 860 Q680 900 640 900 L384 900 Q344 900 340 860Z" fill="#F2B000" filter="url(#lift)"/>
+  <path d="M312 360 L712 360 L684 860 Q680 900 640 900 L384 900 Q344 900 340 860Z" fill="url(#beer)"/>
+  <clipPath id="beerClip"><path d="M312 360 L712 360 L684 860 Q680 900 640 900 L384 900 Q344 900 340 860Z"/></clipPath>
+  <g clip-path="url(#beerClip)">
+    <path d="M420.0 586.2 Q452.2 521.8 484.4 586.2" fill="none" stroke="#1C1300" stroke-width="19.6" stroke-linecap="round"/>
+<path d="M604.0 586.2 Q571.8 521.8 539.6 586.2" fill="none" stroke="#1C1300" stroke-width="19.6" stroke-linecap="round"/>
+<path d="M403.9 636.8 Q512.0 761.0 620.1 636.8" fill="none" stroke="#1C1300" stroke-width="20.5" stroke-linecap="round"/>
+    <circle cx="420" cy="800" r="14" fill="#FFFFFF" opacity="0.55"/><circle cx="600" cy="780" r="10" fill="#FFFFFF" opacity="0.55"/><circle cx="650" cy="470" r="12" fill="#FFFFFF" opacity="0.55"/>
+  </g>
+  <path d="M296 330 Q330 230 420 262 Q470 190 560 240 Q640 200 690 262 Q760 270 728 350 L716 372 Q600 400 512 380 Q420 400 308 372Z" fill="#FFFDF4"/>
+  <path d="M640 368 Q660 420 648 440 Q636 456 628 430 Q622 400 640 368Z" fill="#FFFDF4"/>
+  <path d="M300 250 L724 250 L684 860 Q680 900 640 900 L384 900 Q344 900 340 860Z" fill="url(#glass)" opacity="0.55"/>
+  <path d="M300 250 L724 250 L684 860 Q680 900 640 900 L384 900 Q344 900 340 860Z" fill="none" stroke="#1C1300" stroke-width="26" stroke-linejoin="round"/>
+  <rect x="350" y="300" width="34" height="520" rx="17" fill="#FFFFFF" opacity="0.5" transform="rotate(-3 367 560)"/>
+  <path d="M770 190 C774.8 225.2 774.8 225.2 810 230 C774.8 234.8 774.8 234.8 770 270 C765.2 234.8 765.2 234.8 730 230 C765.2 225.2 765.2 225.2 770 190Z" fill="#FFFFFF" opacity="0.95"/>
+  <rect x="4" y="4" width="1016" height="1016" rx="226" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="8"/>
+</g>
+</svg>

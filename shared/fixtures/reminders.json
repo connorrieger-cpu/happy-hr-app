@@ -1,0 +1,174 @@
+{
+  "now": "2026-10-27T20:00:00.000Z",
+  "cases": [
+    {
+      "venue": "manita",
+      "kind": "happy-hour",
+      "deal": {
+        "days": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 900,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "oysters (min 6)",
+            "price": 2.5
+          },
+          {
+            "kind": "drink",
+            "item": "draft beer",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "5 oz Terre dei Penati bianco or rosso",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "Manita burger & fries (reg. $31)",
+            "price": 19
+          },
+          {
+            "kind": "food",
+            "item": "veggie burger & fries",
+            "price": 19
+          }
+        ],
+        "note": "Not on holidays."
+      },
+      "plan": {
+        "title": "Happy hour at Manita",
+        "detail": "$2.50 Oysters (min 6) · $7 Draft Beer · $15 5 oz Terre dei Penati Bianco or Rosso",
+        "days": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 900,
+        "end": 1080
+      },
+      "ics": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Happy HR//Reminders//EN\r\nCALSCALE:GREGORIAN\r\nBEGIN:VTIMEZONE\r\nTZID:America/Toronto\r\nBEGIN:DAYLIGHT\r\nTZOFFSETFROM:-0500\r\nTZOFFSETTO:-0400\r\nTZNAME:EDT\r\nDTSTART:19700308T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU\r\nEND:DAYLIGHT\r\nBEGIN:STANDARD\r\nTZOFFSETFROM:-0400\r\nTZOFFSETTO:-0500\r\nTZNAME:EST\r\nDTSTART:19701101T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU\r\nEND:STANDARD\r\nEND:VTIMEZONE\r\nBEGIN:VEVENT\r\nUID:manita-test@happyhr\r\nDTSTAMP:20261027T200000Z\r\nDTSTART;TZID=America/Toronto:20261027T150000\r\nDTEND;TZID=America/Toronto:20261027T180000\r\nRRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH\r\nSUMMARY:Happy hour at Manita\r\nDESCRIPTION:$2.50 Oysters (min 6) · $7 Draft Beer · $15 5 oz Terre dei Penati Bianco or Rosso\\n\\nDeals change: check Happy HR before you go. https://happy-hr-beta.pages.dev/?v=manita\r\nLOCATION:Manita\\, 210 Ossington Ave\\, Toronto\r\nURL:https://happy-hr-beta.pages.dev/?v=manita\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:Happy hour at Manita\r\nTRIGGER:-PT15M\r\nEND:VALARM\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n"
+    },
+    {
+      "venue": "roxton-public-house",
+      "kind": "daily",
+      "deal": {
+        "days": [
+          1
+        ],
+        "title": "Monday Night Football",
+        "start": 840,
+        "end": 1320,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wings (per lb)",
+            "price": 14
+          },
+          {
+            "kind": "drink",
+            "item": "Budweiser or Michelob Ultra pitchers",
+            "price": 20
+          },
+          {
+            "kind": "drink",
+            "item": "rail shots",
+            "price": 5
+          }
+        ]
+      },
+      "plan": {
+        "title": "Monday Night Football at Roxton Public House",
+        "detail": "$14 Wings (per lb) · $20 Budweiser or Michelob Ultra Pitchers · $5 Rail Shots",
+        "days": [
+          1
+        ],
+        "start": 840,
+        "end": 1320
+      },
+      "ics": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Happy HR//Reminders//EN\r\nCALSCALE:GREGORIAN\r\nBEGIN:VTIMEZONE\r\nTZID:America/Toronto\r\nBEGIN:DAYLIGHT\r\nTZOFFSETFROM:-0500\r\nTZOFFSETTO:-0400\r\nTZNAME:EDT\r\nDTSTART:19700308T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU\r\nEND:DAYLIGHT\r\nBEGIN:STANDARD\r\nTZOFFSETFROM:-0400\r\nTZOFFSETTO:-0500\r\nTZNAME:EST\r\nDTSTART:19701101T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU\r\nEND:STANDARD\r\nEND:VTIMEZONE\r\nBEGIN:VEVENT\r\nUID:roxton-public-house-test@happyhr\r\nDTSTAMP:20261027T200000Z\r\nDTSTART;TZID=America/Toronto:20261102T140000\r\nDTEND;TZID=America/Toronto:20261102T220000\r\nRRULE:FREQ=WEEKLY;BYDAY=MO\r\nSUMMARY:Monday Night Football at Roxton Public House\r\nDESCRIPTION:$14 Wings (per lb) · $20 Budweiser or Michelob Ultra Pitchers · $5 Rail Shots\\n\\nDeals change: check Happy HR before you go. https://happy-hr-beta.pages.dev/?v=roxton-public-house\r\nLOCATION:Roxton Public House\\, 1112 Dundas St W\\, Toronto\r\nURL:https://happy-hr-beta.pages.dev/?v=roxton-public-house\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:Monday Night Football at Roxton Public House\r\nTRIGGER:-PT15M\r\nEND:VALARM\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n"
+    },
+    {
+      "venue": "rhapsody",
+      "kind": "happy-hour",
+      "deal": {
+        "days": [
+          4,
+          5,
+          6,
+          0
+        ],
+        "start": 1500,
+        "end": 1560,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Estrella Damm",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "classic margaritas",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "8 oz house red or white",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "Hypnotic or Cool Relax cocktails",
+            "price": 11
+          }
+        ],
+        "note": "Last-hour happy hour, 1–2 AM after Thursday to Sunday nights."
+      },
+      "plan": {
+        "title": "Happy hour at Rhapsody",
+        "detail": "$7 Estrella Damm · $10 Classic Margaritas · $10 8 oz House Red or White",
+        "days": [
+          0,
+          4,
+          5,
+          6
+        ],
+        "start": 1500,
+        "end": 1560
+      },
+      "ics": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Happy HR//Reminders//EN\r\nCALSCALE:GREGORIAN\r\nBEGIN:VTIMEZONE\r\nTZID:America/Toronto\r\nBEGIN:DAYLIGHT\r\nTZOFFSETFROM:-0500\r\nTZOFFSETTO:-0400\r\nTZNAME:EDT\r\nDTSTART:19700308T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU\r\nEND:DAYLIGHT\r\nBEGIN:STANDARD\r\nTZOFFSETFROM:-0400\r\nTZOFFSETTO:-0500\r\nTZNAME:EST\r\nDTSTART:19701101T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU\r\nEND:STANDARD\r\nEND:VTIMEZONE\r\nBEGIN:VEVENT\r\nUID:rhapsody-test@happyhr\r\nDTSTAMP:20261027T200000Z\r\nDTSTART;TZID=America/Toronto:20261030T010000\r\nDTEND;TZID=America/Toronto:20261030T020000\r\nRRULE:FREQ=WEEKLY;BYDAY=MO,FR,SA,SU\r\nSUMMARY:Happy hour at Rhapsody\r\nDESCRIPTION:$7 Estrella Damm · $10 Classic Margaritas · $10 8 oz House Red or White\\n\\nDeals change: check Happy HR before you go. https://happy-hr-beta.pages.dev/?v=rhapsody\r\nLOCATION:Rhapsody\\, 214 Ossington Ave\\, Toronto\r\nURL:https://happy-hr-beta.pages.dev/?v=rhapsody\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:Happy hour at Rhapsody\r\nTRIGGER:-PT15M\r\nEND:VALARM\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n"
+    },
+    {
+      "venue": "central",
+      "kind": "daily",
+      "deal": {
+        "days": [
+          1
+        ],
+        "title": "Wine Not Monday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "house wine",
+            "price": 7
+          }
+        ]
+      },
+      "plan": {
+        "title": "Wine Not Monday at Central",
+        "detail": "$7 House Wine",
+        "days": [
+          1
+        ]
+      },
+      "ics": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Happy HR//Reminders//EN\r\nCALSCALE:GREGORIAN\r\nBEGIN:VTIMEZONE\r\nTZID:America/Toronto\r\nBEGIN:DAYLIGHT\r\nTZOFFSETFROM:-0500\r\nTZOFFSETTO:-0400\r\nTZNAME:EDT\r\nDTSTART:19700308T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU\r\nEND:DAYLIGHT\r\nBEGIN:STANDARD\r\nTZOFFSETFROM:-0400\r\nTZOFFSETTO:-0500\r\nTZNAME:EST\r\nDTSTART:19701101T020000\r\nRRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU\r\nEND:STANDARD\r\nEND:VTIMEZONE\r\nBEGIN:VEVENT\r\nUID:central-test@happyhr\r\nDTSTAMP:20261027T200000Z\r\nDTSTART;VALUE=DATE:20261102\r\nDTEND;VALUE=DATE:20261103\r\nRRULE:FREQ=WEEKLY;BYDAY=MO\r\nSUMMARY:Wine Not Monday at Central\r\nDESCRIPTION:$7 House Wine\\n\\nDeals change: check Happy HR before you go. https://happy-hr-beta.pages.dev/?v=central\r\nLOCATION:Central\\, 114 Ossington Ave\\, Toronto\r\nURL:https://happy-hr-beta.pages.dev/?v=central\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:Wine Not Monday at Central\r\nTRIGGER:PT12H\r\nEND:VALARM\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n"
+    }
+  ]
+}

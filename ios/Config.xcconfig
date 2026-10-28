@@ -1,0 +1,5 @@
+// Build settings for the HappyHR app target. Secrets live in Secrets.xcconfig next
+// to this file, which git ignores and the build doesn't need:
+//
+//   GOOGLE_PLACES_KEY = AIza…   (venue photos; an iOS-restricted key, see README.md)
+#include? "Secrets.xcconfig"

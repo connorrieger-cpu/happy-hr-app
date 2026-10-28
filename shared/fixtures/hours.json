@@ -1,0 +1,3951 @@
+{
+  "openLate": {
+    "central": true,
+    "azhar": false,
+    "manita": false,
+    "bar-libretto": true,
+    "haifa-room": true,
+    "rhapsody": true,
+    "la-chingada": false,
+    "gloria": true,
+    "poetry-jazz-cafe": true,
+    "bar-piquette": false,
+    "aleria": true,
+    "roxton-public-house": true,
+    "dont-tell": true,
+    "linnys": false,
+    "painted-lady": true,
+    "sweaty-bettys": true,
+    "bar-koukla": false,
+    "fallen-feather": false,
+    "bar-roma": true,
+    "bar-poet": true,
+    "grape-witches": false,
+    "wasted-youth": true,
+    "hanmoto": true,
+    "casablanca-lounge": true,
+    "mild-afro-lounge": false,
+    "the-lakeview-diner": true,
+    "nazare-snack-bar": true,
+    "taberna-lx": false,
+    "kensei-bar": true,
+    "gracies-pizza": true,
+    "get-well": true,
+    "vie-strada": false,
+    "the-garrison": true,
+    "the-jean-darlene": true,
+    "the-gemini": false,
+    "churchill": true,
+    "gia-restaurant": false,
+    "the-fountain": true,
+    "stefanos-diner": false,
+    "bambis": true,
+    "downtown-winery": false,
+    "pho-tien-thanh": false,
+    "nabe-hana": false,
+    "union": false,
+    "no-vacancy": true,
+    "mamakas-taverna": false,
+    "gift-shop": true,
+    "oddseoul": true,
+    "the-lunch-lady": false,
+    "fat-choi": false,
+    "soos": false,
+    "neon-tiger": true,
+    "small-talk": true,
+    "papi-chulos": true,
+    "bellwoods-brewery": true,
+    "golden-turtle": false,
+    "co-te-de-boeuf": false,
+    "reposado": true,
+    "favorites-thai": false,
+    "club-paris": false,
+    "paris-paris": true,
+    "i-deal-coffee-and-wine": false,
+    "bar-shozan": false,
+    "idk-social": true,
+    "bar-bowie": true,
+    "season-six": true,
+    "badlands": true,
+    "papi-and-rosita": true,
+    "man-of-kent": true,
+    "pies-by-squires": false,
+    "foxley": false,
+    "222-bar": true,
+    "salt-wine-bar": false,
+    "la-banane": false,
+    "bar-banane": true,
+    "clandestina": false,
+    "ceniza": true,
+    "prime-seafood-palace": false,
+    "frankies-diner": false,
+    "apt-200": true,
+    "prequel-and-co-apothecary": true,
+    "and-ore": false,
+    "taco-bar": false,
+    "jamils": false
+  },
+  "week": [
+    {
+      "venue": "central",
+      "today": 2,
+      "rows": [
+        {
+          "day": 2,
+          "text": "11:30 AM–1 AM"
+        },
+        {
+          "day": 3,
+          "text": "11:30 AM–1 AM"
+        },
+        {
+          "day": 4,
+          "text": "11:30 AM–2 AM"
+        },
+        {
+          "day": 5,
+          "text": "11:30 AM–2 AM"
+        },
+        {
+          "day": 6,
+          "text": "10 AM–2 AM"
+        },
+        {
+          "day": 0,
+          "text": "10 AM–2 AM"
+        },
+        {
+          "day": 1,
+          "text": "11:30 AM–1 AM"
+        }
+      ]
+    },
+    {
+      "venue": "roxton-public-house",
+      "today": 2,
+      "rows": [
+        {
+          "day": 2,
+          "text": "2 PM–2 AM"
+        },
+        {
+          "day": 3,
+          "text": "2 PM–2 AM"
+        },
+        {
+          "day": 4,
+          "text": "2 PM–2 AM"
+        },
+        {
+          "day": 5,
+          "text": "2 PM–2 AM"
+        },
+        {
+          "day": 6,
+          "text": "12 PM–2 AM"
+        },
+        {
+          "day": 0,
+          "text": "12 PM–2 AM"
+        },
+        {
+          "day": 1,
+          "text": "2 PM–2 AM"
+        }
+      ]
+    },
+    {
+      "venue": "golden-turtle",
+      "today": 2,
+      "rows": [
+        {
+          "day": 2,
+          "text": "Closed"
+        },
+        {
+          "day": 3,
+          "text": "11 AM–9 PM"
+        },
+        {
+          "day": 4,
+          "text": "11 AM–9 PM"
+        },
+        {
+          "day": 5,
+          "text": "11 AM–9 PM"
+        },
+        {
+          "day": 6,
+          "text": "11 AM–9 PM"
+        },
+        {
+          "day": 0,
+          "text": "11 AM–9 PM"
+        },
+        {
+          "day": 1,
+          "text": "11 AM–9 PM"
+        }
+      ]
+    },
+    {
+      "venue": "clandestina",
+      "today": 2,
+      "rows": [
+        {
+          "day": 2,
+          "text": "Closed"
+        },
+        {
+          "day": 3,
+          "text": "Closed"
+        },
+        {
+          "day": 4,
+          "text": "Closed"
+        },
+        {
+          "day": 5,
+          "text": "Closed"
+        },
+        {
+          "day": 6,
+          "text": "Closed"
+        },
+        {
+          "day": 0,
+          "text": "Closed"
+        },
+        {
+          "day": 1,
+          "text": "Closed"
+        }
+      ]
+    }
+  ],
+  "states": [
+    {
+      "label": "Mon 4:30 PM",
+      "clock": {
+        "day": 1,
+        "minutes": 990
+      },
+      "venues": {
+        "central": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 510,
+          "label": "Open · till 1 AM"
+        },
+        "azhar": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "manita": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 330,
+          "label": "Open · till 10 PM"
+        },
+        "bar-libretto": {
+          "kind": "closed",
+          "opensAt": 960,
+          "opensDay": 3,
+          "opensIn": 2850,
+          "label": "Closed · opens Wed 4 PM"
+        },
+        "haifa-room": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 330,
+          "label": "Open · till 10 PM"
+        },
+        "rhapsody": {
+          "kind": "closed",
+          "opensAt": 1200,
+          "opensDay": 4,
+          "opensIn": 4530,
+          "label": "Closed · opens Thu 8 PM"
+        },
+        "la-chingada": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 330,
+          "label": "Open · till 10 PM"
+        },
+        "gloria": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "poetry-jazz-cafe": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 2,
+          "opensIn": 1500,
+          "label": "Closed · opens Tue 5:30 PM"
+        },
+        "bar-piquette": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "aleria": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "roxton-public-house": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 570,
+          "label": "Open · till 2 AM"
+        },
+        "dont-tell": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 2,
+          "opensIn": 1470,
+          "label": "Closed · opens Tue 5 PM"
+        },
+        "linnys": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "painted-lady": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 1,
+          "opensIn": 90,
+          "label": "Closed · opens 6 PM"
+        },
+        "sweaty-bettys": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 570,
+          "label": "Open · till 2 AM"
+        },
+        "fallen-feather": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 390,
+          "label": "Open · till 11 PM"
+        },
+        "bar-roma": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 2,
+          "opensIn": 1470,
+          "label": "Closed · opens Tue 5 PM"
+        },
+        "bar-poet": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 570,
+          "label": "Open · till 2 AM"
+        },
+        "grape-witches": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 330,
+          "label": "Open · till 10 PM"
+        },
+        "wasted-youth": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 1,
+          "opensIn": 90,
+          "label": "Closed · opens 6 PM"
+        },
+        "hanmoto": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "casablanca-lounge": {
+          "kind": "closed",
+          "opensAt": 1260,
+          "opensDay": 5,
+          "opensIn": 6030,
+          "label": "Closed · opens Fri 9 PM"
+        },
+        "mild-afro-lounge": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 4350,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "the-lakeview-diner": {
+          "kind": "open",
+          "closesAt": 11520,
+          "closesIn": 10530,
+          "label": "Open 24 hours"
+        },
+        "nazare-snack-bar": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "taberna-lx": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 3,
+          "opensIn": 2910,
+          "label": "Closed · opens Wed 5 PM"
+        },
+        "kensei-bar": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 2,
+          "opensIn": 1530,
+          "label": "Closed · opens Tue 6 PM"
+        },
+        "gracies-pizza": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "get-well": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "vie-strada": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 3,
+          "opensIn": 2910,
+          "label": "Closed · opens Wed 5 PM"
+        },
+        "the-garrison": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 1,
+          "opensIn": 90,
+          "label": "Closed · opens 6 PM"
+        },
+        "the-jean-darlene": {
+          "kind": "closed",
+          "opensAt": 1200,
+          "opensDay": 4,
+          "opensIn": 4530,
+          "label": "Closed · opens Thu 8 PM"
+        },
+        "the-gemini": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "churchill": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "gia-restaurant": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "the-fountain": {
+          "kind": "closed",
+          "opensAt": 1140,
+          "opensDay": 1,
+          "opensIn": 150,
+          "label": "Closed · opens 7 PM"
+        },
+        "stefanos-diner": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 330,
+          "label": "Open · till 10 PM"
+        },
+        "bambis": {
+          "kind": "closed",
+          "opensAt": 1260,
+          "opensDay": 4,
+          "opensIn": 4590,
+          "label": "Closed · opens Thu 9 PM"
+        },
+        "downtown-winery": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 2,
+          "opensIn": 1170,
+          "label": "Closed · opens Tue 12 PM"
+        },
+        "pho-tien-thanh": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 330,
+          "label": "Open · till 10 PM"
+        },
+        "nabe-hana": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 3,
+          "opensIn": 2910,
+          "label": "Closed · opens Wed 5 PM"
+        },
+        "union": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 330,
+          "label": "Open · till 10 PM"
+        },
+        "no-vacancy": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 2,
+          "opensIn": 1530,
+          "label": "Closed · opens Tue 6 PM"
+        },
+        "mamakas-taverna": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 1,
+          "opensIn": 60,
+          "label": "Closed · opens 5:30 PM"
+        },
+        "gift-shop": {
+          "kind": "closed",
+          "opensAt": 1170,
+          "opensDay": 2,
+          "opensIn": 1620,
+          "label": "Closed · opens Tue 7:30 PM"
+        },
+        "oddseoul": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 1,
+          "opensIn": 90,
+          "label": "Closed · opens 6 PM"
+        },
+        "the-lunch-lady": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "fat-choi": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 3,
+          "opensIn": 2910,
+          "label": "Closed · opens Wed 5 PM"
+        },
+        "soos": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 3,
+          "opensIn": 2910,
+          "label": "Closed · opens Wed 5 PM"
+        },
+        "neon-tiger": {
+          "kind": "closed",
+          "opensAt": 960,
+          "opensDay": 4,
+          "opensIn": 4290,
+          "label": "Closed · opens Thu 4 PM"
+        },
+        "small-talk": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "papi-chulos": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 450,
+          "label": "Open · till 12 AM"
+        },
+        "bellwoods-brewery": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "golden-turtle": {
+          "kind": "open",
+          "closesAt": 1260,
+          "closesIn": 270,
+          "label": "Open · till 9 PM"
+        },
+        "co-te-de-boeuf": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 330,
+          "label": "Open · till 10 PM"
+        },
+        "reposado": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 2,
+          "opensIn": 1530,
+          "label": "Closed · opens Tue 6 PM"
+        },
+        "favorites-thai": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 2,
+          "opensIn": 1530,
+          "label": "Closed · opens Tue 6 PM"
+        },
+        "club-paris": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 2,
+          "opensIn": 1170,
+          "label": "Closed · opens Tue 12 PM"
+        },
+        "paris-paris": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "i-deal-coffee-and-wine": {
+          "kind": "open",
+          "closesAt": 1200,
+          "closesIn": 210,
+          "label": "Open · till 8 PM"
+        },
+        "bar-shozan": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 3,
+          "opensIn": 2940,
+          "label": "Closed · opens Wed 5:30 PM"
+        },
+        "idk-social": {
+          "kind": "open",
+          "closesAt": 1140,
+          "closesIn": 150,
+          "label": "Open · till 7 PM"
+        },
+        "bar-bowie": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 1,
+          "opensIn": 90,
+          "label": "Closed · opens 6 PM"
+        },
+        "season-six": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 330,
+          "label": "Open · till 10 PM"
+        },
+        "badlands": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 3,
+          "opensIn": 2910,
+          "label": "Closed · opens Wed 5 PM"
+        },
+        "papi-and-rosita": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "man-of-kent": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 570,
+          "label": "Open · till 2 AM"
+        },
+        "pies-by-squires": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 390,
+          "label": "Open · till 11 PM"
+        },
+        "foxley": {
+          "kind": "open",
+          "closesAt": 1350,
+          "closesIn": 360,
+          "label": "Open · till 10:30 PM"
+        },
+        "222-bar": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 30,
+          "label": "Closed · opens 5 PM"
+        },
+        "salt-wine-bar": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 2,
+          "opensIn": 1500,
+          "label": "Closed · opens Tue 5:30 PM"
+        },
+        "la-banane": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 3,
+          "opensIn": 2940,
+          "label": "Closed · opens Wed 5:30 PM"
+        },
+        "bar-banane": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 3,
+          "opensIn": 2970,
+          "label": "Closed · opens Wed 6 PM"
+        },
+        "ceniza": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 2,
+          "opensIn": 1470,
+          "label": "Closed · opens Tue 5 PM"
+        },
+        "prime-seafood-palace": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 1,
+          "opensIn": 60,
+          "label": "Closed · opens 5:30 PM"
+        },
+        "frankies-diner": {
+          "kind": "open",
+          "closesAt": 1140,
+          "closesIn": 150,
+          "label": "Open · till 7 PM"
+        },
+        "apt-200": {
+          "kind": "closed",
+          "opensAt": 1260,
+          "opensDay": 1,
+          "opensIn": 270,
+          "label": "Closed · opens 9 PM"
+        },
+        "prequel-and-co-apothecary": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 1,
+          "opensIn": 90,
+          "label": "Closed · opens 6 PM"
+        },
+        "and-ore": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 2,
+          "opensIn": 1470,
+          "label": "Closed · opens Tue 5 PM"
+        },
+        "jamils": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 3,
+          "opensIn": 2910,
+          "label": "Closed · opens Wed 5 PM"
+        }
+      }
+    },
+    {
+      "label": "Tue 6:00 PM",
+      "clock": {
+        "day": 2,
+        "minutes": 1080
+      },
+      "venues": {
+        "central": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 420,
+          "label": "Open · till 1 AM"
+        },
+        "azhar": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "manita": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "bar-libretto": {
+          "kind": "closed",
+          "opensAt": 960,
+          "opensDay": 3,
+          "opensIn": 1320,
+          "label": "Closed · opens Wed 4 PM"
+        },
+        "haifa-room": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "rhapsody": {
+          "kind": "closed",
+          "opensAt": 1200,
+          "opensDay": 4,
+          "opensIn": 3000,
+          "label": "Closed · opens Thu 8 PM"
+        },
+        "la-chingada": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "gloria": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 360,
+          "label": "Open · till 12 AM"
+        },
+        "poetry-jazz-cafe": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 480,
+          "label": "Open · till 2 AM"
+        },
+        "bar-piquette": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "aleria": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 360,
+          "label": "Open · till 12 AM"
+        },
+        "roxton-public-house": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 480,
+          "label": "Open · till 2 AM"
+        },
+        "dont-tell": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 300,
+          "label": "Open · till 11 PM"
+        },
+        "linnys": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "painted-lady": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 480,
+          "label": "Open · till 2 AM"
+        },
+        "sweaty-bettys": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 480,
+          "label": "Open · till 2 AM"
+        },
+        "fallen-feather": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 300,
+          "label": "Open · till 11 PM"
+        },
+        "bar-roma": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 300,
+          "label": "Open · till 11 PM"
+        },
+        "bar-poet": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 480,
+          "label": "Open · till 2 AM"
+        },
+        "grape-witches": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "wasted-youth": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 480,
+          "label": "Open · till 2 AM"
+        },
+        "hanmoto": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 360,
+          "label": "Open · till 12 AM"
+        },
+        "casablanca-lounge": {
+          "kind": "closed",
+          "opensAt": 1260,
+          "opensDay": 5,
+          "opensIn": 4500,
+          "label": "Closed · opens Fri 9 PM"
+        },
+        "mild-afro-lounge": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 2820,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "the-lakeview-diner": {
+          "kind": "open",
+          "closesAt": 11520,
+          "closesIn": 10440,
+          "label": "Open 24 hours"
+        },
+        "nazare-snack-bar": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 480,
+          "label": "Open · till 2 AM"
+        },
+        "taberna-lx": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 3,
+          "opensIn": 1380,
+          "label": "Closed · opens Wed 5 PM"
+        },
+        "kensei-bar": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 420,
+          "label": "Open · till 1 AM"
+        },
+        "gracies-pizza": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 480,
+          "label": "Open · till 2 AM"
+        },
+        "get-well": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 480,
+          "label": "Open · till 2 AM"
+        },
+        "vie-strada": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 3,
+          "opensIn": 1380,
+          "label": "Closed · opens Wed 5 PM"
+        },
+        "the-garrison": {
+          "kind": "open",
+          "closesAt": 1605,
+          "closesIn": 525,
+          "label": "Open · till 2:45 AM"
+        },
+        "the-jean-darlene": {
+          "kind": "closed",
+          "opensAt": 1200,
+          "opensDay": 4,
+          "opensIn": 3000,
+          "label": "Closed · opens Thu 8 PM"
+        },
+        "the-gemini": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 2820,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "churchill": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 480,
+          "label": "Open · till 2 AM"
+        },
+        "gia-restaurant": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "the-fountain": {
+          "kind": "closed",
+          "opensAt": 1140,
+          "opensDay": 2,
+          "opensIn": 60,
+          "label": "Closed · opens 7 PM"
+        },
+        "stefanos-diner": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "bambis": {
+          "kind": "closed",
+          "opensAt": 1260,
+          "opensDay": 4,
+          "opensIn": 3060,
+          "label": "Closed · opens Thu 9 PM"
+        },
+        "downtown-winery": {
+          "kind": "open",
+          "closesAt": 1200,
+          "closesIn": 120,
+          "label": "Open · till 8 PM"
+        },
+        "pho-tien-thanh": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "nabe-hana": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 3,
+          "opensIn": 1380,
+          "label": "Closed · opens Wed 5 PM"
+        },
+        "union": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "no-vacancy": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 420,
+          "label": "Open · till 1 AM"
+        },
+        "mamakas-taverna": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "gift-shop": {
+          "kind": "closed",
+          "opensAt": 1170,
+          "opensDay": 2,
+          "opensIn": 90,
+          "label": "Closed · opens 7:30 PM"
+        },
+        "oddseoul": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 3,
+          "opensIn": 1440,
+          "label": "Closed · opens Wed 6 PM"
+        },
+        "the-lunch-lady": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "fat-choi": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 3,
+          "opensIn": 1380,
+          "label": "Closed · opens Wed 5 PM"
+        },
+        "soos": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 3,
+          "opensIn": 1380,
+          "label": "Closed · opens Wed 5 PM"
+        },
+        "neon-tiger": {
+          "kind": "closed",
+          "opensAt": 960,
+          "opensDay": 4,
+          "opensIn": 2760,
+          "label": "Closed · opens Thu 4 PM"
+        },
+        "small-talk": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 2820,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "papi-chulos": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 360,
+          "label": "Open · till 12 AM"
+        },
+        "bellwoods-brewery": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 360,
+          "label": "Open · till 12 AM"
+        },
+        "golden-turtle": {
+          "kind": "closed",
+          "opensAt": 660,
+          "opensDay": 3,
+          "opensIn": 1020,
+          "label": "Closed · opens Wed 11 AM"
+        },
+        "co-te-de-boeuf": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "reposado": {
+          "kind": "open",
+          "closesAt": 1530,
+          "closesIn": 450,
+          "label": "Open · till 1:30 AM"
+        },
+        "favorites-thai": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "club-paris": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "paris-paris": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 300,
+          "label": "Open · till 11 PM"
+        },
+        "i-deal-coffee-and-wine": {
+          "kind": "open",
+          "closesAt": 1200,
+          "closesIn": 120,
+          "label": "Open · till 8 PM"
+        },
+        "bar-shozan": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 3,
+          "opensIn": 1410,
+          "label": "Closed · opens Wed 5:30 PM"
+        },
+        "idk-social": {
+          "kind": "open",
+          "closesAt": 1140,
+          "closesIn": 60,
+          "label": "Closes soon · 7 PM"
+        },
+        "bar-bowie": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 480,
+          "label": "Open · till 2 AM"
+        },
+        "season-six": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "badlands": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 3,
+          "opensIn": 1380,
+          "label": "Closed · opens Wed 5 PM"
+        },
+        "papi-and-rosita": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 360,
+          "label": "Open · till 12 AM"
+        },
+        "man-of-kent": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 480,
+          "label": "Open · till 2 AM"
+        },
+        "pies-by-squires": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 300,
+          "label": "Open · till 11 PM"
+        },
+        "foxley": {
+          "kind": "open",
+          "closesAt": 1350,
+          "closesIn": 270,
+          "label": "Open · till 10:30 PM"
+        },
+        "222-bar": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 480,
+          "label": "Open · till 2 AM"
+        },
+        "salt-wine-bar": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "la-banane": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 3,
+          "opensIn": 1410,
+          "label": "Closed · opens Wed 5:30 PM"
+        },
+        "bar-banane": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 3,
+          "opensIn": 1440,
+          "label": "Closed · opens Wed 6 PM"
+        },
+        "ceniza": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 300,
+          "label": "Open · till 11 PM"
+        },
+        "prime-seafood-palace": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 240,
+          "label": "Open · till 10 PM"
+        },
+        "frankies-diner": {
+          "kind": "open",
+          "closesAt": 1140,
+          "closesIn": 60,
+          "label": "Closes soon · 7 PM"
+        },
+        "apt-200": {
+          "kind": "closed",
+          "opensAt": 1320,
+          "opensDay": 4,
+          "opensIn": 3120,
+          "label": "Closed · opens Thu 10 PM"
+        },
+        "prequel-and-co-apothecary": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 420,
+          "label": "Open · till 1 AM"
+        },
+        "and-ore": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 360,
+          "label": "Open · till 12 AM"
+        },
+        "jamils": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 3,
+          "opensIn": 1380,
+          "label": "Closed · opens Wed 5 PM"
+        }
+      }
+    },
+    {
+      "label": "Wed 11:50 PM",
+      "clock": {
+        "day": 3,
+        "minutes": 1430
+      },
+      "venues": {
+        "central": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 70,
+          "label": "Open · till 1 AM"
+        },
+        "azhar": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "manita": {
+          "kind": "closed",
+          "opensAt": 600,
+          "opensDay": 4,
+          "opensIn": 610,
+          "label": "Closed · opens Thu 10 AM"
+        },
+        "bar-libretto": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 70,
+          "label": "Open · till 1 AM"
+        },
+        "haifa-room": {
+          "kind": "closed",
+          "opensAt": 660,
+          "opensDay": 4,
+          "opensIn": 670,
+          "label": "Closed · opens Thu 11 AM"
+        },
+        "rhapsody": {
+          "kind": "closed",
+          "opensAt": 1200,
+          "opensDay": 4,
+          "opensIn": 1210,
+          "label": "Closed · opens Thu 8 PM"
+        },
+        "la-chingada": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 4,
+          "opensIn": 730,
+          "label": "Closed · opens Thu 12 PM"
+        },
+        "gloria": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 10,
+          "label": "Closes soon · 12 AM"
+        },
+        "poetry-jazz-cafe": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "bar-piquette": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "aleria": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 10,
+          "label": "Closes soon · 12 AM"
+        },
+        "roxton-public-house": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "dont-tell": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "linnys": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "painted-lady": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "sweaty-bettys": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "fallen-feather": {
+          "kind": "closed",
+          "opensAt": 960,
+          "opensDay": 4,
+          "opensIn": 970,
+          "label": "Closed · opens Thu 4 PM"
+        },
+        "bar-roma": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 10,
+          "label": "Closes soon · 12 AM"
+        },
+        "bar-poet": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "grape-witches": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 4,
+          "opensIn": 730,
+          "label": "Closed · opens Thu 12 PM"
+        },
+        "wasted-youth": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "hanmoto": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 10,
+          "label": "Closes soon · 12 AM"
+        },
+        "casablanca-lounge": {
+          "kind": "closed",
+          "opensAt": 1260,
+          "opensDay": 5,
+          "opensIn": 2710,
+          "label": "Closed · opens Fri 9 PM"
+        },
+        "mild-afro-lounge": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "the-lakeview-diner": {
+          "kind": "open",
+          "closesAt": 11520,
+          "closesIn": 10090,
+          "label": "Open 24 hours"
+        },
+        "nazare-snack-bar": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "taberna-lx": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "kensei-bar": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 70,
+          "label": "Open · till 1 AM"
+        },
+        "gracies-pizza": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "get-well": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "vie-strada": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "the-garrison": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 4,
+          "opensIn": 1090,
+          "label": "Closed · opens Thu 6 PM"
+        },
+        "the-jean-darlene": {
+          "kind": "closed",
+          "opensAt": 1200,
+          "opensDay": 4,
+          "opensIn": 1210,
+          "label": "Closed · opens Thu 8 PM"
+        },
+        "the-gemini": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "churchill": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "gia-restaurant": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "the-fountain": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "stefanos-diner": {
+          "kind": "closed",
+          "opensAt": 990,
+          "opensDay": 4,
+          "opensIn": 1000,
+          "label": "Closed · opens Thu 4:30 PM"
+        },
+        "bambis": {
+          "kind": "closed",
+          "opensAt": 1260,
+          "opensDay": 4,
+          "opensIn": 1270,
+          "label": "Closed · opens Thu 9 PM"
+        },
+        "downtown-winery": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 4,
+          "opensIn": 730,
+          "label": "Closed · opens Thu 12 PM"
+        },
+        "pho-tien-thanh": {
+          "kind": "closed",
+          "opensAt": 660,
+          "opensDay": 4,
+          "opensIn": 670,
+          "label": "Closed · opens Thu 11 AM"
+        },
+        "nabe-hana": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "union": {
+          "kind": "closed",
+          "opensAt": 690,
+          "opensDay": 4,
+          "opensIn": 700,
+          "label": "Closed · opens Thu 11:30 AM"
+        },
+        "no-vacancy": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 70,
+          "label": "Open · till 1 AM"
+        },
+        "mamakas-taverna": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 4,
+          "opensIn": 1060,
+          "label": "Closed · opens Thu 5:30 PM"
+        },
+        "gift-shop": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "oddseoul": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 70,
+          "label": "Open · till 1 AM"
+        },
+        "the-lunch-lady": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 4,
+          "opensIn": 730,
+          "label": "Closed · opens Thu 12 PM"
+        },
+        "fat-choi": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "soos": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "neon-tiger": {
+          "kind": "closed",
+          "opensAt": 960,
+          "opensDay": 4,
+          "opensIn": 970,
+          "label": "Closed · opens Thu 4 PM"
+        },
+        "small-talk": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "papi-chulos": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 10,
+          "label": "Closes soon · 12 AM"
+        },
+        "bellwoods-brewery": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 10,
+          "label": "Closes soon · 12 AM"
+        },
+        "golden-turtle": {
+          "kind": "closed",
+          "opensAt": 660,
+          "opensDay": 4,
+          "opensIn": 670,
+          "label": "Closed · opens Thu 11 AM"
+        },
+        "co-te-de-boeuf": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 4,
+          "opensIn": 730,
+          "label": "Closed · opens Thu 12 PM"
+        },
+        "reposado": {
+          "kind": "open",
+          "closesAt": 1530,
+          "closesIn": 100,
+          "label": "Open · till 1:30 AM"
+        },
+        "favorites-thai": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 4,
+          "opensIn": 1090,
+          "label": "Closed · opens Thu 6 PM"
+        },
+        "club-paris": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 4,
+          "opensIn": 730,
+          "label": "Closed · opens Thu 12 PM"
+        },
+        "paris-paris": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 4,
+          "opensIn": 730,
+          "label": "Closed · opens Thu 12 PM"
+        },
+        "i-deal-coffee-and-wine": {
+          "kind": "closed",
+          "opensAt": 450,
+          "opensDay": 4,
+          "opensIn": 460,
+          "label": "Closed · opens Thu 7:30 AM"
+        },
+        "bar-shozan": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 4,
+          "opensIn": 1060,
+          "label": "Closed · opens Thu 5:30 PM"
+        },
+        "idk-social": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 10,
+          "label": "Closes soon · 12 AM"
+        },
+        "bar-bowie": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "season-six": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 4,
+          "opensIn": 730,
+          "label": "Closed · opens Thu 12 PM"
+        },
+        "badlands": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "papi-and-rosita": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 10,
+          "label": "Closes soon · 12 AM"
+        },
+        "man-of-kent": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "pies-by-squires": {
+          "kind": "closed",
+          "opensAt": 840,
+          "opensDay": 4,
+          "opensIn": 850,
+          "label": "Closed · opens Thu 2 PM"
+        },
+        "foxley": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "222-bar": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 130,
+          "label": "Open · till 2 AM"
+        },
+        "salt-wine-bar": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 4,
+          "opensIn": 1060,
+          "label": "Closed · opens Thu 5:30 PM"
+        },
+        "la-banane": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 4,
+          "opensIn": 1060,
+          "label": "Closed · opens Thu 5:30 PM"
+        },
+        "bar-banane": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 10,
+          "label": "Closes soon · 12 AM"
+        },
+        "ceniza": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        },
+        "prime-seafood-palace": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 4,
+          "opensIn": 1060,
+          "label": "Closed · opens Thu 5:30 PM"
+        },
+        "frankies-diner": {
+          "kind": "closed",
+          "opensAt": 540,
+          "opensDay": 4,
+          "opensIn": 550,
+          "label": "Closed · opens Thu 9 AM"
+        },
+        "apt-200": {
+          "kind": "closed",
+          "opensAt": 1320,
+          "opensDay": 4,
+          "opensIn": 1330,
+          "label": "Closed · opens Thu 10 PM"
+        },
+        "prequel-and-co-apothecary": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 70,
+          "label": "Open · till 1 AM"
+        },
+        "and-ore": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 10,
+          "label": "Closes soon · 12 AM"
+        },
+        "jamils": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 4,
+          "opensIn": 1030,
+          "label": "Closed · opens Thu 5 PM"
+        }
+      }
+    },
+    {
+      "label": "Thu 9:00 PM",
+      "clock": {
+        "day": 4,
+        "minutes": 1260
+      },
+      "venues": {
+        "central": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "azhar": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "manita": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "bar-libretto": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 240,
+          "label": "Open · till 1 AM"
+        },
+        "haifa-room": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 120,
+          "label": "Open · till 11 PM"
+        },
+        "rhapsody": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "la-chingada": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 120,
+          "label": "Open · till 11 PM"
+        },
+        "gloria": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "poetry-jazz-cafe": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "bar-piquette": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "aleria": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 180,
+          "label": "Open · till 12 AM"
+        },
+        "roxton-public-house": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "dont-tell": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 120,
+          "label": "Open · till 11 PM"
+        },
+        "linnys": {
+          "kind": "open",
+          "closesAt": 1350,
+          "closesIn": 90,
+          "label": "Open · till 10:30 PM"
+        },
+        "painted-lady": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "sweaty-bettys": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "fallen-feather": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 120,
+          "label": "Open · till 11 PM"
+        },
+        "bar-roma": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 180,
+          "label": "Open · till 12 AM"
+        },
+        "bar-poet": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "grape-witches": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 120,
+          "label": "Open · till 11 PM"
+        },
+        "wasted-youth": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "hanmoto": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 180,
+          "label": "Open · till 12 AM"
+        },
+        "casablanca-lounge": {
+          "kind": "closed",
+          "opensAt": 1260,
+          "opensDay": 5,
+          "opensIn": 1440,
+          "label": "Closed · opens Fri 9 PM"
+        },
+        "mild-afro-lounge": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 180,
+          "label": "Open · till 12 AM"
+        },
+        "the-lakeview-diner": {
+          "kind": "open",
+          "closesAt": 11520,
+          "closesIn": 10260,
+          "label": "Open 24 hours"
+        },
+        "nazare-snack-bar": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "taberna-lx": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 120,
+          "label": "Open · till 11 PM"
+        },
+        "kensei-bar": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 240,
+          "label": "Open · till 1 AM"
+        },
+        "gracies-pizza": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "get-well": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "vie-strada": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 120,
+          "label": "Open · till 11 PM"
+        },
+        "the-garrison": {
+          "kind": "open",
+          "closesAt": 1605,
+          "closesIn": 345,
+          "label": "Open · till 2:45 AM"
+        },
+        "the-jean-darlene": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "the-gemini": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "churchill": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "gia-restaurant": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "the-fountain": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "stefanos-diner": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "bambis": {
+          "kind": "open",
+          "closesAt": 1590,
+          "closesIn": 330,
+          "label": "Open · till 2:30 AM"
+        },
+        "downtown-winery": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 120,
+          "label": "Open · till 11 PM"
+        },
+        "pho-tien-thanh": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "nabe-hana": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "union": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "no-vacancy": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "mamakas-taverna": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "gift-shop": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "oddseoul": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 240,
+          "label": "Open · till 1 AM"
+        },
+        "the-lunch-lady": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "fat-choi": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "soos": {
+          "kind": "open",
+          "closesAt": 1290,
+          "closesIn": 30,
+          "label": "Closes soon · 9:30 PM"
+        },
+        "neon-tiger": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 180,
+          "label": "Open · till 12 AM"
+        },
+        "small-talk": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "papi-chulos": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 180,
+          "label": "Open · till 12 AM"
+        },
+        "bellwoods-brewery": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 180,
+          "label": "Open · till 12 AM"
+        },
+        "golden-turtle": {
+          "kind": "closed",
+          "opensAt": 660,
+          "opensDay": 5,
+          "opensIn": 840,
+          "label": "Closed · opens Fri 11 AM"
+        },
+        "co-te-de-boeuf": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 120,
+          "label": "Open · till 11 PM"
+        },
+        "reposado": {
+          "kind": "open",
+          "closesAt": 1530,
+          "closesIn": 270,
+          "label": "Open · till 1:30 AM"
+        },
+        "favorites-thai": {
+          "kind": "open",
+          "closesAt": 1350,
+          "closesIn": 90,
+          "label": "Open · till 10:30 PM"
+        },
+        "club-paris": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 120,
+          "label": "Open · till 11 PM"
+        },
+        "paris-paris": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 180,
+          "label": "Open · till 12 AM"
+        },
+        "i-deal-coffee-and-wine": {
+          "kind": "closed",
+          "opensAt": 450,
+          "opensDay": 5,
+          "opensIn": 630,
+          "label": "Closed · opens Fri 7:30 AM"
+        },
+        "bar-shozan": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "idk-social": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "bar-bowie": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "season-six": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 180,
+          "label": "Open · till 12 AM"
+        },
+        "badlands": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "papi-and-rosita": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "man-of-kent": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "pies-by-squires": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 120,
+          "label": "Open · till 11 PM"
+        },
+        "foxley": {
+          "kind": "open",
+          "closesAt": 1350,
+          "closesIn": 90,
+          "label": "Open · till 10:30 PM"
+        },
+        "222-bar": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "salt-wine-bar": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "la-banane": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "bar-banane": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 180,
+          "label": "Open · till 12 AM"
+        },
+        "ceniza": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 120,
+          "label": "Open · till 11 PM"
+        },
+        "prime-seafood-palace": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        },
+        "frankies-diner": {
+          "kind": "closed",
+          "opensAt": 540,
+          "opensDay": 5,
+          "opensIn": 720,
+          "label": "Closed · opens Fri 9 AM"
+        },
+        "apt-200": {
+          "kind": "closed",
+          "opensAt": 1320,
+          "opensDay": 4,
+          "opensIn": 60,
+          "label": "Closed · opens 10 PM"
+        },
+        "prequel-and-co-apothecary": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 300,
+          "label": "Open · till 2 AM"
+        },
+        "and-ore": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 180,
+          "label": "Open · till 12 AM"
+        },
+        "jamils": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 60,
+          "label": "Closes soon · 10 PM"
+        }
+      }
+    },
+    {
+      "label": "Fri 5:30 PM",
+      "clock": {
+        "day": 5,
+        "minutes": 1050
+      },
+      "venues": {
+        "central": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "azhar": {
+          "kind": "open",
+          "closesAt": 1350,
+          "closesIn": 300,
+          "label": "Open · till 10:30 PM"
+        },
+        "manita": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 270,
+          "label": "Open · till 10 PM"
+        },
+        "bar-libretto": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 450,
+          "label": "Open · till 1 AM"
+        },
+        "haifa-room": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "rhapsody": {
+          "kind": "closed",
+          "opensAt": 1200,
+          "opensDay": 5,
+          "opensIn": 150,
+          "label": "Closed · opens 8 PM"
+        },
+        "la-chingada": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 330,
+          "label": "Open · till 11 PM"
+        },
+        "gloria": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "poetry-jazz-cafe": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "bar-piquette": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 390,
+          "label": "Open · till 12 AM"
+        },
+        "aleria": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "roxton-public-house": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "dont-tell": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 450,
+          "label": "Open · till 1 AM"
+        },
+        "linnys": {
+          "kind": "open",
+          "closesAt": 1350,
+          "closesIn": 300,
+          "label": "Open · till 10:30 PM"
+        },
+        "painted-lady": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 5,
+          "opensIn": 30,
+          "label": "Closed · opens 6 PM"
+        },
+        "sweaty-bettys": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "fallen-feather": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 390,
+          "label": "Open · till 12 AM"
+        },
+        "bar-roma": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "bar-poet": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "grape-witches": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 330,
+          "label": "Open · till 11 PM"
+        },
+        "wasted-youth": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "hanmoto": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 5,
+          "opensIn": 30,
+          "label": "Closed · opens 6 PM"
+        },
+        "casablanca-lounge": {
+          "kind": "closed",
+          "opensAt": 1260,
+          "opensDay": 5,
+          "opensIn": 210,
+          "label": "Closed · opens 9 PM"
+        },
+        "mild-afro-lounge": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 390,
+          "label": "Open · till 12 AM"
+        },
+        "the-lakeview-diner": {
+          "kind": "open",
+          "closesAt": 11520,
+          "closesIn": 10470,
+          "label": "Open 24 hours"
+        },
+        "nazare-snack-bar": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "taberna-lx": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 390,
+          "label": "Open · till 12 AM"
+        },
+        "kensei-bar": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 5,
+          "opensIn": 30,
+          "label": "Closed · opens 6 PM"
+        },
+        "gracies-pizza": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "get-well": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "vie-strada": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 390,
+          "label": "Open · till 12 AM"
+        },
+        "the-garrison": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 5,
+          "opensIn": 30,
+          "label": "Closed · opens 6 PM"
+        },
+        "the-jean-darlene": {
+          "kind": "closed",
+          "opensAt": 1200,
+          "opensDay": 5,
+          "opensIn": 150,
+          "label": "Closed · opens 8 PM"
+        },
+        "the-gemini": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 270,
+          "label": "Open · till 10 PM"
+        },
+        "churchill": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "gia-restaurant": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 270,
+          "label": "Open · till 10 PM"
+        },
+        "the-fountain": {
+          "kind": "closed",
+          "opensAt": 1140,
+          "opensDay": 5,
+          "opensIn": 90,
+          "label": "Closed · opens 7 PM"
+        },
+        "stefanos-diner": {
+          "kind": "open",
+          "closesAt": 1410,
+          "closesIn": 360,
+          "label": "Open · till 11:30 PM"
+        },
+        "bambis": {
+          "kind": "closed",
+          "opensAt": 1260,
+          "opensDay": 5,
+          "opensIn": 210,
+          "label": "Closed · opens 9 PM"
+        },
+        "downtown-winery": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 330,
+          "label": "Open · till 11 PM"
+        },
+        "pho-tien-thanh": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 270,
+          "label": "Open · till 10 PM"
+        },
+        "nabe-hana": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 270,
+          "label": "Open · till 10 PM"
+        },
+        "union": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 270,
+          "label": "Open · till 10 PM"
+        },
+        "no-vacancy": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 5,
+          "opensIn": 30,
+          "label": "Closed · opens 6 PM"
+        },
+        "mamakas-taverna": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 270,
+          "label": "Open · till 10 PM"
+        },
+        "gift-shop": {
+          "kind": "closed",
+          "opensAt": 1170,
+          "opensDay": 5,
+          "opensIn": 120,
+          "label": "Closed · opens 7:30 PM"
+        },
+        "oddseoul": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "the-lunch-lady": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 270,
+          "label": "Open · till 10 PM"
+        },
+        "fat-choi": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 270,
+          "label": "Open · till 10 PM"
+        },
+        "soos": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 270,
+          "label": "Open · till 10 PM"
+        },
+        "neon-tiger": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 390,
+          "label": "Open · till 12 AM"
+        },
+        "small-talk": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "papi-chulos": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "bellwoods-brewery": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 450,
+          "label": "Open · till 1 AM"
+        },
+        "golden-turtle": {
+          "kind": "open",
+          "closesAt": 1260,
+          "closesIn": 210,
+          "label": "Open · till 9 PM"
+        },
+        "co-te-de-boeuf": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 330,
+          "label": "Open · till 11 PM"
+        },
+        "reposado": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 5,
+          "opensIn": 30,
+          "label": "Closed · opens 6 PM"
+        },
+        "favorites-thai": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 5,
+          "opensIn": 30,
+          "label": "Closed · opens 6 PM"
+        },
+        "club-paris": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 390,
+          "label": "Open · till 12 AM"
+        },
+        "paris-paris": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "i-deal-coffee-and-wine": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 330,
+          "label": "Open · till 11 PM"
+        },
+        "bar-shozan": {
+          "kind": "open",
+          "closesAt": 1410,
+          "closesIn": 360,
+          "label": "Open · till 11:30 PM"
+        },
+        "idk-social": {
+          "kind": "closed",
+          "opensAt": 1260,
+          "opensDay": 5,
+          "opensIn": 210,
+          "label": "Closed · opens 9 PM"
+        },
+        "bar-bowie": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 5,
+          "opensIn": 30,
+          "label": "Closed · opens 6 PM"
+        },
+        "season-six": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "badlands": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "papi-and-rosita": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "man-of-kent": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "pies-by-squires": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 330,
+          "label": "Open · till 11 PM"
+        },
+        "foxley": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 330,
+          "label": "Open · till 11 PM"
+        },
+        "222-bar": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "salt-wine-bar": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 330,
+          "label": "Open · till 11 PM"
+        },
+        "la-banane": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 330,
+          "label": "Open · till 11 PM"
+        },
+        "bar-banane": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 5,
+          "opensIn": 30,
+          "label": "Closed · opens 6 PM"
+        },
+        "ceniza": {
+          "kind": "open",
+          "closesAt": 1500,
+          "closesIn": 450,
+          "label": "Open · till 1 AM"
+        },
+        "prime-seafood-palace": {
+          "kind": "open",
+          "closesAt": 1350,
+          "closesIn": 300,
+          "label": "Open · till 10:30 PM"
+        },
+        "frankies-diner": {
+          "kind": "open",
+          "closesAt": 1200,
+          "closesIn": 150,
+          "label": "Open · till 8 PM"
+        },
+        "apt-200": {
+          "kind": "closed",
+          "opensAt": 1320,
+          "opensDay": 5,
+          "opensIn": 270,
+          "label": "Closed · opens 10 PM"
+        },
+        "prequel-and-co-apothecary": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 510,
+          "label": "Open · till 2 AM"
+        },
+        "and-ore": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 390,
+          "label": "Open · till 12 AM"
+        },
+        "jamils": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 330,
+          "label": "Open · till 11 PM"
+        }
+      }
+    },
+    {
+      "label": "Sat 1:15 AM",
+      "clock": {
+        "day": 6,
+        "minutes": 75
+      },
+      "venues": {
+        "central": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "azhar": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 6,
+          "opensIn": 645,
+          "label": "Closed · opens 12 PM"
+        },
+        "manita": {
+          "kind": "closed",
+          "opensAt": 600,
+          "opensDay": 6,
+          "opensIn": 525,
+          "label": "Closed · opens 10 AM"
+        },
+        "bar-libretto": {
+          "kind": "closed",
+          "opensAt": 960,
+          "opensDay": 6,
+          "opensIn": 885,
+          "label": "Closed · opens 4 PM"
+        },
+        "haifa-room": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "rhapsody": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "la-chingada": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 6,
+          "opensIn": 645,
+          "label": "Closed · opens 12 PM"
+        },
+        "gloria": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "poetry-jazz-cafe": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "bar-piquette": {
+          "kind": "closed",
+          "opensAt": 780,
+          "opensDay": 6,
+          "opensIn": 705,
+          "label": "Closed · opens 1 PM"
+        },
+        "aleria": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "roxton-public-house": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "dont-tell": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 6,
+          "opensIn": 945,
+          "label": "Closed · opens 5 PM"
+        },
+        "linnys": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 6,
+          "opensIn": 945,
+          "label": "Closed · opens 5 PM"
+        },
+        "painted-lady": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "sweaty-bettys": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "fallen-feather": {
+          "kind": "closed",
+          "opensAt": 960,
+          "opensDay": 6,
+          "opensIn": 885,
+          "label": "Closed · opens 4 PM"
+        },
+        "bar-roma": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "bar-poet": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "grape-witches": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 6,
+          "opensIn": 645,
+          "label": "Closed · opens 12 PM"
+        },
+        "wasted-youth": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "hanmoto": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "casablanca-lounge": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "mild-afro-lounge": {
+          "kind": "closed",
+          "opensAt": 840,
+          "opensDay": 6,
+          "opensIn": 765,
+          "label": "Closed · opens 2 PM"
+        },
+        "the-lakeview-diner": {
+          "kind": "open",
+          "closesAt": 11520,
+          "closesIn": 11445,
+          "label": "Open 24 hours"
+        },
+        "nazare-snack-bar": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "taberna-lx": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 6,
+          "opensIn": 945,
+          "label": "Closed · opens 5 PM"
+        },
+        "kensei-bar": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "gracies-pizza": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "get-well": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "vie-strada": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 6,
+          "opensIn": 945,
+          "label": "Closed · opens 5 PM"
+        },
+        "the-garrison": {
+          "kind": "open",
+          "closesAt": 1605,
+          "closesIn": 90,
+          "label": "Open · till 2:45 AM"
+        },
+        "the-jean-darlene": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "the-gemini": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 6,
+          "opensIn": 945,
+          "label": "Closed · opens 5 PM"
+        },
+        "churchill": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "gia-restaurant": {
+          "kind": "closed",
+          "opensAt": 690,
+          "opensDay": 6,
+          "opensIn": 615,
+          "label": "Closed · opens 11:30 AM"
+        },
+        "the-fountain": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "stefanos-diner": {
+          "kind": "closed",
+          "opensAt": 600,
+          "opensDay": 6,
+          "opensIn": 525,
+          "label": "Closed · opens 10 AM"
+        },
+        "bambis": {
+          "kind": "open",
+          "closesAt": 1590,
+          "closesIn": 75,
+          "label": "Open · till 2:30 AM"
+        },
+        "downtown-winery": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 6,
+          "opensIn": 645,
+          "label": "Closed · opens 12 PM"
+        },
+        "pho-tien-thanh": {
+          "kind": "closed",
+          "opensAt": 660,
+          "opensDay": 6,
+          "opensIn": 585,
+          "label": "Closed · opens 11 AM"
+        },
+        "nabe-hana": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 6,
+          "opensIn": 645,
+          "label": "Closed · opens 12 PM"
+        },
+        "union": {
+          "kind": "closed",
+          "opensAt": 600,
+          "opensDay": 6,
+          "opensIn": 525,
+          "label": "Closed · opens 10 AM"
+        },
+        "no-vacancy": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "mamakas-taverna": {
+          "kind": "closed",
+          "opensAt": 690,
+          "opensDay": 6,
+          "opensIn": 615,
+          "label": "Closed · opens 11:30 AM"
+        },
+        "gift-shop": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "oddseoul": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "the-lunch-lady": {
+          "kind": "closed",
+          "opensAt": 660,
+          "opensDay": 6,
+          "opensIn": 585,
+          "label": "Closed · opens 11 AM"
+        },
+        "fat-choi": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 6,
+          "opensIn": 945,
+          "label": "Closed · opens 5 PM"
+        },
+        "soos": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 6,
+          "opensIn": 945,
+          "label": "Closed · opens 5 PM"
+        },
+        "neon-tiger": {
+          "kind": "closed",
+          "opensAt": 900,
+          "opensDay": 6,
+          "opensIn": 825,
+          "label": "Closed · opens 3 PM"
+        },
+        "small-talk": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "papi-chulos": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "bellwoods-brewery": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 6,
+          "opensIn": 645,
+          "label": "Closed · opens 12 PM"
+        },
+        "golden-turtle": {
+          "kind": "closed",
+          "opensAt": 660,
+          "opensDay": 6,
+          "opensIn": 585,
+          "label": "Closed · opens 11 AM"
+        },
+        "co-te-de-boeuf": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 6,
+          "opensIn": 645,
+          "label": "Closed · opens 12 PM"
+        },
+        "reposado": {
+          "kind": "open",
+          "closesAt": 1530,
+          "closesIn": 15,
+          "label": "Closes soon · 1:30 AM"
+        },
+        "favorites-thai": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 6,
+          "opensIn": 1005,
+          "label": "Closed · opens 6 PM"
+        },
+        "club-paris": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 6,
+          "opensIn": 645,
+          "label": "Closed · opens 12 PM"
+        },
+        "paris-paris": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "i-deal-coffee-and-wine": {
+          "kind": "closed",
+          "opensAt": 450,
+          "opensDay": 6,
+          "opensIn": 375,
+          "label": "Closed · opens 7:30 AM"
+        },
+        "bar-shozan": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 6,
+          "opensIn": 645,
+          "label": "Closed · opens 12 PM"
+        },
+        "idk-social": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "bar-bowie": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "season-six": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "badlands": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "papi-and-rosita": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "man-of-kent": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "pies-by-squires": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 6,
+          "opensIn": 645,
+          "label": "Closed · opens 12 PM"
+        },
+        "foxley": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 6,
+          "opensIn": 945,
+          "label": "Closed · opens 5 PM"
+        },
+        "222-bar": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "salt-wine-bar": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 6,
+          "opensIn": 975,
+          "label": "Closed · opens 5:30 PM"
+        },
+        "la-banane": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 6,
+          "opensIn": 975,
+          "label": "Closed · opens 5:30 PM"
+        },
+        "bar-banane": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "ceniza": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 6,
+          "opensIn": 945,
+          "label": "Closed · opens 5 PM"
+        },
+        "prime-seafood-palace": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 6,
+          "opensIn": 945,
+          "label": "Closed · opens 5 PM"
+        },
+        "frankies-diner": {
+          "kind": "closed",
+          "opensAt": 510,
+          "opensDay": 6,
+          "opensIn": 435,
+          "label": "Closed · opens 8:30 AM"
+        },
+        "apt-200": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "prequel-and-co-apothecary": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 45,
+          "label": "Closes soon · 2 AM"
+        },
+        "and-ore": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 6,
+          "opensIn": 945,
+          "label": "Closed · opens 5 PM"
+        },
+        "jamils": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 6,
+          "opensIn": 945,
+          "label": "Closed · opens 5 PM"
+        }
+      }
+    },
+    {
+      "label": "Sun 11:00 AM",
+      "clock": {
+        "day": 0,
+        "minutes": 660
+      },
+      "venues": {
+        "central": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 900,
+          "label": "Open · till 2 AM"
+        },
+        "azhar": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "manita": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 660,
+          "label": "Open · till 10 PM"
+        },
+        "bar-libretto": {
+          "kind": "closed",
+          "opensAt": 780,
+          "opensDay": 0,
+          "opensIn": 120,
+          "label": "Closed · opens 1 PM"
+        },
+        "haifa-room": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 660,
+          "label": "Open · till 10 PM"
+        },
+        "rhapsody": {
+          "kind": "closed",
+          "opensAt": 1200,
+          "opensDay": 0,
+          "opensIn": 540,
+          "label": "Closed · opens 8 PM"
+        },
+        "la-chingada": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "gloria": {
+          "kind": "open",
+          "closesAt": 1440,
+          "closesIn": 780,
+          "label": "Open · till 12 AM"
+        },
+        "poetry-jazz-cafe": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 2,
+          "opensIn": 3270,
+          "label": "Closed · opens Tue 5:30 PM"
+        },
+        "bar-piquette": {
+          "kind": "closed",
+          "opensAt": 780,
+          "opensDay": 0,
+          "opensIn": 120,
+          "label": "Closed · opens 1 PM"
+        },
+        "aleria": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "roxton-public-house": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "dont-tell": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 2,
+          "opensIn": 3240,
+          "label": "Closed · opens Tue 5 PM"
+        },
+        "linnys": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "painted-lady": {
+          "kind": "closed",
+          "opensAt": 840,
+          "opensDay": 0,
+          "opensIn": 180,
+          "label": "Closed · opens 2 PM"
+        },
+        "sweaty-bettys": {
+          "kind": "closed",
+          "opensAt": 780,
+          "opensDay": 0,
+          "opensIn": 120,
+          "label": "Closed · opens 1 PM"
+        },
+        "fallen-feather": {
+          "kind": "closed",
+          "opensAt": 960,
+          "opensDay": 0,
+          "opensIn": 300,
+          "label": "Closed · opens 4 PM"
+        },
+        "bar-roma": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 2,
+          "opensIn": 3240,
+          "label": "Closed · opens Tue 5 PM"
+        },
+        "bar-poet": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "grape-witches": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "wasted-youth": {
+          "kind": "closed",
+          "opensAt": 840,
+          "opensDay": 0,
+          "opensIn": 180,
+          "label": "Closed · opens 2 PM"
+        },
+        "hanmoto": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 1,
+          "opensIn": 1800,
+          "label": "Closed · opens Mon 5 PM"
+        },
+        "casablanca-lounge": {
+          "kind": "closed",
+          "opensAt": 1260,
+          "opensDay": 5,
+          "opensIn": 7800,
+          "label": "Closed · opens Fri 9 PM"
+        },
+        "mild-afro-lounge": {
+          "kind": "closed",
+          "opensAt": 840,
+          "opensDay": 0,
+          "opensIn": 180,
+          "label": "Closed · opens 2 PM"
+        },
+        "the-lakeview-diner": {
+          "kind": "open",
+          "closesAt": 11520,
+          "closesIn": 10860,
+          "label": "Open 24 hours"
+        },
+        "nazare-snack-bar": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "taberna-lx": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "kensei-bar": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 0,
+          "opensIn": 420,
+          "label": "Closed · opens 6 PM"
+        },
+        "gracies-pizza": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "get-well": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "vie-strada": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "the-garrison": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 0,
+          "opensIn": 420,
+          "label": "Closed · opens 6 PM"
+        },
+        "the-jean-darlene": {
+          "kind": "closed",
+          "opensAt": 1200,
+          "opensDay": 4,
+          "opensIn": 6300,
+          "label": "Closed · opens Thu 8 PM"
+        },
+        "the-gemini": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "churchill": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "gia-restaurant": {
+          "kind": "closed",
+          "opensAt": 690,
+          "opensDay": 0,
+          "opensIn": 30,
+          "label": "Closed · opens 11:30 AM"
+        },
+        "the-fountain": {
+          "kind": "closed",
+          "opensAt": 1140,
+          "opensDay": 0,
+          "opensIn": 480,
+          "label": "Closed · opens 7 PM"
+        },
+        "stefanos-diner": {
+          "kind": "open",
+          "closesAt": 1230,
+          "closesIn": 570,
+          "label": "Open · till 8:30 PM"
+        },
+        "bambis": {
+          "kind": "closed",
+          "opensAt": 1260,
+          "opensDay": 4,
+          "opensIn": 6360,
+          "label": "Closed · opens Thu 9 PM"
+        },
+        "downtown-winery": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "pho-tien-thanh": {
+          "kind": "open",
+          "closesAt": 1320,
+          "closesIn": 660,
+          "label": "Open · till 10 PM"
+        },
+        "nabe-hana": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "union": {
+          "kind": "open",
+          "closesAt": 900,
+          "closesIn": 240,
+          "label": "Open · till 3 PM"
+        },
+        "no-vacancy": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 0,
+          "opensIn": 420,
+          "label": "Closed · opens 6 PM"
+        },
+        "mamakas-taverna": {
+          "kind": "closed",
+          "opensAt": 690,
+          "opensDay": 0,
+          "opensIn": 30,
+          "label": "Closed · opens 11:30 AM"
+        },
+        "gift-shop": {
+          "kind": "closed",
+          "opensAt": 1170,
+          "opensDay": 2,
+          "opensIn": 3390,
+          "label": "Closed · opens Tue 7:30 PM"
+        },
+        "oddseoul": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 0,
+          "opensIn": 420,
+          "label": "Closed · opens 6 PM"
+        },
+        "the-lunch-lady": {
+          "kind": "open",
+          "closesAt": 900,
+          "closesIn": 240,
+          "label": "Open · till 3 PM"
+        },
+        "fat-choi": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "soos": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "neon-tiger": {
+          "kind": "closed",
+          "opensAt": 900,
+          "opensDay": 0,
+          "opensIn": 240,
+          "label": "Closed · opens 3 PM"
+        },
+        "small-talk": {
+          "kind": "open",
+          "closesAt": 1560,
+          "closesIn": 900,
+          "label": "Open · till 2 AM"
+        },
+        "papi-chulos": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "bellwoods-brewery": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "golden-turtle": {
+          "kind": "open",
+          "closesAt": 1260,
+          "closesIn": 600,
+          "label": "Open · till 9 PM"
+        },
+        "co-te-de-boeuf": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "reposado": {
+          "kind": "closed",
+          "opensAt": 900,
+          "opensDay": 0,
+          "opensIn": 240,
+          "label": "Closed · opens 3 PM"
+        },
+        "favorites-thai": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 2,
+          "opensIn": 3300,
+          "label": "Closed · opens Tue 6 PM"
+        },
+        "club-paris": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "paris-paris": {
+          "kind": "open",
+          "closesAt": 1380,
+          "closesIn": 720,
+          "label": "Open · till 11 PM"
+        },
+        "i-deal-coffee-and-wine": {
+          "kind": "open",
+          "closesAt": 1200,
+          "closesIn": 540,
+          "label": "Open · till 8 PM"
+        },
+        "bar-shozan": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "idk-social": {
+          "kind": "closed",
+          "opensAt": 870,
+          "opensDay": 0,
+          "opensIn": 210,
+          "label": "Closed · opens 2:30 PM"
+        },
+        "bar-bowie": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 0,
+          "opensIn": 420,
+          "label": "Closed · opens 6 PM"
+        },
+        "season-six": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "badlands": {
+          "kind": "closed",
+          "opensAt": 840,
+          "opensDay": 0,
+          "opensIn": 180,
+          "label": "Closed · opens 2 PM"
+        },
+        "papi-and-rosita": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "man-of-kent": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "pies-by-squires": {
+          "kind": "closed",
+          "opensAt": 720,
+          "opensDay": 0,
+          "opensIn": 60,
+          "label": "Closed · opens 12 PM"
+        },
+        "foxley": {
+          "kind": "closed",
+          "opensAt": 540,
+          "opensDay": 1,
+          "opensIn": 1320,
+          "label": "Closed · opens Mon 9 AM"
+        },
+        "222-bar": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "salt-wine-bar": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 0,
+          "opensIn": 390,
+          "label": "Closed · opens 5:30 PM"
+        },
+        "la-banane": {
+          "kind": "closed",
+          "opensAt": 1050,
+          "opensDay": 0,
+          "opensIn": 390,
+          "label": "Closed · opens 5:30 PM"
+        },
+        "bar-banane": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 3,
+          "opensIn": 4740,
+          "label": "Closed · opens Wed 6 PM"
+        },
+        "ceniza": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "prime-seafood-palace": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        },
+        "frankies-diner": {
+          "kind": "open",
+          "closesAt": 990,
+          "closesIn": 330,
+          "label": "Open · till 4:30 PM"
+        },
+        "apt-200": {
+          "kind": "closed",
+          "opensAt": 1320,
+          "opensDay": 0,
+          "opensIn": 660,
+          "label": "Closed · opens 10 PM"
+        },
+        "prequel-and-co-apothecary": {
+          "kind": "closed",
+          "opensAt": 1080,
+          "opensDay": 0,
+          "opensIn": 420,
+          "label": "Closed · opens 6 PM"
+        },
+        "and-ore": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 2,
+          "opensIn": 3240,
+          "label": "Closed · opens Tue 5 PM"
+        },
+        "jamils": {
+          "kind": "closed",
+          "opensAt": 1020,
+          "opensDay": 0,
+          "opensIn": 360,
+          "label": "Closed · opens 5 PM"
+        }
+      }
+    }
+  ]
+}

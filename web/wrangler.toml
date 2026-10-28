@@ -1,0 +1,11 @@
+# Cloudflare Pages config: the site in dist/ plus the API in functions/.
+name = "happy-hr-beta"
+pages_build_output_dir = "./dist"
+compatibility_date = "2026-10-01"
+
+# Community updates (submissions and "did it work?" votes).
+[[d1_databases]]
+binding = "DB"
+database_name = "happy-hr-community"
+database_id = "590a509f-9224-4bd0-b913-d4aa73f7b905"
+migrations_dir = "migrations"

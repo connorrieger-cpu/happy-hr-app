@@ -1,0 +1,9979 @@
+[
+ {
+  "id": "royal-electric",
+  "name": "Royal Electric Bar & Public Eatery",
+  "category": "Bar & eatery",
+  "vibe": "bar",
+  "address": "52 Macdonell St",
+  "lat": 43.54464,
+  "lng": -80.248847,
+  "tags": [
+   "Late night",
+   "Weekend brunch"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "Royal Burger",
+      "price": 16
+     },
+     {
+      "kind": "food",
+      "item": "half-price pizzas"
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Tex Mex Tuesday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Cowbell Cerveza",
+      "price": 7
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wednesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "buttermilk fried chicken sandwich",
+      "price": 16
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Thursday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price wings"
+     },
+     {
+      "kind": "drink",
+      "item": "Farm League",
+      "price": 6
+     }
+    ]
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Oyster Sunday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "oysters",
+      "price": 2
+     }
+    ]
+   }
+  ],
+  "food": [
+   "burgers",
+   "pizza",
+   "wings",
+   "oysters"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJFdF8J8KaK4gRl7__h6AwuwY",
+  "menuUrl": "https://www.royalelectricguelph.com/menus",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Royal Electric features",
+    "url": "https://www.royalelectricguelph.com/features",
+    "date": "2026-10"
+   },
+   {
+    "label": "Cheap Eats Guelph deal calendar",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 767-1694",
+  "website": "http://www.royalelectricguelph.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=485034850907045783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "mccabes-irish-pub",
+  "name": "McCabe’s Irish Pub & Grill",
+  "category": "Irish pub",
+  "vibe": "bar",
+  "address": "9 Wyndham St N",
+  "lat": 43.544722,
+  "lng": -80.247778,
+  "tags": [
+   "Patio",
+   "Sports on TV"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 840,
+    "end": 960,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "12 wings, fries and a pitcher of domestic beer",
+      "price": 24
+     }
+    ],
+    "note": "The “24 deal”; dine-in, with a drink"
+   },
+   {
+    "days": [
+     0,
+     1,
+     2
+    ],
+    "start": 1260,
+    "end": 1440,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "12 wings, fries and a pitcher of domestic beer",
+      "price": 24
+     }
+    ],
+    "note": "The “24 deal”, 9 PM to close; dine-in, with a drink"
+   },
+   {
+    "days": [
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 1260,
+    "end": 1560,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "12 wings, fries and a pitcher of domestic beer",
+      "price": 24
+     }
+    ],
+    "note": "The “24 deal”, 9 PM to close; dine-in, with a drink"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Wing Monday",
+    "start": 1200,
+    "end": 1440,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "small wings (in 10s)",
+      "price": 0.49
+     }
+    ],
+    "note": "After 8 PM, with a drink"
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Taco Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "$1 off all tacos"
+     }
+    ],
+    "note": "Cheap Eats Guelph lists $4 off burgers on Tuesdays instead (Aug 2026)"
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Pound and a Pint",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "1 lb wings and a domestic pint",
+      "price": 18
+     }
+    ]
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Burger Sunday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "$4 off all burgers"
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pub",
+   "wings",
+   "tacos",
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1410
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1410
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJvd-OPsKaK4gR4O_e2wNLj5Q",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "McCabe’s Guelph daily specials",
+    "url": "https://www.mccabes.ca/guelph",
+    "date": "2026-10"
+   },
+   {
+    "label": "Cheap Eats Guelph deal calendar",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 836-3400",
+  "website": "http://www.mccabesguelph.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10704857319228764128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "bad-luck-bar",
+  "name": "Bad Luck Bar",
+  "category": "Arcade bar",
+  "vibe": "bar",
+  "address": "59 Macdonell St",
+  "lat": 43.544571,
+  "lng": -80.24813,
+  "tags": [
+   "Arcade games",
+   "Karaoke Sundays"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     0
+    ],
+    "title": "Karaoke Sundays",
+    "start": 1020,
+    "end": 1560,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "everything on the menu",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "mixed drinks",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "domestic bottles",
+      "price": 5
+     }
+    ],
+    "note": "Karaoke from 9 PM"
+   }
+  ],
+  "food": [
+   "snacks"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 1020,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 1020,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 1020,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJmSWj2qKbK4gRl7310PL38Zk",
+  "menuUrl": "https://www.badluck519.com/food",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Bad Luck weekly deals (poster from Nov 2023)",
+    "url": "https://www.badluck519.com/weekly-deals",
+    "date": "2026-10"
+   },
+   {
+    "label": "Cheap Eats Guelph deal calendar",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 822-8225",
+  "website": "http://www.badluck519.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11092919979450154391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "1881-steakhouse",
+  "name": "1881 Steakhouse & Burger Bar",
+  "category": "Steakhouse & burger bar",
+  "vibe": "restaurant",
+  "address": "72 Macdonell St",
+  "lat": 43.545217,
+  "lng": -80.247583,
+  "tags": [
+   "Patio",
+   "Sports on TV"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 840,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price appetizers"
+     }
+    ]
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "domestic pint and a pound of wings",
+      "price": 16.99
+     },
+     {
+      "kind": "drink",
+      "item": "Yellowstone pints",
+      "price": 4
+     },
+     {
+      "kind": "drink",
+      "item": "$6 off Budweiser and Bud Light pitchers"
+     },
+     {
+      "kind": "food",
+      "item": "half-price pulled pork sandwiches"
+     }
+    ],
+    "note": "Food specials with a drink"
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Wing Night",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "jumbo wings",
+      "price": 0.69
+     },
+     {
+      "kind": "drink",
+      "item": "Jose Cuervo tequila",
+      "price": 4
+     },
+     {
+      "kind": "drink",
+      "item": "Corona, Sol and Dos Equis bottles",
+      "price": 5.5
+     },
+     {
+      "kind": "drink",
+      "item": "Yellowstone pints",
+      "price": 4
+     }
+    ],
+    "note": "Food specials with a drink"
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Beef Dip Day",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price beef dip"
+     },
+     {
+      "kind": "drink",
+      "item": "$1 off Coors Original pints"
+     },
+     {
+      "kind": "drink",
+      "item": "Coors Slushie seltzers",
+      "price": 5
+     }
+    ],
+    "note": "Food specials with a drink"
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Burger Day",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price burgers"
+     },
+     {
+      "kind": "drink",
+      "item": "$1 off craft cans"
+     }
+    ],
+    "note": "Food specials with a drink"
+   },
+   {
+    "days": [
+     5
+    ],
+    "title": "Wine Friday",
+    "start": 960,
+    "end": 1440,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "half-price wine bottles"
+     },
+     {
+      "kind": "drink",
+      "item": "$1 off Sleeman Original or Kronenbourg Blanc pints"
+     },
+     {
+      "kind": "food",
+      "item": "$3 off fish and chips"
+     }
+    ],
+    "note": "Food specials with a drink"
+   },
+   {
+    "days": [
+     6
+    ],
+    "title": "Weekend Ribs",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "$4 off ribs"
+     },
+     {
+      "kind": "drink",
+      "item": "sangria pitchers",
+      "price": 19.99
+     },
+     {
+      "kind": "drink",
+      "item": "$1 off Cowbell Hazy Days pints"
+     }
+    ],
+    "note": "Food specials with a drink"
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Caesars & Steaks",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "speciality Caesars",
+      "price": 5.5
+     },
+     {
+      "kind": "food",
+      "item": "$5 off steaks"
+     }
+    ],
+    "note": "Food specials with a drink"
+   }
+  ],
+  "food": [
+   "steak",
+   "burgers",
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJk1X1FMKaK4gRvcoEDTj1d5I",
+  "menuUrl": "https://images.unoapp.com/boxdata/asset86585/images/1881_Menu0226.pdf",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "1881 daily specials",
+    "url": "https://www.1881steakhouseandburgerbar.com/",
+    "date": "2026-10"
+   },
+   {
+    "label": "Cheap Eats Guelph deal calendar",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 824-2560",
+  "website": "http://www.1881steakhouseandburgerbar.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10554173872851438269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "jimmy-jazz",
+  "name": "Jimmy Jazz",
+  "category": "Live music bar",
+  "vibe": "bar",
+  "address": "48 Macdonell St",
+  "lat": 43.544579,
+  "lng": -80.248883,
+  "tags": [
+   "Live music",
+   "Trivia Tuesdays"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Pizza Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price Roy’s pizzas"
+     }
+    ]
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Wing Sunday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price wings"
+     }
+    ],
+    "note": "With open mic; Cheap Eats Guelph says before 10 PM"
+   }
+  ],
+  "food": [
+   "pizza",
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 1020,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJX99dJsKaK4gRYJ_EiKVB2TA",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Jimmy Jazz weekly rundown",
+    "url": "https://www.jimmyjazz519.ca/weekly-rundown",
+    "date": "2026-10"
+   },
+   {
+    "label": "Cheap Eats Guelph deal calendar",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 265-0501",
+  "website": "https://www.jimmyjazz519.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3519916762986749792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "la-cucina-ristorante",
+  "name": "La Cucina Ristorante",
+  "category": "Italian",
+  "vibe": "restaurant",
+  "address": "25 Macdonell St",
+  "lat": 43.544077,
+  "lng": -80.249183,
+  "tags": [
+   "Covered terrace",
+   "Half-price wine Tuesdays"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     2
+    ],
+    "title": "Half-price wine",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "half-price wine bottles"
+     }
+    ],
+    "note": "Except Reserva Vintage"
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Pasta Night",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "$5 off all pasta"
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "App & main",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "appetizer and main",
+      "price": 46
+     }
+    ]
+   },
+   {
+    "days": [
+     5,
+     6
+    ],
+    "title": "Long drinks",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Campari or Aperol spritz",
+      "price": 12.5
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pasta"
+  ],
+  "hours": [
+   {
+    "day": 2,
+    "open": 1020,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 1020,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 1020,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJAeaRg8GaK4gRzxJTTEEp0tc",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "La Cucina week of specials",
+    "url": "https://www.lacucinaguelph.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 836-3031",
+  "website": "http://www.lacucinaguelph.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15551537823693869775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "la-cucina-pizzeria",
+  "name": "La Cucina Pizzeria",
+  "category": "Pizzeria",
+  "vibe": "restaurant",
+  "address": "43 Wyndham St N",
+  "lat": 43.54562,
+  "lng": -80.24857,
+  "tags": [
+   "Wood-fired pizza",
+   "Patio"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     2
+    ],
+    "title": "Pasta Night",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "all pasta",
+      "price": 19
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Half-price wine",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "half-price wine bottles"
+     }
+    ]
+   },
+   {
+    "days": [
+     5,
+     6
+    ],
+    "title": "Long drinks",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Aperol spritz, Campari spritz or Amaretto fizz",
+      "price": 12
+     }
+    ]
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Pizza Night",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "wood-fired pizzas",
+      "price": 17
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pizza",
+   "pasta"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 990,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 705,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 705,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 705,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 705,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 990,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJH5nK2TmbK4gRysK2s4y4GSI",
+  "menuUrl": "https://images.unoapp.com/boxdata/asset87177/images/LC-GuelphPizzeria-Menu-Food-v2-PRINT_1.pdf",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "La Cucina Pizzeria daily specials",
+    "url": "https://www.lacucinapizzeriaguelph.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 265-0901",
+  "website": "https://lacucinapizzeriaguelph.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2457197986157347530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "trappers-alley",
+  "name": "Trappers Alley",
+  "category": "Bar & nightclub",
+  "vibe": "bar",
+  "address": "100 Carden St",
+  "lat": 43.545193,
+  "lng": -80.246939,
+  "tags": [
+   "DJ nights",
+   "Trivia Mondays"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 840,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "wings",
+      "price": 1
+     }
+    ],
+    "note": "Partytown lists Trappers open from noon; Google lists 9 PM, so check before going early"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     0
+    ],
+    "title": "Wing Sunday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "wings",
+      "price": 1
+     }
+    ]
+   },
+   {
+    "days": [
+     1
+    ],
+    "title": "Poutine Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price gourmet poutines"
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Burger Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price burgers"
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Beef Dip Thursday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price beef dip"
+     }
+    ]
+   }
+  ],
+  "food": [
+   "wings",
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 1,
+    "open": 1260,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 1260,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 1260,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 1260,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJ7Qo9Z8KaK4gRGupSK3Ruf8w",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Partytown daily specials",
+    "url": "https://www.partytown.ca/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 766-7797",
+  "website": "https://partytown.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14735617951001668122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "miijidaa",
+  "name": "Miijidaa Café + Bistro",
+  "category": "Bistro",
+  "vibe": "restaurant",
+  "address": "37 Quebec St",
+  "lat": 43.545386,
+  "lng": -80.250554,
+  "tags": [
+   "Patio",
+   "Local ingredients"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1,
+     2
+    ],
+    "title": "Pizza + Wine",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "any full-size pizza",
+      "price": 17.99
+     },
+     {
+      "kind": "drink",
+      "item": "select 5 oz wine",
+      "price": 8
+     }
+    ],
+    "note": "Dine-in"
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Two Can Dine",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "3-course dinner for two",
+      "price": 59.99
+     },
+     {
+      "kind": "drink",
+      "item": "$10 off wine bottles"
+     }
+    ],
+    "note": "Dine-in"
+   }
+  ],
+  "food": [
+   "pizza"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJv434w8GaK4gRt9ABh5m6JZw",
+  "menuUrl": "https://www.miijidaa.ca/menu/dinner",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Miijidaa daily features",
+    "url": "https://www.miijidaa.ca/daily-features",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 893-5495",
+  "website": "http://www.miijidaa.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11251604412612858039&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "the-works-guelph",
+  "name": "The WORKS Craft Burgers & Beer",
+  "category": "Burger restaurant",
+  "vibe": "casual",
+  "address": "97 Wyndham St N",
+  "lat": 43.546675,
+  "lng": -80.249446,
+  "tags": [],
+  "happyHours": [
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "start": 840,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Canadian or Coors pints",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "6 oz house wine",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "happy hour apps",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "any 3 happy hour apps",
+      "price": 25
+     }
+    ],
+    "note": "In-store only, at participating locations"
+   },
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 1200,
+    "end": 1260,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Canadian or Coors pints",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "6 oz house wine",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "happy hour apps",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "any 3 happy hour apps",
+      "price": 25
+     }
+    ],
+    "note": "8 PM to close; in-store only, at participating locations"
+   },
+   {
+    "days": [
+     5
+    ],
+    "start": 1200,
+    "end": 1320,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Canadian or Coors pints",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "6 oz house wine",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "happy hour apps",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "any 3 happy hour apps",
+      "price": 25
+     }
+    ],
+    "note": "8 PM to close; in-store only, at participating locations"
+   }
+  ],
+  "deals": "venue",
+  "food": [
+   "burgers",
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJ6ym5BeqaK4gRcg2syqULsCU",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "The WORKS happy hour",
+    "url": "https://worksburger.com/happy-hour/",
+    "date": "2026-10"
+   },
+   {
+    "label": "The WORKS Guelph",
+    "url": "https://worksburger.com/store/guelph/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 265-7094",
+  "website": "https://worksburger.com/store/guelph/?utm_source=G&utm_medium=LPM&utm_campaign=MTY",
+  "googleMapsUrl": "https://maps.google.com/?cid=2715683382002191730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "baker-street-station",
+  "name": "Baker Street Station",
+  "category": "Gastropub",
+  "vibe": "bar",
+  "address": "76 Baker St",
+  "lat": 43.547746,
+  "lng": -80.252279,
+  "tags": [
+   "Patio",
+   "Craft beer"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Wing Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price wings"
+     },
+     {
+      "kind": "drink",
+      "item": "Wellington pints",
+      "price": 7
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Toonie Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "oysters",
+      "price": 2
+     },
+     {
+      "kind": "food",
+      "item": "fried chicken bites",
+      "price": 2
+     },
+     {
+      "kind": "food",
+      "item": "mini donuts",
+      "price": 2
+     },
+     {
+      "kind": "drink",
+      "item": "$2 off all draft"
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Cocktail Wednesday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "half-price cocktails"
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pub",
+   "oysters",
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJr9Sy8-qaK4gRzaKt5bU-HdA",
+  "menuUrl": "https://www.bakerstreetstation.ca/menu/dine-in",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Baker Street Station posts on its website",
+    "url": "https://www.bakerstreetstation.ca/",
+    "date": "2025-05"
+   },
+   {
+    "label": "Cheap Eats Guelph deal calendar",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 265-7960",
+  "website": "http://www.bakerstreetstation.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14996211285176984269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "the-wooly-pub",
+  "name": "The Wooly Pub",
+  "category": "Pub",
+  "vibe": "bar",
+  "address": "176 Woolwich St",
+  "lat": 43.548014,
+  "lng": -80.252588,
+  "tags": [
+   "Trivia Tuesdays",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 900,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "select pints",
+      "price": 6
+     }
+    ]
+   },
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 1260,
+    "end": 1380,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "select pints",
+      "price": 6
+     }
+    ],
+    "note": "9 PM to close"
+   },
+   {
+    "days": [
+     0
+    ],
+    "start": 1200,
+    "end": 1320,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "select pints",
+      "price": 6
+     }
+    ],
+    "note": "8 PM to close"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Wingin’ It Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price wings"
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wine Wednesday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "half-price wine bottles"
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "BBQ Thursday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half rack of ribs and a quarter chicken",
+      "price": 19.99
+     }
+    ],
+    "note": "Price from Cheap Eats Guelph (owner email, Oct 2026)"
+   },
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "title": "Lunch value menu",
+    "start": 690,
+    "end": 900,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "lunch item and a drink",
+      "price": 19.99
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pub",
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJSQel-uqaK4gR6ninMmxGyzY",
+  "menuUrl": "https://www.thewoolypub.ca/menu/menu",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Wooly Pub daily features",
+    "url": "https://www.thewoolypub.ca/daily-features",
+    "date": "2026-10"
+   },
+   {
+    "label": "Cheap Eats Guelph deal calendar",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 836-2875",
+  "website": "http://www.thewoolypub.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3948326928840620266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "fixed-gear-brewing",
+  "name": "Fixed Gear Brewing",
+  "category": "Brewpub",
+  "vibe": "brewery",
+  "address": "5 Edinburgh Rd S #1",
+  "lat": 43.537452,
+  "lng": -80.258382,
+  "tags": [
+   "House-brewed beer",
+   "Trivia Wednesdays",
+   "Patio"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     2
+    ],
+    "title": "Taco Tuesday",
+    "start": 1020,
+    "end": 1380,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "buy one, get one free taco plates"
+     },
+     {
+      "kind": "drink",
+      "item": "buy one, get one free margaritas"
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Wing-o Bingo",
+    "start": 1020,
+    "end": 1380,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price wings"
+     }
+    ],
+    "note": "Bingo from 8 PM"
+   }
+  ],
+  "food": [
+   "tacos",
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1380
+   }
+  ],
+  "placeId": "ChIJPxLVGE-FK4gRZi5lsSubb7c",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Fixed Gear Brewing weekly events",
+    "url": "https://fixedgearbrewing.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 265-7026",
+  "website": "http://fixedgearbrewing.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=13217954043317792358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "the-real-deal",
+  "name": "The Real Deal Sports Bar & Billiards",
+  "category": "Sports bar & billiards",
+  "vibe": "bar",
+  "address": "224 Victoria Rd S",
+  "lat": 43.551658,
+  "lng": -80.222324,
+  "tags": [
+   "Pool tables",
+   "Sports on TV"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "chicken quesadilla",
+      "price": 13
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "Louisiana crispy chicken sandwich",
+      "price": 14
+     }
+    ],
+    "note": "Free pool after 5 PM with a $15 purchase for two"
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wednesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "antojitos",
+      "price": 12.5
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Thursday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "buffalo chicken wrap",
+      "price": 13.5
+     }
+    ]
+   },
+   {
+    "days": [
+     5
+    ],
+    "title": "Friday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "Dexter burger",
+      "price": 14.75
+     }
+    ]
+   },
+   {
+    "days": [
+     6
+    ],
+    "title": "Saturday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "pesto burger or pesto chicken",
+      "price": 14.75
+     }
+    ]
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Sunday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "1-piece fish and chips",
+      "price": 15.75
+     }
+    ],
+    "note": "Free pool after 5 PM with a $15 purchase for two"
+   }
+  ],
+  "food": [
+   "wings",
+   "burgers",
+   "pizza"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJuye2jRqbK4gR8oaFtQugT-I",
+  "menuUrl": "https://therealdealsportsbar.com/menu",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "The Real Deal specials",
+    "url": "https://therealdealsportsbar.com/specials",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 763-7325",
+  "website": "https://therealdealsportsbar.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=16307428747882366706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "brass-taps-pub",
+  "name": "Brass Taps Pub",
+  "category": "Campus pub",
+  "vibe": "bar",
+  "address": "50 Stone Rd E",
+  "lat": 43.530635,
+  "lng": -80.226146,
+  "tags": [
+   "University of Guelph",
+   "Trivia Tuesdays"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Mix It Up Monday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "any cocktail",
+      "price": 5.95
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Tall Cans & Shots",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Caesars",
+      "price": 5.95
+     },
+     {
+      "kind": "drink",
+      "item": "zero-alcohol tall cans",
+      "price": 5
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Spirits Day",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "1 oz mixed shots",
+      "price": 4.5
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Pint Day",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "all draught pints",
+      "price": 5.95
+     }
+    ]
+   },
+   {
+    "days": [
+     5
+    ],
+    "title": "Wine Down Friday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "6 oz Pelee Island VQA wine",
+      "price": 6.25
+     },
+     {
+      "kind": "drink",
+      "item": "draught flights",
+      "price": 6.75
+     }
+    ]
+   },
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "title": "Bistro features",
+    "start": 660,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "bistro features with a drink",
+      "price": 10
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pub",
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 960,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "live-music",
+   "sports"
+  ],
+  "placeId": "ChIJK0DvsS6bK4gR3MKixXwbH58",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Brass Taps menu and daily drink specials",
+    "url": "https://www.brasstaps.ca/menu",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 824-4120",
+  "website": "https://www.brasstaps.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11465913399014245084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "fork-on-york",
+  "name": "Fork On York",
+  "category": "Italian American",
+  "vibe": "restaurant",
+  "address": "648 York Rd",
+  "lat": 43.555406,
+  "lng": -80.21978,
+  "tags": [
+   "Wine Wednesdays",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 840,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Sleeman draft",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "margarita, Aperol spritz, mule, mojito or Caesar",
+      "price": 11
+     },
+     {
+      "kind": "drink",
+      "item": "old fashioned or negroni",
+      "price": 13
+     },
+     {
+      "kind": "food",
+      "item": "coconut shrimp, calamari or goat cheese & chips",
+      "price": 13
+     },
+     {
+      "kind": "food",
+      "item": "wings (1 lb)",
+      "price": 15
+     },
+     {
+      "kind": "food",
+      "item": "burrata",
+      "price": 18
+     },
+     {
+      "kind": "food",
+      "item": "Wagyu cheeseburger",
+      "price": 23
+     }
+    ]
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     3
+    ],
+    "title": "Wine Wednesday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "half-price wine bottles"
+     }
+    ],
+    "note": "Dine-in, all night"
+   }
+  ],
+  "food": [
+   "pasta",
+   "burgers",
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJZ-zC7kybK4gRUmYxgR_AG4Q",
+  "menuUrl": "https://forkonyork.com/our-menu/",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Fork On York happy hour",
+    "url": "https://forkonyork.com/promotions/",
+    "date": "2026-10"
+   },
+   {
+    "label": "Fork On York Wine Wednesdays",
+    "url": "https://forkonyork.com/wine-wednesdays/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 763-6333",
+  "website": "https://forkonyork.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9519413478921692754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "the-shakespeare-arms",
+  "name": "The Shakespeare Arms",
+  "category": "British pub",
+  "vibe": "bar",
+  "address": "35 Harvard Rd",
+  "lat": 43.524212,
+  "lng": -80.223782,
+  "tags": [
+   "Patio",
+   "Sports on TV"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "start": 660,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "domestic pints",
+      "price": 5
+     }
+    ],
+    "note": "Dine-in only"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "appetizers",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "pastas (not seafood)",
+      "price": 14
+     }
+    ],
+    "note": "Dine-in; not on holidays"
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Wing Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "wings",
+      "price": 0.9
+     }
+    ],
+    "note": "Dine-in only"
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wednesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "2 lb wings and a domestic pitcher",
+      "price": 30
+     },
+     {
+      "kind": "food",
+      "item": "1 lb wings and a domestic pint",
+      "price": 15
+     },
+     {
+      "kind": "food",
+      "item": "classic burger and a pint",
+      "price": 15
+     },
+     {
+      "kind": "food",
+      "item": "25% off for Asian Night"
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pub",
+   "wings",
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 540,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1500
+   },
+   {
+    "day": 6,
+    "open": 540,
+    "close": 1500
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJv80Of0OaK4gRyGwgL6uqCZQ",
+  "menuUrl": "https://theshakespearearms.com/storage/2024/03/Main-Menu_web.pdf",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Shakespeare Arms specials & promotions",
+    "url": "https://theshakespearearms.com/special/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 767-6003",
+  "website": "http://theshakespearearms.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10667244844610514120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "milestones-guelph",
+  "name": "Milestones",
+  "category": "Grill & bar",
+  "vibe": "restaurant",
+  "address": "185 Stone Rd W",
+  "lat": 43.521934,
+  "lng": -80.232658,
+  "tags": [
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 900,
+    "end": 1080,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "1 oz highballs, Budweiser or Bud Light (14 oz), Bellinis",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "garlic Parmesan fries",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "tacos",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "1 oz margaritas",
+      "price": 8
+     },
+     {
+      "kind": "drink",
+      "item": "martinis",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "6 oz house wine",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "select wine bottles at 50% off"
+     },
+     {
+      "kind": "food",
+      "item": "any 3 happy hour starters",
+      "price": 39
+     }
+    ]
+   },
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 1260,
+    "end": 1380,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "1 oz highballs, Budweiser or Bud Light (14 oz), Bellinis",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "garlic Parmesan fries",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "tacos",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "1 oz margaritas",
+      "price": 8
+     },
+     {
+      "kind": "drink",
+      "item": "martinis",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "6 oz house wine",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "select wine bottles at 50% off"
+     },
+     {
+      "kind": "food",
+      "item": "any 3 happy hour starters",
+      "price": 39
+     }
+    ],
+    "note": "Late night"
+   },
+   {
+    "days": [
+     5,
+     6
+    ],
+    "start": 1260,
+    "end": 1440,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "1 oz highballs, Budweiser or Bud Light (14 oz), Bellinis",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "garlic Parmesan fries",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "tacos",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "1 oz margaritas",
+      "price": 8
+     },
+     {
+      "kind": "drink",
+      "item": "martinis",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "6 oz house wine",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "select wine bottles at 50% off"
+     },
+     {
+      "kind": "food",
+      "item": "any 3 happy hour starters",
+      "price": 39
+     }
+    ],
+    "note": "Late night"
+   },
+   {
+    "days": [
+     0
+    ],
+    "start": 1260,
+    "end": 1320,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "1 oz highballs, Budweiser or Bud Light (14 oz), Bellinis",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "garlic Parmesan fries",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "tacos",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "1 oz margaritas",
+      "price": 8
+     },
+     {
+      "kind": "drink",
+      "item": "martinis",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "6 oz house wine",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "select wine bottles at 50% off"
+     },
+     {
+      "kind": "food",
+      "item": "any 3 happy hour starters",
+      "price": 39
+     }
+    ],
+    "note": "Late night"
+   }
+  ],
+  "deals": "venue",
+  "food": [
+   "tacos",
+   "wings",
+   "burgers",
+   "steak"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJayHplSmFK4gR64XXLJWy4DY",
+  "menuUrl": "https://milestonesrestaurants.com/menus/stone-rd-west/",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Milestones Stone Rd W happy hour",
+    "url": "https://milestonesrestaurants.com/locations/stone-rd-west/",
+    "date": "2026-10"
+   },
+   {
+    "label": "Milestones Stone Rd W menu",
+    "url": "https://milestonesrestaurants.com/menus/stone-rd-west/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(437) 524-1547",
+  "website": "https://milestonesrestaurants.com/locations/guelph?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+  "googleMapsUrl": "https://maps.google.com/?cid=3954356826603488747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "scaddabush-guelph",
+  "name": "Scaddabush Italian Kitchen & Bar",
+  "category": "Italian",
+  "vibe": "restaurant",
+  "address": "494 Edinburgh Rd S",
+  "lat": 43.520943,
+  "lng": -80.234702,
+  "tags": [
+   "Fresh mozzarella",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "start": 840,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "$2 off 18 oz import draught"
+     },
+     {
+      "kind": "drink",
+      "item": "$2 off sangria and spritzes"
+     },
+     {
+      "kind": "drink",
+      "item": "5 oz house wine",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "rosemary fries",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "avocado bruschetta",
+      "price": 7.45
+     },
+     {
+      "kind": "food",
+      "item": "pizzette, from $10"
+     },
+     {
+      "kind": "food",
+      "item": "San Marzano spaghetti",
+      "price": 14.97
+     }
+    ],
+    "note": "Dine-in only"
+   },
+   {
+    "days": [
+     1,
+     2,
+     3
+    ],
+    "start": 1260,
+    "end": 1320,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "$2 off 18 oz import draught"
+     },
+     {
+      "kind": "drink",
+      "item": "$2 off sangria and spritzes"
+     },
+     {
+      "kind": "drink",
+      "item": "5 oz house wine",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "rosemary fries",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "avocado bruschetta",
+      "price": 7.45
+     },
+     {
+      "kind": "food",
+      "item": "pizzette, from $10"
+     },
+     {
+      "kind": "food",
+      "item": "San Marzano spaghetti",
+      "price": 14.97
+     }
+    ],
+    "note": "9 PM to close; dine-in only"
+   },
+   {
+    "days": [
+     4
+    ],
+    "start": 1260,
+    "end": 1380,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "$2 off 18 oz import draught"
+     },
+     {
+      "kind": "drink",
+      "item": "$2 off sangria and spritzes"
+     },
+     {
+      "kind": "drink",
+      "item": "5 oz house wine",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "rosemary fries",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "avocado bruschetta",
+      "price": 7.45
+     },
+     {
+      "kind": "food",
+      "item": "pizzette, from $10"
+     },
+     {
+      "kind": "food",
+      "item": "San Marzano spaghetti",
+      "price": 14.97
+     }
+    ],
+    "note": "9 PM to close; dine-in only"
+   },
+   {
+    "days": [
+     5
+    ],
+    "start": 1260,
+    "end": 1440,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "$2 off 18 oz import draught"
+     },
+     {
+      "kind": "drink",
+      "item": "$2 off sangria and spritzes"
+     },
+     {
+      "kind": "drink",
+      "item": "5 oz house wine",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "rosemary fries",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "avocado bruschetta",
+      "price": 7.45
+     },
+     {
+      "kind": "food",
+      "item": "pizzette, from $10"
+     },
+     {
+      "kind": "food",
+      "item": "San Marzano spaghetti",
+      "price": 14.97
+     }
+    ],
+    "note": "9 PM to close; dine-in only"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     3
+    ],
+    "title": "Wine Wednesday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "half-price wine bottles"
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pizza",
+   "pasta"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJDwIbpCeFK4gRXiJti4JTJlc",
+  "menuUrl": "https://scaddabush.com/menu",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Scaddabush Guelph happy hour",
+    "url": "https://scaddabush.com/happy-hour/guelph/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 838-8457",
+  "website": "https://scaddabush.com/?locationId=853",
+  "googleMapsUrl": "https://maps.google.com/?cid=6279798550564774494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "state-and-main-guelph",
+  "name": "State & Main Kitchen & Bar",
+  "category": "Kitchen & bar",
+  "vibe": "restaurant",
+  "address": "79 Clair Rd E Unit 1",
+  "lat": 43.502279,
+  "lng": -80.185926,
+  "tags": [
+   "Dog-friendly patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 840,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "5 oz house wine",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "State & Main draft (14 oz)",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "State soda (1 oz)",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "margaritas",
+      "price": 10.5
+     },
+     {
+      "kind": "food",
+      "item": "Baja fish taco",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "soup dumplings or Brussels sprouts",
+      "price": 8
+     },
+     {
+      "kind": "food",
+      "item": "truffle Parmesan fries or bang bang shrimp",
+      "price": 10
+     }
+    ],
+    "note": "Dine-in only"
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 1260,
+    "end": 1380,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "5 oz house wine",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "State & Main draft (14 oz)",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "State soda (1 oz)",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "margaritas",
+      "price": 10.5
+     },
+     {
+      "kind": "food",
+      "item": "Baja fish taco",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "soup dumplings or Brussels sprouts",
+      "price": 8
+     },
+     {
+      "kind": "food",
+      "item": "truffle Parmesan fries or bang bang shrimp",
+      "price": 10
+     }
+    ],
+    "note": "9 PM to close; dine-in only"
+   },
+   {
+    "days": [
+     5,
+     6
+    ],
+    "start": 1260,
+    "end": 1440,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "5 oz house wine",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "State & Main draft (14 oz)",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "State soda (1 oz)",
+      "price": 6
+     },
+     {
+      "kind": "drink",
+      "item": "margaritas",
+      "price": 10.5
+     },
+     {
+      "kind": "food",
+      "item": "Baja fish taco",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "soup dumplings or Brussels sprouts",
+      "price": 8
+     },
+     {
+      "kind": "food",
+      "item": "truffle Parmesan fries or bang bang shrimp",
+      "price": 10
+     }
+    ],
+    "note": "9 PM to close; dine-in only"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Margarita Monday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "$2 off margaritas"
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wing Wednesday",
+    "start": 840,
+    "end": 1380,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price wings (1 lb)"
+     },
+     {
+      "kind": "drink",
+      "item": "$1 off Michelob Ultra"
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Wine Thursday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "half-price wine bottles"
+     }
+    ]
+   },
+   {
+    "days": [
+     6
+    ],
+    "title": "Sangria Saturday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "$2 off white sangria"
+     }
+    ]
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Caesar Sunday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "$2 off Signature Caesars"
+     }
+    ]
+   }
+  ],
+  "food": [
+   "tacos",
+   "wings",
+   "burgers",
+   "steak"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJyQdBK16DK4gRGAnEJF8Mbng",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "State & Main Guelph",
+    "url": "https://www.stateandmain.ca/en/locations/on/guelph/79-clair-road-east",
+    "date": "2026-10"
+   },
+   {
+    "label": "State & Main Guelph happy hour menu",
+    "url": "https://www.stateandmain.ca/en/menus/happy-hour/store-8405/on/guelph/79-clair-road-east.html",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 780-1119",
+  "website": "https://www.stateandmain.ca/en/locations/on/guelph/79-clair-road-east",
+  "googleMapsUrl": "https://maps.google.com/?cid=8677887134767778072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "kelseys-woodlawn",
+  "name": "Kelseys Original Roadhouse",
+  "category": "Roadhouse",
+  "vibe": "casual",
+  "address": "124 Woodlawn Rd W",
+  "lat": 43.558636,
+  "lng": -80.285476,
+  "tags": [
+   "Sports on TV",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 900,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "beer, wine and mixed drinks",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "appetizers",
+      "price": 10
+     }
+    ]
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "start": 1200,
+    "end": 1320,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "beer, wine and mixed drinks",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "appetizers",
+      "price": 10
+     }
+    ],
+    "note": "8 PM to close"
+   },
+   {
+    "days": [
+     4,
+     5,
+     6
+    ],
+    "start": 1200,
+    "end": 1440,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "beer, wine and mixed drinks",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "appetizers",
+      "price": 10
+     }
+    ],
+    "note": "8 PM to close"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Burger Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "burgers, from $12"
+     },
+     {
+      "kind": "drink",
+      "item": "Budweiser",
+      "price": 6
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Kids Eat Free",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "kids eat free"
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wine Wednesday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "half-price wine bottles"
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Wing Thursday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price wings and bites"
+     },
+     {
+      "kind": "drink",
+      "item": "Michelob",
+      "price": 7
+     }
+    ]
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "title": "Brunch drinks",
+    "start": 660,
+    "end": 900,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "mimosas, Caesars or Baileys coffee",
+      "price": 5
+     }
+    ]
+   }
+  ],
+  "food": [
+   "wings",
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups",
+   "dogs"
+  ],
+  "placeId": "ChIJcyhUdnCQK4gRxZezAyXhVao",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Kelseys Guelph (Woodlawn Rd)",
+    "url": "https://www.kelseys.ca/en/locations/on/guelph/124-woodlawn-road",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 826-0120",
+  "website": "https://www.kelseys.ca/en/locations/on/guelph/124-woodlawn-road",
+  "googleMapsUrl": "https://maps.google.com/?cid=12273963908560295877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "kelseys-south-guelph",
+  "name": "Kelseys Original Roadhouse (South Guelph)",
+  "category": "Roadhouse",
+  "vibe": "casual",
+  "address": "26 Clair Rd W",
+  "lat": 43.499084,
+  "lng": -80.187915,
+  "tags": [
+   "Sports on TV",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 900,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "beer, wine and mixed drinks",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "appetizers",
+      "price": 10
+     }
+    ]
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "start": 1200,
+    "end": 1380,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "beer, wine and mixed drinks",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "appetizers",
+      "price": 10
+     }
+    ],
+    "note": "8 PM to close"
+   },
+   {
+    "days": [
+     4,
+     5,
+     6
+    ],
+    "start": 1200,
+    "end": 1440,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "beer, wine and mixed drinks",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "appetizers",
+      "price": 10
+     }
+    ],
+    "note": "8 PM to close"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Burger Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "burgers, from $12"
+     },
+     {
+      "kind": "drink",
+      "item": "Budweiser",
+      "price": 6
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Kids Eat Free",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "kids eat free"
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wine Wednesday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "half-price wine bottles"
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Wing Thursday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price wings and bites"
+     },
+     {
+      "kind": "drink",
+      "item": "Michelob",
+      "price": 7
+     }
+    ]
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "title": "Brunch drinks",
+    "start": 660,
+    "end": 900,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "mimosas, Caesars or Baileys coffee",
+      "price": 5
+     }
+    ]
+   }
+  ],
+  "food": [
+   "wings",
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJe_QtGJ6EK4gR58iwKT0J7-Q",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Kelseys South Guelph",
+    "url": "https://www.kelseys.ca/en/locations/on/guelph/26-clair-rd-w.",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(226) 314-1971",
+  "website": "https://www.kelseys.ca/en/locations/on/guelph/26-clair-rd-w.",
+  "googleMapsUrl": "https://maps.google.com/?cid=16496414118378522855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "montanas-guelph",
+  "name": "Montana’s BBQ & Bar",
+  "category": "BBQ & bar",
+  "vibe": "casual",
+  "address": "201 Stone Rd W",
+  "lat": 43.521472,
+  "lng": -80.23226,
+  "tags": [
+   "Ribs",
+   "Sports on TV"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Wing Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price wings"
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Taco Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "tacos",
+      "price": 5
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Rib Wednesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "all-you-can-eat pork ribs"
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Platter Thursday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "platters",
+      "price": 25.99
+     }
+    ]
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "title": "Daily drinks",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "14 oz domestic beer",
+      "price": 4.99
+     },
+     {
+      "kind": "drink",
+      "item": "14 oz premium beer",
+      "price": 5.99
+     }
+    ]
+   },
+   {
+    "days": [
+     0,
+     6
+    ],
+    "title": "Weekend cocktails",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "cocktails",
+      "price": 5.99
+     }
+    ]
+   }
+  ],
+  "food": [
+   "wings",
+   "tacos",
+   "steak"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJ8SPplSmFK4gR7SHpSyBAT28",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Montana’s Guelph",
+    "url": "https://www.montanas.ca/en/locations/on/guelph/201-stone-road-west",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 766-1549",
+  "website": "https://www.montanas.ca/en/locations/on/guelph/201-stone-road-west",
+  "googleMapsUrl": "https://maps.google.com/?cid=8020699968826843629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "east-side-marios-guelph",
+  "name": "East Side Mario’s",
+  "category": "Italian American",
+  "vibe": "casual",
+  "address": "370 Stone Rd W",
+  "lat": 43.519748,
+  "lng": -80.2365,
+  "tags": [
+   "Family-friendly"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "All-You-Can-Eat Pasta Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "all-you-can-eat pasta with soup or salad and homeloaf",
+      "price": 19.99
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Kids Eat Free Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "free kids’ meal with an adult entrée of $19.99 or more"
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Pizza or Pasta Wednesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "pasta or individual cheese pizza with all-you-can-eat soup or salad",
+      "price": 15.99
+     }
+    ],
+    "note": "With a drink"
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Amore for Two",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "3-course dinner for two",
+      "price": 50
+     }
+    ],
+    "note": "With two drinks"
+   }
+  ],
+  "food": [
+   "pasta",
+   "pizza"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJNcWAuiiFK4gRbctIRfthfow",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "East Side Mario’s Guelph",
+    "url": "https://www.eastsidemarios.com/en/locations/on/guelph/370-stone-road-west",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 763-7861",
+  "website": "https://www.eastsidemarios.com/en/locations/on/guelph/370-stone-road-west",
+  "googleMapsUrl": "https://maps.google.com/?cid=10123636744202537837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "swiss-chalet-edinburgh",
+  "name": "Swiss Chalet (Edinburgh Rd)",
+  "category": "Rotisserie chicken",
+  "vibe": "casual",
+  "address": "502 Edinburgh Rd S",
+  "lat": 43.521189,
+  "lng": -80.232592,
+  "tags": [
+   "Family-friendly"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Chicken & Rib Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "quarter chicken dinner and a third rack of ribs",
+      "price": 19.99
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "2 Can Dine Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "meal for two",
+      "price": 19.99
+     }
+    ],
+    "note": "With two drinks"
+   }
+  ],
+  "food": [
+   "diner"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1290
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJwYfZlSmFK4gRRlVFQP_r3Qg",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Swiss Chalet Guelph, Edinburgh Rd S",
+    "url": "https://www.swisschalet.com/en/locations/on/guelph/502-edinburgh-rd-s",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 823-5787",
+  "website": "https://www.swisschalet.com/en/locations/on/guelph/502-edinburgh-rd-s",
+  "googleMapsUrl": "https://maps.google.com/?cid=638926203683951942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "swiss-chalet-woodlawn",
+  "name": "Swiss Chalet (Woodlawn Rd)",
+  "category": "Rotisserie chicken",
+  "vibe": "casual",
+  "address": "138 Woodlawn Rd W",
+  "lat": 43.55799,
+  "lng": -80.286168,
+  "tags": [
+   "Family-friendly"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Chicken & Rib Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "quarter chicken dinner and a third rack of ribs",
+      "price": 19.99
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "2 Can Dine Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "meal for two",
+      "price": 19.99
+     }
+    ],
+    "note": "With two drinks"
+   }
+  ],
+  "food": [
+   "diner"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJN6RfEXCQK4gRF6f1eaAi7Vs",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Swiss Chalet Guelph, Woodlawn Rd",
+    "url": "https://www.swisschalet.com/en/locations/on/guelph/138-woodlawn-road-west",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 836-8000",
+  "website": "https://www.swisschalet.com/en/locations/on/guelph/138-woodlawn-road-west",
+  "googleMapsUrl": "https://maps.google.com/?cid=6623988699568121623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "symposium-cafe-guelph",
+  "name": "Symposium Cafe Restaurant",
+  "category": "Cafe restaurant",
+  "vibe": "casual",
+  "address": "304 Stone Rd W",
+  "lat": 43.517711,
+  "lng": -80.234624,
+  "tags": [
+   "All-day breakfast",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 900,
+    "end": 1080,
+    "specials": [],
+    "note": "House wine and PBR draught; prices not published"
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 1260,
+    "end": 1380,
+    "specials": [],
+    "note": "9 PM to close; house wine and PBR draught, prices not published"
+   },
+   {
+    "days": [
+     5,
+     6
+    ],
+    "start": 1260,
+    "end": 1440,
+    "specials": [],
+    "note": "9 PM to close; house wine and PBR draught, prices not published"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "burger and fries",
+      "price": 6.99
+     },
+     {
+      "kind": "food",
+      "item": "double burger",
+      "price": 10.99
+     },
+     {
+      "kind": "drink",
+      "item": "half-price beer pitchers"
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price pasta and bowls"
+     },
+     {
+      "kind": "drink",
+      "item": "wine and beer",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "premium pints",
+      "price": 7
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wednesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price wings"
+     },
+     {
+      "kind": "drink",
+      "item": "martinis and mules",
+      "price": 7
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Date Night",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "dinner for two with two drinks, an appetizer and dessert",
+      "price": 69.95
+     },
+     {
+      "kind": "drink",
+      "item": "$10 off wine and prosecco bottles"
+     }
+    ]
+   },
+   {
+    "days": [
+     5
+    ],
+    "title": "Fish Friday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "1-piece fish and chips",
+      "price": 9.95
+     },
+     {
+      "kind": "food",
+      "item": "2-piece fish and chips",
+      "price": 15.95
+     }
+    ]
+   },
+   {
+    "days": [
+     6
+    ],
+    "title": "Saturday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "ribs and wing dinner",
+      "price": 24.95
+     },
+     {
+      "kind": "drink",
+      "item": "half-price pitchers of sangria, margarita or draft"
+     }
+    ]
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Sunday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "2-for-1 desserts"
+     },
+     {
+      "kind": "food",
+      "item": "kids eat free (12 and under) from 2 PM"
+     }
+    ]
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "title": "Brunch cocktails",
+    "start": 540,
+    "end": 900,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "brunch cocktails",
+      "price": 6.95
+     }
+    ]
+   },
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "title": "Early bird dinner",
+    "start": 900,
+    "end": 1080,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "3-course prix fixe",
+      "price": 24.95
+     }
+    ]
+   }
+  ],
+  "food": [
+   "burgers",
+   "pasta",
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 480,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 480,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 480,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 480,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 480,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 480,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 480,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJt6tvqimFK4gRbvvU_svjx64",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Symposium Cafe Guelph specials calendar",
+    "url": "https://symposiumcafe.com/locations/guelph-restaurants",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 824-4138",
+  "website": "https://symposiumcafe.com/locations/guelph-restaurants",
+  "googleMapsUrl": "https://maps.google.com/?cid=12594285348258118510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "boston-pizza-woodlawn",
+  "name": "Boston Pizza",
+  "category": "Pizza & sports bar",
+  "vibe": "casual",
+  "address": "35 Woodlawn Rd W",
+  "lat": 43.563466,
+  "lng": -80.280183,
+  "tags": [
+   "Sports on TV"
+  ],
+  "happyHours": [],
+  "deals": "reported",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Pizza Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "8-inch gourmet pizza",
+      "price": 10
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Pasta Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "gourmet pasta",
+      "price": 15.99
+     }
+    ],
+    "note": "Boston Pizza’s own site says pasta from $11.99"
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wing Wednesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price wings (8)"
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Thursday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "third appetizer free"
+     }
+    ]
+   },
+   {
+    "days": [
+     5
+    ],
+    "title": "Fishbowl Friday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "$2 off fishbowl cocktails"
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pizza",
+   "pasta",
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1500
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1500
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJvRh91H6QK4gR_QvsSlarbS0",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Cheap Eats Guelph (from the Woodlawn GM, Aug 2026)",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-08"
+   },
+   {
+    "label": "Boston Pizza promotions",
+    "url": "https://bostonpizza.com/en/promotions.html",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 826-5200",
+  "website": "https://bostonpizza.com/en/locations/woodlawn-road.html",
+  "googleMapsUrl": "https://maps.google.com/?cid=3273460891280739325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "chucks-roadhouse-woodlawn",
+  "name": "Chuck’s Roadhouse Bar & Grill (Woodlawn Rd)",
+  "category": "Roadhouse",
+  "vibe": "casual",
+  "address": "261 Woodlawn Rd W",
+  "lat": 43.551914,
+  "lng": -80.296188,
+  "tags": [
+   "Sports on TV",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 1260,
+    "end": 1440,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price appetizers"
+     }
+    ],
+    "note": "After 9 PM; dine-in, with a drink"
+   },
+   {
+    "days": [
+     5,
+     6
+    ],
+    "start": 1260,
+    "end": 1500,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price appetizers"
+     }
+    ],
+    "note": "After 9 PM; dine-in, with a drink"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     3
+    ],
+    "title": "Rib Day",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half rack of ribs",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "full rack of ribs",
+      "price": 15
+     },
+     {
+      "kind": "food",
+      "item": "rib and wing combo",
+      "price": 15
+     }
+    ],
+    "note": "Dine-in, with a drink"
+   }
+  ],
+  "food": [
+   "steak",
+   "wings",
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1500
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1500
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJ2zqxlgSRK4gR5qDJJpdCDVI",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Chuck’s Roadhouse offers",
+    "url": "https://chucksroadhouse.com/offers/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 265-6662",
+  "website": "https://www.chucksroadhouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5912455102765572326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "chucks-roadhouse-clair",
+  "name": "Chuck’s Roadhouse Bar & Grill (Clair Rd)",
+  "category": "Roadhouse",
+  "vibe": "casual",
+  "address": "174 Clair Rd E Unit #108",
+  "lat": 43.501831,
+  "lng": -80.190566,
+  "tags": [
+   "Sports on TV",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 1260,
+    "end": 1440,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price appetizers"
+     }
+    ],
+    "note": "After 9 PM; dine-in, with a drink"
+   },
+   {
+    "days": [
+     5,
+     6
+    ],
+    "start": 1260,
+    "end": 1500,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price appetizers"
+     }
+    ],
+    "note": "After 9 PM; dine-in, with a drink"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     3
+    ],
+    "title": "Rib Day",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half rack of ribs",
+      "price": 10
+     },
+     {
+      "kind": "food",
+      "item": "full rack of ribs",
+      "price": 15
+     },
+     {
+      "kind": "food",
+      "item": "rib and wing combo",
+      "price": 15
+     }
+    ],
+    "note": "Dine-in, with a drink"
+   }
+  ],
+  "food": [
+   "steak",
+   "wings",
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1500
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1500
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJhTn0u8OFK4gRsrbTUwggrDI",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Chuck’s Roadhouse offers",
+    "url": "https://chucksroadhouse.com/offers/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 763-5535",
+  "website": "https://www.chucksroadhouse.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3651328618028840626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "st-louis-bar-grill-guelph",
+  "name": "St. Louis Bar & Grill",
+  "category": "Wings & sports bar",
+  "vibe": "casual",
+  "address": "202 Clair Rd E",
+  "lat": 43.501212,
+  "lng": -80.189817,
+  "tags": [
+   "Sports on TV",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 690,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "1 oz bar rail mixed drinks",
+      "price": 4
+     },
+     {
+      "kind": "drink",
+      "item": "5 oz house wine",
+      "price": 4
+     },
+     {
+      "kind": "drink",
+      "item": "12 oz domestic draught",
+      "price": 4
+     },
+     {
+      "kind": "drink",
+      "item": "domestic bottles",
+      "price": 4
+     },
+     {
+      "kind": "food",
+      "item": "sliders, pickle coins or fries",
+      "price": 4
+     }
+    ],
+    "note": "Open to 5 PM; dine-in only"
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3
+    ],
+    "start": 1260,
+    "end": 1380,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "1 oz bar rail mixed drinks",
+      "price": 4
+     },
+     {
+      "kind": "drink",
+      "item": "5 oz house wine",
+      "price": 4
+     },
+     {
+      "kind": "drink",
+      "item": "12 oz domestic draught",
+      "price": 4
+     },
+     {
+      "kind": "drink",
+      "item": "domestic bottles",
+      "price": 4
+     },
+     {
+      "kind": "food",
+      "item": "sliders, pickle coins or fries",
+      "price": 4
+     }
+    ],
+    "note": "9 PM to close; dine-in only"
+   },
+   {
+    "days": [
+     4,
+     5,
+     6
+    ],
+    "start": 1260,
+    "end": 1440,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "1 oz bar rail mixed drinks",
+      "price": 4
+     },
+     {
+      "kind": "drink",
+      "item": "5 oz house wine",
+      "price": 4
+     },
+     {
+      "kind": "drink",
+      "item": "12 oz domestic draught",
+      "price": 4
+     },
+     {
+      "kind": "drink",
+      "item": "domestic bottles",
+      "price": 4
+     },
+     {
+      "kind": "food",
+      "item": "sliders, pickle coins or fries",
+      "price": 4
+     }
+    ],
+    "note": "9 PM to close; dine-in only"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     2
+    ],
+    "title": "Wing Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "half-price wings"
+     }
+    ]
+   }
+  ],
+  "food": [
+   "wings",
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJ-VEMzJ-EK4gRC8iBl-oaClI",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "St. Louis $4 happy hour",
+    "url": "https://www.stlouiswings.com/happyhour2025/",
+    "date": "2026-08"
+   },
+   {
+    "label": "St. Louis Guelph",
+    "url": "https://locations.stlouiswings.com/on-guelph-5247/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 763-0265",
+  "website": "https://locations.stlouiswings.com/on-guelph-5247/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5911567055743731723&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "shoeless-joes-guelph",
+  "name": "Shoeless Joe’s Sports Grill",
+  "category": "Sports grill",
+  "vibe": "casual",
+  "address": "5 Clair Rd W #5",
+  "lat": 43.500385,
+  "lng": -80.191047,
+  "tags": [
+   "Sports on TV",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 900,
+    "end": 1080,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "16 oz domestic draught",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "1 oz mixed drinks",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "half-price wine bottles"
+     },
+     {
+      "kind": "food",
+      "item": "snacks",
+      "price": 10
+     }
+    ]
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 1260,
+    "end": 1380,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "16 oz domestic draught",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "1 oz mixed drinks",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "half-price wine bottles"
+     },
+     {
+      "kind": "food",
+      "item": "snacks",
+      "price": 10
+     }
+    ],
+    "note": "9 PM to close"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     0
+    ],
+    "title": "Kids Eat Free",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "one kids’ meal free per adult meal"
+     }
+    ]
+   },
+   {
+    "days": [
+     1
+    ],
+    "title": "Game Day Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "2-for-1 game day starters"
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Wing Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "1 lb wings",
+      "price": 10
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Burger Wednesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "burgers, from $10"
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Tender Thursday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "2 orders of chicken tenders",
+      "price": 25.99
+     }
+    ]
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "title": "Bud & Bud Light",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "16 oz Budweiser or Bud Light",
+      "price": 5
+     }
+    ]
+   }
+  ],
+  "food": [
+   "wings",
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1500
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1500
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJtdQKT56EK4gR5991rFeJJiE",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Shoeless Joe’s promotions",
+    "url": "https://shoelessjoes.ca/promotions/",
+    "date": "2026-06"
+   }
+  ],
+  "phone": "(519) 822-9970",
+  "website": "https://shoelessjoes.ca/locations/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+  "googleMapsUrl": "https://maps.google.com/?cid=2388747662015193063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "wild-wing-paisley",
+  "name": "Wild Wing (Paisley Rd)",
+  "category": "Wings & sports bar",
+  "vibe": "casual",
+  "address": "995 Paisley Rd",
+  "lat": 43.524025,
+  "lng": -80.286597,
+  "tags": [
+   "Sports on TV"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Michelob Monday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "20 oz Michelob",
+      "price": 6.99
+     },
+     {
+      "kind": "food",
+      "item": "poutines",
+      "price": 10
+     }
+    ],
+    "note": "Poutine price from Cheap Eats Guelph (staff, Aug 2026)"
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Wing Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "single wing orders with fries and dip",
+      "price": 12
+     },
+     {
+      "kind": "food",
+      "item": "double wing orders",
+      "price": 22
+     },
+     {
+      "kind": "drink",
+      "item": "Corona bottles",
+      "price": 5.99
+     }
+    ],
+    "note": "Dine-in, with a drink"
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wine Wednesday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "6 oz wine",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "rib and wing combo",
+      "price": 19.99
+     }
+    ],
+    "note": "Combo price from Cheap Eats Guelph (staff, Aug 2026)"
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Schooner Thursday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "32 oz schooners",
+      "price": 9
+     },
+     {
+      "kind": "food",
+      "item": "5 chicken tenders",
+      "price": 10
+     }
+    ],
+    "note": "Tenders price from Cheap Eats Guelph (staff, Aug 2026)"
+   },
+   {
+    "days": [
+     5
+    ],
+    "title": "Fish Friday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "fish and chips",
+      "price": 15
+     }
+    ],
+    "note": "From Cheap Eats Guelph (staff, Aug 2026)"
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Caesar Sunday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "1 oz Signature Caesars",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "all-you-can-eat wings",
+      "price": 24.99
+     }
+    ],
+    "note": "Wing price from Cheap Eats Guelph (staff, Aug 2026)"
+   }
+  ],
+  "food": [
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJva9MEfuPK4gR5glRSPRImjY",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Wild Wing daily specials",
+    "url": "https://www.wildwingrestaurants.com/specials/",
+    "date": "2026-10"
+   },
+   {
+    "label": "Cheap Eats Guelph deal calendar",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 837-9977",
+  "website": "https://www.wildwingrestaurants.com/order-now/?location=Guelph",
+  "googleMapsUrl": "https://maps.google.com/?cid=3934537438484040166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "wild-wing-eastview",
+  "name": "Wild Wing (Eastview Rd)",
+  "category": "Wings & sports bar",
+  "vibe": "casual",
+  "address": "320 Eastview Rd",
+  "lat": 43.578831,
+  "lng": -80.224607,
+  "tags": [
+   "Sports on TV"
+  ],
+  "happyHours": [],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Michelob Monday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "20 oz Michelob",
+      "price": 6.99
+     },
+     {
+      "kind": "food",
+      "item": "poutines",
+      "price": 10
+     }
+    ],
+    "note": "Poutine price from Cheap Eats Guelph (staff, Aug 2026)"
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Wing Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "single wing orders with fries and dip",
+      "price": 12
+     },
+     {
+      "kind": "food",
+      "item": "double wing orders",
+      "price": 22
+     },
+     {
+      "kind": "drink",
+      "item": "Corona bottles",
+      "price": 5.99
+     }
+    ],
+    "note": "Dine-in, with a drink"
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Wine Wednesday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "6 oz wine",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "rib and wing combo",
+      "price": 19.99
+     }
+    ],
+    "note": "Combo price from Cheap Eats Guelph (staff, Aug 2026)"
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Schooner Thursday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "32 oz schooners",
+      "price": 9
+     },
+     {
+      "kind": "food",
+      "item": "5 chicken tenders",
+      "price": 10
+     }
+    ],
+    "note": "Tenders price from Cheap Eats Guelph (staff, Aug 2026)"
+   },
+   {
+    "days": [
+     5
+    ],
+    "title": "Fish Friday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "fish and chips",
+      "price": 15
+     }
+    ],
+    "note": "From Cheap Eats Guelph (staff, Aug 2026)"
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Caesar Sunday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "1 oz Signature Caesars",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "all-you-can-eat wings",
+      "price": 24.99
+     }
+    ],
+    "note": "Wing price from Cheap Eats Guelph (staff, Aug 2026)"
+   }
+  ],
+  "food": [
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJ2Q1STnGbK4gRz2fFoqmbvGM",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Wild Wing daily specials",
+    "url": "https://www.wildwingrestaurants.com/specials/",
+    "date": "2026-10"
+   },
+   {
+    "label": "Cheap Eats Guelph deal calendar",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 822-5191",
+  "website": "https://www.wildwingrestaurants.com/fr/order-now/?location=Guelph%20Eastview",
+  "googleMapsUrl": "https://maps.google.com/?cid=7186790258259093455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "piper-arms-guelph",
+  "name": "Piper Arms",
+  "category": "Pub",
+  "vibe": "bar",
+  "address": "515 Woodlawn Rd W",
+  "lat": 43.543167,
+  "lng": -80.308559,
+  "tags": [
+   "Late-night specials"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "start": 660,
+    "end": 960,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "20 oz domestic pints",
+      "price": 5
+     }
+    ]
+   },
+   {
+    "days": [
+     0,
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 1260,
+    "end": 1380,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "20 oz domestic pints",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "1 oz bar rail",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "6 oz house wine",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "half-price select appetizers"
+     },
+     {
+      "kind": "food",
+      "item": "wings",
+      "price": 0.99
+     }
+    ],
+    "note": "Late night, after 9 PM; dine-in, with a drink"
+   },
+   {
+    "days": [
+     5,
+     6
+    ],
+    "start": 1260,
+    "end": 1440,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "20 oz domestic pints",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "1 oz bar rail",
+      "price": 5
+     },
+     {
+      "kind": "drink",
+      "item": "6 oz house wine",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "half-price select appetizers"
+     },
+     {
+      "kind": "food",
+      "item": "wings",
+      "price": 0.99
+     }
+    ],
+    "note": "Late night, after 9 PM; dine-in, with a drink"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "pasta (not seafood, steak or lobster)",
+      "price": 15
+     },
+     {
+      "kind": "food",
+      "item": "half-price select appetizers"
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Wing Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "jumbo wings (min. 6)",
+      "price": 0.99
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Asian Night",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "25% off Asian dishes"
+     },
+     {
+      "kind": "food",
+      "item": "1 lb wings or classic burger with a domestic pint",
+      "price": 16.5
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Fajita Night",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "25% off fajitas"
+     },
+     {
+      "kind": "food",
+      "item": "1 lb wings with a domestic tall boy",
+      "price": 16.5
+     }
+    ]
+   },
+   {
+    "days": [
+     5,
+     6
+    ],
+    "title": "Surf & Turf",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "8 oz sirloin with lobster tail",
+      "price": 29
+     },
+     {
+      "kind": "food",
+      "item": "8 oz sirloin with shrimp",
+      "price": 25
+     },
+     {
+      "kind": "food",
+      "item": "half rack of ribs and half pound of wings",
+      "price": 21
+     }
+    ]
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "British Sunday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "25% off British fare"
+     },
+     {
+      "kind": "drink",
+      "item": "domestic tall boys",
+      "price": 5
+     },
+     {
+      "kind": "food",
+      "item": "1 lb wings and a domestic pint",
+      "price": 16.5
+     },
+     {
+      "kind": "food",
+      "item": "2 lb wings and a domestic pitcher",
+      "price": 32
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pub",
+   "wings",
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 540,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 540,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJ52DogF6RK4gRoMIQi_1TwF0",
+  "menuUrl": "https://piperarms.com/main-menu/",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Piper Arms daily specials (PDF)",
+    "url": "https://piperarms.com/storage/2026/04/Daily-Specials_2026-1.pdf",
+    "date": "2026-04"
+   },
+   {
+    "label": "Piper Arms Guelph drinks menu (PDF)",
+    "url": "http://piperarms.com/storage/2026/05/Guelph-1.pdf",
+    "date": "2026-05"
+   }
+  ],
+  "phone": "(519) 546-9949",
+  "website": "https://www.piperarms.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6755491789480706720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "manhattans-bistro",
+  "name": "Manhattans Bistro & Music Club",
+  "category": "Bistro & music club",
+  "vibe": "restaurant",
+  "address": "951 Gordon St",
+  "lat": 43.522111,
+  "lng": -80.213638,
+  "tags": [
+   "Live music",
+   "Jazz"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     4,
+     5,
+     6
+    ],
+    "start": 960,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "12 oz draught",
+      "price": 7
+     },
+     {
+      "kind": "drink",
+      "item": "6 oz red wine",
+      "price": 7
+     },
+     {
+      "kind": "food",
+      "item": "appetizers",
+      "price": 12
+     },
+     {
+      "kind": "food",
+      "item": "12-inch pizzas",
+      "price": 15
+     }
+    ],
+    "note": "Dine-in at the bistro"
+   }
+  ],
+  "deals": "venue",
+  "food": [
+   "pizza",
+   "pasta"
+  ],
+  "hours": [
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 960,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 960,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJzwLMEcuEK4gRIL-sK9b9OH0",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Manhattans happy hour menu",
+    "url": "https://manhattans.ca/menu/happy-hour",
+    "date": "2026-10"
+   }
+  ],
+  "website": "http://manhattans.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9023240949734358816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "borealis-grille-guelph",
+  "name": "Borealis Grille & Bar",
+  "category": "Grill & bar",
+  "vibe": "restaurant",
+  "address": "1388 Gordon St",
+  "lat": 43.512878,
+  "lng": -80.197885,
+  "tags": [
+   "Ontario craft beer",
+   "Patio",
+   "Weekend brunch"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "start": 840,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "appetizers",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "taps",
+      "price": 6
+     }
+    ]
+   },
+   {
+    "days": [
+     4,
+     5,
+     6
+    ],
+    "start": 1200,
+    "end": 1320,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "appetizers",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "taps",
+      "price": 6
+     }
+    ],
+    "note": "8 PM to close"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Wing Monday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "wings (1 lb)",
+      "price": 10
+     },
+     {
+      "kind": "drink",
+      "item": "Wellington pints",
+      "price": 6
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Taco Tuesday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "margaritas and cervezas",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "2 tacos",
+      "price": 15
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Date Night",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "3-course dinner for two",
+      "price": 69.99
+     },
+     {
+      "kind": "drink",
+      "item": "$10 off wine bottles"
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Fried Chicken Thursday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "1-piece fried chicken",
+      "price": 17.99
+     },
+     {
+      "kind": "food",
+      "item": "2-piece fried chicken",
+      "price": 24.99
+     }
+    ]
+   },
+   {
+    "days": [
+     5
+    ],
+    "title": "Flight Friday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "cocktail flights",
+      "price": 12
+     }
+    ]
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Kids Sunday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "kids’ menu items",
+      "price": 5
+     }
+    ]
+   }
+  ],
+  "food": [
+   "wings",
+   "tacos",
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 630,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 630,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJNyOyUaWEK4gR0t8Hf8IvJ8M",
+  "menuUrl": "https://www.borealisgrille.ca/menu/dinner",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Borealis happy hour",
+    "url": "https://www.borealisgrille.ca/menu/happy-hour",
+    "date": "2026-10"
+   },
+   {
+    "label": "Borealis daily features",
+    "url": "https://www.borealisgrille.ca/menu/daily-features",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 265-9007",
+  "website": "http://www.borealisgrille.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14062260873889046482&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "bardo-guelph",
+  "name": "Bardō",
+  "category": "Italian-inspired kitchen",
+  "vibe": "restaurant",
+  "address": "105 Gordon St",
+  "lat": 43.540031,
+  "lng": -80.24375,
+  "tags": [
+   "Wine Wednesdays",
+   "Sunday brunch",
+   "Patio"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "start": 900,
+    "end": 1020,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "wine",
+      "price": 7
+     },
+     {
+      "kind": "drink",
+      "item": "pints",
+      "price": 8
+     },
+     {
+      "kind": "drink",
+      "item": "Aperol, Hugo or limoncello spritzes",
+      "price": 10
+     }
+    ],
+    "note": "Reported by Cheap Eats Guelph (owner, May 2026); not on Bardō’s Guelph page"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     3
+    ],
+    "title": "Wine Wednesday",
+    "start": 660,
+    "end": 1260,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "half-price wine bottles"
+     }
+    ],
+    "note": "Dine-in"
+   }
+  ],
+  "food": [
+   "pizza",
+   "pasta"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 540,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJdbbVucSaK4gRKbRNvTopJYU",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Bardō Gordon St Guelph",
+    "url": "https://bardorestaurants.ca/gordon-st-guelph/",
+    "date": "2026-10"
+   },
+   {
+    "label": "Cheap Eats Guelph deal calendar",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 767-2999",
+  "website": "https://bardorestaurants.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9594119913443537961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "wellington-brewery",
+  "name": "Wellington Brewery Taproom",
+  "category": "Brewery taproom",
+  "vibe": "brewery",
+  "address": "950 Woodlawn Rd W",
+  "lat": 43.533262,
+  "lng": -80.320508,
+  "tags": [
+   "Dog-friendly",
+   "Patio",
+   "Brewery tours"
+  ],
+  "happyHours": [
+   {
+    "days": [
+     5
+    ],
+    "start": 900,
+    "end": 1140,
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "$2 off craft drinks"
+     }
+    ],
+    "note": "3 PM to close"
+   }
+  ],
+  "deals": "venue",
+  "dailySpecials": [
+   {
+    "days": [
+     2
+    ],
+    "title": "Pint & Pretzel",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "pint and a giant soft pretzel",
+      "price": 12
+     }
+    ]
+   },
+   {
+    "days": [
+     3
+    ],
+    "title": "Welly Wednesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "pint and a grilled cheese",
+      "price": 16
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Thirsty Thursday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "pints",
+      "price": 7
+     },
+     {
+      "kind": "food",
+      "item": "basket of chips",
+      "price": 5
+     }
+    ]
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "Crafternoons",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "Caesars and mimosas",
+      "price": 10
+     }
+    ]
+   }
+  ],
+  "food": [
+   "snacks"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1140
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1140
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1140
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1140
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1140
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1140
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1140
+   }
+  ],
+  "placeId": "ChIJz-xsWNWPK4gRbqrqOrr9R8M",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Wellington Brewery visit page",
+    "url": "https://www.wellingtonbrewery.ca/visit",
+    "date": "2026-10"
+   }
+  ],
+  "phone": "(519) 837-2337",
+  "website": "http://www.wellingtonbrewery.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14071494537036606062&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "royal-city-brewing",
+  "name": "Royal City Brewing & Beer Hall",
+  "category": "Brewery & beer hall",
+  "vibe": "brewery",
+  "address": "199 Victoria Rd S",
+  "lat": 43.552319,
+  "lng": -80.224801,
+  "tags": [
+   "House-brewed beer",
+   "Trivia Wednesdays"
+  ],
+  "happyHours": [],
+  "deals": "reported",
+  "dailySpecials": [
+   {
+    "days": [
+     1
+    ],
+    "title": "Anti-Inflation Monday",
+    "specials": [
+     {
+      "kind": "drink",
+      "item": "beers",
+      "price": 6
+     },
+     {
+      "kind": "food",
+      "item": "burgers",
+      "price": 15
+     }
+    ]
+   },
+   {
+    "days": [
+     2
+    ],
+    "title": "Nacho Night",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "solo nachos",
+      "price": 16
+     },
+     {
+      "kind": "food",
+      "item": "shareable nachos",
+      "price": 28
+     }
+    ]
+   }
+  ],
+  "food": [
+   "burgers",
+   "snacks"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 900,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 900,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 900,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 900,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJrQ1h_BqbK4gRr6cwDV7eAHc",
+  "menuUrl": "https://royalcitybrew.ca/pages/menu",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Cheap Eats Guelph (customer submission, May 2026)",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-06"
+   }
+  ],
+  "phone": "(888) 485-2739",
+  "website": "https://royalcitybrew.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8575098186043008943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "la-reina",
+  "name": "La Reina",
+  "category": "Mexican",
+  "vibe": "restaurant",
+  "address": "10 Wyndham St N",
+  "lat": 43.544537,
+  "lng": -80.248167,
+  "tags": [
+   "Margaritas",
+   "Patio"
+  ],
+  "happyHours": [],
+  "deals": "reported",
+  "dailySpecials": [
+   {
+    "days": [
+     2
+    ],
+    "title": "Taco Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "tacos",
+      "price": 5
+     }
+    ],
+    "note": "Until close"
+   }
+  ],
+  "food": [
+   "tacos"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1200
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJO1kYXTibK4gREurIOsc3XJo",
+  "menuUrl": "https://www.lareina519.com/menu",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Cheap Eats Guelph (from La Reina’s social media, Sep 2026)",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-09"
+   }
+  ],
+  "phone": "(519) 265-8226",
+  "website": "http://lareina519.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11122826508522547730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "sugo-on-surrey",
+  "name": "Sugo on Surrey",
+  "category": "Italian",
+  "vibe": "restaurant",
+  "address": "117 Surrey St E",
+  "lat": 43.544636,
+  "lng": -80.243592,
+  "tags": [
+   "Date night"
+  ],
+  "happyHours": [],
+  "deals": "reported",
+  "dailySpecials": [
+   {
+    "days": [
+     3
+    ],
+    "title": "2 Can Dine",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "wine bottle, appetizer, 2 entrées and dessert for two",
+      "price": 120
+     }
+    ]
+   },
+   {
+    "days": [
+     4
+    ],
+    "title": "Pasta & wine",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "select pasta",
+      "price": 30
+     },
+     {
+      "kind": "drink",
+      "item": "half-price wine bottles"
+     }
+    ]
+   },
+   {
+    "days": [
+     0
+    ],
+    "title": "2 for $100",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "2 salads, 2 pastas and 2 desserts",
+      "price": 100
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pasta",
+   "pizza",
+   "oysters"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 960,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 960,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJ_aAbtsKaK4gRwmz8Ogju6Xw",
+  "menuUrl": "https://sugoguelph.com/menus",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Cheap Eats Guelph (owner submission, May 2026)",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-06"
+   }
+  ],
+  "phone": "(519) 265-5532",
+  "website": "http://www.sugoonsurrey.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9000987049393417410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "sinalove",
+  "name": "Sinalove",
+  "category": "Mexican seafood",
+  "vibe": "casual",
+  "address": "447 Elizabeth St",
+  "lat": 43.555489,
+  "lng": -80.221919,
+  "tags": [
+   "Sinaloa-style"
+  ],
+  "happyHours": [],
+  "deals": "reported",
+  "dailySpecials": [
+   {
+    "days": [
+     2
+    ],
+    "title": "Taco Tuesday",
+    "start": 720,
+    "end": 1080,
+    "specials": [
+     {
+      "kind": "food",
+      "item": "tacos",
+      "price": 5.95
+     }
+    ],
+    "note": "Listed as 11 AM–6 PM; Sinalove opens at noon"
+   }
+  ],
+  "food": [
+   "tacos",
+   "sushi"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1200
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1200
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1200
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1260
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJvdtK-GObK4gR124s-jqgm0o",
+  "menuUrl": "https://sinalovemexican.bycalibre.ca/menu",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Cheap Eats Guelph (customer submission, Apr 2026)",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-06"
+   }
+  ],
+  "phone": "(519) 829-1051",
+  "website": "https://sinalovemexican.bycalibre.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5376066755362582231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "atmosphere-cafe",
+  "name": "Atmosphere Cafe + Etc.",
+  "category": "European bistro",
+  "vibe": "restaurant",
+  "address": "24 Carden St",
+  "lat": 43.54385,
+  "lng": -80.248951,
+  "tags": [
+   "Market Square"
+  ],
+  "happyHours": [],
+  "deals": "reported",
+  "dailySpecials": [
+   {
+    "days": [
+     2
+    ],
+    "title": "Pizza Tuesday",
+    "specials": [
+     {
+      "kind": "food",
+      "item": "pizza and a draft pint or tallboy",
+      "price": 25
+     },
+     {
+      "kind": "food",
+      "item": "pizza and a 6 oz house wine",
+      "price": 28
+     }
+    ]
+   }
+  ],
+  "food": [
+   "pizza"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1200
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1200
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJN--Nf8GaK4gRx66t54PivY0",
+  "menuUrl": "https://atmospherecafe.squarespace.com/menu-1",
+  "checked": "2026-10-28",
+  "sources": [
+   {
+    "label": "Cheap Eats Guelph (web research, May 2026)",
+    "url": "https://cheapeatsguelph.com/",
+    "date": "2026-06"
+   }
+  ],
+  "phone": "(519) 824-0430",
+  "website": "https://atmospherecafe.squarespace.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10213568586101665479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "brothers-brewing",
+  "name": "Brothers Brewing Company",
+  "category": "Brewery taproom",
+  "vibe": "brewery",
+  "address": "15 Wyndham St N Unit A",
+  "lat": 43.545101,
+  "lng": -80.248172,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "snacks"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 900,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 900,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 900,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 900,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1560
+   }
+  ],
+  "placeId": "ChIJ7TW9IsKaK4gRXeQ1Vz9oPTA",
+  "phone": "(226) 790-3767",
+  "website": "http://www.brothersbrewingcompany.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3476049108655268957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "standing-room-only",
+  "name": "Standing Room Only",
+  "category": "Tiny bar",
+  "vibe": "bar",
+  "address": "60 Ontario St",
+  "lat": 43.544639,
+  "lng": -80.238347,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 960,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 960,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 960,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 960,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 960,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 960,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJOeWV1yubK4gRnWNdDSM8-gU",
+  "website": "http://standingroomonly.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=430722835613049757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "two-faces",
+  "name": "Two Faces",
+  "category": "Wine bar",
+  "vibe": "wine",
+  "address": "20 Wilson St",
+  "lat": 43.543372,
+  "lng": -80.249448,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "snacks"
+  ],
+  "hours": [
+   {
+    "day": 2,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 960,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 960,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJ29EsntObK4gRdbjQ_juCxGg",
+  "phone": "(519) 265-9463",
+  "website": "http://twofacesbar.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7549302069569566837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "nv-kitchen-bar",
+  "name": "NV Kitchen + Bar",
+  "category": "Kitchen & bar",
+  "vibe": "bar",
+  "address": "16 Wyndham St N",
+  "lat": 43.544907,
+  "lng": -80.248534,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "burgers",
+   "pizza",
+   "wings",
+   "steak"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJfSuGIsKaK4gRMZ88mfNqqcs",
+  "phone": "(519) 837-1064",
+  "website": "https://nvkitchenbar.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=14675378455243956017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "buon-gusto",
+  "name": "Buon Gusto",
+  "category": "Italian",
+  "vibe": "restaurant",
+  "address": "69 Wyndham St N",
+  "lat": 43.546295,
+  "lng": -80.248849,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "pizza",
+   "pasta"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJY6Yr_MGaK4gRomWaG28_ND4",
+  "phone": "(519) 265-8766",
+  "website": "https://buongusto.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=4482277275577509282&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "the-cornerstone",
+  "name": "The Cornerstone",
+  "category": "Vegetarian café & bar",
+  "vibe": "restaurant",
+  "address": "1 Wyndham St N",
+  "lat": 43.544577,
+  "lng": -80.247577,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "vegan"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 540,
+    "close": 1200
+   },
+   {
+    "day": 1,
+    "open": 540,
+    "close": 1020
+   },
+   {
+    "day": 2,
+    "open": 540,
+    "close": 1020
+   },
+   {
+    "day": 3,
+    "open": 540,
+    "close": 1020
+   },
+   {
+    "day": 4,
+    "open": 540,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 540,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 540,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJYzr8OMKaK4gRW97mKCaEwJU",
+  "phone": "(519) 824-7723",
+  "website": "http://thecornerstoneguelph.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10790770006609550939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "crafty-ramen",
+  "name": "Crafty Ramen",
+  "category": "Ramen",
+  "vibe": "casual",
+  "address": "17 Macdonell St",
+  "lat": 43.543839,
+  "lng": -80.249506,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1380
+   }
+  ],
+  "placeId": "ChIJzWIWeMGaK4gR_IyuU0ldT2Q",
+  "phone": "(519) 340-2701",
+  "website": "http://craftyramen.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7228098496470879484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "frank-and-steins",
+  "name": "Frank & Steins",
+  "category": "Pub",
+  "vibe": "bar",
+  "address": "12 Wyndham St N",
+  "lat": 43.54481,
+  "lng": -80.248587,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "pub"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 1200,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 1200,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 1200,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 1200,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 1200,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 1200,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 1200,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJqdS0I8KaK4gR0Soxf6fSixQ",
+  "phone": "(519) 763-8666",
+  "website": "http://frankandsteins.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1480508519356639953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "open-close-bar",
+  "name": "open/close bar",
+  "category": "Wine & listening bar",
+  "vibe": "wine",
+  "address": "60 Carden St",
+  "lat": 43.544266,
+  "lng": -80.248213,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 960,
+    "close": 1500
+   },
+   {
+    "day": 6,
+    "open": 960,
+    "close": 1500
+   }
+  ],
+  "amenities": [
+   "live-music"
+  ],
+  "placeId": "ChIJWXXr7OmbK4gRCEa2zH8pugI",
+  "website": "https://www.openclosebar.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=196515162616120840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "la-poche",
+  "name": "La Poche",
+  "category": "Café & cocktail bar",
+  "vibe": "cocktails",
+  "address": "40 Quebec St",
+  "lat": 43.545768,
+  "lng": -80.250683,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "snacks"
+  ],
+  "hours": [
+   {
+    "day": 1,
+    "open": 480,
+    "close": 1020
+   },
+   {
+    "day": 2,
+    "open": 480,
+    "close": 1020
+   },
+   {
+    "day": 3,
+    "open": 480,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 480,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 480,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 480,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJWaWCQgCbK4gRtgVLmux-IYQ",
+  "phone": "(519) 500-1884",
+  "website": "http://lapoche.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9521030641903928758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "ward-bar-spring-mill",
+  "name": "The Ward Bar at Spring Mill Distillery",
+  "category": "Distillery bar",
+  "vibe": "cocktails",
+  "address": "43 Arthur St S",
+  "lat": 43.546635,
+  "lng": -80.24263,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "snacks"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1140
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1140
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1140
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJS4EJg1ibK4gRE_NuPwDLXFI",
+  "phone": "(226) 780-2215",
+  "website": "https://johnsleemanandsons.com/menu",
+  "googleMapsUrl": "https://maps.google.com/?cid=5934841610892145427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "hanami-izakaya",
+  "name": "Hanami Izakaya",
+  "category": "Japanese izakaya",
+  "vibe": "restaurant",
+  "address": "86 Gordon St",
+  "lat": 43.541049,
+  "lng": -80.2439,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "sushi",
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 900
+   },
+   {
+    "day": 0,
+    "open": 960,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 2,
+    "open": 960,
+    "close": 1290
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 3,
+    "open": 960,
+    "close": 1290
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1290
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 5,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 6,
+    "open": 960,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJp7ajYeKbK4gReNFWDTR8AUY",
+  "phone": "(519) 265-5599",
+  "website": "https://www.quickposonline.ca/ordering/restaurant/menu?restaurant_uid=50ec0f09-9022-4a21-9181-e53bb97382e4",
+  "googleMapsUrl": "https://maps.google.com/?cid=5044449620635603320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "park-eatery",
+  "name": "Park Eatery",
+  "category": "Neighbourhood eatery",
+  "vibe": "casual",
+  "address": "294 Woolwich St",
+  "lat": 43.550128,
+  "lng": -80.257074,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 1200
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 1260
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJq2l4PE2bK4gRSyz8QmN2VFQ",
+  "phone": "(519) 265-9002",
+  "website": "http://www.parkeatery.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6076611965927304267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "piatto-pizzeria",
+  "name": "Piatto Pizzeria + Enoteca",
+  "category": "Neapolitan pizzeria",
+  "vibe": "restaurant",
+  "address": "153 Wyndham St N",
+  "lat": 43.547756,
+  "lng": -80.250562,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "pizza",
+   "pasta"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1200
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJ10HVAGybK4gRCqLc5MaFdKU",
+  "phone": "(519) 826-0449",
+  "website": "http://piattopizzeria.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11922301202846229002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "retour-bistro",
+  "name": "Retour Bistro",
+  "category": "Lebanese bistro",
+  "vibe": "restaurant",
+  "address": "150 Wellington St E Unit 103",
+  "lat": 43.546052,
+  "lng": -80.243396,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "middle-eastern"
+  ],
+  "hours": [
+   {
+    "day": 1,
+    "open": 960,
+    "close": 1200
+   },
+   {
+    "day": 2,
+    "open": 960,
+    "close": 1200
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1200
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1200
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 6,
+    "open": 960,
+    "close": 1200
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJv9PIGuiaK4gR_AE6bxcWBzA",
+  "phone": "(519) 766-0666",
+  "website": "http://www.retourbistro.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3460759128563646972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "round-table-board-game-cafe",
+  "name": "The Round Table Board Game Café",
+  "category": "Board game café",
+  "vibe": "casual",
+  "address": "32 Essex St",
+  "lat": 43.541102,
+  "lng": -80.24915,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "snacks"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1080
+   },
+   {
+    "day": 2,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 1020,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music"
+  ],
+  "placeId": "ChIJ1Q87qcaaK4gR5WYoutjCf_Y",
+  "phone": "(519) 822-0505",
+  "website": "https://roundtablekingdom.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17762129691464460005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "fusion-indian",
+  "name": "Fusion Authentic Indian Cuisine",
+  "category": "Indian",
+  "vibe": "restaurant",
+  "address": "96 Gordon St",
+  "lat": 43.540751,
+  "lng": -80.243365,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 0,
+    "open": 960,
+    "close": 1290
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 1,
+    "open": 960,
+    "close": 1290
+   },
+   {
+    "day": 2,
+    "open": 960,
+    "close": 1290
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 3,
+    "open": 960,
+    "close": 1290
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1290
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 5,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 6,
+    "open": 960,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJOUTK59mbK4gRAVpz9izBVNg",
+  "phone": "(519) 265-0999",
+  "website": "https://fusionindian.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=15588296609093605889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "kinton-ramen-gordon",
+  "name": "Kinton Ramen",
+  "category": "Ramen",
+  "vibe": "casual",
+  "address": "78 Gordon St",
+  "lat": 43.541222,
+  "lng": -80.244885,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJnVGICfSbK4gRxL004_lDN4c",
+  "phone": "(519) 763-0030",
+  "website": "https://www.kintonramen.com/location/kinton-ramen-gordon-guelph/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9743331059377159620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "pablos",
+  "name": "Pablo’s",
+  "category": "Dive bar",
+  "vibe": "bar",
+  "address": "37 Wyndham St N",
+  "lat": 43.545481,
+  "lng": -80.248516,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 1200,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 1200,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 1200,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 960,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 960,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJj_-EHMKaK4gR7-MRSXVfJx8",
+  "phone": "(519) 823-9993",
+  "googleMapsUrl": "https://maps.google.com/?cid=2244867896609203183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "bevs",
+  "name": "Bev’s",
+  "category": "Neighbourhood bar",
+  "vibe": "bar",
+  "address": "101 Beverley St Unit C",
+  "lat": 43.550271,
+  "lng": -80.229106,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 3,
+    "open": 960,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 960,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 840,
+    "close": 1440
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJM0R6ebKbK4gR7TqR4s8v6SM",
+  "website": "https://www.bevsbar.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2587652030806964973&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "level-resto-lounge",
+  "name": "Level Resto Lounge",
+  "category": "Ethiopian & lounge",
+  "vibe": "restaurant",
+  "address": "51 Cork St E",
+  "lat": 43.545122,
+  "lng": -80.249182,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 1,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 2,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJaQbNG-GbK4gR0JbZjh0pzmI",
+  "phone": "(519) 822-0953",
+  "website": "http://www.levelrestolounge.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7119673267846747856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "bombay-kitchen",
+  "name": "Bombay Kitchen",
+  "category": "Indian & Hakka",
+  "vibe": "restaurant",
+  "address": "105 Macdonell St Ste 105",
+  "lat": 43.545239,
+  "lng": -80.246848,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 90,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 750,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJCztjb8KaK4gRFWZ-0NE84HE",
+  "phone": "(519) 821-3343",
+  "website": "http://bombaykitchen.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8205625392912819733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "woks-taste",
+  "name": "Wok’s Taste",
+  "category": "Chinese",
+  "vibe": "casual",
+  "address": "16 Carden St",
+  "lat": 43.543747,
+  "lng": -80.249172,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 990,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 990,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1260
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJx4r0fsGaK4gRV8KpyUZLMm0",
+  "phone": "(519) 822-1400",
+  "website": "https://wokstaste.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=7868434266372817495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "hidmona-lounge",
+  "name": "Hidmona Lounge",
+  "category": "Eritrean restaurant & lounge",
+  "vibe": "restaurant",
+  "address": "99 Wyndham St N",
+  "lat": 43.546649,
+  "lng": -80.249358,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 1620
+   },
+   {
+    "day": 1,
+    "open": 600,
+    "close": 1620
+   },
+   {
+    "day": 2,
+    "open": 600,
+    "close": 1620
+   },
+   {
+    "day": 3,
+    "open": 600,
+    "close": 1620
+   },
+   {
+    "day": 4,
+    "open": 600,
+    "close": 1620
+   },
+   {
+    "day": 5,
+    "open": 600,
+    "close": 1620
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 1620
+   }
+  ],
+  "amenities": [
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJDZiaWXubK4gRLlMrrza4Alg",
+  "phone": "(519) 515-2977",
+  "googleMapsUrl": "https://maps.google.com/?cid=6341833770297676590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "beertown-guelph",
+  "name": "Beertown",
+  "category": "Beer hall",
+  "vibe": "bar",
+  "address": "433 Stone Rd W Unit 8",
+  "lat": 43.519861,
+  "lng": -80.23446,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "burgers",
+   "pizza",
+   "wings",
+   "tacos"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 630,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 6,
+    "open": 630,
+    "close": 1500
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJSwH3PYiFK4gRRDHwBBx-xng",
+  "phone": "(226) 706-2337",
+  "website": "http://www.beertown.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8702781988747096388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "the-fat-duck",
+  "name": "The Fat Duck Gastro Pub",
+  "category": "Gastropub",
+  "vibe": "bar",
+  "address": "210 Kortright Rd W",
+  "lat": 43.512991,
+  "lng": -80.220881,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "pub",
+   "wings"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1500
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1500
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "sports",
+   "groups",
+   "dogs"
+  ],
+  "placeId": "ChIJdwhqMcWEK4gRIgzY1PLGZO4",
+  "phone": "(519) 827-0533",
+  "website": "http://www.fatduck.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=17178073624953228322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "r-u-serious",
+  "name": "R U Serious Tap & Grill",
+  "category": "Tap & grill",
+  "vibe": "bar",
+  "address": "130 Silvercreek Pkwy N",
+  "lat": 43.539125,
+  "lng": -80.280621,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "wings",
+   "pub"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1500
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1500
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1500
+   }
+  ],
+  "amenities": [
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJKbnSowiQK4gRpicC_7iYsiI",
+  "phone": "(519) 766-0230",
+  "website": "http://ruserious.biz/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2500228663463782310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "bar-mason",
+  "name": "Bar Mason",
+  "category": "Hotel bar & restaurant",
+  "vibe": "restaurant",
+  "address": "50 Stone Rd W",
+  "lat": 43.525983,
+  "lng": -80.224591,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "pizza"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 390,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 390,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 390,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 390,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 390,
+    "close": 1380
+   },
+   {
+    "day": 5,
+    "open": 390,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 390,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJVVWVxCybK4gRPRsMOdsLSpo",
+  "phone": "(519) 780-3727",
+  "website": "https://barmasonrestaurant.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=11117711666300328765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "the-keg-guelph",
+  "name": "The Keg Steakhouse + Bar",
+  "category": "Steakhouse",
+  "vibe": "restaurant",
+  "address": "49 Clair Rd E",
+  "lat": 43.501317,
+  "lng": -80.187068,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "steak"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 840,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 960,
+    "close": 1380
+   },
+   {
+    "day": 6,
+    "open": 840,
+    "close": 1380
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJaceDI2CDK4gRdqSPOFLHhc8",
+  "phone": "(519) 829-1234",
+  "website": "https://thekeg.com/en/locations/guelph",
+  "googleMapsUrl": "https://maps.google.com/?cid=14953577293703783542&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "kings-sports-bar",
+  "name": "Kings Sports Bar and Grill",
+  "category": "Sports bar",
+  "vibe": "bar",
+  "address": "468 Woodlawn Rd E",
+  "lat": 43.577312,
+  "lng": -80.261146,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "wings",
+   "pub"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1380
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1440
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1500
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1500
+   }
+  ],
+  "amenities": [
+   "live-music",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJLwYZkIebK4gRStcbV1AzEzY",
+  "phone": "(519) 830-2062",
+  "website": "http://www.kingsbar.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3896514522757453642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "stampede-ranch",
+  "name": "Stampede Ranch",
+  "category": "Country bar",
+  "vibe": "bar",
+  "address": "226 Woodlawn Rd W",
+  "lat": 43.553197,
+  "lng": -80.293205,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 4,
+    "open": 1140,
+    "close": 1560
+   },
+   {
+    "day": 5,
+    "open": 1140,
+    "close": 1560
+   },
+   {
+    "day": 6,
+    "open": 1140,
+    "close": 1560
+   }
+  ],
+  "amenities": [
+   "patio",
+   "live-music",
+   "groups"
+  ],
+  "placeId": "ChIJS7RSC2yQK4gR1I33h33l1JQ",
+  "phone": "(519) 822-1358",
+  "website": "http://www.thestampederanch.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10724448939990814164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "mandarin-guelph",
+  "name": "Mandarin",
+  "category": "Buffet",
+  "vibe": "casual",
+  "address": "565 Woodlawn Rd W",
+  "lat": 43.543321,
+  "lng": -80.309734,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "asian"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 0,
+    "open": 960,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 1,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 2,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 5,
+    "open": 990,
+    "close": 1290
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 6,
+    "open": 990,
+    "close": 1290
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJJxhMmTqQK4gRO6xUlMZBPHU",
+  "phone": "(519) 837-9000",
+  "website": "http://www.mandarinrestaurant.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8447699322188115003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "lucky-belly",
+  "name": "Lucky Belly",
+  "category": "Casual eatery",
+  "vibe": "casual",
+  "address": "763 Woolwich St",
+  "lat": 43.564449,
+  "lng": -80.275913,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "tacos",
+   "burgers"
+  ],
+  "hours": [
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1200
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1200
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1200
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1200
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1200
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 900
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJIQ2jxIGaK4gR_xhC7Ae1zHA",
+  "phone": "(519) 265-9222",
+  "website": "http://theluckybelly.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8128070473130055935&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "cherry-blossom-sushi",
+  "name": "Cherry Blossom Sushi Bar",
+  "category": "Sushi",
+  "vibe": "restaurant",
+  "address": "H, 103 Clair Rd E #107",
+  "lat": 43.500051,
+  "lng": -80.187121,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "sushi"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJPSLBmp6EK4gR9a7xLR1CjiU",
+  "phone": "(519) 823-8838",
+  "website": "https://cherryblossomsushibar.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2706173119188545269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "revel-cider",
+  "name": "Revel Cider",
+  "category": "Cidery",
+  "vibe": "brewery",
+  "address": "62 Dawson Rd",
+  "lat": 43.546793,
+  "lng": -80.276747,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1200
+   },
+   {
+    "day": 3,
+    "open": 720,
+    "close": 960
+   },
+   {
+    "day": 4,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 720,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1320
+   }
+  ],
+  "placeId": "ChIJQSoBcXWRK4gR2u_4fSO4F3Y",
+  "phone": "(416) 660-6044",
+  "website": "http://www.revelcider.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=8509472483516674010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "jannat-e-punjab",
+  "name": "Jannat-E-Punjab Bar & Grill",
+  "category": "Punjabi",
+  "vibe": "restaurant",
+  "address": "206 Speedvale Ave W Unit 2",
+  "lat": 43.549279,
+  "lng": -80.280017,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 600,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 600,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 600,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 600,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJfdllNVWRK4gRZX_Xm-B3Tkw",
+  "phone": "(289) 660-9800",
+  "website": "http://www.jannatepunjab.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=5498464001636925285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "cafe-greek-garden",
+  "name": "Cafe Greek Garden",
+  "category": "Greek",
+  "vibe": "restaurant",
+  "address": "497 York Rd",
+  "lat": 43.551366,
+  "lng": -80.224252,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "greek"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1230
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1260
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1260
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJtyRGCBubK4gRQO694AzQ4yM",
+  "phone": "(519) 821-0000",
+  "website": "http://www.cafegreekgarden.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=2586139364769525312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "souvlaki-flame",
+  "name": "Souvlaki Flame",
+  "category": "Greek",
+  "vibe": "casual",
+  "address": "206 Speedvale Ave W #4",
+  "lat": 43.549311,
+  "lng": -80.279926,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "greek"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 480,
+    "close": 1200
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 6,
+    "open": 480,
+    "close": 1200
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJvaWqwqv0K4gRY0uG1nYa2hQ",
+  "phone": "(519) 265-4200",
+  "website": "https://souvlakiflame.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=1502542523389070179&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "the-bollywood-bistro",
+  "name": "The Bollywood Bistro",
+  "category": "Indian",
+  "vibe": "restaurant",
+  "address": "561 York Rd",
+  "lat": 43.553257,
+  "lng": -80.22129,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 900
+   },
+   {
+    "day": 0,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 1,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 1,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 2,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 900
+   },
+   {
+    "day": 5,
+    "open": 1020,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 720,
+    "close": 900
+   },
+   {
+    "day": 6,
+    "open": 1020,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJe6Ze88GaK4gRD8f927hbbHU",
+  "phone": "(519) 821-3999",
+  "website": "https://www.thebollywoodbistro.com/?utm_source=GBP.website&utm_medium=GBP&utm_campaign=br17548-website",
+  "googleMapsUrl": "https://maps.google.com/?cid=8461238649445271311&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "the-nguyens",
+  "name": "The Nguyen’s Vietnamese Family Restaurant",
+  "category": "Vietnamese",
+  "vibe": "casual",
+  "address": "400 Speedvale Ave W",
+  "lat": 43.540638,
+  "lng": -80.291207,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "vietnamese"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 720,
+    "close": 1140
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1200
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1200
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJ473AmhCQK4gRFqVFIg_8_iI",
+  "phone": "(519) 265-3395",
+  "website": "http://www.thenguyens.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=1118282180063832595",
+  "googleMapsUrl": "https://maps.google.com/?cid=2521729983303755030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "diwa",
+  "name": "Diwa Classic Indian Cuisine",
+  "category": "Indian",
+  "vibe": "restaurant",
+  "address": "336 Speedvale Ave W",
+  "lat": 43.542197,
+  "lng": -80.289942,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 1,
+    "open": 690,
+    "close": 840
+   },
+   {
+    "day": 1,
+    "open": 960,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 840
+   },
+   {
+    "day": 2,
+    "open": 960,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 840
+   },
+   {
+    "day": 3,
+    "open": 960,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 840
+   },
+   {
+    "day": 4,
+    "open": 960,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 840
+   },
+   {
+    "day": 5,
+    "open": 960,
+    "close": 1260
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 840
+   },
+   {
+    "day": 6,
+    "open": 960,
+    "close": 1260
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJj-sWTxCQK4gR58iZQslQU1Q",
+  "phone": "(519) 826-9711",
+  "website": "http://www.diwaclassic.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=6076289147588954343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "town-and-country",
+  "name": "Town & Country Restaurant",
+  "category": "Family restaurant",
+  "vibe": "casual",
+  "address": "683 Eramosa Rd",
+  "lat": 43.574099,
+  "lng": -80.246259,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "diner"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 420,
+    "close": 1200
+   },
+   {
+    "day": 2,
+    "open": 420,
+    "close": 1200
+   },
+   {
+    "day": 3,
+    "open": 420,
+    "close": 1200
+   },
+   {
+    "day": 4,
+    "open": 420,
+    "close": 1200
+   },
+   {
+    "day": 5,
+    "open": 420,
+    "close": 1200
+   },
+   {
+    "day": 6,
+    "open": 420,
+    "close": 1200
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJX_mzMVuaK4gRDine3oB4UpQ",
+  "phone": "(548) 855-0079",
+  "website": "https://townandcountryguelph.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=10687737360593856782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "creekside-kitchen",
+  "name": "Creekside Kitchen",
+  "category": "Kitchen",
+  "vibe": "restaurant",
+  "address": "115 Downey Rd",
+  "lat": 43.499418,
+  "lng": -80.237871,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1230
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 870
+   },
+   {
+    "day": 2,
+    "open": 990,
+    "close": 1230
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 870
+   },
+   {
+    "day": 3,
+    "open": 990,
+    "close": 1230
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 870
+   },
+   {
+    "day": 4,
+    "open": 990,
+    "close": 1230
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1230
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1230
+   }
+  ],
+  "placeId": "ChIJUzzefxyFK4gRqgWNMPgnHn0",
+  "phone": "(519) 821-7477",
+  "website": "https://www.creeksidekitchen.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9015687450962232746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "ben-thanh",
+  "name": "Ben Thanh",
+  "category": "Vietnamese & Thai",
+  "vibe": "casual",
+  "address": "383 Woodlawn Rd W",
+  "lat": 43.546286,
+  "lng": -80.303906,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "vietnamese",
+   "thai"
+  ],
+  "hours": [
+   {
+    "day": 0,
+    "open": 660,
+    "close": 1290
+   },
+   {
+    "day": 1,
+    "open": 660,
+    "close": 1260
+   },
+   {
+    "day": 2,
+    "open": 660,
+    "close": 1290
+   },
+   {
+    "day": 3,
+    "open": 660,
+    "close": 1290
+   },
+   {
+    "day": 4,
+    "open": 660,
+    "close": 1290
+   },
+   {
+    "day": 5,
+    "open": 660,
+    "close": 1290
+   },
+   {
+    "day": 6,
+    "open": 660,
+    "close": 1290
+   }
+  ],
+  "amenities": [
+   "groups"
+  ],
+  "placeId": "ChIJD5xvmj6QK4gRzPlpVqZjGS8",
+  "phone": "(519) 767-6668",
+  "website": "http://www.phobenthanh.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3393853360265886156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "broken-english-bistro",
+  "name": "Broken English Bistro",
+  "category": "Bistro",
+  "vibe": "restaurant",
+  "address": "543 Speedvale Ave E",
+  "lat": 43.573736,
+  "lng": -80.247514,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 690,
+    "close": 1170
+   },
+   {
+    "day": 2,
+    "open": 690,
+    "close": 1170
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 1170
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 1170
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 1170
+   },
+   {
+    "day": 6,
+    "open": 690,
+    "close": 1170
+   }
+  ],
+  "amenities": [
+   "patio",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJAQBQP1uaK4gRlr6WJgCepys",
+  "phone": "(548) 557-1515",
+  "website": "https://www.brokenenglishbistro.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=3145656588226182806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "romeros",
+  "name": "Romero’s",
+  "category": "Italian",
+  "vibe": "restaurant",
+  "address": "355 Elmira Rd N Unit 101",
+  "lat": 43.533244,
+  "lng": -80.305897,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "food": [
+   "pasta"
+  ],
+  "hours": [
+   {
+    "day": 2,
+    "open": 690,
+    "close": 870
+   },
+   {
+    "day": 2,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 3,
+    "open": 690,
+    "close": 870
+   },
+   {
+    "day": 3,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 4,
+    "open": 690,
+    "close": 870
+   },
+   {
+    "day": 4,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 5,
+    "open": 690,
+    "close": 870
+   },
+   {
+    "day": 5,
+    "open": 1020,
+    "close": 1260
+   },
+   {
+    "day": 6,
+    "open": 960,
+    "close": 1260
+   }
+  ],
+  "amenities": [
+   "patio",
+   "groups"
+  ],
+  "placeId": "ChIJS3Z1JCeQK4gRWPfDtNhj-II",
+  "phone": "(519) 821-0009",
+  "website": "http://www.romeros.ca/",
+  "googleMapsUrl": "https://maps.google.com/?cid=9437402801551701848&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ },
+ {
+  "id": "ceremony-indian-cuisine",
+  "name": "Ceremony Indian Cuisine",
+  "category": "Indian",
+  "vibe": "restaurant",
+  "address": "33 Farley Dr",
+  "lat": 43.502308,
+  "lng": -80.187042,
+  "tags": [],
+  "happyHours": [],
+  "deals": "none",
+  "hours": [
+   {
+    "day": 0,
+    "open": 600,
+    "close": 1320
+   },
+   {
+    "day": 1,
+    "open": 600,
+    "close": 1320
+   },
+   {
+    "day": 2,
+    "open": 600,
+    "close": 1320
+   },
+   {
+    "day": 3,
+    "open": 600,
+    "close": 1320
+   },
+   {
+    "day": 4,
+    "open": 600,
+    "close": 1320
+   },
+   {
+    "day": 5,
+    "open": 600,
+    "close": 1320
+   },
+   {
+    "day": 6,
+    "open": 600,
+    "close": 1320
+   }
+  ],
+  "amenities": [
+   "live-music",
+   "sports",
+   "groups"
+  ],
+  "placeId": "ChIJ6S3m5OSDK4gRPIFrFUpoAgc",
+  "phone": "(226) 541-1212",
+  "website": "https://www.goceremony.com/",
+  "googleMapsUrl": "https://maps.google.com/?cid=505080775615152444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+ }
+]

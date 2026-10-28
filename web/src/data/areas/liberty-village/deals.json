@@ -1,0 +1,1529 @@
+[
+  {
+    "placeId": "ChIJLeyIhAM1K4gR5NQrBuiHsMw",
+    "id": "brazen-head",
+    "name": "Brazen Head Irish Pub",
+    "category": "Irish pub",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings",
+      "burgers",
+      "tacos"
+    ],
+    "tags": [
+      "Trivia Mondays",
+      "Live Celtic music Thursdays",
+      "Patio"
+    ],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "title": "All-day happy hour",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "shots (1 oz)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "daily tap (20 oz)",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "daily tap (32 oz)",
+            "price": 13
+          },
+          {
+            "kind": "drink",
+            "item": "house wine (6 oz)",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "classic or spicy margaritas (2 oz)",
+            "price": 13
+          }
+        ],
+        "note": "Open to close, every day. The daily tap excludes Irish pours."
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "title": "Lunch feature",
+        "start": 690,
+        "end": 900,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "taco duo",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "smash burger & fries",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "Liberty bowl",
+            "price": 16
+          }
+        ]
+      },
+      {
+        "days": [
+          1
+        ],
+        "title": "Burger Monday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "burger & pub fries",
+            "price": 17
+          }
+        ]
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Taco Tuesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "chef’s tacos (each)",
+            "price": 6
+          }
+        ]
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wingsday & Wine Down Wednesday",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "wings (1 lb)",
+            "price": 15
+          },
+          {
+            "kind": "drink",
+            "item": "wine (6 oz)",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "$10 off wine bottles"
+          }
+        ]
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Thorogood Thursday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Signal Hill whisky, Scotch and an 18 oz beer",
+            "price": 15
+          }
+        ]
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Fish n’ Chip Friday & Thank Guinness It’s Friday",
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Guinness",
+            "price": 11
+          },
+          {
+            "kind": "food",
+            "item": "fish & chips",
+            "price": 18
+          }
+        ],
+        "note": "The happy hour card says an 18 oz Guinness; the main menu says 20 oz."
+      },
+      {
+        "days": [
+          0,
+          6
+        ],
+        "title": "Bottomless mimosas",
+        "start": 630,
+        "end": 900,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "bottomless mimosas (per guest)",
+            "price": 32
+          }
+        ],
+        "note": "Weekend brunch only; 1.5-hour table limit."
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Brazen Head happy hour & lunch menu (PDF)",
+        "url": "https://fabrestaurants.b-cdn.net/wp-content/uploads/2021/02/BRZN_TT_5x7_HAPPY-HOUR-LunchFeatures_1013-2026WEB.pdf",
+        "date": "2026-10"
+      },
+      {
+        "label": "Brazen Head menu with daily features (PDF)",
+        "url": "https://fabrestaurants.b-cdn.net/wp-content/uploads/2021/02/BRZN-CORE-Menu-8-5x14-1006-2026WEB.pdf",
+        "date": "2026-10"
+      },
+      {
+        "label": "Brazen Head brunch menu (PDF)",
+        "url": "https://fabrestaurants.b-cdn.net/wp-content/uploads/2021/02/BRZN-BRUNCH-8-5x14MENU-1006-2026WEB.pdf",
+        "date": "2026-10"
+      },
+      {
+        "label": "Brazen Head",
+        "url": "https://fabrestaurants.ca/restaurant/brazen-head/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://fabrestaurants.ca/menus/?loc=brazen-head"
+  },
+  {
+    "placeId": "ChIJI6fHdHM1K4gRLBF96jf_i7c",
+    "id": "fox-and-johns",
+    "name": "Fox and John’s Restaurant + Bar",
+    "category": "Pub & grill",
+    "vibe": "bar",
+    "food": [
+      "pub",
+      "wings",
+      "burgers",
+      "tacos",
+      "steak"
+    ],
+    "tags": [
+      "Late-night happy hour",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Canadian or Coors Light bottles",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail (1 oz)",
+            "price": 5.5
+          },
+          {
+            "kind": "drink",
+            "item": "Kawartha draft",
+            "price": 6.5
+          },
+          {
+            "kind": "drink",
+            "item": "20 oz draft (3 Speed, Canadian, Coors Light)",
+            "price": 6.95
+          },
+          {
+            "kind": "drink",
+            "item": "house wine (6 oz)",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas or Aperol spritzes",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "espresso martinis",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "perogies (5)",
+            "price": 5.5
+          },
+          {
+            "kind": "food",
+            "item": "fish taco",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "chicken dumplings (5)",
+            "price": 7.5
+          },
+          {
+            "kind": "food",
+            "item": "mini nachos, truffle fries or quesadilla",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "beef sliders (2)",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "20% off starters and shareables"
+          }
+        ],
+        "note": "Restrictions apply on game and event days."
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "start": 1260,
+        "end": 1500,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Canadian or Coors Light bottles",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail (1 oz)",
+            "price": 5.5
+          },
+          {
+            "kind": "drink",
+            "item": "Kawartha draft",
+            "price": 6.5
+          },
+          {
+            "kind": "drink",
+            "item": "20 oz draft (3 Speed, Canadian, Coors Light)",
+            "price": 6.95
+          },
+          {
+            "kind": "drink",
+            "item": "house wine (6 oz)",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas or Aperol spritzes",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "espresso martinis",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "perogies (5)",
+            "price": 5.5
+          },
+          {
+            "kind": "food",
+            "item": "fish taco",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "chicken dumplings (5)",
+            "price": 7.5
+          },
+          {
+            "kind": "food",
+            "item": "mini nachos, truffle fries or quesadilla",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "beef sliders (2)",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "20% off starters and shareables"
+          }
+        ],
+        "note": "9 PM to close. Restrictions apply on game and event days."
+      },
+      {
+        "days": [
+          4,
+          5
+        ],
+        "start": 1260,
+        "end": 1560,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Canadian or Coors Light bottles",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail (1 oz)",
+            "price": 5.5
+          },
+          {
+            "kind": "drink",
+            "item": "Kawartha draft",
+            "price": 6.5
+          },
+          {
+            "kind": "drink",
+            "item": "20 oz draft (3 Speed, Canadian, Coors Light)",
+            "price": 6.95
+          },
+          {
+            "kind": "drink",
+            "item": "house wine (6 oz)",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas or Aperol spritzes",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "espresso martinis",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "perogies (5)",
+            "price": 5.5
+          },
+          {
+            "kind": "food",
+            "item": "fish taco",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "chicken dumplings (5)",
+            "price": 7.5
+          },
+          {
+            "kind": "food",
+            "item": "mini nachos, truffle fries or quesadilla",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "beef sliders (2)",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "20% off starters and shareables"
+          }
+        ],
+        "note": "9 PM to close. Restrictions apply on game and event days."
+      },
+      {
+        "days": [
+          6
+        ],
+        "start": 1320,
+        "end": 1560,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Canadian or Coors Light bottles",
+            "price": 5
+          },
+          {
+            "kind": "drink",
+            "item": "bar rail (1 oz)",
+            "price": 5.5
+          },
+          {
+            "kind": "drink",
+            "item": "Kawartha draft",
+            "price": 6.5
+          },
+          {
+            "kind": "drink",
+            "item": "20 oz draft (3 Speed, Canadian, Coors Light)",
+            "price": 6.95
+          },
+          {
+            "kind": "drink",
+            "item": "house wine (6 oz)",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "margaritas or Aperol spritzes",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "espresso martinis",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "perogies (5)",
+            "price": 5.5
+          },
+          {
+            "kind": "food",
+            "item": "fish taco",
+            "price": 6
+          },
+          {
+            "kind": "food",
+            "item": "chicken dumplings (5)",
+            "price": 7.5
+          },
+          {
+            "kind": "food",
+            "item": "mini nachos, truffle fries or quesadilla",
+            "price": 9
+          },
+          {
+            "kind": "food",
+            "item": "beef sliders (2)",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "20% off starters and shareables"
+          }
+        ],
+        "note": "10 PM to close. Restrictions apply on game and event days."
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Monday specials",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "Half-price wings"
+          },
+          {
+            "kind": "drink",
+            "item": "F&J lager",
+            "price": 6.95
+          }
+        ],
+        "note": "Dine-in only."
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Tuesday specials",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "F&J burger",
+            "price": 16.95
+          },
+          {
+            "kind": "drink",
+            "item": "F&J lager",
+            "price": 6.95
+          },
+          {
+            "kind": "drink",
+            "item": "Half-price wine bottles"
+          }
+        ],
+        "note": "Dine-in only."
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wednesday specials",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "8 oz NY steak",
+            "price": 25
+          },
+          {
+            "kind": "drink",
+            "item": "Half-price wine bottles"
+          },
+          {
+            "kind": "drink",
+            "item": "Great Lakes Octopus IPA",
+            "price": 8.75
+          }
+        ],
+        "note": "Dine-in only."
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Thursday specials",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "tacos (chicken, shrimp or fish)",
+            "price": 13
+          },
+          {
+            "kind": "drink",
+            "item": "lime margaritas",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "tequila shots",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "Corona",
+            "price": 6
+          }
+        ],
+        "note": "Dine-in only."
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Friday specials",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "fish & chips",
+            "price": 19
+          },
+          {
+            "kind": "drink",
+            "item": "espresso martinis",
+            "price": 13
+          },
+          {
+            "kind": "drink",
+            "item": "Creemore",
+            "price": 8.75
+          }
+        ],
+        "note": "Dine-in only."
+      },
+      {
+        "days": [
+          0
+        ],
+        "title": "Sunday specials",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "pot roast dinner",
+            "price": 23
+          },
+          {
+            "kind": "drink",
+            "item": "Caesars or mimosas",
+            "price": 7
+          },
+          {
+            "kind": "food",
+            "item": "pint of F&J lager & 1 lb wings",
+            "price": 16
+          },
+          {
+            "kind": "food",
+            "item": "pitcher of F&J lager & 2 lb wings",
+            "price": 36
+          }
+        ],
+        "note": "Dine-in only."
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Fox and John’s Liberty Village happy hour",
+        "url": "https://www.foxandjohnspub.com/happy-hour-liberty",
+        "date": "2026-04"
+      },
+      {
+        "label": "Fox and John’s Liberty Village specials",
+        "url": "https://www.foxandjohnspub.com/liberty-menu",
+        "date": "2026-08"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.foxandjohnspub.com/liberty-main-menu"
+  },
+  {
+    "placeId": "ChIJ3SpxhwM1K4gRGJucBXQA6yU",
+    "id": "local-public-eatery",
+    "name": "LOCAL Public Eatery",
+    "category": "Pub & grill",
+    "vibe": "bar",
+    "food": [
+      "burgers",
+      "wings",
+      "tacos",
+      "steak",
+      "pub"
+    ],
+    "tags": [
+      "Late-night happy hour",
+      "Shuffleboard",
+      "Patio"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "LPE house lager (0.35 L)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "domestic draft (0.35 L)",
+            "price": 6.5
+          },
+          {
+            "kind": "drink",
+            "item": "espresso mar-tiny (1 oz)",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Start Me Up (2 oz)",
+            "price": 10.25
+          },
+          {
+            "kind": "drink",
+            "item": "Hugo spritz",
+            "price": 11
+          },
+          {
+            "kind": "drink",
+            "item": "Old Smoky (2.5 oz)",
+            "price": 14
+          },
+          {
+            "kind": "drink",
+            "item": "$2 off glasses of wine"
+          },
+          {
+            "kind": "drink",
+            "item": "51% off wine bottles"
+          },
+          {
+            "kind": "drink",
+            "item": "$3 off margaritas and martinis"
+          },
+          {
+            "kind": "food",
+            "item": "chips & salsa",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "chips, dips & crudités",
+            "price": 14
+          },
+          {
+            "kind": "food",
+            "item": "hot wings",
+            "price": 16
+          },
+          {
+            "kind": "food",
+            "item": "fish tacos",
+            "price": 17.75
+          },
+          {
+            "kind": "food",
+            "item": "ahi tuna poké bowl",
+            "price": 19.75
+          },
+          {
+            "kind": "food",
+            "item": "nachos",
+            "price": 24.5
+          },
+          {
+            "kind": "food",
+            "item": "$5 off steaks"
+          }
+        ],
+        "note": "May differ on statutory holidays."
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1500,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "LPE house lager (0.35 L)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "domestic draft (0.35 L)",
+            "price": 6.5
+          },
+          {
+            "kind": "drink",
+            "item": "espresso mar-tiny (1 oz)",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Start Me Up (2 oz)",
+            "price": 10.25
+          },
+          {
+            "kind": "drink",
+            "item": "Hugo spritz",
+            "price": 11
+          },
+          {
+            "kind": "drink",
+            "item": "Old Smoky (2.5 oz)",
+            "price": 14
+          },
+          {
+            "kind": "drink",
+            "item": "$2 off glasses of wine"
+          },
+          {
+            "kind": "drink",
+            "item": "51% off wine bottles"
+          },
+          {
+            "kind": "drink",
+            "item": "$3 off margaritas and martinis"
+          },
+          {
+            "kind": "food",
+            "item": "chips & salsa",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "chips, dips & crudités",
+            "price": 14
+          },
+          {
+            "kind": "food",
+            "item": "hot wings",
+            "price": 16
+          },
+          {
+            "kind": "food",
+            "item": "fish tacos",
+            "price": 17.75
+          },
+          {
+            "kind": "food",
+            "item": "ahi tuna poké bowl",
+            "price": 19.75
+          },
+          {
+            "kind": "food",
+            "item": "nachos",
+            "price": 24.5
+          },
+          {
+            "kind": "food",
+            "item": "$5 off steaks"
+          }
+        ],
+        "note": "9 PM to close. LOCAL’s weekly schedule starts Thursday’s at 10 PM. May differ on statutory holidays."
+      },
+      {
+        "days": [
+          5,
+          6
+        ],
+        "start": 1380,
+        "end": 1560,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "LPE house lager (0.35 L)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "domestic draft (0.35 L)",
+            "price": 6.5
+          },
+          {
+            "kind": "drink",
+            "item": "espresso mar-tiny (1 oz)",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Start Me Up (2 oz)",
+            "price": 10.25
+          },
+          {
+            "kind": "drink",
+            "item": "Hugo spritz",
+            "price": 11
+          },
+          {
+            "kind": "drink",
+            "item": "Old Smoky (2.5 oz)",
+            "price": 14
+          },
+          {
+            "kind": "drink",
+            "item": "$2 off glasses of wine"
+          },
+          {
+            "kind": "drink",
+            "item": "51% off wine bottles"
+          },
+          {
+            "kind": "drink",
+            "item": "$3 off margaritas and martinis"
+          },
+          {
+            "kind": "food",
+            "item": "chips & salsa",
+            "price": 5
+          },
+          {
+            "kind": "food",
+            "item": "chips, dips & crudités",
+            "price": 14
+          },
+          {
+            "kind": "food",
+            "item": "hot wings",
+            "price": 16
+          },
+          {
+            "kind": "food",
+            "item": "fish tacos",
+            "price": 17.75
+          },
+          {
+            "kind": "food",
+            "item": "ahi tuna poké bowl",
+            "price": 19.75
+          },
+          {
+            "kind": "food",
+            "item": "nachos",
+            "price": 24.5
+          },
+          {
+            "kind": "food",
+            "item": "$5 off steaks"
+          }
+        ],
+        "note": "11 PM to close. May differ on statutory holidays."
+      },
+      {
+        "days": [
+          6
+        ],
+        "start": 600,
+        "end": 840,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "LPE house lager (0.35 L)",
+            "price": 6
+          },
+          {
+            "kind": "drink",
+            "item": "domestic draft (0.35 L)",
+            "price": 6.5
+          },
+          {
+            "kind": "drink",
+            "item": "espresso mar-tiny (1 oz)",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "Start Me Up (2 oz)",
+            "price": 10.25
+          },
+          {
+            "kind": "drink",
+            "item": "Hugo spritz",
+            "price": 11
+          },
+          {
+            "kind": "drink",
+            "item": "Old Smoky (2.5 oz)",
+            "price": 14
+          },
+          {
+            "kind": "drink",
+            "item": "$2 off glasses of wine"
+          },
+          {
+            "kind": "drink",
+            "item": "51% off wine bottles"
+          },
+          {
+            "kind": "drink",
+            "item": "$3 off margaritas and martinis"
+          }
+        ],
+        "note": "Drinks only. Listed on the location page, not the menu."
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "LOCAL Liberty Village menu (happy hour)",
+        "url": "https://localpubliceatery.com/neighbourhoods/liberty-village/menu/",
+        "date": "2026-10"
+      },
+      {
+        "label": "LOCAL Liberty Village",
+        "url": "https://localpubliceatery.com/neighbourhoods/liberty-village/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://localpubliceatery.com/neighbourhoods/liberty-village/menu/"
+  },
+  {
+    "placeId": "ChIJFc8Ovjw1K4gRTRm14OeEK3k",
+    "id": "nodo-liberty",
+    "name": "NODO Liberty",
+    "category": "Italian",
+    "vibe": "restaurant",
+    "food": [
+      "pizza",
+      "pasta",
+      "oysters"
+    ],
+    "tags": [
+      "Aperitivo hour",
+      "Big patio",
+      "Weekend brunch"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 840,
+        "end": 1020,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "bottled beer (Moretti, Heineken)",
+            "price": 7
+          },
+          {
+            "kind": "drink",
+            "item": "house wine",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "draft (Heineken, Asahi)",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "Peroni draft",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "mini cocktails (espresso martini, margarita, mojito…)",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "snacks (focaccia, shishitos, smashed potatoes…)",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "pizzettas, meatballs or ricotta crostone",
+            "price": 12
+          }
+        ],
+        "note": "Aperitivo hour. Not on game days, holidays or during special events."
+      }
+    ],
+    "dailySpecials": [
+      {
+        "days": [
+          3
+        ],
+        "title": "Seashells & Vino",
+        "start": 1020,
+        "end": 1260,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "oysters",
+            "price": 2
+          },
+          {
+            "kind": "drink",
+            "item": "Half-price select wine bottles"
+          }
+        ],
+        "note": "5 PM to close."
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "NODO Liberty aperitivo menu",
+        "url": "https://www.nodoliberty.ca/menu?location=Lynn+Williams+Street&menu=aperitivo",
+        "date": "2026-10"
+      },
+      {
+        "label": "NODO Liberty",
+        "url": "https://www.nodoliberty.ca/",
+        "date": "2026-10"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.nodoliberty.ca/menu"
+  },
+  {
+    "placeId": "ChIJBeQ5y5o1K4gRAQpbk72P918",
+    "id": "liberty-soho",
+    "name": "Liberty Soho",
+    "category": "Bar & kitchen",
+    "vibe": "bar",
+    "food": [
+      "wings",
+      "snacks",
+      "burgers"
+    ],
+    "tags": [
+      "Late-night happy hour",
+      "Patio",
+      "Weekend brunch"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 960,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Liberty lager, Ace Hill pilsner or Blanche de Chambly",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "Mill Street Organic or Cottage Springs",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "Stella Artois",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "house wine",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "spritzes",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "chips & guac",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "wings",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "poutine, nachos, sliders or spinach dip",
+            "price": 15
+          }
+        ]
+      },
+      {
+        "days": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "start": 1260,
+        "end": 1440,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Liberty lager, Ace Hill pilsner or Blanche de Chambly",
+            "price": 8
+          },
+          {
+            "kind": "drink",
+            "item": "Mill Street Organic or Cottage Springs",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "Stella Artois",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "house wine",
+            "price": 9
+          },
+          {
+            "kind": "drink",
+            "item": "martinis",
+            "price": 10
+          },
+          {
+            "kind": "drink",
+            "item": "spritzes",
+            "price": 12
+          },
+          {
+            "kind": "food",
+            "item": "chips & guac",
+            "price": 10
+          },
+          {
+            "kind": "food",
+            "item": "wings",
+            "price": 15
+          },
+          {
+            "kind": "food",
+            "item": "poutine, nachos, sliders or spinach dip",
+            "price": 15
+          }
+        ],
+        "note": "9 PM to close."
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Liberty Soho happy hour menu",
+        "url": "https://www.liberty-soho.com/happy-hour",
+        "date": "2025-08"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.liberty-soho.com/menu-1"
+  },
+  {
+    "placeId": "ChIJ7fgNALk1K4gRTr_lqp16OO8",
+    "id": "left-field-brewery",
+    "name": "Left Field Brewery",
+    "category": "Brewery taproom",
+    "vibe": "brewery",
+    "food": [
+      "wings",
+      "burgers",
+      "pub"
+    ],
+    "tags": [
+      "Brewed on site",
+      "Courtyard beer garden",
+      "Pub chess Tuesdays"
+    ],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Half-price wings",
+        "specials": [
+          {
+            "kind": "food",
+            "item": "Half-price wings"
+          }
+        ],
+        "note": "All day. Restrictions apply; ask your server."
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "Left Field Liberty Village events calendar",
+        "url": "https://www.leftfieldbrewery.ca/events/liberty-village-calendar",
+        "date": "2026-08"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.leftfieldbrewery.ca/"
+  },
+  {
+    "placeId": "ChIJKdCyeck1K4gRAhAPprhM8Mw",
+    "id": "kinton-ramen",
+    "name": "KINTON RAMEN Liberty Village",
+    "category": "Ramen",
+    "vibe": "casual",
+    "food": [
+      "asian"
+    ],
+    "tags": [
+      "Ramen"
+    ],
+    "happyHours": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "start": 840,
+        "end": 1080,
+        "specials": [
+          {
+            "kind": "drink",
+            "item": "Sapporo draft (16 oz)",
+            "price": 5.99
+          },
+          {
+            "kind": "food",
+            "item": "20% off select sides (gyoza, karaage, takoyaki…)"
+          },
+          {
+            "kind": "food",
+            "item": "Free Coca-Cola drink with a pork donburi"
+          }
+        ],
+        "note": "Dine-in only. A chain-wide offer at participating KINTON locations."
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "KINTON RAMEN happy hour",
+        "url": "https://kintonramen.com/happy-hour/",
+        "date": "2026-07"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://kintonramen.com/menu/ontario/"
+  },
+  {
+    "placeId": "ChIJ9dTNPwE1K4gR1sDDb4ThZAY",
+    "id": "injapan",
+    "name": "INJapan Japanese Restaurant",
+    "category": "Sushi",
+    "vibe": "casual",
+    "food": [
+      "sushi"
+    ],
+    "tags": [
+      "Lunch bento deals"
+    ],
+    "happyHours": [],
+    "dailySpecials": [
+      {
+        "days": [
+          1
+        ],
+        "title": "Monday lunch bento",
+        "start": 690,
+        "end": 930,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "sushi bento (reg. $16.95)",
+            "price": 14.95
+          }
+        ],
+        "note": "Lunch only, not on holidays."
+      },
+      {
+        "days": [
+          2
+        ],
+        "title": "Tuesday lunch bento",
+        "start": 690,
+        "end": 930,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "salmon teriyaki bento (reg. $16.95)",
+            "price": 14.95
+          }
+        ],
+        "note": "Lunch only, not on holidays."
+      },
+      {
+        "days": [
+          3
+        ],
+        "title": "Wednesday lunch bento",
+        "start": 690,
+        "end": 930,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "bulgogi bento (reg. $16.95)",
+            "price": 14.95
+          }
+        ],
+        "note": "Lunch only, not on holidays."
+      },
+      {
+        "days": [
+          4
+        ],
+        "title": "Thursday lunch bento",
+        "start": 690,
+        "end": 930,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "chicken teriyaki bento (reg. $16.95)",
+            "price": 14.95
+          }
+        ],
+        "note": "Lunch only, not on holidays."
+      },
+      {
+        "days": [
+          5
+        ],
+        "title": "Friday lunch bento",
+        "start": 690,
+        "end": 930,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "sashimi bento (reg. $17.95)",
+            "price": 15.95
+          }
+        ],
+        "note": "Lunch only, not on holidays."
+      },
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "title": "Lunch maki special",
+        "start": 690,
+        "end": 930,
+        "specials": [
+          {
+            "kind": "food",
+            "item": "any 2 maki rolls with miso soup",
+            "price": 13.95
+          }
+        ],
+        "note": "Lunch only, not on holidays."
+      }
+    ],
+    "deals": "venue",
+    "sources": [
+      {
+        "label": "INJapan menu",
+        "url": "https://www.injapan.ca/",
+        "date": "2026"
+      }
+    ],
+    "checked": "2026-10-28",
+    "menuUrl": "https://www.injapan.ca/"
+  }
+]
