@@ -35,14 +35,15 @@ Happy Hr is a web app and a native iPhone app for finding the deals that are on 
 ## How it's built
 
 ```mermaid
-flowchart LR
-  data["Researched data<br/>web/src/data"] --> api
-  logic["Deal logic in TypeScript<br/>web/src/lib"] --> web
+flowchart TB
+  logic["Deal logic in TypeScript<br/>web/src/lib"]
+  logic --> web["Web app<br/>React 19 + Vite"]
   logic -- "npm run shared" --> fixtures["Golden fixtures<br/>shared/fixtures"]
   fixtures -- "swift test" --> core["HappyHRCore<br/>Swift port"]
-  core --> ios
-  web["Web app<br/>React 19 + Vite"] -- "/api" --> api["Cloudflare Pages Functions"]
-  ios["iPhone app<br/>SwiftUI, iOS 26"] -- "/api" --> api
+  core --> ios["iPhone app<br/>SwiftUI, iOS 26"]
+  web -- "/api" --> api["Cloudflare Pages Functions"]
+  ios -- "/api" --> api
+  data["Researched data<br/>web/src/data"] --> api
   api --> db[("Cloudflare D1<br/>community, accounts, usage")]
 ```
 
